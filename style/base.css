@@ -170,6 +170,7 @@ time,mark,audio,video
 	border:0;
 	font-size:100%;
 	vertical-align:baseline;
+	
 }
 
 article,aside,details,figcaption,figure,
@@ -4274,15 +4275,17 @@ ul.template-widget-list
 					position:static;
 				}
 				
-				.template-component-class>ul>li>.template-layout-flex-50x50>div+div.template-component-class-background-1 { background-image:url('../media/image/_sample/1050x770/1.jpg'); }
-				.template-component-class>ul>li>.template-layout-flex-50x50>div+div.template-component-class-background-2 { background-image:url('../media/image/_sample/1050x770/2.jpg'); }
-				.template-component-class>ul>li>.template-layout-flex-50x50>div+div.template-component-class-background-3 { background-image:url('../media/image/_sample/1050x770/3.jpg'); }
-				.template-component-class>ul>li>.template-layout-flex-50x50>div+div.template-component-class-background-4 { background-image:url('../media/image/_sample/1050x770/4.jpg'); }
+				.template-component-class>ul>li>.template-layout-flex-50x50>div+div.template-component-class-background-1 { background-image:url('../media/images/trainings/maker-education-photo-6.jpg'); }
+				.template-component-class>ul>li>.template-layout-flex-50x50>div+div.template-component-class-background-2 { background-image:url('../media/images/trainings/design-thining-photo-4.jpg'); }
+				.template-component-class>ul>li>.template-layout-flex-50x50>div+div.template-component-class-background-3 { background-image:url('../media/images/trainings/instrumental-music-photo-4.jpg'); }
+				.template-component-class>ul>li>.template-layout-flex-50x50>div+div.template-component-class-background-4 { background-image:url('../media/images/trainings/information-technology-photo-1.jpg'); }
+				.template-component-class>ul>li>.template-layout-flex-50x50>div+div.template-component-class-background-5 { background-image:url('../media/images/trainings/acces-programme-photo-4.jpg'); }
+				.template-component-class>ul>li>.template-layout-flex-50x50>div+div.template-component-class-background-6 { background-image:url('../media/images/trainings/studies-of-languages-photo-4.jpg'); }
 
 					.template-component-class>ul>li>.template-layout-flex-50x50>div+div>.template-component-button
 					{
 						right:0px;
-						bottom:0px;
+						bottom:0px;				
 						margin:0px;
 						position:absolute;
 					}
@@ -4820,6 +4823,7 @@ ul.template-widget-list
 		
 	.template-component-google-map
 	{
+		
 		
 	}
 	
@@ -6343,6 +6347,7 @@ ul.template-widget-list
 	html.template-page-maintenance-mode
 	{
 		height:100%;
+		
 	}
 	
 	body.template-page-maintenance-mode
