@@ -1,7 +1,7 @@
 <html>
 
 <head>
-  <title>DreamSpace Academy</title>
+  <title>DreamSpace Academy - Page Not Found</title>
   <meta name="description" content="Community Innovation Center to tackle authentic social and environmental problems using Project Based Learning">
 </head>
 
