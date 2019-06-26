@@ -76,12 +76,12 @@
 								</li>
 								<!-- Communities Menu -->
 								<li class="sf-mega-enable-0">
-									<a href="#"><span class="template-icon-menu template-icon-menu-people"></span>Communities</a>
+									<a href="pages/communities/community-innovation/index.php"><span class="template-icon-menu template-icon-menu-people"></span>Communities</a>
 									<ul>
-										<li><a href="#">Community Innovation</a></li>
+										<li><a href="pages/communities/community-innovation/index.php">Community Innovation</a></li>
 										<li><a href="#">DreamTerrace</a></li>
 										<li><a href="#">Urban Farming</a></li>
-										<li><a href="#">Digital Nomads</a></li>
+										<li><a href="pages/communities/digital-nomads/index.php">Digital Nomads</a></li>
 										<li><a href="#">Smart Mobility</a></li>
 										<li><a href="#">Floss Boats</a></li>
 										<li><a href="#">Underwater Vehicles</a></li>
@@ -131,9 +131,9 @@
 								</li>
 								<!-- Communities Menu -->
 								<li class="sf-mega-enable-0">
-									<a href="#"><span class="template-icon-menu template-icon-menu-people"></span>Communities</a>
+									<a href="pages/communities/community-innovation/index.php"><span class="template-icon-menu template-icon-menu-people"></span>Communities</a>
 									<ul>
-										<li><a href="#">Community Innovation</a></li>
+										<li><a href="pages/communities/community-innovation/index.php">Community Innovation</a></li>
 										<li><a href="#">DreamTerrace</a></li>
 										<li><a href="#">Urban Farming</a></li>
 										<li><a href="#">Digital Nomads</a></li>
