@@ -41,15 +41,16 @@
 			<span>MotionLab</span>
 		</li>
 
-		<li class="template-layout-column-left">
-			<img src="../../media/images/partners-logo/scout.png" style="width:20%;margin: auto;">
-			<div></div>
-			<span>Scout</span>
-		</li>
+		
 		<li class="template-layout-column-left">
 			<img src="../../media/images/partners-logo/un-volunteers-sri-lanka.jpg" style="width:50%; margin: auto;">
 			<div></div>
 			<span>UN Volunteers Sri Lanka</span>
+		</li>
+		<li class="template-layout-column-left">
+			<img src="../../media/images/partners-logo/scout.png" style="width:20%;margin: auto;">
+			<div></div>
+			<span>Scout</span>
 		</li>
 
 	</ul>
