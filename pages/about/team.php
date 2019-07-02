@@ -15,12 +15,12 @@
 					
 					<!-- Left column -->
 					<div class="template-layout-column-left">
-						<h4>Our staff consists of three teachers and one assistant with experience in early childhood care.</h4>
+						<!--<h4>Our staff consists of three teachers and one assistant with experience in early childhood care.</h4>
 					</div>
 					
 					<!-- Right column -->
 					<div class="template-layout-column-right">
-						<p>Praesent arcu gravida vehicula est node maecenas loareet morbi a dosis luctus. Urna eget lacinia eleifend praesent luctus a arcu quis facilisis venenatis. Aenean interdum, nibh vitae sodales, magna ante feugiat elit maecenas.</p>
+						<!--<p>Praesent arcu gravida vehicula est node maecenas loareet morbi a dosis luctus. Urna eget lacinia eleifend praesent luctus a arcu quis facilisis venenatis. Aenean interdum, nibh vitae sodales, magna ante feugiat elit maecenas.</p> -->
 					</div>
 					
 				</div>
@@ -32,15 +32,15 @@
 							<ul class="template-layout-50x50 template-clear-fix">
 								<li class="template-layout-column-left">
 									<div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-										<a href="../../media/image/_sample/525x560/11.jpg" data-fancybox-group="team-2">
-											<img src="../../media/image/_sample/525x560/11.jpg" alt="" />
+										<a href="../../media/images/about/organisation/kishoth-cofunder-dreamspace.png" data-fancybox-group="team-2">
+											<img src="../../media/images/about/organisation/kishoth-cofunder-dreamspace.png" alt="kishoth-cofunder-dreamspace" />
 											<span><span><span></span></span></span>
 										</a>
 										<div>
-											<h6>Ruth Richie</h6>
-											<span>Teacher</span>
+											<h6>Kishoth Navaretnarajah</h6>
+											<span>Co-founder & Director, DreamSpace</span>
 										</div>
-										<p><b>Ruth Richie</b> Teacher</p>
+										<p><b>Kishoth Navaretnarajah</b> Co-founder & Director, DreamSpace</p>
 									</div>					
 								</li>
 								<li class="template-layout-column-right">
@@ -48,9 +48,7 @@
 									<p class="template-component-team-description">I have just finished my studies in Early Childhood Education, and I am also the kid’s yoga teacher here at Fable. I enjoy cooking, swimming and bike riding in my free time.</p>
 									<div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
 										<ul>
-											<li><a href="#" class="template-component-social-icon-forrst"></a></li>
-											<li><a href="#" class="template-component-social-icon-foursquare"></a></li>
-											<li><a href="#" class="template-component-social-icon-friendfeed"></a></li>
+											<li><a href="https://www.linkedin.com/in/kishoth-navaretnarajah-342b4311a/" class="template-component-social-icon-linkedin"></a></li>
 										</ul>
 									</div>					
 								</li>
@@ -60,15 +58,15 @@
 							<ul class="template-layout-50x50 template-clear-fix">
 								<li class="template-layout-column-left">
 									<div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-										<a href="../../media/image/_sample/525x560/2.jpg" data-fancybox-group="team-2">
-											<img src="../../media/image/_sample/525x560/2.jpg" alt="" />
+										<a href="../../media/images/about/organisation/aravinth-cofunder-dreamspace.png" data-fancybox-group="team-2">
+											<img src="../../media/images/about/organisation/aravinth-cofunder-dreamspace.png" alt="aravinth-cofunder-dreamspace" />
 											<span><span><span></span></span></span>
 										</a>
 										<div>
-											<h6>Katie Willmore</h6>
-											<span>Assistant Teacher</span>
+											<h6>Aravinth Panch</h6>
+											<span>Co-founder & Director of Innovation, DreamSpace</span>
 										</div>
-										<p><b>Katie Willmore</b> Assistant Teacher</p>
+										<p><b>Aravinth Panch</b> Co-founder & Director of Innovation, DreamSpace</p>
 									</div>					
 								</li>
 								<li class="template-layout-column-right">
@@ -76,9 +74,8 @@
 									<p class="template-component-team-description">My name is Katie. I grew up and studied in Canada. This is my second year at Fable and love every minute of it, making the children’s learning experience fun.</p>
 									<div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
 										<ul>
-											<li><a href="#" class="template-component-social-icon-googleplus"></a></li>
-											<li><a href="#" class="template-component-social-icon-instagram"></a></li>
-											<li><a href="#" class="template-component-social-icon-linkedin"></a></li>
+											
+											<li><a href="https://www.linkedin.com/in/aravinthpanch/" class="template-component-social-icon-linkedin"></a></li>
 										</ul>
 									</div>						
 								</li>
@@ -88,15 +85,15 @@
 							<ul class="template-layout-50x50 template-clear-fix">
 								<li class="template-layout-column-left">
 									<div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-										<a href="../../media/image/_sample/525x560/11.jpg" data-fancybox-group="team-2">
-											<img src="../../media/image/_sample/525x560/11.jpg" alt="" />
+										<a href="../../media/images/about/organisation/maite-growth-strategist-dreamspace.png" data-fancybox-group="team-2">
+											<img src="../../media/images/about/organisation/maite-growth-strategist-dreamspace.png" alt="maite-growth-strategist-dreamspace" />
 											<span><span><span></span></span></span>
-										</a>
+										</a>   
 										<div>
-											<h6>Ruth Richie</h6>
-											<span>Teacher</span>
+											<h6>Maite Hernandez Zubeldia</h6>
+											<span>Growth Strategist of DreamSpace and Design Thinking</span>
 										</div>
-										<p><b>Ruth Richie</b> Teacher</p>
+										<p><b>Maite Hernandez Zubeldia</b> Growth Strategist of DreamSpace and Design Thinking</p>
 									</div>					
 								</li>
 								<li class="template-layout-column-right">
@@ -104,9 +101,7 @@
 									<p class="template-component-team-description">I have just finished my studies in Early Childhood Education, and I am also the kid’s yoga teacher here at Fable. I enjoy cooking, swimming and bike riding in my free time.</p>
 									<div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
 										<ul>
-											<li><a href="#" class="template-component-social-icon-forrst"></a></li>
-											<li><a href="#" class="template-component-social-icon-foursquare"></a></li>
-											<li><a href="#" class="template-component-social-icon-friendfeed"></a></li>
+											<li><a href="https://www.linkedin.com/in/maitezubeldia/" class="template-component-social-icon-linkedin"></a></li>
 										</ul>
 									</div>					
 								</li>
@@ -116,15 +111,15 @@
 							<ul class="template-layout-50x50 template-clear-fix">
 								<li class="template-layout-column-left">
 									<div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-										<a href="../../media/image/_sample/525x560/2.jpg" data-fancybox-group="team-2">
-											<img src="../../media/image/_sample/525x560/2.jpg" alt="" />
+										<a href="../../media/images/about/organisation/thanoochkumar-head-of-administration-dreamspace.png" data-fancybox-group="team-2">
+											<img src="../../media/images/about/organisation/thanoochkumar-head-of-administration-dreamspace.png" alt="thanoochkumar-head-of-administration-dreamspace" />
 											<span><span><span></span></span></span>
 										</a>
 										<div>
-											<h6>Katie Willmore</h6>
-											<span>Assistant Teacher</span>
+											<h6>Thanoochkumar Thayaleswararajah</h6>
+											<span>Head of Administration, DreamSpace</span>
 										</div>
-										<p><b>Katie Willmore</b> Assistant Teacher</p>
+										<p><b>Thanoochkumar Thayaleswararajah</b> Head of Administration, DreamSpace</p>
 									</div>					
 								</li>
 								<li class="template-layout-column-right">
@@ -132,9 +127,8 @@
 									<p class="template-component-team-description">My name is Katie. I grew up and studied in Canada. This is my second year at Fable and love every minute of it, making the children’s learning experience fun.</p>
 									<div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
 										<ul>
-											<li><a href="#" class="template-component-social-icon-googleplus"></a></li>
-											<li><a href="#" class="template-component-social-icon-instagram"></a></li>
-											<li><a href="#" class="template-component-social-icon-linkedin"></a></li>
+											
+											<li><a href="https://www.linkedin.com/in/thanooch-kumar-689730184/" class="template-component-social-icon-linkedin"></a></li>
 										</ul>
 									</div>						
 								</li>
@@ -144,15 +138,15 @@
 							<ul class="template-layout-50x50 template-clear-fix">
 								<li class="template-layout-column-left">
 									<div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-										<a href="../../media/image/_sample/525x560/12.jpg" data-fancybox-group="team-2">
-											<img src="../../media/image/_sample/525x560/12.jpg" alt="" />
+										<a href="../../media/images/about/organisation/prasath-human-relations-dreamspace.png" data-fancybox-group="team-2">
+											<img src="../../media/images/about/organisation/prasath-human-relations-dreamspace.png" alt="prasath-human-relations-dreamspace" />
 											<span><span><span></span></span></span>
 										</a>
 										<div>
-											<h6>Angelica Watson</h6>
-											<span>Lead Teacher</span>
+											<h6>Prasath  Thevapalan</h6>
+											<span>Human Relations, DreamSpace</span>
 										</div>
-										<p><b>Angelica Watson</b> Lead Teacher</p>
+										<p><b>Prasath  Thevapalan</b> Human Relations, DreamSpace</p>
 									</div>					
 								</li>
 								<li class="template-layout-column-right">
@@ -160,9 +154,7 @@
 									<p class="template-component-team-description">I hold a degree in Early Childhood Education and an advanced English language certificate. I have been working as a kindergarten teacher since 2002.</p>
 									<div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
 										<ul>
-											<li><a href="#" class="template-component-social-icon-mail"></a></li>
-											<li><a href="#" class="template-component-social-icon-myspace"></a></li>
-											<li><a href="#" class="template-component-social-icon-picasa"></a></li>
+											<li><a href="https://www.linkedin.com/in/" class="template-component-social-icon-linkedin"></a></li>
 										</ul>
 									</div>						
 								</li>
@@ -172,15 +164,15 @@
 							<ul class="template-layout-50x50 template-clear-fix">
 								<li class="template-layout-column-left">
 									<div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-										<a href="../../media/image/_sample/525x560/13.jpg" data-fancybox-group="team-2">
-											<img src="../../media/image/_sample/525x560/13.jpg" alt="" />
+										<a href="../../media/images/about/organisation/thanushkar-teacher-dreamspace.png" data-fancybox-group="team-2">
+											<img src="../../media/images/about/organisation/thanushkar-teacher-dreamspace.png" alt="thanushkar-teacher-dreamspace" />
 											<span><span><span></span></span></span>
 										</a>
 										<div>
-											<h6>Angela Lynn</h6>
+											<h6>Thanushkar Srikaran</h6>
 											<span>Teacher</span>
 										</div>
-										<p><b>Angela Lynn</b> Teacher</p>
+										<p><b>Thanushkar Srikaran</b> Teacher</p>
 									</div>					
 								</li>
 								<li class="template-layout-column-right">
@@ -188,9 +180,7 @@
 									<p class="template-component-team-description">I have completed a Graduate Diploma in Early Childhood Teaching. I have worked with children aged from six weeks to eight years. This is my second year at Fable.</p>
 									<div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
 										<ul>
-											<li><a href="#" class="template-component-social-icon-pinterest"></a></li>
-											<li><a href="#" class="template-component-social-icon-reddit"></a></li>
-											<li><a href="#" class="template-component-social-icon-rss"></a></li>
+											<li><a href="https://www.linkedin.com/in/thanushkar-srikaran-203285178" class="template-component-social-icon-linkedin"></a></li>
 										</ul>
 									</div>						
 								</li>
