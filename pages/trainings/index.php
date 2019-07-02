@@ -2,23 +2,23 @@
 		<!-- Content -->
 		<div class="template-content">
 
-			<section id="maker-education">
-				<?php include('maker-education.php'); ?> 
+			<section id="maker-education" >
+				<?php include('maker-education.php'); ?>		
 			</section>
 			
-			<section id="design-thinking">
-				<?php include('design-thinking.php'); ?> 
+			<section id="design-thinking" >
+					<?php include('design-thinking.php'); ?> 
 			</section>
 			
-			<section id="instrumental-music">
+			<section id="instrumental-music" >
 				<?php include('instrumental-music.php'); ?> 
 			</section>
 			
-			<section id="information-technology">
+			<section id="information-technology" >
 				<?php include('information-technology.php'); ?> 
 			</section>
 			
-			<section id="access-programme">
+			<section id="access-programme" >
 				<?php include('access-programme.php'); ?> 
 			</section>
 			

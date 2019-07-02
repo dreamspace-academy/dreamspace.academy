@@ -1,5 +1,8 @@
+<div class="template-component-header-subheader">
+					<h2>&nbsp;</h2>		
+</div>
 <!-- Section -->
-			<div class="template-content-section template-padding-top-reset template-padding-bottom-5 template-main">
+			<div class="template-content-section template-padding-top-reset template-padding-bottom-5 template-main" >
 
 				<!-- Layout 50x50 -->
 				<div class="template-layout-50x50 template-clear-fix">
@@ -26,7 +29,7 @@
 					<div class="template-layout-column-right">
 
 						<!-- Header -->
-						<h4>Design Thinking</h4>
+						<h4 >Design Thinking</h4>
 
 						<p>Morbi congue nunc sed congue vehicula phasellus erat ligula sedis fringilla sed congue id fermentum at neque nam posuere.</p>
 

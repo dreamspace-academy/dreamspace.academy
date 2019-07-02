@@ -1,3 +1,4 @@
+<h1> &nbsp; </h1>
 <!-- Section -->
 			<div class="template-content-section template-padding-top-reset template-padding-bottom-5 template-main">
 
@@ -9,7 +10,7 @@
 					<div class="template-layout-column-left">
 
 						<!-- Header -->
-						<h4>Instrumental music</h4>
+						<h4 id="instrumental-music">Instrumental music</h4>
 
 						<p>Morbi congue nunc sed congue vehicula phasellus erat ligula sedis fringilla sed congue id fermentum at neque nam posuere.</p>
 
