@@ -30,15 +30,15 @@
 						<!-- Header -->
 						<h4 id="studies-of-languages">Studies of Languages</h4>
 
-						<p>Morbi congue nunc sed congue vehicula phasellus erat ligula sedis fringilla sed congue id fermentum at neque nam posuere.</p>
+						<p>We are providing so many languages in our community such as English,French and Sinhala Those are based on Activity and Presentation</p>
 
 						<!-- List -->
 						<div class="template-component-list template-component-list-style-1 template-margin-top-3">
 							<ul>
-								<li>Comprehensive reporting on individual achievement</li>
-								<li>Educational field trips and school presentations</li>
-								<li>Individual attention in a small-class setting</li>
-								<li>Positive learning environment for your child</li>											
+								<li>Alphabet</li>
+								<li>Writing </li>
+								<li>Reading and Listening </li>
+								<li>Speaking</li>											
 							</ul>
 						</div>
 

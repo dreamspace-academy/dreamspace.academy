@@ -1,4 +1,6 @@
-<h1> &nbsp; </h1>
+<div class="template-component-header-subheader">
+					<h2>&nbsp;</h2>
+</div>
 <!-- Section -->
 			<div class="template-content-section template-padding-top-reset template-padding-bottom-5 template-main">
 
