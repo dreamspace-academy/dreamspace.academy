@@ -59,7 +59,8 @@
 										<li><a href="pages/about/index.php#organisation">Organisation</a></li>
 										<li><a href="pages/about/index.php#team">Team</a></li>
 										<li><a href="pages/about/index.php#partners">Partners</a></li>
-										<li><a href="pages/about/index.php#achievements">Achievements</a></li>
+										<li><a href="pages/about/index.php#skills">Skills</a></li>
+										
 									</ul>
 								</li>
 								<!-- Trainings Menu -->

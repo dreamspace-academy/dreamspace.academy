@@ -1,5 +1,5 @@
 
-<?php include('header.php'); ?> 
+<?php include('pages/index/header.php'); ?> 
 		<!-- Content -->
 		<div class="template-content">
 
@@ -125,4 +125,4 @@
 
 		</div>
 
-	<?php include('footer.php'); ?> 
+	<?php include('pages/index/footer.php'); ?> 

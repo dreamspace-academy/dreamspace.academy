@@ -14,8 +14,8 @@
 				<?php include('partners.php') ?> 
 			</section>
 		<!-- achievements-section -->
-			<section id="achievements" >
-				<?php include('achievements.php') ?> 
+			<section id="skills" >
+				<?php include('skills.php') ?> 
 			</section>
 		</div>
 <?php include('footer.php') ?>
