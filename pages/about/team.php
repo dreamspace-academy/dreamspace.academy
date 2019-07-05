@@ -3,8 +3,8 @@
 
 				<!-- Header and subheader -->
 				<div class="template-component-header-subheader">
-					<h2>Meet Our Staff</h2>
-					<h6>With education and experience in early childhood care</h6>
+					<h2>Our Team</h2>
+					<h6></h6>
 					<div></div>
 				</div>
 
@@ -69,7 +69,7 @@
 								</li>
 								<li class="template-layout-column-right">
 									<div class="template-component-team-quote"></div>
-									<p class="template-component-team-description">Aravinth is a Community Builder, Embedded System Engineer and New Media Artist, worked on various software, hardware, art & social projects for more than 15 years. He curates communities in the domain of startups, sustainability, education and art in Berlin, Europe & Asia.</p>
+									<p class="template-component-team-description" style="text-align: justify">Aravinth is a Community Builder, Embedded System Engineer and New Media Artist, worked on various software, hardware, art & social projects for more than 15 years. He curates communities in the domain of startups, sustainability, education and art in Berlin, Europe & Asia.</p>
 									<div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
 										<ul>
 
