@@ -5,7 +5,7 @@
 		<!-- Header and subheader -->
 				<div class="template-component-header-subheader">
 					<h2>Organisation</h2>
-					<!--<h6>With education and experience in early childhood care</h6>-->
+					<h6></h6>
 					<div></div>
 				</div>
 
