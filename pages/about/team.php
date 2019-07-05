@@ -36,7 +36,7 @@
 										</a>
 										<div>
 											<h6>Kishoth Navaretnarajah</h6>
-											<span>Co-founder & Director, DreamSpace</span>
+											<span>Co-founder & Director</span>
 										</div>
 										<p><b>Kishoth Navaretnarajah</b> Co-founder & Director, DreamSpace</p>
 									</div>
