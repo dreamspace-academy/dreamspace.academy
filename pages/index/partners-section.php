@@ -12,9 +12,7 @@
 							<li style="float: left; margin-left: 10px; margin-top: 10px; width:90px;">
 								<a target="_blank" href="https://bookbridge.org"><img src="media/images/partners-logo/bookbridge.jpg" alt="DreamSpace Academy <> BookBridge"/></a>
 							</li>
-							<li style="float: left; margin-left: 10px; margin-top: 10px; width:95px;">
-								<a target="_blank" href="https://en.wikipedia.org/wiki/Sri_Lanka_Scout_Association"><img src="media/images/partners-logo/scout.png" alt="DreamSpace Academy <> Sri Lanka Scout Association"/></a>
-							</li>
+							
 							<li style="float: left; margin-left: 10px; margin-top: 10px; width:240px;">
 								<a target="_blank" href="http://unvlk.org/"><img src="media/images/partners-logo/un-volunteers-sri-lanka.jpg" alt="DreamSpace Academy <> UN Volunteers Sri Lanka"/></a>
 							</li>
@@ -26,6 +24,9 @@
 							</li>
 							<li style="float: left; margin-left: 10px; margin-top: 10px; width:102px;">
 								<a target="_blank" href="https://www.peaceinsight.org/conflicts/sri-lanka/peacebuilding-organisations/cpbr/"><img src="media/images/partners-logo/cpbr.jpg" alt="DreamSpace Academy <> Centre for Peacebuilding and Reconciliation"/></a>
+							</li>
+							<li style="float: left; margin-left: 10px; margin-top: 10px; width:95px;">
+								<a target="_blank" href="https://en.wikipedia.org/wiki/Sri_Lanka_Scout_Association"><img src="media/images/partners-logo/scout.png" alt="DreamSpace Academy <> Sri Lanka Scout Association"/></a>
 							</li>
 					</ul>
 				</div>
