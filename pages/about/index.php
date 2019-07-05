@@ -13,9 +13,9 @@
 			<section id="partners" style="margin-bottom: 100px;" >
 				<?php include('partners.php') ?> 
 			</section>
-		<!-- achievements-section -->
+		<!-- achievements-section 
 			<section id="skills" >
-				<?php include('skills.php') ?> 
-			</section>
+				<?php //include('skills.php') ?> 
+			</section>-->
 		</div>
 <?php include('footer.php') ?>

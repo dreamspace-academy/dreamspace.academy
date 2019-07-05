@@ -64,7 +64,7 @@
 										<li><a href="../../about#organisation">Organisation</a></li>
 										<li><a href="../../about#team">Team</a></li>
 										<li><a href="../../about#partners">Partners</a></li>
-										<li><a href="../../about#skills">Skills</a></li>
+										<!--<li><a href="../../about#skills">Skills</a></li>-->
 										
 									</ul>
 								</li>
@@ -120,7 +120,7 @@
 										<li><a href="../../about#organisation">Organisation</a></li>
 										<li><a href="../../about#team">Team</a></li>
 										<li><a href="../../about#partners">Partners</a></li>
-										<li><a href="../../about#skills">Skills</a></li>
+									<!--<li><a href="../../about#skills">Skills</a></li>-->
 									</ul>
 								</li>
 								<!-- Trainings Menu -->
