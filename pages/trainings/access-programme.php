@@ -14,15 +14,15 @@
 						<!-- Header -->
 						<h4 >Access Programme</h4>
 
-						<p>Morbi congue nunc sed congue vehicula phasellus erat ligula sedis fringilla sed congue id fermentum at neque nam posuere.</p>
+						<p>Develop the reading habit,basic of electronics,basic of information technology and mind games such as chess. Those are bring 
+						 so many skills for children</p>
 
 						<!-- List -->
 						<div class="template-component-list template-component-list-style-1 template-margin-top-3">
 							<ul>
-								<li>Comprehensive reporting on individual achievement</li>
-								<li>Educational field trips and school presentations</li>
-								<li>Individual attention in a small-class setting</li>
-								<li>Positive learning environment for your child</li>											
+								<li>Project based learning programme </li>
+								<li>Enhances creative ideas</li>
+								<li>Solution for their problems</li>												
 							</ul>
 						</div>
 
@@ -31,19 +31,19 @@
 							<ul>
 								<li class="template-component-vertical-grid-line-1n">
 									<div>Age Group:</div>
-									<div>12-14 Months Old</div>
+									<div>8-14 Years Old</div>
 								</li>
 								<li class="template-component-vertical-grid-line-2n">
 									<div>Class Size:</div>
-									<div>15 Children</div>
+									<div>20 Children</div>
 								</li>
 								<li class="template-component-vertical-grid-line-1n">
 									<div>Pricing:</div>
-									<div>Full Day, $20</div>
+									<div>4 Months, Rs.7,500.00</div>
 								</li>
 								<li class="template-component-vertical-grid-line-2n">
 									<div>Sessions:</div>
-									<div>Mornings, 8 am - 12 noon<br/>Afternoons, 1 pm - 5 pm</div>
+									<div>28 hrs with facilitator <br/>24 hrs on self-Assessment and Project  </div>
 								</li>
 							</ul>
 						</div>

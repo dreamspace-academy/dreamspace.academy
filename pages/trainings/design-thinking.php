@@ -31,15 +31,16 @@
 						<!-- Header -->
 						<h4 >Design Thinking</h4>
 
-						<p>Morbi congue nunc sed congue vehicula phasellus erat ligula sedis fringilla sed congue id fermentum at neque nam posuere.</p>
+						<p>Design thinking refers to the cognitive, strategic and practical
+						processes by which design concepts are developed by designers and/or design teams. </p>
 
 						<!-- List -->
 						<div class="template-component-list template-component-list-style-1 template-margin-top-3">
 							<ul>
-								<li>Comprehensive reporting on individual achievement</li>
-								<li>Educational field trips and school presentations</li>
-								<li>Individual attention in a small-class setting</li>
-								<li>Positive learning environment for your child</li>											
+								<li>It is a non-linear, iterative process </li>
+								<li>Understand users and problems</li>
+								<li>Make the challenge assumptions</li>
+								<li>Redefine problems and create innovative solutions to prototype and test</li>											
 							</ul>
 						</div>
 
@@ -48,19 +49,19 @@
 							<ul>
 								<li class="template-component-vertical-grid-line-1n">
 									<div>Age Group:</div>
-									<div>12-14 Months Old</div>
+									<div>12+ Years Old</div>
 								</li>
 								<li class="template-component-vertical-grid-line-2n">
 									<div>Class Size:</div>
-									<div>15 Children</div>
+									<div>20 Children</div>
 								</li>
 								<li class="template-component-vertical-grid-line-1n">
 									<div>Pricing:</div>
-									<div>Full Day, $20</div>
+									<div>1 Month,  Rs.5,500.00</div>
 								</li>
 								<li class="template-component-vertical-grid-line-2n">
 									<div>Sessions:</div>
-									<div>Mornings, 8 am - 12 noon<br/>Afternoons, 1 pm - 5 pm</div>
+									<div>28 hrs with facilitator <br/>24 hrs on self-Assessment and Project  </div>
 								</li>
 							</ul>
 						</div>

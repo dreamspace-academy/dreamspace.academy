@@ -14,15 +14,15 @@
 						<!-- Header -->
 						<h4 id="instrumental-music">Instrumental music</h4>
 
-						<p>Morbi congue nunc sed congue vehicula phasellus erat ligula sedis fringilla sed congue id fermentum at neque nam posuere.</p>
+						<p>An instrumental is a musical composition or recording without lyrics, or singing, although it might include 
+						some inarticulate vocals, such as shouted backup vocals in a Big Band setting.</p>
 
 						<!-- List -->
 						<div class="template-component-list template-component-list-style-1 template-margin-top-3">
 							<ul>
-								<li>Comprehensive reporting on individual achievement</li>
-								<li>Educational field trips and school presentations</li>
-								<li>Individual attention in a small-class setting</li>
-								<li>Positive learning environment for your child</li>											
+								<li>Activity based learning method</li>
+								<li>Intensive practices</li>
+																
 							</ul>
 						</div>
 
@@ -31,19 +31,19 @@
 							<ul>
 								<li class="template-component-vertical-grid-line-1n">
 									<div>Age Group:</div>
-									<div>12-14 Months Old</div>
+									<div>12+ Years Old</div>
 								</li>
 								<li class="template-component-vertical-grid-line-2n">
 									<div>Class Size:</div>
-									<div>15 Children</div>
+									<div>20 Children</div>
 								</li>
 								<li class="template-component-vertical-grid-line-1n">
 									<div>Pricing:</div>
-									<div>Full Day, $20</div>
+									<div>6 Months, Rs.12,500.00</div>
 								</li>
 								<li class="template-component-vertical-grid-line-2n">
 									<div>Sessions:</div>
-									<div>Mornings, 8 am - 12 noon<br/>Afternoons, 1 pm - 5 pm</div>
+									<div>64 hrs with facilitators <br/>28 hrs Mentioning</div>
 								</li>
 							</ul>
 						</div>

@@ -4,8 +4,8 @@
 
 				<!-- Header and subheader -->
 				<div class="template-component-header-subheader">
-					<h2>Class Overview</h2>
-					<h6>Our preschool program has four dedicated classes</h6>
+					<h2>Training programs Overview</h2>
+					<h6></h6>
 					<div></div>
 				</div>
 
@@ -18,15 +18,16 @@
 						<!-- Header -->
 						<h4 id="maker-education">Maker Education</h4>
 
-						<p>Morbi congue nunc sed congue vehicula phasellus erat ligula sedis fringilla sed congue id fermentum at neque nam posuere.</p>
+						<p>It is an approach to problem-based and project-based learning that relies upon hands-on, 
+						often collaborative, learning experiences as a method for solving authentic problems. </p>
 
 						<!-- List -->
 						<div class="template-component-list template-component-list-style-1 template-margin-top-3">
 							<ul>
-								<li>Comprehensive reporting on individual achievement</li>
-								<li>Educational field trips and school presentations</li>
-								<li>Individual attention in a small-class setting</li>
-								<li>Positive learning environment for your child</li>											
+								<li>Project based technological innovation programme </li>
+								<li>Enhances critical creative</li>
+								<li>Design thinning practices  </li>
+								<li>Solution for community problems</li>											
 							</ul>
 						</div>
 
@@ -35,19 +36,19 @@
 							<ul>
 								<li class="template-component-vertical-grid-line-1n">
 									<div>Age Group:</div>
-									<div>12-14 Months Old</div>
+									<div>14+ Years Old</div>
 								</li>
 								<li class="template-component-vertical-grid-line-2n">
 									<div>Class Size:</div>
-									<div>15 Children</div>
+									<div>20 Children</div>
 								</li>
 								<li class="template-component-vertical-grid-line-1n">
 									<div>Pricing:</div>
-									<div>Full Day, $20</div>
+									<div>4 Months, Rs.10,500.00</div>
 								</li>
 								<li class="template-component-vertical-grid-line-2n">
 									<div>Sessions:</div>
-									<div>Mornings, 8 am - 12 noon<br/>Afternoons, 1 pm - 5 pm</div>
+									<div>64 hrs with facilitator <br/>24 hrs on self-Assessment and Project  </div>
 								</li>
 							</ul>
 						</div>
