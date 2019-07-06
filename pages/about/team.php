@@ -96,7 +96,7 @@
 								</li>
 								<li class="template-layout-column-right">
 									<div class="template-component-team-quote"></div>
-									<p class="template-component-team-description">I have just finished my studies in Early Childhood Education, and I am also the kid’s yoga teacher here at Fable. I enjoy cooking, swimming and bike riding in my free time.</p>
+									<p class="template-component-team-description" style="text-align: justify">Maites focuses on product strategy and product innovation, with a strong passion for bridging the gap between humanity and technology. Her core experience is in impact-driven tech-entrepreneurship, human-centric design and agile product development (software and hardware).</p>
 									<div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
 										<ul>
 											<li><a href="https://www.linkedin.com/in/maitezubeldia/" class="template-component-social-icon-linkedin"></a></li>
