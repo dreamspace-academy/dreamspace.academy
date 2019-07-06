@@ -18,15 +18,15 @@
 								<div class="template-layout-flex-50x50">
 									<div>
 										<h5>Maker Education</h5>
-										<span>Idea to Prototype</span>
+										<span>Learn how to make innovative ideas into real prototypes consisting of electronics, mechanics, firmware, software...</span>
 										</br></br>
 										<div class="template-layout-flex-50x50">
 											<div>
 												<span>14+</span>
-												<span>Years olds</span>
+												<span>Years old</span>
 											</div>
 											<div>
-												<span>64</span>
+												<span>64+</span>
 												<span>Hours</span>
 											</div>
 										</div>
@@ -42,15 +42,15 @@
 								<div class="template-layout-flex-50x50">
 									<div>
 										<h5>Design Thinking</h5>
-										<span>User Centric Problem Solving</span>
+										<span>Learn how to solve the real world challenges using user-centric problem solving methodologies...</span>
 										</br></br>
 										<div class="template-layout-flex-50x50">
 											<div>
 												<span>18+</span>
-												<span>Years olds</span>
+												<span>Years old</span>
 											</div>
 											<div>
-												<span>60</span>
+												<span>28+</span>
 												<span>Hours</span>
 											</div>
 										</div>
@@ -65,15 +65,15 @@
 								<div class="template-layout-flex-50x50">
 									<div>
 										<h5>Instrumental music</h5>
-										<span>Prototype to Product</span>
+										<span>Learn how to make the rythms become harmonious music through intstruments...</span>
 										</br></br>
 										<div class="template-layout-flex-50x50">
 											<div>
-												<span>10+</span>
-												<span>Years olds</span>
+												<span>12+</span>
+												<span>Years old</span>
 											</div>
 											<div>
-												<span>40</span>
+												<span>64+</span>
 												<span>Hours</span>
 											</div>
 										</div>
@@ -88,14 +88,14 @@
 								<div class="template-layout-flex-50x50">
 									<div>
 										<h5>Information Technology</h5>
-										<span>Prototype to Mass Production</span>
+										<span>Learn how bits and bytes of the digital world influence the planet Earth and beyond...</span>
 										<div class="template-layout-flex-50x50">
 											<div>
 												<span>12+</span>
-												<span>Years olds</span>
+												<span>Years old</span>
 											</div>
 											<div>
-												<span>60</span>
+												<span>64+</span>
 												<span>Hours</span>
 											</div>
 										</div>
@@ -110,15 +110,15 @@
 								<div class="template-layout-flex-50x50">
 									<div>
 										<h5>Access Programme</h5>
-										<span>Prototype to Product</span>
+										<span>Learn how soft skills at early age define the character and career in the future...</span>
 										</br></br>
 										<div class="template-layout-flex-50x50">
 											<div>
-												<span>8+</span>
-												<span>Years olds</span>
+												<span>8 to 14</span>
+												<span>Years old</span>
 											</div>
 											<div>
-												<span>40</span>
+												<span>28+</span>
 												<span>Hours</span>
 											</div>
 										</div>
@@ -133,14 +133,14 @@
 								<div class="template-layout-flex-50x50">
 									<div>
 										<h5>Studies of Languages </h5>
-										<span>Prototype to Mass Production</span>
+										<span>Learn how to speak languages with confidence that opens the doorway to the world...</span>
 										<div class="template-layout-flex-50x50">
 											<div>
-												<span>12+</span>
-												<span>Years olds</span>
+												<span>14+</span>
+												<span>Years old</span>
 											</div>
 											<div>
-												<span>60</span>
+												<span>64+</span>
 												<span>Hours</span>
 											</div>
 										</div>
