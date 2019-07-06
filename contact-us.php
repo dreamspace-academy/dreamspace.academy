@@ -1,10 +1,10 @@
 
-<?php include('pages/index/header.php'); ?> 
+<?php include('pages/index/header.php'); ?>
 		<!-- Content -->
 		<div class="template-content">
 
 			<!-- Main -->
-			<div class="template-content-section template-main">
+			<div class="template-content-section template-main" style="padding-top: 0px">
 
 				<!-- Header and subheader -->
 				<div class="template-component-header-subheader">
@@ -114,10 +114,10 @@
 
 			</div>
 			<?php
-			
+
 			if(isset($_POST['contact-form-submit']))
 			{
-				
+
 				$to      = 'battikaran;@gmail.com';
 				$subject = $_POST['contact-form-subject'];
 				$message = $_POST['contact-form-message'];
@@ -127,25 +127,25 @@
 
 				mail($to, $subject, $message, $headers);
 
-				
-				
-			
+
+
+
 			}
-			
-		   
-			
+
+
+
 
 			?>
 
 			<div class="template-content-section template-padding-top-reset template-padding-bottom-reset">
 
 				<!-- Google map -->
-			
-				
+
+
 				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3953.6915723382!2d81.70887991427057!3d7.716204910290341!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3afacd9e33341515%3A0xa716d85248eadbf9!2sDreamSpace+Academy!5e0!3m2!1sen!2slk!4v1559904172390!5m2!1sen!2slk" width="100%" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 			</div>
 
 		</div>
 
-	<?php include('pages/index/footer.php'); ?> 
+	<?php include('pages/index/footer.php'); ?>
