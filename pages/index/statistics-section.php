@@ -31,7 +31,7 @@
 										<span class="template-component-counter-box-counter-character"></span>
 										<span class="template-component-counter-box-counter-value">2</span>
 									</span>
-									<h5>Number of <b>Communities</b> </br> actively growing ...</h5>
+									<h5>Number of <b>Communities</b> </br> currently active ...</h5>
 									<p></p>
 									<span class="template-component-counter-box-timeline template-state-hidden">
 										<span></span>

@@ -51,7 +51,7 @@
 								</li>
 								<li class="template-component-vertical-grid-line-2n">
 									<div>Class Size:</div>
-									<div>20 Children</div>
+									<div>20 Participants</div>
 								</li>
 								<li class="template-component-vertical-grid-line-1n">
 									<div>Pricing:</div>

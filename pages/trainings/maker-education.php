@@ -4,7 +4,7 @@
 
 				<!-- Header and subheader -->
 				<div class="template-component-header-subheader">
-					<h2>Training programs Overview</h2>
+					<h2>Our Trainings</h2>
 					<h6></h6>
 					<div></div>
 				</div>
@@ -18,7 +18,7 @@
 						<!-- Header -->
 						<h4 id="maker-education">Maker Education</h4>
 
-						<p>It is an approach to problem-based and project-based learning that relies upon hands-on, 
+						<p>It is an approach to problem-based and project-based learning that relies upon hands-on,
 						often collaborative, learning experiences as a method for solving authentic problems. </p>
 
 						<!-- List -->
@@ -27,7 +27,7 @@
 								<li>Project based technological innovation programme </li>
 								<li>Enhances critical creative</li>
 								<li>Design thinning practices  </li>
-								<li>Solution for community problems</li>											
+								<li>Solution for community problems</li>
 							</ul>
 						</div>
 
@@ -40,7 +40,7 @@
 								</li>
 								<li class="template-component-vertical-grid-line-2n">
 									<div>Class Size:</div>
-									<div>20 Children</div>
+									<div>20 Participants</div>
 								</li>
 								<li class="template-component-vertical-grid-line-1n">
 									<div>Pricing:</div>
@@ -57,23 +57,21 @@
 
 					<!-- Right column -->
 					<div class="template-layout-column-right">
-						
+
 						<!-- Nivo slider -->
 						<div class="template-component-nivo-slider template-component-nivo-slider-style-1 template-preloader">
 							<div>
-							
-								
+
+
 								<img src="../../media/images/trainings/maker-education-photo-1.jpg" data-thumb="../../media/images/trainings/maker-education-photo-1.jpg" alt="maker-education-dreamspace-batticaloa"/>
 								<img src="../../media/images/trainings/maker-education-photo-2.jpg" data-thumb="../../media/images/trainings/maker-education-photo-2.jpg" alt="maker-education-dreamspace-batticaloa"/>
 								<img src="../../media/images/trainings/maker-education-photo-4.jpg" data-thumb="../../media/images/trainings/maker-education-photo-4.jpg" alt="maker-education-dreamspace-batticaloa"/>
-								
+
 							</div>
 						</div>
-						
+
 					</div>
 
 				</div>
 
 			</div>
-			
-			

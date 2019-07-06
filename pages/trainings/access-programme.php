@@ -15,7 +15,7 @@
 						<h4 >Access Programme</h4>
 
 						<p>Develop the reading habit,basic of electronics,basic of information technology and mind games such as chess. Those are bring 
-						 so many skills for children</p>
+						 so many skills for Participants</p>
 
 						<!-- List -->
 						<div class="template-component-list template-component-list-style-1 template-margin-top-3">
@@ -35,7 +35,7 @@
 								</li>
 								<li class="template-component-vertical-grid-line-2n">
 									<div>Class Size:</div>
-									<div>20 Children</div>
+									<div>20 Participants</div>
 								</li>
 								<li class="template-component-vertical-grid-line-1n">
 									<div>Pricing:</div>

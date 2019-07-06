@@ -4,7 +4,7 @@
 
 				<!-- Header and subheader -->
 				<div class="template-component-header-subheader">
-					<h2>Our partners</h2>
+					<h2>Our Partners</h2>
 					<h6></h6>
 					<div></div>
 				</div>
