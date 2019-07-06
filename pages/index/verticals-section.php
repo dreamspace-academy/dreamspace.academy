@@ -5,9 +5,11 @@
 
 					<!-- Header and subheader -->
 					<div class="template-component-header-subheader">
-						<h3><b>DreamSpace Academy</b> is a Community Innovation Center to tackle authentic socio-economic and environmental challenges using Project Based Learning (PBL).</h3>
-						<h3>Our mission is to empower creative minds through Maker Education, to create innovative solutions using Open Innovation, and ultimately leading them to become successful social entrepreneurs.</h3>
-						<div></div>
+						<h3>
+							<b style="color: #56509F">DreamSpace Academy</b> is a <b>Community Innovation Center</b> to tackle authentic socio-economic and environmental challenges using <b style="color: #56509F">Project Based Learning (PBL)</b>.
+						</br>
+						</br>
+							<b style="color: #56509F">Our mission</b> is to empower creative minds through <b>Maker Education</b>, to create innovative solutions using <b style="color: #56509F">Open Innovation</b>, and ultimately leading them to become successful <b>Social Entrepreneurs</b>.</h3>
 					</div>
 
 					<!-- Feature -->
