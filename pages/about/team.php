@@ -89,9 +89,9 @@
 										</a>
 										<div>
 											<h6>Maite Hernandez Zubeldia</h6>
-											<span>Growth Strategist of DreamSpace and Design Thinking</span>
+											<span>Growth Strategist & Design Thinking Trainer</span>
 										</div>
-										<p><b>Maite Hernandez Zubeldia</b> Growth Strategist of DreamSpace and Design Thinking</p>
+										<p><b>Maite Hernandez Zubeldia</b> Growth Strategist & Design Thinking Trainer</p>
 									</div>
 								</li>
 								<li class="template-layout-column-right">
@@ -194,9 +194,9 @@
 										</a>
 										<div>
 											<h6>Viththiyakaran Nadarajah</h6>
-											<span>Web Developer</span>
+											<span>Software Developer & IT Trainer</span>
 										</div>
-										<p><b>Viththiyakaran Nadarajah</b> Web Developer</p>
+										<p><b>Viththiyakaran Nadarajah</b> Software Developer & IT Trainer</p>
 									</div>
 								</li>
 								<li class="template-layout-column-right">
@@ -220,9 +220,9 @@
 										</a>
 										<div>
 											<h6>Thanushkar Srikaran</h6>
-											<span>Maker Education Teacher</span>
+											<span>Innovator & Maker Education Trainer</span>
 										</div>
-										<p><b>Thanushkar Srikaran</b> Maker Education Teacher</p>
+										<p><b>Thanushkar Srikaran</b> Innovator & Maker Education Trainer</p>
 									</div>
 								</li>
 								<li class="template-layout-column-right">
@@ -236,7 +236,7 @@
 								</li>
 							</ul>
 						</li>
-						
+
 					</ul>
 				</div>
 

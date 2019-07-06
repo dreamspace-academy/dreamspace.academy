@@ -1,14 +1,14 @@
 			<!-- Section -->
 			<div class="template-content-section template-padding-bottom-reset template-main template-clear-fix">
-				
-				
+
+
 				<!-- Header and subheader -->
 				<div class="template-component-header-subheader">
-					<h2>Meet our partners</h2>
-					<h6>With education and experience in early childhood care</h6>
+					<h2>Our partners</h2>
+					<h6></h6>
 					<div></div>
 				</div>
-				
+
 				<!-- Section -->
 				<div data-id="section-1">
 <!-- Twitter user timeline -->
@@ -17,7 +17,7 @@
 	<ul class="template-layout-100">
 
 		<li class="template-layout-column-left">
-			
+
 			<img src="../../media/images/partners-logo/sylc.jpg" style="width:50%;margin: auto;">
 			<div></div>
 			<span>SYLC</span>
@@ -41,7 +41,7 @@
 			<span>MotionLab</span>
 		</li>
 
-		
+
 		<li class="template-layout-column-left">
 			<img src="../../media/images/partners-logo/un-volunteers-sri-lanka.jpg" style="width:50%; margin: auto;">
 			<div></div>
@@ -54,12 +54,12 @@
 		</li>
 
 	</ul>
-	
+
 	<div class="template-pagination template-pagination-style-1"></div>
-	
+
 </div>
 				</div>
-				
-				
-				
+
+
+
 			</div>
