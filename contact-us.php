@@ -38,7 +38,7 @@
 							<h5>Contact</h5>
 							<p>
 								Phone: +94 (0) 65 222 6525<br/>
-								Email: <a href="mailto:office@fable.com">info@dreamspace.academy</a>
+								Email: <a href="mailto:info@dreamspace.academy">info@dreamspace.academy</a>
 							</p>
 						</li>
 
@@ -59,7 +59,7 @@
 				<!-- Contact form -->
 				<div class="template-component-contact-form">
 
-					<form>
+					<form method="post">
 
 						<!-- Layout 50x50 -->
 						<div class="template-layout-50x50 template-clear-fix">
@@ -70,19 +70,19 @@
 								<!-- Name -->
 								<div class="template-form-line template-state-block">
 									<label for="contact-form-name">Your Name *</label>
-									<input type="text" name="contact-form-name" id="contact-form-name" />
+									<input type="text" name="contact-form-name" id="contact-form-name" required />
 								</div>
 
 								<!-- E-mail -->
 								<div class="template-form-line template-state-block">
 									<label for="contact-form-email">Your E-mail *</label>
-									<input type="text" name="contact-form-email" id="contact-form-email" />
+									<input type="text" name="contact-form-email" id="contact-form-email" required/>
 								</div>
 
 								<!-- Subject -->
 								<div class="template-form-line template-state-block">
 									<label for="contact-form-subject">Subject</label>
-									<input type="text" name="contact-form-subject" id="contact-form-subject" />
+									<input type="text" name="contact-form-subject" id="contact-form-subject" required/>
 								</div>
 
 							</div>
@@ -91,7 +91,7 @@
 							<div class="template-layout-column-right">
 								<div class="template-form-line template-state-block">
 									<label for="contact-form-message">Message *</label>
-									<textarea rows="1" cols="1" name="contact-form-message" id="contact-form-message"></textarea>
+									<textarea rows="1" cols="1" name="contact-form-message" id="contact-form-message" required></textarea>
 								</div>
 							</div>
 
@@ -102,7 +102,7 @@
 							<div class="template-state-block">
 
 								<!-- Submit button -->
-								<input class="template-component-button template-component-button-style-1" type="submit" value="Send message" name="contact-form-submit" id="contact-form-submit"/>
+								<input class="template-component-button template-component-button-style-1" type="submit" value="Send message" name="contact-form-submit" id="contact-form-submit" />
 
 							</div>
 
@@ -113,6 +113,29 @@
 				</div>
 
 			</div>
+			<?php
+			
+			if(isset($_POST['contact-form-submit']))
+			{
+				
+				$to      = 'battikaran;@gmail.com';
+				$subject = $_POST['contact-form-subject'];
+				$message = $_POST['contact-form-message'];
+				$headers = 'From: webmaster@example.com' . "\r\n" .
+					'Reply-To: webmaster@example.com' . "\r\n" .
+					'X-Mailer: PHP/' . phpversion();
+
+				mail($to, $subject, $message, $headers);
+
+				
+				
+			
+			}
+			
+		   
+			
+
+			?>
 
 			<div class="template-content-section template-padding-top-reset template-padding-bottom-reset">
 
