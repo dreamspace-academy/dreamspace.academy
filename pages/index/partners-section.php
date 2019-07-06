@@ -5,6 +5,8 @@
 					<!-- Header and subheader -->
 					<div class="template-component-header-subheader">
 						<h2 style="color: white">Partners</h2>
+						<h6></h6>
+						<div></div>
 					</div>
 
 					<!-- Partners list -->
@@ -33,8 +35,17 @@
 							<li style="float: left; margin-left: 10px; margin-top: 10px; width:90px;">
 								<a target="_blank" href="https://greenbuzzberlin.de/"><img src="media/images/partners-logo/greenbuzz.png" alt="DreamSpace Academy <> GreenBuzz Berlin"/></a>
 							</li>
+							<li style="float: left; margin-left: 10px; margin-top: 10px; width:90px;">
+								<a target="_blank" href="http://openhardware.science/"><img src="media/images/partners-logo/gosh.png" alt="DreamSpace Academy <> Gathering for Open Science Hardware"/></a>
+							</li>
 							<li style="float: left; margin-left: 10px; margin-top: 10px; width:95px;">
 								<a target="_blank" href="https://en.wikipedia.org/wiki/Sri_Lanka_Scout_Association"><img src="media/images/partners-logo/scout.png" alt="DreamSpace Academy <> Sri Lanka Scout Association"/></a>
+							</li>
+							<li style="float: left; margin-left: 10px; margin-top: 10px; width:210px;">
+								<a target="_blank" href="https://www.globalinnovationgathering.org/"><img src="media/images/partners-logo/gig.jpg" alt="DreamSpace Academy <> Global Innovation Gathering"/></a>
+							</li>
+							<li style="float: left; margin-left: 10px; margin-top: 10px; width:390px;">
+								<a target="_blank" href="http://berlin.sciencehackday.org"><img src="media/images/partners-logo/shdb.jpg" alt="DreamSpace Academy <> Science Hack Day Berlin"/></a>
 							</li>
 					</ul>
 				</div>
