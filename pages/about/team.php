@@ -38,7 +38,7 @@
 											<h6>Kishoth Navaretnarajah</h6>
 											<span>Co-founder & Director</span>
 										</div>
-										<p><b>Kishoth Navaretnarajah</b> Co-founder & Director, DreamSpace</p>
+										<p><b>Kishoth Navaretnarajah</b> Co-founder & Director</p>
 									</div>
 								</li>
 								<li class="template-layout-column-right">
@@ -115,9 +115,9 @@
 										</a>
 										<div>
 											<h6>Thanoochkumar Thayaleswararajah</h6>
-											<span>Head of Administration, DreamSpace</span>
+											<span>Head of Administration</span>
 										</div>
-										<p><b>Thanoochkumar Thayaleswararajah</b> Head of Administration, DreamSpace</p>
+										<p><b>Thanoochkumar Thayaleswararajah</b> Head of Administration</p>
 									</div>
 								</li>
 								<li class="template-layout-column-right">
@@ -142,9 +142,9 @@
 										</a>
 										<div>
 											<h6>Prasath  Thevapalan</h6>
-											<span>Human Relations, DreamSpace</span>
+											<span>Human Relations</span>
 										</div>
-										<p><b>Prasath  Thevapalan</b> Human Relations, DreamSpace</p>
+										<p><b>Prasath  Thevapalan</b> Human Relations</p>
 									</div>
 								</li>
 								<li class="template-layout-column-right">
@@ -162,15 +162,67 @@
 							<ul class="template-layout-50x50 template-clear-fix">
 								<li class="template-layout-column-left">
 									<div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+										<a href="../../media/images/about/organisation/nirajala-management-dreamspace.png" data-fancybox-group="team-2">
+											<img src="../../media/images/about/organisation/nirajala-management-dreamspace.png" alt="nirajala-management-dreamspace" />
+											<span><span><span></span></span></span>
+										</a>
+										<div>
+											<h6>Kirishnapillai Niranjalaa</h6>
+											<span>Management Assistant</span>
+										</div>
+										<p><b>Kirishnapillai Niranjalaa</b> Management Assistant</p>
+									</div>
+								</li>
+								<li class="template-layout-column-right">
+									<div class="template-component-team-quote"></div>
+									<p class="template-component-team-description">I have completed a Graduate Diploma in Early Childhood Teaching. I have worked with children aged from six weeks to eight years. This is my second year at Fable.</p>
+									<div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+										<ul>
+											<li><a href="https://www.linkedin.com/in/" class="template-component-social-icon-linkedin"></a></li>
+										</ul>
+									</div>
+								</li>
+							</ul>
+						</li>
+						<li class="template-layout-column-left">
+							<ul class="template-layout-50x50 template-clear-fix">
+								<li class="template-layout-column-left">
+									<div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+										<a href="../../media/images/about/organisation/viththiyakaran-webdesign-dreamspace.png" data-fancybox-group="team-2">
+											<img src="../../media/images/about/organisation/viththiyakaran-webdesign-dreamspace.png" alt="viththiyakaran-webdesign-dreamspace" />
+											<span><span><span></span></span></span>
+										</a>
+										<div>
+											<h6>Viththiyakaran Nadarajah</h6>
+											<span>Web Developer</span>
+										</div>
+										<p><b>Viththiyakaran Nadarajah</b> Web Developer</p>
+									</div>
+								</li>
+								<li class="template-layout-column-right">
+									<div class="template-component-team-quote"></div>
+									<p class="template-component-team-description">I hold a degree in Early Childhood Education and an advanced English language certificate. I have been working as a kindergarten teacher since 2002.</p>
+									<div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+										<ul>
+											<li><a href="https://www.linkedin.com/in/nviththiyakaran" class="template-component-social-icon-linkedin"></a></li>
+										</ul>
+									</div>
+								</li>
+							</ul>
+						</li>
+						<li class="template-layout-column-right">
+							<ul class="template-layout-50x50 template-clear-fix">
+								<li class="template-layout-column-left">
+									<div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
 										<a href="../../media/images/about/organisation/thanushkar-teacher-dreamspace.png" data-fancybox-group="team-2">
 											<img src="../../media/images/about/organisation/thanushkar-teacher-dreamspace.png" alt="thanushkar-teacher-dreamspace" />
 											<span><span><span></span></span></span>
 										</a>
 										<div>
 											<h6>Thanushkar Srikaran</h6>
-											<span>Teacher</span>
+											<span>Maker Education Teacher</span>
 										</div>
-										<p><b>Thanushkar Srikaran</b> Teacher</p>
+										<p><b>Thanushkar Srikaran</b> Maker Education Teacher</p>
 									</div>
 								</li>
 								<li class="template-layout-column-right">
@@ -184,6 +236,7 @@
 								</li>
 							</ul>
 						</li>
+						
 					</ul>
 				</div>
 
