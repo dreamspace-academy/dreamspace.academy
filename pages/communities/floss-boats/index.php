@@ -7,15 +7,15 @@
 			</section>
 		<!-- team-section -->
 			<section id="team">
-				<?php include('team.php') ?> 
+				<?php //include('team.php') ?> 
 			</section>
 		<!-- partners-section -->
 			<section id="partners" style="margin-bottom: 100px;" >
-				<?php include('partners.php') ?> 
+				<?php //include('partners.php') ?> 
 			</section>
 		<!-- achievements-section -->
 			<section id="achievements" >
-				<?php include('achievements.php') ?> 
+				<?php //include('achievements.php') ?> 
 			</section>
 		</div>
 <?php include('footer.php') ?>
