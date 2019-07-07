@@ -29,7 +29,7 @@
 		<link rel="stylesheet" type="text/css" href="../../style/retina.css"/>
 
 		<script type="text/javascript" src="../../script/jquery.min.js"></script>
-		
+
 		<style>
 			html {
 				  scroll-behavior: smooth;
@@ -81,15 +81,12 @@
 								</li>
 								<!-- Communities Menu -->
 								<li class="sf-mega-enable-0">
-									<a href="../communities/community-innovation/index.php"><span class="template-icon-menu template-icon-menu-people"></span>Communities</a>
+									<a href="../communities/index.php"><span class="template-icon-menu template-icon-menu-people"></span>Communities</a>
 									<ul>
-										<li><a href="../communities/community-innovation/index.php">Community Innovation</a></li>
-										<li><a href="../communities/dream-terrace/index.php">DreamTerrace</a></li>
-										<li><a href="../communities/urban-farming/index.php">Urban Farming</a></li>
-										<li><a href="../communities/digital-nomads/index.php">Digital Nomads</a></li>
-										<li><a href="../communities/smart-mobility/index.php">Smart Mobility</a></li>
-										<li><a href="../communities/floss-boats/index.php">Floss Boats</a></li>
-										<li><a href="../communities/underwater-vehiclesindex.php">Underwater Vehicles</a></li>
+										<li><a href="../communities/index.php#community-innovation">Community Innovation</a></li>
+										<li><a href="../communities/index.php#terrace">Terrace</a></li>
+										<li><a href="../communities/index.php#urban-farming">Urban Farming</a></li>
+										<li><a href="../communities/index.php#chess">Chess</a></li>
 									</ul>
 								</li>
 								<!-- Links Menu -->
@@ -136,15 +133,12 @@
 								</li>
 								<!-- Communities Menu -->
 								<li class="sf-mega-enable-0">
-									<a href="../communities/community-innovation/index.php"><span class="template-icon-menu template-icon-menu-people"></span>Communities</a>
+									<a href="../communities/index.php"><span class="template-icon-menu template-icon-menu-people"></span>Communities</a>
 									<ul>
-										<li><a href="../communities/community-innovation/index.php">Community Innovation</a></li>
-										<li><a href="../communities/dream-terrace/index.php">DreamTerrace</a></li>
-										<li><a href="../communities/urban-farming/index.php">Urban Farming</a></li>
-										<li><a href="../communities/digital-nomads/index.php">Digital Nomads</a></li>
-										<li><a href="../communities/smart-mobility/index.php">Smart Mobility</a></li>
-										<li><a href="../communities/floss-boats/index.php">Floss Boats</a></li>
-										<li><a href="../communities/underwater-vehiclesindex.php">Underwater Vehicles</a></li>
+										<li><a href="../communities/index.php#community-innovation">Community Innovation</a></li>
+										<li><a href="../communities/index.php#terrace">Terrace</a></li>
+										<li><a href="../communities/index.php#urban-farming">Urban Farming</a></li>
+										<li><a href="../communities/index.php#chess">Chess</a></li>
 									</ul>
 								</li>
 								<!-- Links Menu -->
@@ -164,7 +158,3 @@
 					</div>
 				</div>
 			</div>
-
-			
-
-	

@@ -1,4 +1,4 @@
-<?php include('header.php') ?>
+<?php include('../master-page/header.php') ?>
 <!-- Content -->
 <div class="template-content">
 	<!-- organisation-section -->
@@ -18,4 +18,4 @@
 				<?php //include('skills.php') ?>
 			</section>-->
 </div>
-<?php include('footer.php') ?>
+<?php include('../master-page/footer.php') ?>
