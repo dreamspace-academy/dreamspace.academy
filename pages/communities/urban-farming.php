@@ -9,49 +9,33 @@
 
 			<!-- Left column -->
 			<div class="template-layout-column-left template-margin-bottom-reset">
-
 				<div class="template-align-center">
-
-					<h3>Dedicated classrooms with <strong>top skilled educators.</strong></h3>
-
+					<h2>Urban Farming</h2>
 					<div class="template-component-divider template-component-divider-style-2"></div>
-
 					<div class="template-component-italic template-margin-top-3">
-						Nulla adiscipling elite forte, nodis est advance pulvinar maecenas est dolor, novum elite lacina.
+						We believe in decentralizing the agriculture by making every urban citizen to produce his/her own food
 					</div>
-
 					<p class="template-margin-top-3">
-						Praesent arcu gravida a vehicula est node maecenas loareet maecenas morbi dosis luctus mode. Urna eget lacinia eleifend molibden dosis et gravida dosis sit amet terminal.
+						Urban agriculture, urban farming, or urban gardening is the practice of cultivating, processing and distributing food in or around urban areas. Urban agriculture can also involve animal husbandry, aquaculture, agroforestry, urban beekeeping,
+						and horticulture.
 					</p>
-
-					<a href="#" class="template-component-button template-component-button-style-1 template-margin-top-3">Learn More <i></i></a>
-
+					<p class="template-margin-top-3">
+						Urban agriculture can reflect varying levels of economic and social development. It may be a social movement for sustainable communities, where organic growers, "foodies," and "locavores" form social networks founded on a shared ethos of
+						nature and community holism. These networks can evolve when receiving formal institutional support, becoming integrated into local town planning as a "transition town" movement for sustainable urban development
+					</p>
 				</div>
-
 			</div>
 
 			<!-- Right column -->
 			<div class="template-layout-column-right template-margin-bottom-reset">
-
-				<!-- Gallery -->
-				<div class="template-component-gallery">
-					<ul class="template-layout-100 template-clear-fix">
-						<li class="template-layout-column-left">
-							<div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-								<a href="../../media/images/about/organisation/organisation-interior-view-3.jpg" data-fancybox-group="gallery-1">
-									<img src="../../media/images/about/organisation/organisation-interior-view-3.jpg" alt="" />
-									<span><span><span></span></span></span>
-								</a>
-								<div>
-									<h6>Outdoor Activity During Recess</h6>
-									<span>Tenderhearts Class</span>
-								</div>
-								<p><b>Outdoor Activity During Recess</b> Tenderhearts Class</p>
-							</div>
-						</li>
-					</ul>
+				<!-- Nivo slider -->
+				<div class="template-component-nivo-slider template-component-nivo-slider-style-1 template-preloader">
+					<div>
+						<img src="../../media/images/communities/urban-farming/dreamspace-harvast-june-2019-kishoth-1.jpg" data-thumb="../../media/images/communities/urban-farming/dreamspace-harvast-june-2019-kishoth-1.jpg" alt="Chess Community" />
+						<img src="../../media/images/communities/urban-farming/dreamspace-harvast-june-2019-kishoth-2.jpg" data-thumb="../../media/images/communities/urban-farming/dreamspace-harvast-june-2019-kishoth-2.jpg" alt="Chess Community" />
+						<img src="../../media/images/communities/urban-farming/dreamspace-harvast-june-2019-kishoth-3.jpg" data-thumb="../../media/images/communities/urban-farming/dreamspace-harvast-june-2019-kishoth-3.jpg" alt="Chess Community" />
+					</div>
 				</div>
-
 			</div>
 
 		</div>
