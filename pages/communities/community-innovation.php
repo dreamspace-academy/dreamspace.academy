@@ -9,49 +9,29 @@
 
 			<!-- Left column -->
 			<div class="template-layout-column-left template-margin-bottom-reset">
-
 				<div class="template-align-center">
-
 					<h2>Community Innovation</h2>
-
 					<div class="template-component-divider template-component-divider-style-2"></div>
-
 					<div class="template-component-italic template-margin-top-3">
-						Nulla adiscipling elite forte, nodis est advance pulvinar maecenas est dolor, novum elite lacina.
+						Make innovative ideas into real prototypes consisting of electronics, mechanics, firmware, software...
 					</div>
-
 					<p class="template-margin-top-3">
-						Praesent arcu gravida a vehicula est node maecenas loareet maecenas morbi dosis luctus mode. Urna eget lacinia eleifend molibden dosis et gravida dosis sit amet terminal.
+						Our mission is to empower creative minds through Maker Education, to create innovative solutions using Open Innovation, and ultimately leading them to become successful Social Entrepreneurs.
 					</p>
-
-					<!-- <a href="#" class="template-component-button template-component-button-style-1 template-margin-top-3">Learn More <i></i></a> -->
-
 				</div>
-
 			</div>
 
 			<!-- Right column -->
 			<div class="template-layout-column-right template-margin-bottom-reset">
-
-				<!-- Gallery -->
-				<div class="template-component-gallery">
-					<ul class="template-layout-100 template-clear-fix">
-						<li class="template-layout-column-left">
-							<div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-								<a href="../../media/images/about/organisation/organisation-interior-view-2.jpg" data-fancybox-group="gallery-1">
-									<img src="../../media/images/about/organisation/organisation-interior-view-2.jpg" alt="" />
-									<span><span><span></span></span></span>
-								</a>
-								<div>
-									<h6>Play Time In Kindergarten</h6>
-									<span>Tenderhearts Class</span>
-								</div>
-								<p><b>Play Time In Kindergarten</b> Tenderhearts Class</p>
-							</div>
-						</li>
-					</ul>
+				<!-- Nivo slider -->
+				<div class="template-component-nivo-slider template-component-nivo-slider-style-1 template-preloader">
+					<div>
+						<img src="../../media/images/communities/community-innovations/dreamspace-community-innovations-1.jpg" data-thumb="../../media/images/communities/community-innovations/dreamspace-community-innovations-1.jpg" alt="Chess Community" />
+						<img src="../../media/images/communities/community-innovations/dreamspace-community-innovations-2.jpg" data-thumb="../../media/images/communities/community-innovations/dreamspace-community-innovations-2.jpg" alt="Chess Community" />
+						<img src="../../media/images/communities/community-innovations/dreamspace-community-innovations-3.jpg" data-thumb="../../media/images/communities/community-innovations/dreamspace-community-innovations-3.jpg" alt="Chess Community" />
+						<img src="../../media/images/communities/community-innovations/dreamspace-community-innovations-4.jpg" data-thumb="../../media/images/communities/community-innovations/dreamspace-community-innovations-4.jpg" alt="Chess Community" />
+					</div>
 				</div>
-
 			</div>
 
 		</div>
