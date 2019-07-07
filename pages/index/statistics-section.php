@@ -20,7 +20,7 @@
 						<span class="template-component-counter-box-counter">
 							<span class="template-component-counter-box-counter-value">138</span>
 						</span>
-						<h5>Number of <b>Members</b> </br> trained so far ...</h5>
+						<h5>Number of <b>Trainees</b> </br> trained so far ...</h5>
 						<p></p>
 						<span class="template-component-counter-box-timeline template-state-hidden">
 							<span></span>
@@ -29,7 +29,7 @@
 					<li class="template-layout-column-right">
 						<span class="template-component-counter-box-counter">
 							<span class="template-component-counter-box-counter-character"></span>
-							<span class="template-component-counter-box-counter-value">2</span>
+							<span class="template-component-counter-box-counter-value">4</span>
 						</span>
 						<h5>Number of <b>Communities</b> </br> currently active ...</h5>
 						<p></p>
