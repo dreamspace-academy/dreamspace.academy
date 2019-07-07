@@ -76,7 +76,7 @@
 										<li><a href="../trainings/index.php#instrumental-music">Instrumental music</a></li>
 										<li><a href="../trainings/index.php#information-technology">Information Technology</a></li>
 										<li><a href="../trainings/index.php#access-programme">Access Programme</a></li>
-										<li><a href="../trainings/index.php#access-programme">Studies of Languages</a></li>
+										<li><a href="../trainings/index.php#studies-of-languages">Studies of Languages</a></li>
 									</ul>
 								</li>
 								<!-- Communities Menu -->
