@@ -29,6 +29,10 @@
 	<link rel="stylesheet" type="text/css" href="style/retina.css" />
 
 	<script type="text/javascript" src="script/jquery.min.js"></script>
+	
+	<link rel="icon" type="image/png" href="media/images/favicon-32x32.png" sizes="32x32" />
+	<link rel="icon" type="image/png" href="media/images/favicon-16x16.png" sizes="16x16" />
+	
 
 </head>
 
