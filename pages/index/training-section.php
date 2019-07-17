@@ -46,7 +46,7 @@
 							</br></br>
 							<div class="template-layout-flex-50x50">
 								<div>
-									<span>18+</span>
+									<span>12+</span>
 									<span>Years old</span>
 								</div>
 								<div>
