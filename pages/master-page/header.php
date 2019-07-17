@@ -116,7 +116,7 @@
 							</li>
 							<!-- Contact Menu -->
 							<li class="sf-mega-enable-1">
-								<a href="contact-us.php"><span class="template-icon-menu template-icon-menu-envelope"></span>Contact</a>
+								<a href="../../contact-us.php"><span class="template-icon-menu template-icon-menu-envelope"></span>Contact</a>
 							</li>
 
 							</ul>
