@@ -151,7 +151,7 @@
 						</li>
 						<li class="template-layout-column-right">
 							<div class="template-component-team-quote"></div>
-							<p class="template-component-team-description" style="text-align: justify">I hold a degree in Early Childhood Education and an advanced English language certificate. I have been working as a kindergarten teacher since 2002.</p>
+							<p class="template-component-team-description" style="text-align: justify">He is enthusiast photographer who is passionate to address community issues through the lenses. As IT professional he is an emerging social media blogger,content writer and the visual story teller </p>
 							<div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
 								<ul>
 									<li><a href="https://www.linkedin.com/in/" class="template-component-social-icon-linkedin"></a></li>
