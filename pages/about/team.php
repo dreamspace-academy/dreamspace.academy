@@ -43,7 +43,7 @@
 						</li>
 						<li class="template-layout-column-right">
 							<div class="template-component-team-quote"></div>
-							<p class="template-component-team-description">I have just finished my studies in Early Childhood Education, and I am also the kid’s yoga teacher here at Fable. I enjoy cooking, swimming and bike riding in my free time.</p>
+							<p class="template-component-team-description">Kishoth is a Social Engineer who creates a mechanism to manage a social change, regulate the future development through Social Innovation. Having the background of peace-building, community development, and research; he drives for a sustainable social impact.</p>
 							<div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
 								<ul>
 									<li><a href="https://www.linkedin.com/in/kishoth-navaretnarajah-342b4311a/" class="template-component-social-icon-linkedin"></a></li>
