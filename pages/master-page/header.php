@@ -70,7 +70,7 @@
 								
 								<!-- About Menu -->
 								<li class="sf-mega-enable-0">
-									<a href=".../about/index.php"><span class="template-icon-menu template-icon-menu-document"></span>About</a>
+									<a href="../about/index.php"><span class="template-icon-menu template-icon-menu-document"></span>About</a>
 										<ul>
 											<li><a href="../about/index.php#organisation">Organisation</a></li>
 											<li><a href="../about/index.php#team">Team</a></li>
