@@ -177,7 +177,7 @@
 						</li>
 						<li class="template-layout-column-right">
 							<div class="template-component-team-quote"></div>
-							<p class="template-component-team-description" style="text-align: justify">I have completed a Graduate Diploma in Early Childhood Teaching. I have worked with children aged from six weeks to eight years. This is my second year at Fable.</p>
+							<p class="template-component-team-description" style="text-align: justify">Niranjala has 20 year experience in Office Management and handling of IT equipment. She has many artistic skills where she translates her skills into Entrepreneurship. She is a super supportive person to empower the co-staff in struggle and challenges..</p>
 							<div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
 								<ul>
 									<li><a href="https://www.linkedin.com/in/" class="template-component-social-icon-linkedin"></a></li>
