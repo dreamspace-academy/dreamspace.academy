@@ -203,7 +203,7 @@
 						</li>
 						<li class="template-layout-column-right">
 							<div class="template-component-team-quote" ></div>
-							<p class="template-component-team-description" style="text-align: justify">I hold a degree in Early Childhood Education and an advanced English language certificate. I have been working as a kindergarten teacher since 2002.</p>
+							<p class="template-component-team-description" style="text-align: justify">Viththiyakaran is an IT enthusiastic and an ethical hacker, specialized in JAVA Programming. He is intended to transform his community through his keyboard. As a growing Social Entrepreneur, he focus now on social problems and to translate into Social Ventures.</p>
 							<div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
 								<ul>
 									<li><a href="https://www.linkedin.com/in/nviththiyakaran" class="template-component-social-icon-linkedin"></a></li>
