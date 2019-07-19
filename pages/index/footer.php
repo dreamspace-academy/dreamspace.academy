@@ -3,6 +3,13 @@
 	<!-- Bottom footer -->
 	<div class="template-footer-bottom">
 		<div class="template-align-center template-main">
+		
+			<div class="template-header-top-logo">
+				<a href="index.php">
+							<center><img src="media/images/dreamspace-logo.png" alt="" /> </center>
+				</a>
+			</div>
+					
 			<div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix template-margin-bottom-2">
 				<ul>
 					<li><a target="_blank" href="https://www.linkedin.com/company/dreamspace-academy" class="template-component-social-icon-linkedin"></a></li>
