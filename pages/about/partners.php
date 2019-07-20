@@ -8,7 +8,7 @@
 		<h6></h6>
 		<div></div>
 	</div>
-
+	
 	<!-- Section -->
 	<div data-id="section-1">
 		<!-- Twitter user timeline -->
