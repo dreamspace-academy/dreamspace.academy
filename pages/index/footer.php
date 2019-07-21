@@ -18,9 +18,9 @@
 				</ul>
 			</div>
 			<div>
-				&copy;&nbsp; 2019 -
+				&copy;&nbsp; <?php date('Y'); ?> -
 				<a href="http://dreamspace.academy"><b>DreamSpace Academy</b></a>.
-				All rights reserved. </br> Created by <a target="_blank" href="http://aravinth.info"><b>Aravinth Panch</b></a>
+				All rights reserved. </br> Created by <a target="_blank" href="http://aravinth.info"><b>Aravinth Panch</b></a> & <a target="_blank" href="https://www.linkedin.com/in/nviththiyakaran/"><b>N.Viththiyakaran</b></a>
 			</div>
 		</div>
 	</div>
