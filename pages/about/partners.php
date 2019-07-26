@@ -23,10 +23,10 @@
 							<span><span><span></span></span></span>
 						</a>
 						<div>
-							<h6>Drawing and Painting Lessons</h6>
-							<span>Tenderhearts Class</span>
+							<h6><a href="https://www.bookbridge.org/">BookBridge</a></h6>
+							
 						</div>
-						<p><b>Drawing and Painting Lessons</b> Tenderhearts Class</p>
+						<p><a href="https://www.bookbridge.org/">BookBridge</a></p>
 					</div>
 				</li>
 				<li class="template-layout-column-center">
@@ -36,10 +36,10 @@
 							<span><span><span></span></span></span>
 						</a>
 						<div>
-							<h6>Outdoor Activity During Recess</h6>
-							<span>Tenderhearts Class</span>
+							<h6><a href="http://unvlk.org/">UN Volunteers</a></h6>
+							
 						</div>
-						<p><b>Outdoor Activity During Recess</b> Tenderhearts Class</p>
+						<p><a href="http://unvlk.org/">UN Volunteers</a></p>
 					</div>			
 				</li>
 				<li class="template-layout-column-right">
@@ -49,10 +49,10 @@
 							<span><span><span></span></span></span>
 						</a>
 						<div>
-							<h6>Columbus Day Celebration</h6>
-							<span>Tenderhearts Class</span>
+							<h6><a href="https://sylcsl.org/">Sagacious Youth Lead Consortium</a></h6>
+							
 						</div>
-						<p><b>Columbus Day Celebration</b> Tenderhearts Class</p>
+						<p><a href="https://sylcsl.org/">Sagacious Youth Lead Consortium</a></p>
 					</div>			
 				</li>
 				
@@ -63,10 +63,10 @@
 							<span><span><span></span></span></span>
 						</a>
 						<div>
-							<h6>Drawing and Painting Lessons</h6>
-							<span>Tenderhearts Class</span>
+							<h6><a href="https://motionlab.berlin/">Motion Lab</a></h6>
+							
 						</div>
-						<p><b>Drawing and Painting Lessons</b> Tenderhearts Class</p>
+						<p><a href="https://motionlab.berlin/">Motion Lab</a></p>
 					</div>
 				</li>
 				<li class="template-layout-column-center">
@@ -76,10 +76,10 @@
 							<span><span><span></span></span></span>
 						</a>
 						<div>
-							<h6>Outdoor Activity During Recess</h6>
-							<span>Tenderhearts Class</span>
+						<h6><a href="https://www.peaceinsight.org/conflicts/sri-lanka/peacebuilding-organisations/cpbr/">CPBR</a></h6>
+
 						</div>
-						<p><b>Outdoor Activity During Recess</b> Tenderhearts Class</p>
+						<p><a href="https://www.peaceinsight.org/conflicts/sri-lanka/peacebuilding-organisations/cpbr/">CPBR</a></p>
 					</div>			
 				</li>
 				<li class="template-layout-column-right">
@@ -89,10 +89,10 @@
 							<span><span><span></span></span></span>
 						</a>
 						<div>
-							<h6>Columbus Day Celebration</h6>
-							<span>Tenderhearts Class</span>
+							<h6><a href="https://troublemaker.site/wp/">Troublemaker</a></h6>
+							
 						</div>
-						<p><b>Columbus Day Celebration</b> Tenderhearts Class</p>
+						<p><a href="https://troublemaker.site/wp/">Troublemaker</a></p>
 					</div>			
 				</li>
 				<li class="template-layout-column-left">
@@ -102,10 +102,10 @@
 							<span><span><span></span></span></span>
 						</a>
 						<div>
-							<h6>Drawing and Painting Lessons</h6>
-							<span>Tenderhearts Class</span>
+							<h6><a href="https://steamhead.space/">Steamhead</a></h6>
+							
 						</div>
-						<p><b>Drawing and Painting Lessons</b> Tenderhearts Class</p>
+						<p><a href="https://steamhead.space/">Steamhead</a></p>
 					</div>
 				</li>
 				<li class="template-layout-column-center">
@@ -115,10 +115,10 @@
 							<span><span><span></span></span></span>
 						</a>
 						<div>
-							<h6>Outdoor Activity During Recess</h6>
-							<span>Tenderhearts Class</span>
+							<h6><a href="https://greenbuzzberlin.de/">Greenbuzz</a></h6>
+							
 						</div>
-						<p><b>Outdoor Activity During Recess</b> Tenderhearts Class</p>
+						<p><a href="https://greenbuzzberlin.de/">Greenbuzz</a></p>
 					</div>			
 				</li>
 				<li class="template-layout-column-right">
@@ -128,10 +128,9 @@
 							<span><span><span></span></span></span>
 						</a>
 						<div>
-							<h6>Columbus Day Celebration</h6>
-							<span>Tenderhearts Class</span>
+							<h6><a href="http://openhardware.science/">GOSH</a></h6>
 						</div>
-						<p><b>Columbus Day Celebration</b> Tenderhearts Class</p>
+						<p><a href="http://openhardware.science/">GOSH</a></p>
 					</div>			
 				</li>
 				<li class="template-layout-column-left">
@@ -141,10 +140,9 @@
 							<span><span><span></span></span></span>
 						</a>
 						<div>
-							<h6>Drawing and Painting Lessons</h6>
-							<span>Tenderhearts Class</span>
+							<h6><a href="https://www.globalinnovationgathering.org/">GIG</a></h6>
 						</div>
-						<p><b>Drawing and Painting Lessons</b> Tenderhearts Class</p>
+						<p><a href="https://www.globalinnovationgathering.org/">GIG</a></p>
 					</div>
 				</li>
 				<li class="template-layout-column-center">
@@ -154,10 +152,10 @@
 							<span><span><span></span></span></span>
 						</a>
 						<div>
-							<h6>Outdoor Activity During Recess</h6>
-							<span>Tenderhearts Class</span>
+							<h6><a href="http://berlin.sciencehackday.org/">Science Hack Day </a></h6>
+							
 						</div>
-						<p><b>Outdoor Activity During Recess</b> Tenderhearts Class</p>
+						<p><a href="http://berlin.sciencehackday.org/">Science Hack Day </a></p>
 					</div>			
 				</li>
 				<li class="template-layout-column-right">
@@ -167,10 +165,9 @@
 							<span><span><span></span></span></span>
 						</a>
 						<div>
-							<h6>Columbus Day Celebration</h6>
-							<span>Tenderhearts Class</span>
+							<h6><a href="https://en.wikipedia.org/wiki/Sri_Lanka_Scout_Association">Scout</a></h6>
 						</div>
-						<p><b>Columbus Day Celebration</b> Tenderhearts Class</p>
+						<p><a href="https://en.wikipedia.org/wiki/Sri_Lanka_Scout_Association">Scout</a></p>
 					</div>			
 				</li>
 			</ul>
