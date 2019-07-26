@@ -124,7 +124,7 @@
 						</li>
 						<li class="template-layout-column-right">
 							<div class="template-component-team-quote"></div>
-							<p class="template-component-team-description" style="text-align: justify">My name is Katie. I grew up and studied in Canada. This is my second year at Fable and love every minute of it, making the children’s learning experience fun.</p>
+							<p class="template-component-team-description" style="text-align: justify">Thanooch is from the background of Engineering and passionate towards Information Technology. He is very good at Info-graphic drawings. Most of his info-graphics are to build up a resilient society and it drives him to join the DreamSpace Academy.</p>
 							<div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
 								<ul>
 
@@ -229,7 +229,7 @@
 						</li>
 						<li class="template-layout-column-right">
 							<div class="template-component-team-quote"></div>
-							<p class="template-component-team-description" style="text-align: justify">I have completed a Graduate Diploma in Early Childhood Teaching. I have worked with children aged from six weeks to eight years. This is my second year at Fable.</p>
+							<p class="template-component-team-description" style="text-align: justify">Thanushkar is an emerging Maker who works on social challenges. Coming from the background of Engineering Technology, he focuses innovation on E-mobility. He is an explorer to create authentic solutions.</p>
 							<div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
 								<ul>
 									<li><a href="https://www.linkedin.com/in/thanushkar-srikaran-203285178" class="template-component-social-icon-linkedin"></a></li>
