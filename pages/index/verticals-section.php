@@ -9,8 +9,19 @@
 				<b style="color: #56509F">DreamSpace Academy</b> is a <b>Community Innovation Center</b> to tackle authentic socio-economic and environmental challenges using <b style="color: #56509F">Project Based Learning (PBL)</b>.
 				</br>
 				</br>
-				<b style="color: #56509F">Our mission</b> is to empower creative minds through <b>Maker Education</b>, to create innovative solutions using <b style="color: #56509F">Open Innovation</b>, and ultimately leading them to become successful <b>Social
-					Entrepreneurs</b>.</h3>
+				<b style="color: #56509F">Our mission</b> is to empower creative minds through <b>Maker Education</b>, to create innovative solutions using <b style="color: #56509F">Open Innovation</b>, and ultimately leading them to become successful <b>SocialEntrepreneurs</b>.
+				</br>
+				</br>
+				We are a <b style="color: #56509F">Social Enterprise</b> funded by various international organisations to build <b>the foundation</b> of our activities. However, we <b style="color: #56509F">sustain</b> ourselves from the reasonable <b>contributions</b> of the families of our trainees.
+				</br>
+			</h3>
+		</div>
+
+		<!-- Header and subheader -->
+		<div class="template-component-header-subheader">
+			<h3>Pillers of DreamSpace Academy</h3>
+			<h6></h6>
+			<div></div>
 		</div>
 
 		<!-- Feature -->
