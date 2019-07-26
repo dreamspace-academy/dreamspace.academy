@@ -11,85 +11,174 @@
 	
 	<!-- Section -->
 	<div data-id="section-1">
-		<!-- Twitter user timeline -->
-		<div class="template-component-twitter-user-timeline template-component-twitter-user-timeline-style-1">
-
-			<ul class="template-layout-100">
-
-				
-
+		
+		
+		<!-- Gallery -->
+		<div class="template-component-gallery">
+			<ul class="template-layout-33x33x33 template-clear-fix">
 				<li class="template-layout-column-left">
-					<img src="../../media/images/partners-logo/bookbridge.jpg" style="width:20%;margin: auto;">
-					<div></div>
-					<span>BookBridge</span>
+					<div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+						<a href="../../media/images/partners-logo/bookbridge.jpg" data-fancybox-group="gallery-2">
+							<img src="../../media/images/partners-logo/bookbridge.jpg" alt="">
+							<span><span><span></span></span></span>
+						</a>
+						<div>
+							<h6>Drawing and Painting Lessons</h6>
+							<span>Tenderhearts Class</span>
+						</div>
+						<p><b>Drawing and Painting Lessons</b> Tenderhearts Class</p>
+					</div>
 				</li>
-				<li class="template-layout-column-left">
-					<img src="../../media/images/partners-logo/un-volunteers-sri-lanka.jpg" style="width:50%; margin: auto;">
-					<div></div>
-					<span>UN Volunteers Sri Lanka</span>
+				<li class="template-layout-column-center">
+					<div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+						<a href="../../media/images/partners-logo/un-volunteers-sri-lanka.jpg" data-fancybox-group="gallery-2">
+							<img src="../../media/images/partners-logo/un-volunteers-sri-lanka.jpg" alt="">
+							<span><span><span></span></span></span>
+						</a>
+						<div>
+							<h6>Outdoor Activity During Recess</h6>
+							<span>Tenderhearts Class</span>
+						</div>
+						<p><b>Outdoor Activity During Recess</b> Tenderhearts Class</p>
+					</div>			
 				</li>
-				<li class="template-layout-column-left">
-
-					<img src="../../media/images/partners-logo/sylc.jpg" style="width:50%;margin: auto;">
-					<div></div>
-					<span>SYLC</span>
-				</li>
-				<li class="template-layout-column-left">
-					<img src="../../media/images/partners-logo/motionlab.jpg" style="width:20%;margin: auto;">
-					<div></div>
-					<span>MotionLab</span>
-				</li>
-				<li class="template-layout-column-left">
-					<img src="../../media/images/partners-logo/cpbr.jpg" style="width:20%;margin: auto;">
-					<div></div>
-					<span>Cpbr</span>
-				</li>
-				<li class="template-layout-column-left">
-					<img src="../../media/images/partners-logo/troublemaker.jpg" style="width:20%;margin: auto;">
-					<div></div>
-					<span>TroubleMaker</span>
-				</li>
-				<li class="template-layout-column-left">
-					<img src="../../media/images/partners-logo/steamhead.jpg" style="width:20%;margin: auto;">
-					<div></div>
-					<span>STEAM Head</span>
-				</li>
-				<li class="template-layout-column-left">
-					<img src="../../media/images/partners-logo/greenbuzz.png" style="width:20%;margin: auto;">
-					<div></div>
-					<span>GreenBuzz</span>
-				</li>
-				<li class="template-layout-column-left">
-					<img src="../../media/images/partners-logo/gosh.png" style="width:20%;margin: auto;">
-					<div></div>
-					<span>Gathering for Open Science Hardware</span>
-				</li>
-				<li class="template-layout-column-left">
-					<img src="../../media/images/partners-logo/gig.jpg" style="width:20%;margin: auto;">
-					<div></div>
-					<span>Global Innovation Gathering</span>
+				<li class="template-layout-column-right">
+					<div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+						<a href="../../media/images/partners-logo/sylc.jpg" data-fancybox-group="gallery-2">
+							<img src="../../media/images/partners-logo/sylc.jpg" alt="">
+							<span><span><span></span></span></span>
+						</a>
+						<div>
+							<h6>Columbus Day Celebration</h6>
+							<span>Tenderhearts Class</span>
+						</div>
+						<p><b>Columbus Day Celebration</b> Tenderhearts Class</p>
+					</div>			
 				</li>
 				
-				
-
 				<li class="template-layout-column-left">
-					<img src="../../media/images/partners-logo/shdb.jpg" style="width:20%;margin: auto;">
-					<div></div>
-					<span>Science Hack Day Berlin</span>
+					<div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+						<a href="../../media/images/partners-logo/motionlab.jpg" data-fancybox-group="gallery-2">
+							<img src="../../media/images/partners-logo/motionlab.jpg" alt="">
+							<span><span><span></span></span></span>
+						</a>
+						<div>
+							<h6>Drawing and Painting Lessons</h6>
+							<span>Tenderhearts Class</span>
+						</div>
+						<p><b>Drawing and Painting Lessons</b> Tenderhearts Class</p>
+					</div>
+				</li>
+				<li class="template-layout-column-center">
+					<div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+						<a href="../../media/images/partners-logo/cpbr.jpg" data-fancybox-group="gallery-2">
+							<img src="../../media/images/partners-logo/cpbr.jpg" alt="">
+							<span><span><span></span></span></span>
+						</a>
+						<div>
+							<h6>Outdoor Activity During Recess</h6>
+							<span>Tenderhearts Class</span>
+						</div>
+						<p><b>Outdoor Activity During Recess</b> Tenderhearts Class</p>
+					</div>			
+				</li>
+				<li class="template-layout-column-right">
+					<div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+						<a href="../../media/images/partners-logo/troublemaker.jpg" data-fancybox-group="gallery-2">
+							<img src="../../media/images/partners-logo/troublemaker.jpg" alt="">
+							<span><span><span></span></span></span>
+						</a>
+						<div>
+							<h6>Columbus Day Celebration</h6>
+							<span>Tenderhearts Class</span>
+						</div>
+						<p><b>Columbus Day Celebration</b> Tenderhearts Class</p>
+					</div>			
 				</li>
 				<li class="template-layout-column-left">
-					<img src="../../media/images/partners-logo/scout.png" style="width:20%;margin: auto;">
-					<div></div>
-					<span>Scout</span>
+					<div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+						<a href="../../media/images/partners-logo/steamhead.jpg" data-fancybox-group="gallery-2">
+							<img src="../../media/images/partners-logo/steamhead.jpg" alt="">
+							<span><span><span></span></span></span>
+						</a>
+						<div>
+							<h6>Drawing and Painting Lessons</h6>
+							<span>Tenderhearts Class</span>
+						</div>
+						<p><b>Drawing and Painting Lessons</b> Tenderhearts Class</p>
+					</div>
 				</li>
-
+				<li class="template-layout-column-center">
+					<div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+						<a href="../../media/images/partners-logo/greenbuzz.png" data-fancybox-group="gallery-2">
+							<img src="../../media/images/partners-logo/greenbuzz.png" alt="">
+							<span><span><span></span></span></span>
+						</a>
+						<div>
+							<h6>Outdoor Activity During Recess</h6>
+							<span>Tenderhearts Class</span>
+						</div>
+						<p><b>Outdoor Activity During Recess</b> Tenderhearts Class</p>
+					</div>			
+				</li>
+				<li class="template-layout-column-right">
+					<div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+						<a href="../../media/images/partners-logo/gosh.png" data-fancybox-group="gallery-2">
+							<img src="../../media/images/partners-logo/gosh.png" alt="">
+							<span><span><span></span></span></span>
+						</a>
+						<div>
+							<h6>Columbus Day Celebration</h6>
+							<span>Tenderhearts Class</span>
+						</div>
+						<p><b>Columbus Day Celebration</b> Tenderhearts Class</p>
+					</div>			
+				</li>
+				<li class="template-layout-column-left">
+					<div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+						<a href="../../media/images/partners-logo/gig.jpg" data-fancybox-group="gallery-2">
+							<img src="../../media/images/partners-logo/gig.jpg" alt="">
+							<span><span><span></span></span></span>
+						</a>
+						<div>
+							<h6>Drawing and Painting Lessons</h6>
+							<span>Tenderhearts Class</span>
+						</div>
+						<p><b>Drawing and Painting Lessons</b> Tenderhearts Class</p>
+					</div>
+				</li>
+				<li class="template-layout-column-center">
+					<div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+						<a href="../../media/images/partners-logo/shdb.jpg" data-fancybox-group="gallery-2">
+							<img src="../../media/images/partners-logo/shdb.jpg" alt="">
+							<span><span><span></span></span></span>
+						</a>
+						<div>
+							<h6>Outdoor Activity During Recess</h6>
+							<span>Tenderhearts Class</span>
+						</div>
+						<p><b>Outdoor Activity During Recess</b> Tenderhearts Class</p>
+					</div>			
+				</li>
+				<li class="template-layout-column-right">
+					<div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+						<a href="../../media/images/partners-logo/scout.png" data-fancybox-group="gallery-2">
+							<img src="../../media/images/partners-logo/scout.png" alt="">
+							<span><span><span></span></span></span>
+						</a>
+						<div>
+							<h6>Columbus Day Celebration</h6>
+							<span>Tenderhearts Class</span>
+						</div>
+						<p><b>Columbus Day Celebration</b> Tenderhearts Class</p>
+					</div>			
+				</li>
 			</ul>
-
-			<div class="template-pagination template-pagination-style-1"></div>
-
 		</div>
-	</div>
+
+			</div>
 
 
 
 </div>
+
