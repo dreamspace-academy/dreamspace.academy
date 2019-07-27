@@ -43,7 +43,8 @@
 						</li>
 						<li class="template-layout-column-right">
 							<div class="template-component-team-quote"></div>
-							<p class="template-component-team-description" style="text-align: justify">Kishoth is a Social Engineer who creates a mechanism to manage a social change, regulate the future development through Social Innovation. Having the background of peace-building, community development, and research; he drives for a sustainable social impact.</p>
+							<p class="template-component-team-description" style="text-align: justify">Kishoth is a Social Engineer who creates mechanisms to foster social change and influence future development through Social Innovation. With a background of
+								peace-building, community development, and research, he works passionately for sustainable social impact.</p>
 							<div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
 								<ul>
 									<li><a href="https://www.linkedin.com/in/kishoth-navaretnarajah-342b4311a/" class="template-component-social-icon-linkedin"></a></li>
@@ -69,8 +70,8 @@
 						</li>
 						<li class="template-layout-column-right">
 							<div class="template-component-team-quote"></div>
-							<p class="template-component-team-description" style="text-align: justify">Aravinth is a Community Builder, Embedded System Engineer and New Media Artist, worked on various software, hardware, art & social projects for more than 15 years. He
-								curates communities in the domain of startups, sustainability, education and art in Berlin, Europe & Asia.</p>
+							<p class="template-component-team-description" style="text-align: justify">Aravinth is a Community Builder, Embedded System Engineer and New Media Artist who has worked on various software, hardware, art & social projects for more than 15
+								years. He curates communities in the domain of startups, sustainability, education and art in Berlin, Europe & Asia.</p>
 							<div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
 								<ul>
 
@@ -90,15 +91,15 @@
 								</a>
 								<div>
 									<h6>Maite Hernandez Zubeldia</h6>
-									<span>Growth Strategist & Design Thinking Trainer</span>
+									<span>Advisor & Design Thinking Trainer</span>
 								</div>
-								<p><b>Maite Hernandez Zubeldia</b> Growth Strategist & Design Thinking Trainer</p>
+								<p><b>Maite Hernandez Zubeldia</b> Advisor & Design Thinking Trainer</p>
 							</div>
 						</li>
 						<li class="template-layout-column-right">
 							<div class="template-component-team-quote"></div>
-							<p class="template-component-team-description" style="text-align: justify">Maites focuses on product strategy and product innovation, with a strong passion for bridging the gap between humanity and technology. Her core experience is in
-								impact-driven tech-entrepreneurship, human-centric design and agile product development (software and hardware).</p>
+							<p class="template-component-team-description" style="text-align: justify">Maite’s core experience is in impact-driven entrepreneurship, human-centric design and agile product development. She has a strong passion for bridging the gap between
+								humanity and technology. While working in Europe, Canada, Cuba and Sri Lanka, she has experienced innovation approaches in different regions of the world.</p>
 							<div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
 								<ul>
 									<li><a href="https://www.linkedin.com/in/maitezubeldia/" class="template-component-social-icon-linkedin"></a></li>
@@ -124,7 +125,7 @@
 						</li>
 						<li class="template-layout-column-right">
 							<div class="template-component-team-quote"></div>
-							<p class="template-component-team-description" style="text-align: justify">Thanooch is from the background of Engineering and passionate towards Information Technology. He is very good at Info-graphic drawings. Most of his info-graphics are to build up a resilient society and it drives him to join the DreamSpace Academy.</p>
+							<p class="template-component-team-description" style="text-align: justify">Thanooch has a background in Engineering and his hobby is Information Technology. He is very good at drawing info-graphics aiming at building up a resilient society.</p>
 							<div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
 								<ul>
 
@@ -151,7 +152,8 @@
 						</li>
 						<li class="template-layout-column-right">
 							<div class="template-component-team-quote"></div>
-							<p class="template-component-team-description" style="text-align: justify">Prasath is enthusiast photographer who is passionate to address community issues through the lenses. As IT professional he is an emerging social media blogger,content writer and the visual story teller </p>
+							<p class="template-component-team-description" style="text-align: justify">Prasath is an enthusiast photographer who is passionate about addressing community issues through the lens of his camera. He is an emerging social media blogger,
+								content writer and a visual storyteller.</p>
 							<div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
 								<ul>
 									<li><a href="https://www.linkedin.com/in/" class="template-component-social-icon-linkedin"></a></li>
@@ -177,7 +179,8 @@
 						</li>
 						<li class="template-layout-column-right">
 							<div class="template-component-team-quote"></div>
-							<p class="template-component-team-description" style="text-align: justify">Niranjala has 20 year experience in Office Management and handling of IT equipment. She has many artistic skills where she translates her skills into Entrepreneurship. She is a super supportive person to empower the co-staff in struggle and challenges..</p>
+							<p class="template-component-team-description" style="text-align: justify">Niranjala has 20 year experience in Office Management and handling of IT equipment. She has many artistic skills and she is very interested in Entrepreneurship. She is
+								a super supportive person that empower the staff in daily challenges.</p>
 							<div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
 								<ul>
 									<li><a href="https://www.linkedin.com/in/" class="template-component-social-icon-linkedin"></a></li>
@@ -202,8 +205,9 @@
 							</div>
 						</li>
 						<li class="template-layout-column-right">
-							<div class="template-component-team-quote" ></div>
-							<p class="template-component-team-description" style="text-align: justify">Viththiyakaran is an IT enthusiastic and an ethical hacker, specialized in JAVA Programming. He is intended to transform his community through his keyboard. As a growing Social Entrepreneur, he focus now on social problems and to translate into Social Ventures.</p>
+							<div class="template-component-team-quote"></div>
+							<p class="template-component-team-description" style="text-align: justify">Viththiyakaran is an IT enthusiastic specialized in JAVA Programming and an ethical hacker committed to transform his community through his keyboard. As a growing
+								Social Entrepreneur, he focuses now on translating social problems into Social Ventures.</p>
 							<div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
 								<ul>
 									<li><a href="https://www.linkedin.com/in/nviththiyakaran" class="template-component-social-icon-linkedin"></a></li>
@@ -229,7 +233,8 @@
 						</li>
 						<li class="template-layout-column-right">
 							<div class="template-component-team-quote"></div>
-							<p class="template-component-team-description" style="text-align: justify">Thanushkar is an emerging Maker who works on social challenges. Coming from the background of Engineering Technology, he focuses innovation on E-mobility. He is an explorer to create authentic solutions.</p>
+							<p class="template-component-team-description" style="text-align: justify">Thanushkar is an emerging Maker with a background in Engineering Technology. He is a passionate explorer of social challenges and focuses on innovation around
+								E-mobility.</p>
 							<div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
 								<ul>
 									<li><a href="https://www.linkedin.com/in/thanushkar-srikaran-203285178" class="template-component-social-icon-linkedin"></a></li>
