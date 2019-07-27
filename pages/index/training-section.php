@@ -133,7 +133,7 @@
 					<div class="template-layout-flex-50x50">
 						<div>
 							<h5>Studies of Languages </h5>
-							<span>Learn languages nd and speak with confidence to the world...</br></br></span>
+							<span>Learn languages and and speak with confidence to the world...</br></br></span>
 							<div class="template-layout-flex-50x50">
 								<div>
 									<span>14+</span>
