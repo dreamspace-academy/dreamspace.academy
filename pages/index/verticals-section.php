@@ -6,7 +6,7 @@
 		<!-- Header and subheader -->
 		<div class="template-component-header-subheader">
 			<h3>
-				<b style="color: #56509F">DreamSpace Academy</b> is a <b>Community Innovation Center</b> in Sri Lanka. Our mission is to empower creative minds through <b style="color: #56509F">Maker Education</b> and <b>Open Innovation</b>, ultimately enabling
+				<b style="color: #56509F">DreamSpace Academy</b> is a <b>Community Innovation Center</b> with a mission to empower creative minds through <b style="color: #56509F">Maker Education</b> and <b>Open Innovation</b>, ultimately enabling
 				them to become successful <b style="color: #56509F">Social Entrepreneurs</b>.
 				</br>
 				</br>
