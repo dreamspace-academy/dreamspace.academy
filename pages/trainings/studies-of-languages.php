@@ -54,8 +54,8 @@
 						<div>20 Participants</div>
 					</li>
 					<li class="template-component-vertical-grid-line-1n">
-						<div>Pricing:</div>
-						<div>6 Months, Rs.12,500.00</div>
+						<div>Duration:</div>
+						<div>6 Months</div>
 					</li>
 					<li class="template-component-vertical-grid-line-2n">
 						<div>Sessions:</div>
