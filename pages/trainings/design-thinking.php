@@ -56,9 +56,10 @@
 						<div>20 Participants</div>
 					</li>
 					<li class="template-component-vertical-grid-line-1n">
-						<div>Pricing:</div>
-						<div>1 Month, Rs.5,500.00</div>
+						<div>Duration:</div>
+						<div>1 Month</div>
 					</li>
+					
 					<li class="template-component-vertical-grid-line-2n">
 						<div>Sessions:</div>
 						<div>28 hrs with facilitator <br />24 hrs on self-Assessment and Project </div>
