@@ -113,7 +113,7 @@
 						<li class="template-layout-column-left">
 							<div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
 								<a href="../../media/images/about/organisation/grashiyan-head-of-administration-dreamspace.png" data-fancybox-group="team-2">
-									<img src="../../media/images/about/organisation/grashiyan-head-of-administration-dreamspace.png" alt="thanoochkumar-head-of-administration-dreamspace" />
+									<img src="../../media/images/about/organisation/grashiyan-head-of-administration-dreamspace.png" alt="grashiyan-head-of-administration-dreamspace.png" />
 									<span><span><span></span></span></span>
 								</a>
 								<div>
