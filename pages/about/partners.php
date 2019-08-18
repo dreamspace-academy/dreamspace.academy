@@ -49,7 +49,7 @@
 						<div class="template-component-image template-fancybox template-preloader">
 							<img style="height:50%; width:50%" src="../../media/images/partners-logo/aracreate.png" alt="">
 							<div>
-								<h6><a target=_blank href="https://motionlab.berlin/">araCreate, Germany | Global</a></h6>
+								<h6><a target=_blank href="http://aracreate.com">araCreate, Germany | Global</a></h6>
 							</div>
 						</div>
 					</center>
@@ -93,7 +93,7 @@
 						<div class="template-component-image template-fancybox template-preloader">
 							<img style="height:50%; width:50%" src="../../media/images/partners-logo/motionlab.jpg" alt="">
 							<div>
-								<h6><a target=_blank href="https://motionlab.berlin/">MotionLab, Germany</a></h6>
+								<h6><a target=_blank href="http://motionlab.berlin">MotionLab Berlin, Germany</a></h6>
 							</div>
 						</div>
 					</center>
