@@ -3,13 +3,13 @@
 	<!-- Bottom footer -->
 	<div class="template-footer-bottom">
 		<div class="template-align-center template-main">
-		
+
 			<div class="template-header-top-logo">
 				<a href="index.php">
-							<center><img src="media/images/dreamspace-logo.png" alt="" width="150px" height="150px"/> </center>
+					<center><img src="media/images/dreamspace-logo.png" alt="" width="150px" height="150px" /> </center>
 				</a>
 			</div>
-					
+
 			<div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix template-margin-bottom-2">
 				<ul>
 					<li><a target="_blank" href="https://www.linkedin.com/company/dreamspace-academy" class="template-component-social-icon-linkedin"></a></li>
@@ -18,7 +18,8 @@
 				</ul>
 			</div>
 			<div>
-				&copy;&nbsp; <?php date('Y'); ?> -
+				&copy;&nbsp;
+				<?php echo date('Y'); ?>
 				<a href="http://dreamspace.academy"><b>DreamSpace Academy</b></a>.
 				All rights reserved. </br> Created by <a target="_blank" href="http://aravinth.info"><b>Aravinth Panch</b></a> & <a target="_blank" href="https://www.linkedin.com/in/nviththiyakaran/"><b>N.Viththiyakaran</b></a>
 			</div>
