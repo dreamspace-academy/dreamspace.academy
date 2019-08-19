@@ -12,8 +12,6 @@
 
 	<?php include('pages/index/spotlight-section.php');  ?>
 
-	<?php include('pages/index/partners-section.php'); ?>
-
 </div>
 
 <?php include('pages/index/footer.php'); ?>

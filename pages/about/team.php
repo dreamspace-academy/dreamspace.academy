@@ -112,24 +112,24 @@
 					<ul class="template-layout-50x50 template-clear-fix">
 						<li class="template-layout-column-left">
 							<div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-								<a href="../../media/images/about/organisation/thanoochkumar-head-of-administration-dreamspace.png" data-fancybox-group="team-2">
-									<img src="../../media/images/about/organisation/thanoochkumar-head-of-administration-dreamspace.png" alt="thanoochkumar-head-of-administration-dreamspace" />
+								<a href="../../media/images/about/organisation/grashiyan-head-of-administration-dreamspace.png" data-fancybox-group="team-2">
+									<img src="../../media/images/about/organisation/grashiyan-head-of-administration-dreamspace.png" alt="grashiyan-head-of-administration-dreamspace.png" />
 									<span><span><span></span></span></span>
 								</a>
 								<div>
-									<h6>Thanoochkumar Thayaleswararajah</h6>
+									<h6>Grashiyan Charles</h6>
 									<span>Head of Administration</span>
 								</div>
-								<p><b>Thanoochkumar Thayaleswararajah</b> Head of Administration</p>
+								<p><b>Grashiyan Charles</b> Head of Administration</p>
 							</div>
 						</li>
 						<li class="template-layout-column-right">
 							<div class="template-component-team-quote"></div>
-							<p class="template-component-team-description" style="text-align: justify">Thanooch has a background in Engineering and his hobby is Information Technology. He is very good at drawing info-graphics aiming at building up a resilient society.</p>
+							<p class="template-component-team-description" style="text-align: justify">Grashiyan  has a background in Engineering and his hobby is Information Technology. He is very good at drawing info-graphics aiming at building up a resilient society.</p>
 							<div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
 								<ul>
 
-									<li><a href="https://www.linkedin.com/in/thanooch-kumar-689730184/" class="template-component-social-icon-linkedin"></a></li>
+									<li><a href="https://www.linkedin.com/in/" class="template-component-social-icon-linkedin"></a></li>
 								</ul>
 							</div>
 						</li>
