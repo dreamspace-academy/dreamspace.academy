@@ -3,7 +3,7 @@
 
 	<!-- Header and subheader -->
 	<div class="template-component-header-subheader">
-		<h2>Our Team</h2>
+		<h2>Supporters and Trainers</h2>
 		<h6></h6>
 		<div></div>
 	</div>
