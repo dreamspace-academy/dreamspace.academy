@@ -42,8 +42,8 @@
 						<div>20 Participants</div>
 					</li>
 					<li class="template-component-vertical-grid-line-1n">
-						<div>Pricing:</div>
-						<div>4 Months, Rs.10,500.00</div>
+						<div>Duration:</div>
+						<div>4 Months</div>
 					</li>
 					<li class="template-component-vertical-grid-line-2n">
 						<div>Sessions:</div>
