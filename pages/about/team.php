@@ -85,47 +85,22 @@
 					<ul class="template-layout-50x50 template-clear-fix">
 						<li class="template-layout-column-left">
 							<div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-								<a href="../../media/images/about/organisation/maite-growth-strategist-dreamspace.png" data-fancybox-group="team-2">
-									<img src="../../media/images/about/organisation/maite-growth-strategist-dreamspace.png" alt="maite-growth-strategist-dreamspace" />
-									<span><span><span></span></span></span>
-								</a>
-								<div>
-									<h6>Maite Hernandez Zubeldia</h6>
-									<span>Advisor & Design Thinking Trainer</span>
-								</div>
-								<p><b>Maite Hernandez Zubeldia</b> Advisor & Design Thinking Trainer</p>
-							</div>
-						</li>
-						<li class="template-layout-column-right">
-							<div class="template-component-team-quote"></div>
-							<p class="template-component-team-description" style="text-align: justify">Maite’s core experience is in impact-driven entrepreneurship, human-centric design and agile product development. She has a strong passion for bridging the gap between
-								humanity and technology. While working in Europe, Canada, Cuba and Sri Lanka, she has experienced innovation approaches in different regions of the world.</p>
-							<div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
-								<ul>
-									<li><a href="https://www.linkedin.com/in/maitezubeldia/" class="template-component-social-icon-linkedin"></a></li>
-								</ul>
-							</div>
-						</li>
-					</ul>
-				</li>
-				<li class="template-layout-column-right">
-					<ul class="template-layout-50x50 template-clear-fix">
-						<li class="template-layout-column-left">
-							<div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
 								<a href="../../media/images/about/organisation/grashiyan-head-of-administration-dreamspace.png" data-fancybox-group="team-2">
 									<img src="../../media/images/about/organisation/grashiyan-head-of-administration-dreamspace.png" alt="grashiyan-head-of-administration-dreamspace.png" />
 									<span><span><span></span></span></span>
 								</a>
 								<div>
 									<h6>Grashiyan Charles</h6>
-									<span>Head of Administration</span>
+									<span>Head of Administration & Trainer - Graphic Design</span>
 								</div>
-								<p><b>Grashiyan Charles</b> Head of Administration</p>
+								<p><b>Grashiyan Charles</b> Head of Administration & Trainer - Graphic Design</p>
 							</div>
 						</li>
 						<li class="template-layout-column-right">
 							<div class="template-component-team-quote"></div>
-							<p class="template-component-team-description" style="text-align: justify">Grashiyan  has a background in Engineering and his hobby is Information Technology. He is very good at drawing info-graphics aiming at building up a resilient society.</p>
+
+							<p class="template-component-team-description" style="text-align: justify">Grashiyan has a background in Engineering and his hobby is Information Technology. He is very good at drawing info-graphics aiming at building up a resilient society.</p>
+
 							<div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
 								<ul>
 
@@ -135,7 +110,7 @@
 						</li>
 					</ul>
 				</li>
-				<li class="template-layout-column-left">
+				<li class="template-layout-column-right">
 					<ul class="template-layout-50x50 template-clear-fix">
 						<li class="template-layout-column-left">
 							<div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
@@ -145,9 +120,9 @@
 								</a>
 								<div>
 									<h6>Prasath Thevapalan</h6>
-									<span>Human Relations</span>
+									<span>Head of Public Relations & Trainer - Photography</span>
 								</div>
-								<p><b>Prasath Thevapalan</b> Human Relations</p>
+								<p><b>Prasath Thevapalan</b> Head of Public Relations & Trainer - Photography</p>
 							</div>
 						</li>
 						<li class="template-layout-column-right">
@@ -162,7 +137,7 @@
 						</li>
 					</ul>
 				</li>
-				<li class="template-layout-column-right">
+				<li class="template-layout-column-left">
 					<ul class="template-layout-50x50 template-clear-fix">
 						<li class="template-layout-column-left">
 							<div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
@@ -189,7 +164,7 @@
 						</li>
 					</ul>
 				</li>
-				<li class="template-layout-column-left">
+				<li class="template-layout-column-right">
 					<ul class="template-layout-50x50 template-clear-fix">
 						<li class="template-layout-column-left">
 							<div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
@@ -199,9 +174,9 @@
 								</a>
 								<div>
 									<h6>Viththiyakaran Nadarajah</h6>
-									<span>Software Developer & IT Trainer</span>
+									<span>Head of Project Management & Trainer - Software</span>
 								</div>
-								<p><b>Viththiyakaran Nadarajah</b> Software Developer & IT Trainer</p>
+								<p><b>Viththiyakaran Nadarajah</b> Head of Project Management & Trainer - Software</p>
 							</div>
 						</li>
 						<li class="template-layout-column-right">
@@ -216,7 +191,7 @@
 						</li>
 					</ul>
 				</li>
-				<li class="template-layout-column-right">
+				<li class="template-layout-column-left">
 					<ul class="template-layout-50x50 template-clear-fix">
 						<li class="template-layout-column-left">
 							<div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
@@ -226,15 +201,16 @@
 								</a>
 								<div>
 									<h6>Thanushkar Srikaran</h6>
-									<span>Innovator & Maker Education Trainer</span>
+									<span>Head of MakerSpace & Trainer - Electronics</span>
 								</div>
-								<p><b>Thanushkar Srikaran</b> Innovator & Maker Education Trainer</p>
+								<p><b>Thanushkar Srikaran</b> Head of MakerSpace & Trainer - Electronics</p>
 							</div>
 						</li>
 						<li class="template-layout-column-right">
 							<div class="template-component-team-quote"></div>
-							<p class="template-component-team-description" style="text-align: justify">Thanushkar is an emerging Maker with a background in Engineering Technology. He is a passionate explorer of social challenges and focuses on innovation around
-								E-mobility.</p>
+
+							<p class="template-component-team-description" style="text-align: justify">Thanushkar is an emerging Maker who works on social challenges. Coming from the background of Engineering Technology, he focuses innovation on E-mobility. He is an
+								explorer to create authentic solutions.</p>
 							<div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
 								<ul>
 									<li><a href="https://www.linkedin.com/in/thanushkar-srikaran-203285178" class="template-component-social-icon-linkedin"></a></li>
@@ -243,7 +219,34 @@
 						</li>
 					</ul>
 				</li>
-
+				<li class="template-layout-column-right">
+					<ul class="template-layout-50x50 template-clear-fix">
+						<li class="template-layout-column-left">
+							<div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+								<a href="../../media/images/about/organisation/abisaya-agriculture.jpg" data-fancybox-group="team-2">
+									<img src="../../media/images/about/organisation/abisaya-agriculture.jpg" alt="abhi" />
+									<span><span><span></span></span></span>
+								</a>
+								<div>
+									<h6>Abisaya Mohanalingam</h6>
+									<span>Head of Agriculture & Trainer - Urban Farming</span>
+								</div>
+								<p><b>Abisaya Mohanalingam</b> Head of Agriculture & Trainer - Urban Farming</p>
+							</div>
+						</li>
+						<li class="template-layout-column-right">
+							<div class="template-component-team-quote"></div>
+							<p class="template-component-team-description" style="text-align: justify">Abishaya is passionate about the research and development in the field of agriculture. She participated in National Science Foundation’s Science Research project
+								during her high school and now she is engaged in developing alternative agriculture initiatives in Sri Lanka.</p>
+							<p class="template-component-team-description" style="text-align: justify"></p>
+							<div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+								<ul>
+									<li></li>
+								</ul>
+							</div>
+						</li>
+					</ul>
+				</li>
 			</ul>
 		</div>
 

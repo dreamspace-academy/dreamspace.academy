@@ -14,7 +14,9 @@
 		<!-- Gallery -->
 		<div class="template-component-gallery">
 			<ul class="template-layout-33x33x33 template-clear-fix">
-				<li class="template-layout-column-left">
+				
+				
+				<li class="template-layout-column-left">	
 					<center>
 						<div class="template-component-image template-fancybox template-preloader">
 							<img style="height:50%; width:50%" src="../../media/images/partners-logo/bookbridge.jpg">
@@ -44,7 +46,9 @@
 						</div>
 					</center>
 				</li>
+				
 				<li class="template-layout-column-left">
+					
 					<center>
 						<div class="template-component-image template-fancybox template-preloader">
 							<img style="height:50%; width:50%" src="../../media/images/partners-logo/aracreate.png" alt="">
@@ -167,12 +171,15 @@
 							</div>
 						</div>
 					</center>
-				</li>
 
+				</li>
 			</ul>
 		</div>
 
+
+			</div>
 	</div>
 
 
 </div>
+
