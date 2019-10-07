@@ -91,9 +91,9 @@
 								</a>
 								<div>
 									<h6>Grashiyan Charles</h6>
-									<span>Head of Administration, Trainer - Graphic Design</span>
+									<span>Head of Administration & Trainer - Graphic Design</span>
 								</div>
-								<p><b>Grashiyan Charles</b> Head of Administration, Trainer - Graphic Design</p>
+								<p><b>Grashiyan Charles</b> Head of Administration & Trainer - Graphic Design</p>
 							</div>
 						</li>
 						<li class="template-layout-column-right">
@@ -120,9 +120,9 @@
 								</a>
 								<div>
 									<h6>Prasath Thevapalan</h6>
-									<span>Head of Public Relations, Trainer - Photography</span>
+									<span>Head of Public Relations & Trainer - Photography</span>
 								</div>
-								<p><b>Prasath Thevapalan</b> Head of Public Relations, Trainer - Photography</p>
+								<p><b>Prasath Thevapalan</b> Head of Public Relations & Trainer - Photography</p>
 							</div>
 						</li>
 						<li class="template-layout-column-right">
@@ -174,9 +174,9 @@
 								</a>
 								<div>
 									<h6>Viththiyakaran Nadarajah</h6>
-									<span>Head of Project Management, Trainer - Software</span>
+									<span>Head of Project Management & Trainer - Software</span>
 								</div>
-								<p><b>Viththiyakaran Nadarajah</b> Head of Project Management, Trainer - Software</p>
+								<p><b>Viththiyakaran Nadarajah</b> Head of Project Management & Trainer - Software</p>
 							</div>
 						</li>
 						<li class="template-layout-column-right">
@@ -201,9 +201,9 @@
 								</a>
 								<div>
 									<h6>Thanushkar Srikaran</h6>
-									<span>Head of MakerSpace, Trainer - Electronics</span>
+									<span>Head of MakerSpace & Trainer - Electronics</span>
 								</div>
-								<p><b>Thanushkar Srikaran</b> Head of MakerSpace, Trainer - Electronics</p>
+								<p><b>Thanushkar Srikaran</b> Head of MakerSpace & Trainer - Electronics</p>
 							</div>
 						</li>
 						<li class="template-layout-column-right">
@@ -229,9 +229,9 @@
 								</a>
 								<div>
 									<h6>Abisaya Mohanalingam</h6>
-									<span>Head of Agriculture, Trainer - Urban Farming</span>
+									<span>Head of Agriculture & Trainer - Urban Farming</span>
 								</div>
-								<p><b>Abisaya Mohanalingam</b> Head of Agriculture, Trainer - Urban Farming</p>
+								<p><b>Abisaya Mohanalingam</b> Head of Agriculture & Trainer - Urban Farming</p>
 							</div>
 						</li>
 						<li class="template-layout-column-right">
