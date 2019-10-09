@@ -30,8 +30,8 @@
 					<ul class="template-layout-50x50 template-clear-fix">
 						<li class="template-layout-column-left">
 							<div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-								<a href="../../media/images/about/organisation/maite-growth-strategist-dreamspace.png" data-fancybox-group="team-2">
-									<img src="../../media/images/about/organisation/maite-growth-strategist-dreamspace.png" alt="maite-growth-strategist-dreamspace" />
+								<a href="../../media/images/about/supporters/maite-dreamspace.png" data-fancybox-group="team-2">
+									<img src="../../media/images/about/supporters/maite-dreamspace.png" alt="maite-growth-strategist-dreamspace" />
 									<span><span><span></span></span></span>
 								</a>
 								<div>
@@ -88,14 +88,14 @@
 				        </a>
 				        <div>
 				          <h6>Luise Kröning</h6>
-				          <span>Advisor & Trainer -  Social Impact and Sustainability</span>
+				          <span>Design Thinking Coach & Innovation Consultant</span>
 				        </div>
-				        <p><b>Darina Onoprienko</b> Advisor & Trainer -  Social Impact and Sustainability</p>
+				        <p><b>Darina Onoprienko</b> Design Thinking Coach & Innovation Consultant</p>
 				      </div>
 				    </li>
 				    <li class="template-layout-column-right">
 				      <div class="template-component-team-quote"></div>
-				      <p class="template-component-team-description" style="text-align: justify">Making a difference by striving to be the change that I wish to see in the world: mindful, innovative, socially and environmentally responsible. On a mission to spread mindfulness and design thinking around the globe. </p>
+				      <p class="template-component-team-description" style="text-align: justify">Creating a mindful movement by supporting people to unfold their potential through creativity and connection. Passionate about empowering social entrepreneurs and fostering social innovations in Europe and Asia.</p>
 				      <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
 				        <ul>
 				          <li><a href="https://www.linkedin.com/in/luise-the-creative-strategist/" class="template-component-social-icon-linkedin"></a></li>
@@ -114,14 +114,14 @@
 				        </a>
 				        <div>
 				          <h6>Zoë Harman Conlon</h6>
-				          <span>Advisor & Trainer - Community Building</span>
+				          <span>Community & Event Manager</span>
 				        </div>
 				        <p><b>Darina Onoprienko</b> Advisor & Trainer - Community Building</p>
 				      </div>
 				    </li>
 				    <li class="template-layout-column-right">
 				      <div class="template-component-team-quote"></div>
-				      <p class="template-component-team-description" style="text-align: justify">Community manager passionate about sustainability, empowering social entrepreneurs and community mobilisation.</p>
+				      <p class="template-component-team-description" style="text-align: justify">Passionate about sustainability, social entrepreneurship and community mobilization focused on climate action in Europe and Asia.</p>
 				      <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
 				        <ul>
 				          <li><a href="https://www.linkedin.com/in/zo%C3%AB-harman-conlon-85986880/" class="template-component-social-icon-linkedin"></a></li>
