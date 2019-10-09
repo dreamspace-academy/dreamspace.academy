@@ -30,8 +30,8 @@
 					<ul class="template-layout-50x50 template-clear-fix">
 						<li class="template-layout-column-left">
 							<div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-								<a href="../../media/images/about/organisation/kishoth-cofunder-dreamspace.png" data-fancybox-group="team-2">
-									<img src="../../media/images/about/organisation/kishoth-cofunder-dreamspace.png" alt="kishoth-cofunder-dreamspace" />
+								<a href="../../media/images/about/team/kishoth-cofunder-dreamspace.png" data-fancybox-group="team-2">
+									<img src="../../media/images/about/team/kishoth-cofunder-dreamspace.png" alt="kishoth-cofunder-dreamspace" />
 									<span><span><span></span></span></span>
 								</a>
 								<div>
@@ -57,8 +57,8 @@
 					<ul class="template-layout-50x50 template-clear-fix">
 						<li class="template-layout-column-left">
 							<div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-								<a href="../../media/images/about/organisation/aravinth-cofunder-dreamspace.png" data-fancybox-group="team-2">
-									<img src="../../media/images/about/organisation/aravinth-cofunder-dreamspace.png" alt="aravinth-cofunder-dreamspace" />
+								<a href="../../media/images/about/team/aravinth-cofunder-dreamspace.png" data-fancybox-group="team-2">
+									<img src="../../media/images/about/team/aravinth-cofunder-dreamspace.png" alt="aravinth-cofunder-dreamspace" />
 									<span><span><span></span></span></span>
 								</a>
 								<div>
@@ -85,8 +85,8 @@
 					<ul class="template-layout-50x50 template-clear-fix">
 						<li class="template-layout-column-left">
 							<div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-								<a href="../../media/images/about/organisation/grashiyan-head-of-administration-dreamspace.png" data-fancybox-group="team-2">
-									<img src="../../media/images/about/organisation/grashiyan-head-of-administration-dreamspace.png" alt="grashiyan-head-of-administration-dreamspace.png" />
+								<a href="../../media/images/about/team/grashiyan-head-of-administration-dreamspace.png" data-fancybox-group="team-2">
+									<img src="../../media/images/about/team/grashiyan-head-of-administration-dreamspace.png" alt="grashiyan-head-of-administration-dreamspace.png" />
 									<span><span><span></span></span></span>
 								</a>
 								<div>
@@ -114,8 +114,8 @@
 					<ul class="template-layout-50x50 template-clear-fix">
 						<li class="template-layout-column-left">
 							<div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-								<a href="../../media/images/about/organisation/prasath-human-relations-dreamspace.png" data-fancybox-group="team-2">
-									<img src="../../media/images/about/organisation/prasath-human-relations-dreamspace.png" alt="prasath-human-relations-dreamspace" />
+								<a href="../../media/images/about/team/prasath-human-relations-dreamspace.png" data-fancybox-group="team-2">
+									<img src="../../media/images/about/team/prasath-human-relations-dreamspace.png" alt="prasath-human-relations-dreamspace" />
 									<span><span><span></span></span></span>
 								</a>
 								<div>
@@ -141,8 +141,8 @@
 					<ul class="template-layout-50x50 template-clear-fix">
 						<li class="template-layout-column-left">
 							<div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-								<a href="../../media/images/about/organisation/nirajala-management-dreamspace.png" data-fancybox-group="team-2">
-									<img src="../../media/images/about/organisation/nirajala-management-dreamspace.png" alt="nirajala-management-dreamspace" />
+								<a href="../../media/images/about/team/nirajala-management-dreamspace.png" data-fancybox-group="team-2">
+									<img src="../../media/images/about/team/nirajala-management-dreamspace.png" alt="nirajala-management-dreamspace" />
 									<span><span><span></span></span></span>
 								</a>
 								<div>
@@ -168,8 +168,8 @@
 					<ul class="template-layout-50x50 template-clear-fix">
 						<li class="template-layout-column-left">
 							<div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-								<a href="../../media/images/about/organisation/viththiyakaran-webdesign-dreamspace.png" data-fancybox-group="team-2">
-									<img src="../../media/images/about/organisation/viththiyakaran-webdesign-dreamspace.png" alt="viththiyakaran-webdesign-dreamspace" />
+								<a href="../../media/images/about/team/viththiyakaran-webdesign-dreamspace.png" data-fancybox-group="team-2">
+									<img src="../../media/images/about/team/viththiyakaran-webdesign-dreamspace.png" alt="viththiyakaran-webdesign-dreamspace" />
 									<span><span><span></span></span></span>
 								</a>
 								<div>
@@ -195,8 +195,8 @@
 					<ul class="template-layout-50x50 template-clear-fix">
 						<li class="template-layout-column-left">
 							<div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-								<a href="../../media/images/about/organisation/thanushkar-teacher-dreamspace.png" data-fancybox-group="team-2">
-									<img src="../../media/images/about/organisation/thanushkar-teacher-dreamspace.png" alt="thanushkar-teacher-dreamspace" />
+								<a href="../../media/images/about/team/thanushkar-teacher-dreamspace.png" data-fancybox-group="team-2">
+									<img src="../../media/images/about/team/thanushkar-teacher-dreamspace.png" alt="thanushkar-teacher-dreamspace" />
 									<span><span><span></span></span></span>
 								</a>
 								<div>
@@ -223,8 +223,8 @@
 					<ul class="template-layout-50x50 template-clear-fix">
 						<li class="template-layout-column-left">
 							<div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-								<a href="../../media/images/about/organisation/abisaya-agriculture.jpg" data-fancybox-group="team-2">
-									<img src="../../media/images/about/organisation/abisaya-agriculture.jpg" alt="abhi" />
+								<a href="../../media/images/about/team/abisaya-agriculture.jpg" data-fancybox-group="team-2">
+									<img src="../../media/images/about/team/abisaya-agriculture.jpg" alt="abhi" />
 									<span><span><span></span></span></span>
 								</a>
 								<div>
