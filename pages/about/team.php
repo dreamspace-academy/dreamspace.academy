@@ -48,6 +48,8 @@
 							<div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
 								<ul>
 									<li><a href="https://www.linkedin.com/in/kishoth-navaretnarajah-342b4311a/" class="template-component-social-icon-linkedin"></a></li>
+									<li><a href="https://www.linkedin.com/in/kishoth-navaretnarajah-342b4311a/" class="template-component-social-icon-blogger"></a></li>
+								
 								</ul>
 							</div>
 						</li>
