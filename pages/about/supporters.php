@@ -1,5 +1,5 @@
 <!-- Section -->
-<div class="template-content-section template-padding-top-reset template-padding-bottom-5 template-main">
+<div class="template-content-section template-padding-top-reset template-padding-bottom-5 template-main" id="supporters">
 
 	<!-- Header and subheader -->
 	<div class="template-component-header-subheader">
