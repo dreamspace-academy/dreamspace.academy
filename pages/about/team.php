@@ -48,8 +48,7 @@
 							<div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
 								<ul>
 									<li><a href="https://www.linkedin.com/in/kishoth-navaretnarajah-342b4311a/" class="template-component-social-icon-linkedin"></a></li>
-									<li><a href="https://www.linkedin.com/in/kishoth-navaretnarajah-342b4311a/" class="template-component-social-icon-blogger"></a></li>
-								
+									<li><a href="http://team.dreamspace.academy/kishoth/" class="template-component-social-icon-wykop"></a></li>								
 								</ul>
 							</div>
 						</li>
@@ -78,6 +77,7 @@
 								<ul>
 
 									<li><a href="https://www.linkedin.com/in/aravinthpanch/" class="template-component-social-icon-linkedin"></a></li>
+									<li><a href="http://aravinth.info/" class="template-component-social-icon-wykop"></a></li>
 								</ul>
 							</div>
 						</li>
@@ -107,6 +107,7 @@
 								<ul>
 
 									<li><a href="https://www.linkedin.com/in/" class="template-component-social-icon-linkedin"></a></li>
+									<li><a href="http://team.dreamspace.academy/grashiyan/" class="template-component-social-icon-wykop"></a></li>
 								</ul>
 							</div>
 						</li>
@@ -134,6 +135,7 @@
 							<div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
 								<ul>
 									<li><a href="https://www.linkedin.com/in/" class="template-component-social-icon-linkedin"></a></li>
+									<li><a href="http://team.dreamspace.academy/prashath/" class="template-component-social-icon-wykop"></a></li>
 								</ul>
 							</div>
 						</li>
@@ -161,6 +163,7 @@
 							<div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
 								<ul>
 									<li><a href="https://www.linkedin.com/in/" class="template-component-social-icon-linkedin"></a></li>
+									<li><a href="http://team.dreamspace.academy/" class="template-component-social-icon-wykop"></a></li>
 								</ul>
 							</div>
 						</li>
@@ -188,6 +191,7 @@
 							<div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
 								<ul>
 									<li><a href="https://www.linkedin.com/in/nviththiyakaran" class="template-component-social-icon-linkedin"></a></li>
+									<li><a href="http://team.dreamspace.academy/viththi/" class="template-component-social-icon-wykop"></a></li>
 								</ul>
 							</div>
 						</li>
@@ -216,6 +220,7 @@
 							<div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
 								<ul>
 									<li><a href="https://www.linkedin.com/in/thanushkar-srikaran-203285178" class="template-component-social-icon-linkedin"></a></li>
+									<li><a href="http://team.dreamspace.academy/thanushkar/" class="template-component-social-icon-wykop"></a></li>
 								</ul>
 							</div>
 						</li>
