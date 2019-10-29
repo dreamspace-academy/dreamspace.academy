@@ -74,6 +74,7 @@
 										<ul>
 											<li><a href="../about/index.php#organisation">Organisation</a></li>
 											<li><a href="../about/index.php#team">Team</a></li>
+											<li><a href="../about/index.php#supporters">Supporters</a></li>
 											<li><a href="../about/index.php#partners">Partners</a></li>
 											<!--		<li><a href="pages/about/index.php#skills">Skills</a></li> -->
 
@@ -142,6 +143,7 @@
 											<ul>	
 												<li><a href="#organisation">Organisation</a></li>
 												<li><a href="#team">Team</a></li>
+												<li><a href="#supporters">Supporters</a></li>
 												<li><a href="#partners">Partners</a></li>
 												<!--	<li><a href="#skills">Skills</a></li>-->
 														
