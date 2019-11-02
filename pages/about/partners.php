@@ -173,6 +173,16 @@
 					</center>
 
 				</li>
+				<li class="template-layout-column-right">
+					<center>
+						<div class="template-component-image template-fancybox template-preloader">
+							<img style="height:50%; width:50%" src="../../media/images/partners-logo/duke.png" alt="">
+							<div>
+								<h6><a target=_blank href="http://www.nysc.lk/youthAward_e.php">Duke of Edinburgh Award, Sri Lanka </a></h6>
+							</div>
+						</div>
+					</center>
+				</li>
 			</ul>
 		</div>
 
