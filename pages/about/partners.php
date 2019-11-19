@@ -81,6 +81,51 @@
 
 	<!-- Header and subheader -->
 	<div class="template-component-header-subheader">
+		<h2>Our Project Partners</h2>
+		<h6></h6>
+		<div></div>
+	</div>
+
+	<!-- Section -->
+	<div data-id="section-1">
+
+		<!-- Gallery -->
+		<div class="template-component-gallery">
+			<ul class="template-layout-33x33x33 template-clear-fix">
+				<li class="template-layout-column-left">
+					<center>
+						<div class="template-component-image template-fancybox template-preloader">
+							<img style="height:50%; width:50%" src="../../media/images/partners-logo/siwi.png" alt="">
+							<div>
+								<h6><a target=_blank href="https://www.siwi.org/">Stockholm International Water Institute, Sweden</a></h6>
+							</div>
+						</div>
+					</center>
+				</li>
+				
+				<li class="template-layout-column-center">
+					<center>
+						<div class="template-component-image template-fancybox template-preloader">
+							<img style="height:50%; width:50%" src="../../media/images/partners-logo/duke.png" alt="">
+							<div>
+								<h6><a target=_blank href="http://www.nysc.lk/youthAward_e.php">Duke of Edinburgh Award, Sri Lanka </a></h6>
+							</div>
+						</div>
+					</center>
+				</li>
+				
+			</ul>
+		</div>
+
+
+			</div>
+	</div>
+
+<!-- Section -->
+<div class="template-content-section template-padding-bottom-reset template-main template-clear-fix">
+
+	<!-- Header and subheader -->
+	<div class="template-component-header-subheader">
 		<h2>Our Network Partners</h2>
 		<h6></h6>
 		<div></div>
@@ -173,16 +218,7 @@
 					</center>
 
 				</li>
-				<li class="template-layout-column-right">
-					<center>
-						<div class="template-component-image template-fancybox template-preloader">
-							<img style="height:50%; width:50%" src="../../media/images/partners-logo/duke.png" alt="">
-							<div>
-								<h6><a target=_blank href="http://www.nysc.lk/youthAward_e.php">Duke of Edinburgh Award, Sri Lanka </a></h6>
-							</div>
-						</div>
-					</center>
-				</li>
+				
 			</ul>
 		</div>
 
