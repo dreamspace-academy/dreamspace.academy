@@ -83,7 +83,36 @@
 						</li>
 					</ul>
 				</li>
+				
 				<li class="template-layout-column-left">
+					<ul class="template-layout-50x50 template-clear-fix">
+						<li class="template-layout-column-left">
+							<div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+								<a href="../../media/images/about/team/prasath-human-relations-dreamspace.png" data-fancybox-group="team-2">
+									<img src="../../media/images/about/team/prasath-human-relations-dreamspace.png" alt="prasath-human-relations-dreamspace" />
+									<span><span><span></span></span></span>
+								</a>
+								<div>
+									<h6>Prasath Thevapalan</h6>
+									<span>Head of Public Relations & Trainer - Photography</span>
+								</div>
+								<p><b>Prasath Thevapalan</b> Head of Public Relations & Trainer - Photography</p>
+							</div>
+						</li>
+						<li class="template-layout-column-right">
+							<div class="template-component-team-quote"></div>
+							<p class="template-component-team-description" style="text-align: justify">Prasath is an enthusiast photographer who is passionate about addressing community issues through the lens of his camera. He is an emerging social media blogger,
+								content writer and a visual storyteller.</p>
+							<div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+								<ul>
+									<li><a href="https://www.linkedin.com/in/" class="template-component-social-icon-linkedin"></a></li>
+									<li><a href="http://team.dreamspace.academy/prashath/" class="template-component-social-icon-wykop"></a></li>
+								</ul>
+							</div>
+						</li>
+					</ul>
+				</li>
+				<li class="template-layout-column-right">
 					<ul class="template-layout-50x50 template-clear-fix">
 						<li class="template-layout-column-left">
 							<div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
@@ -113,63 +142,8 @@
 						</li>
 					</ul>
 				</li>
-				<li class="template-layout-column-right">
-					<ul class="template-layout-50x50 template-clear-fix">
-						<li class="template-layout-column-left">
-							<div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-								<a href="../../media/images/about/team/prasath-human-relations-dreamspace.png" data-fancybox-group="team-2">
-									<img src="../../media/images/about/team/prasath-human-relations-dreamspace.png" alt="prasath-human-relations-dreamspace" />
-									<span><span><span></span></span></span>
-								</a>
-								<div>
-									<h6>Prasath Thevapalan</h6>
-									<span>Head of Public Relations & Trainer - Photography</span>
-								</div>
-								<p><b>Prasath Thevapalan</b> Head of Public Relations & Trainer - Photography</p>
-							</div>
-						</li>
-						<li class="template-layout-column-right">
-							<div class="template-component-team-quote"></div>
-							<p class="template-component-team-description" style="text-align: justify">Prasath is an enthusiast photographer who is passionate about addressing community issues through the lens of his camera. He is an emerging social media blogger,
-								content writer and a visual storyteller.</p>
-							<div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
-								<ul>
-									<li><a href="https://www.linkedin.com/in/" class="template-component-social-icon-linkedin"></a></li>
-									<li><a href="http://team.dreamspace.academy/prashath/" class="template-component-social-icon-wykop"></a></li>
-								</ul>
-							</div>
-						</li>
-					</ul>
-				</li>
+				
 				<li class="template-layout-column-left">
-					<ul class="template-layout-50x50 template-clear-fix">
-						<li class="template-layout-column-left">
-							<div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-								<a href="../../media/images/about/team/nirajala-management-dreamspace.png" data-fancybox-group="team-2">
-									<img src="../../media/images/about/team/nirajala-management-dreamspace.png" alt="nirajala-management-dreamspace" />
-									<span><span><span></span></span></span>
-								</a>
-								<div>
-									<h6>Kirishnapillai Niranjalaa</h6>
-									<span>Management Assistant</span>
-								</div>
-								<p><b>Kirishnapillai Niranjalaa</b> Management Assistant</p>
-							</div>
-						</li>
-						<li class="template-layout-column-right">
-							<div class="template-component-team-quote"></div>
-							<p class="template-component-team-description" style="text-align: justify">Niranjala has 20 year experience in Office Management and handling of IT equipment. She has many artistic skills and she is very interested in Entrepreneurship. She is
-								a super supportive person that empower the staff in daily challenges.</p>
-							<div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
-								<ul>
-									<li><a href="https://www.linkedin.com/in/" class="template-component-social-icon-linkedin"></a></li>
-									<li><a href="http://team.dreamspace.academy/" class="template-component-social-icon-wykop"></a></li>
-								</ul>
-							</div>
-						</li>
-					</ul>
-				</li>
-				<li class="template-layout-column-right">
 					<ul class="template-layout-50x50 template-clear-fix">
 						<li class="template-layout-column-left">
 							<div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
@@ -197,7 +171,63 @@
 						</li>
 					</ul>
 				</li>
+				<li class="template-layout-column-right">
+					<ul class="template-layout-50x50 template-clear-fix">
+						<li class="template-layout-column-left">
+							<div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+								<a href="../../media/images/about/team/dilushan-head-of-makerspace.png" data-fancybox-group="team-2">
+									<img src="../../media/images/about/team/dilushan-head-of-makerspace.png" alt="thanushkar-teacher-dreamspace" />
+									<span><span><span></span></span></span>
+								</a>
+								<div>
+									<h6>Dilushan Aynkaran</h6>
+									<span> Head of Makerspace & Trainer - Mechanical</span>
+								</div>
+								<p><b>Dilushan Aynkaran</b>  Head of Makerspace & Trainer - Mechanical</p>
+							</div>
+						</li>
+						<li class="template-layout-column-right">
+							<div class="template-component-team-quote"></div>
+
+							<p class="template-component-team-description" style="text-align: justify">Dilushan is an emerging  creator who works to solve community issues coming from the background of Engineering technology and he is passionate on mechanical engineering</p>
+							<div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+								<ul>
+									<li><a href="https://www.linkedin.com/in/dilushan-aynkaran-a63931197/" class="template-component-social-icon-linkedin"></a></li>
+									<li><a href="http://team.dreamspace.academy/dilu/" class="template-component-social-icon-wykop"></a></li>
+								</ul>
+							</div>
+						</li>
+					</ul>
+				</li>
+				
 				<li class="template-layout-column-left">
+					<ul class="template-layout-50x50 template-clear-fix">
+						<li class="template-layout-column-left">
+							<div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+								<a href="../../media/images/about/team/pavithran-trainer-makerspacep-dreamspace.png" data-fancybox-group="team-2">
+									<img src="../../media/images/about/team/pavithran-trainer-makerspacep-dreamspace.png" alt="pavithran-trainer-makerspacep-dreamspace" />
+									<span><span><span></span></span></span>
+								</a>
+								<div>
+									<h6>Pavithran Manisegraram</h6>
+									<span>Trainer - Makerspace</span>
+								</div>
+								<p><b>Pavithran Manisegraram</b> Trainer - Makerspace</p>
+							</div>
+						</li>
+						<li class="template-layout-column-right">
+							<div class="template-component-team-quote"></div>
+							<p class="template-component-team-description" style="text-align: justify">Pavithran is a Enthusiastic young Activist.Who is more involved science related activities, independent journalism, Documenting via visual story. Now he is more passionate in finding innovative solutions to society issues. </p>
+							<div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+								<ul>
+									<li><a href="https://www.linkedin.com/in/manisegaran-pavithran-a85464129/ " class="template-component-social-icon-linkedin"></a></li>
+									<li><a href="http://team.dreamspace.academy/pavi/" class="template-component-social-icon-wykop"></a></li>
+								</ul>
+							</div>
+						</li>
+					</ul>
+				</li>
+				<li class="template-layout-column-right">
 					<ul class="template-layout-50x50 template-clear-fix">
 						<li class="template-layout-column-left">
 							<div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
@@ -207,9 +237,9 @@
 								</a>
 								<div>
 									<h6>Thanushkar Srikaran</h6>
-									<span>Head of MakerSpace & Trainer - Electronics</span>
+									<span> Trainer - Electronics</span>
 								</div>
-								<p><b>Thanushkar Srikaran</b> Head of MakerSpace & Trainer - Electronics</p>
+								<p><b>Thanushkar Srikaran</b>  Trainer - Electronics</p>
 							</div>
 						</li>
 						<li class="template-layout-column-right">
@@ -226,34 +256,7 @@
 						</li>
 					</ul>
 				</li>
-				<li class="template-layout-column-right">
-					<ul class="template-layout-50x50 template-clear-fix">
-						<li class="template-layout-column-left">
-							<div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-								<a href="../../media/images/about/team/abisaya-agriculture.jpg" data-fancybox-group="team-2">
-									<img src="../../media/images/about/team/abisaya-agriculture.jpg" alt="abhi" />
-									<span><span><span></span></span></span>
-								</a>
-								<div>
-									<h6>Abisaya Mohanalingam</h6>
-									<span>Head of Agriculture & Trainer - Urban Farming</span>
-								</div>
-								<p><b>Abisaya Mohanalingam</b> Head of Agriculture & Trainer - Urban Farming</p>
-							</div>
-						</li>
-						<li class="template-layout-column-right">
-							<div class="template-component-team-quote"></div>
-							<p class="template-component-team-description" style="text-align: justify">Abishaya is passionate about the research and development in the field of agriculture. She participated in National Science Foundation’s Science Research project
-								during her high school and now she is engaged in developing alternative agriculture initiatives in Sri Lanka.</p>
-							<p class="template-component-team-description" style="text-align: justify"></p>
-							<div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
-								<ul>
-									<li></li>
-								</ul>
-							</div>
-						</li>
-					</ul>
-				</li>
+				
 			</ul>
 		</div>
 
