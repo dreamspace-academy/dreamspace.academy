@@ -175,6 +175,62 @@
 					<ul class="template-layout-50x50 template-clear-fix">
 						<li class="template-layout-column-left">
 							<div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+								<a href="../../media/images/about/team/dilushan-head-of-makerspace.png" data-fancybox-group="team-2">
+									<img src="../../media/images/about/team/dilushan-head-of-makerspace.png" alt="thanushkar-teacher-dreamspace" />
+									<span><span><span></span></span></span>
+								</a>
+								<div>
+									<h6>Dilushan Aynkaran</h6>
+									<span> Head of Makerspace & Trainer - Mechanical</span>
+								</div>
+								<p><b>Dilushan Aynkaran</b>  Head of Makerspace & Trainer - Mechanical</p>
+							</div>
+						</li>
+						<li class="template-layout-column-right">
+							<div class="template-component-team-quote"></div>
+
+							<p class="template-component-team-description" style="text-align: justify">Dilushan is an emerging  creator who works to solve community issues coming from the background of Engineering technology and he is passionate on mechanical engineering</p>
+							<div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+								<ul>
+									<li><a href="https://www.linkedin.com/in/dilushan-aynkaran-a63931197/" class="template-component-social-icon-linkedin"></a></li>
+									<li><a href="http://team.dreamspace.academy/dilu/" class="template-component-social-icon-wykop"></a></li>
+								</ul>
+							</div>
+						</li>
+					</ul>
+				</li>
+				
+				<li class="template-layout-column-left">
+					<ul class="template-layout-50x50 template-clear-fix">
+						<li class="template-layout-column-left">
+							<div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+								<a href="../../media/images/about/team/pavithran-trainer-makerspacep-dreamspace.png" data-fancybox-group="team-2">
+									<img src="../../media/images/about/team/pavithran-trainer-makerspacep-dreamspace.png" alt="pavithran-trainer-makerspacep-dreamspace" />
+									<span><span><span></span></span></span>
+								</a>
+								<div>
+									<h6>Pavithran Manisegraram</h6>
+									<span>Trainer - Makerspace</span>
+								</div>
+								<p><b>Pavithran Manisegraram</b> Trainer - Makerspace</p>
+							</div>
+						</li>
+						<li class="template-layout-column-right">
+							<div class="template-component-team-quote"></div>
+							<p class="template-component-team-description" style="text-align: justify">Pavithran is a Enthusiastic young Activist.Who is more involved science related activities, independent journalism, Documenting via visual story. Now he is more passionate in finding innovative solutions to society issues. </p>
+							<div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+								<ul>
+									<li><a href="https://www.linkedin.com/in/manisegaran-pavithran-a85464129/ " class="template-component-social-icon-linkedin"></a></li>
+									<li><a href="http://team.dreamspace.academy/pavi/" class="template-component-social-icon-wykop"></a></li>
+								</ul>
+							</div>
+						</li>
+					</ul>
+				</li>
+				<li class="template-layout-column-right">
+					<ul class="template-layout-50x50 template-clear-fix">
+						<li class="template-layout-column-left">
+							<div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
 								<a href="../../media/images/about/team/thanushkar-teacher-dreamspace.png" data-fancybox-group="team-2">
 									<img src="../../media/images/about/team/thanushkar-teacher-dreamspace.png" alt="thanushkar-teacher-dreamspace" />
 									<span><span><span></span></span></span>
