@@ -56,85 +56,15 @@
 		</div>
 
 		<!-- Contact form -->
-		<div class="template-component-contact-form">
-
-			<form method="post">
-
-				<!-- Layout 50x50 -->
-				<div class="template-layout-50x50 template-clear-fix">
-
-					<!-- Left column -->
-					<div class="template-layout-column-left">
-
-						<!-- Name -->
-						<div class="template-form-line template-state-block">
-							<label for="contact-form-name">Your Name *</label>
-							<input type="text" name="contact-form-name" id="contact-form-name" required />
-						</div>
-
-						<!-- E-mail -->
-						<div class="template-form-line template-state-block">
-							<label for="contact-form-email">Your E-mail *</label>
-							<input type="text" name="contact-form-email" id="contact-form-email" required />
-						</div>
-
-						<!-- Subject -->
-						<div class="template-form-line template-state-block">
-							<label for="contact-form-subject">Subject</label>
-							<input type="text" name="contact-form-subject" id="contact-form-subject" required />
-						</div>
-
-					</div>
-
-					<!-- Right column -->
-					<div class="template-layout-column-right">
-						<div class="template-form-line template-state-block">
-							<label for="contact-form-message">Message *</label>
-							<textarea rows="1" cols="1" name="contact-form-message" id="contact-form-message" required></textarea>
-						</div>
-					</div>
-
-				</div>
-
-				<div class="template-form-line template-form-line-submit template-align-center">
-
-					<div class="template-state-block">
-
-						<!-- Submit button -->
-						<input class="template-component-button template-component-button-style-1" type="submit" value="Send message" name="contact-form-submit" id="contact-form-submit" />
-
-					</div>
-
-				</div>
-
-			</form>
-
-		</div>
-
+<?php 
+ $soucre= "https://docs.google.com/forms/d/e/1FAIpQLSeHlS5ahdvqTF9k2utdVqZ1gxTrABzQu1MLOZJKHhkN4B43Lg/viewform?embedded=true";
+ $soucre = base64_encode($soucre);
+ 
+ ?>
+		<center><iframe src=<?php echo base64_decode($soucre); ?>  width="100%" height="520" frameborder="1" marginheight="0" marginwidth="0">Loading…</iframe>
+		</center>
 	</div>
-	<?php
-
-			if(isset($_POST['contact-form-submit']))
-			{
-
-				$to      = 'battikaran;@gmail.com';
-				$subject = $_POST['contact-form-subject'];
-				$message = $_POST['contact-form-message'];
-				$headers = 'From: webmaster@example.com' . "\r\n" .
-					'Reply-To: webmaster@example.com' . "\r\n" .
-					'X-Mailer: PHP/' . phpversion();
-
-				mail($to, $subject, $message, $headers);
-
-
-
-
-			}
-
-
-
-
-			?>
+	
 
 	<div class="template-content-section template-padding-top-reset template-padding-bottom-reset">
 
