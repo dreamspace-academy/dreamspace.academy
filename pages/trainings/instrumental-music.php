@@ -57,9 +57,9 @@
 			<div class="template-component-nivo-slider template-component-nivo-slider-style-1 template-preloader">
 				<div>
 
-					<img src="../../media/images/trainings/instrumental-music-photo-1.jpg" data-thumb="../../media/images/trainings/instrumental-music-photo-1.jpg" alt="instrumental-music-dreamspace-batticaloa" />
-					<img src="../../media/images/trainings/instrumental-music-photo-2.jpg" data-thumb="../../media/images/trainings/instrumental-music-photo-2.jpg" alt="instrumental-music-dreamspace-batticaloa" />
-					<img src="../../media/images/trainings/instrumental-music-photo-3.jpg" data-thumb="../../media/images/trainings/instrumental-music-photo-3.jpg" alt="instrumental-music-dreamspace-batticaloa" />
+					<img src="../../media/images/workshops/instrumental-music-photo-1.jpg" data-thumb="../../media/images/workshops/instrumental-music-photo-1.jpg" alt="instrumental-music-dreamspace-batticaloa" />
+					<img src="../../media/images/workshops/instrumental-music-photo-2.jpg" data-thumb="../../media/images/workshops/instrumental-music-photo-2.jpg" alt="instrumental-music-dreamspace-batticaloa" />
+					<img src="../../media/images/workshops/instrumental-music-photo-3.jpg" data-thumb="../../media/images/workshops/instrumental-music-photo-3.jpg" alt="instrumental-music-dreamspace-batticaloa" />
 
 				</div>
 			</div>

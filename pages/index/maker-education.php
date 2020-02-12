@@ -4,7 +4,7 @@
 	<div class="template-main">
 		<!-- Header and subheader -->
 		<div class="template-component-header-subheader">
-			<h2>Trainings</h2>
+			<h3>Maker Education</h3>
 			<h6></h6>
 			<div></div>
 		</div>
@@ -13,13 +13,13 @@
 		<div class="template-component-class template-clear-fix">
 			<!-- Layout 50x50 -->
 			<ul class="template-layout-50x50">
+
 				<!-- Left column -->
 				<li class="template-layout-column-left">
 					<div class="template-layout-flex-50x50">
 						<div>
-							<h5>Maker Education</h5>
-							<span>Turn your innovative ideas into real prototypes by learning electronics, mechanics, firmware, software…</span>
-							</br></br>
+							<h5>Electronics Lab</h5>
+							<span>For those are fascinated by robots, to build practical techniques for building anything from circuits to humanoid robotics</span>
 							<div class="template-layout-flex-50x50">
 								<div>
 									<span>14+</span>
@@ -37,81 +37,36 @@
 						</div>
 					</div>
 				</li>
+
 				<!-- Right column -->
 				<li class="template-layout-column-right">
 					<div class="template-layout-flex-50x50">
 						<div>
-							<h5>Design Thinking</h5>
-							<span>It’s about creating a user-centric mindset! - A methodology that you can use to tackle nearly any problem...</span>
-							</br></br>
+							<h5>Software Lab</h5>
+							<span>For those who want to master digital world, to build practical experience for coding anything from apps to cloud computing</br></br></span>
 							<div class="template-layout-flex-50x50">
 								<div>
 									<span>12+</span>
 									<span>Years old</span>
 								</div>
 								<div>
-									<span>28+</span>
+									<span>64+</span>
 									<span>Hours</span>
 								</div>
 							</div>
 						</div>
 						<div class="template-component-class-background-2">
-							<a href="pages/trainings/index.php#design-thinking" class="template-component-button template-component-button-style-1">Click here<i></i></a>
-						</div>
-					</div>
-				</li>
-				<!-- Left column -->
-				<li class="template-layout-column-left">
-					<div class="template-layout-flex-50x50">
-						<div>
-							<h5>Instrumental music</h5>
-							<span>Your first steps playing Instruments, understanding rythm and harmony...</span>
-							</br></br>
-							<div class="template-layout-flex-50x50">
-								<div>
-									<span>12+</span>
-									<span>Years old</span>
-								</div>
-								<div>
-									<span>64+</span>
-									<span>Hours</span>
-								</div>
-							</div>
-						</div>
-						<div class="template-component-class-background-3">
-							<a href="pages/trainings/index.php#instrumental-music" class="template-component-button template-component-button-style-1">Click here<i></i></a>
-						</div>
-					</div>
-				</li>
-				<!-- Right column -->
-				<li class="template-layout-column-right">
-					<div class="template-layout-flex-50x50">
-						<div>
-							<h5>Information Technology</h5>
-							<span>Learn how bits and bytes of the digital world influence the planet Earth and beyond...</span>
-							<div class="template-layout-flex-50x50">
-								<div>
-									<span>12+</span>
-									<span>Years old</span>
-								</div>
-								<div>
-									<span>64+</span>
-									<span>Hours</span>
-								</div>
-							</div>
-						</div>
-						<div class="template-component-class-background-4">
 							<a href="pages/trainings/index.php#information-technology" class="template-component-button template-component-button-style-1">Click here<i></i></a>
 						</div>
 					</div>
 				</li>
+
 				<!-- Left column -->
 				<li class="template-layout-column-left">
 					<div class="template-layout-flex-50x50">
 						<div>
-							<h5>Access Programme</h5>
-							<span>Learn at early age soft skills that positively influence character and future career...</span>
-							</br></br>
+							<h5>Mechanics Lab</h5>
+							<span>For those who want to shift their brain gears, to build practical skills for mechanical design and digital fabrication</br></br></br></span>
 							<div class="template-layout-flex-50x50">
 								<div>
 									<span>8 to 14</span>
@@ -123,17 +78,42 @@
 								</div>
 							</div>
 						</div>
-						<div class="template-component-class-background-5">
+						<div class="template-component-class-background-3">
 							<a href="pages/trainings/index.php#access-programme" class="template-component-button template-component-button-style-1">Click here<i></i></a>
 						</div>
 					</div>
 				</li>
+
 				<!-- Right column -->
 				<li class="template-layout-column-right">
 					<div class="template-layout-flex-50x50">
 						<div>
-							<h5>Studies of Languages </h5>
-							<span>Learn languages and and speak with confidence to the world...</br></br></span>
+							<h5>Business Lab</h5>
+							<span>For those who have entrepreneurial mindset, to build practical knowledge for maximizing growth of the business venture</span>
+							</br></br>
+							<div class="template-layout-flex-50x50">
+								<div>
+									<span>12+</span>
+									<span>Years old</span>
+								</div>
+								<div>
+									<span>28+</span>
+									<span>Hours</span>
+								</div>
+							</div>
+						</div>
+						<div class="template-component-class-background-4">
+							<a href="pages/trainings/index.php#design-thinking" class="template-component-button template-component-button-style-1">Click here<i></i></a>
+						</div>
+					</div>
+				</li>
+
+				<!-- Left column -->
+				<li class="template-layout-column-left">
+					<div class="template-layout-flex-50x50">
+						<div>
+							<h5>Design Lab</h5>
+							<span>For those born with an eye for beauty, to build practical expertise on multimedia design and production</br></br></span>
 							<div class="template-layout-flex-50x50">
 								<div>
 									<span>14+</span>
@@ -145,11 +125,59 @@
 								</div>
 							</div>
 						</div>
-						<div class="template-component-class-background-6">
+						<div class="template-component-class-background-5">
 							<a href="pages/trainings/index.php#studies-of-languages" class="template-component-button template-component-button-style-1">Click here<i></i></a>
 						</div>
 					</div>
 				</li>
+
+				<!-- Right column -->
+				<li class="template-layout-column-right">
+					<div class="template-layout-flex-50x50">
+						<div>
+							<h5>Art Lab</h5>
+							<span>For those with genuine creative imagination, to build practical skill set for composing anything from photographs to rhythms</span>
+							</br></br>
+							<div class="template-layout-flex-50x50">
+								<div>
+									<span>12+</span>
+									<span>Years old</span>
+								</div>
+								<div>
+									<span>64+</span>
+									<span>Hours</span>
+								</div>
+							</div>
+						</div>
+						<div class="template-component-class-background-6">
+							<a href="pages/trainings/index.php#instrumental-music" class="template-component-button template-component-button-style-1">Click here<i></i></a>
+						</div>
+					</div>
+				</li>
+
+				<!-- Left column -->
+				<li class="template-layout-column-left">
+					<div class="template-layout-flex-50x50">
+						<div>
+							<h5>Wet Lab</h5>
+							<span>For those who want to get their hands wet with BioHacking, to build practical dexterity on BioTechnology</span>
+							<div class="template-layout-flex-50x50">
+								<div>
+									<span>14+</span>
+									<span>Years old</span>
+								</div>
+								<div>
+									<span>64+</span>
+									<span>Hours</span>
+								</div>
+							</div>
+						</div>
+						<div class="template-component-class-background-7">
+							<a href="pages/trainings/index.php#studies-of-languages" class="template-component-button template-component-button-style-1">Click here<i></i></a>
+						</div>
+					</div>
+				</li>
+
 			</ul>
 		</div>
 	</div>

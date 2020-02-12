@@ -62,9 +62,9 @@
 				<div>
 
 
-					<img src="../../media/images/trainings/maker-education-photo-1.jpg" data-thumb="../../media/images/trainings/maker-education-photo-1.jpg" alt="maker-education-dreamspace-batticaloa" />
-					<img src="../../media/images/trainings/maker-education-photo-2.jpg" data-thumb="../../media/images/trainings/maker-education-photo-2.jpg" alt="maker-education-dreamspace-batticaloa" />
-					<img src="../../media/images/trainings/maker-education-photo-4.jpg" data-thumb="../../media/images/trainings/maker-education-photo-4.jpg" alt="maker-education-dreamspace-batticaloa" />
+					<img src="../../media/images/workshops/maker-education-photo-1.jpg" data-thumb="../../media/images/workshops/maker-education-photo-1.jpg" alt="maker-education-dreamspace-batticaloa" />
+					<img src="../../media/images/workshops/maker-education-photo-2.jpg" data-thumb="../../media/images/workshops/maker-education-photo-2.jpg" alt="maker-education-dreamspace-batticaloa" />
+					<img src="../../media/images/workshops/maker-education-photo-4.jpg" data-thumb="../../media/images/workshops/maker-education-photo-4.jpg" alt="maker-education-dreamspace-batticaloa" />
 
 				</div>
 			</div>
