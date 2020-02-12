@@ -6,20 +6,19 @@
 		<!-- Header and subheader -->
 		<div class="template-component-header-subheader">
 			<h3>
-				<b style="color: #56509F">DreamSpace Academy</b> is a <b>Community Innovation Center</b> with a mission to empower creative minds through <b style="color: #56509F">Maker Education</b> and <b>Open Innovation</b>, ultimately enabling
-				them to become successful <b style="color: #56509F">Social Entrepreneurs</b>.
+				<b style="color: #56509F">DreamSpace Academy</b> is a <b>Community Innovation Center</b> to tackle authentic socio-economic and environmental challenges using <b style="color: #56509F">Project & Challenge Based Learning.</b>
 				</br>
 				</br>
-				Our trainings and community projects are focused on tackling local <b style="color: #56509F">Socio-Economic</b> and <b>Environmental</b> challenges through <b style="color: #56509F">Project Based Learning</b>.
+				<b style="color: #56509F">Our mission</b> to empower creative minds through <b>Maker Education</b> and <b style="color: #56509F">Open Innovation</b>, ultimately enabling them to become successful <b>Social Entrepreneurs</b>.
 				</br>
 				</br>
-				We are a <b style="color: #56509F">Social Enterprise</b> funded by various international organisations. However, we sustain ourselves from the reasonable <b>contributions</b> of the families of our trainees
+				We are a <b style="color: #56509F">Non-profit Social Enterprise</b> that keeps the balance between the <b>Social Mission</b> and the <b style="color: #56509F">Business Venture</b> to ensure <b>Sustainability</b>, with the help of international & local organisations and individuals.
 			</h3>
 		</div>
 
 		<!-- Header and subheader -->
 		<div class="template-component-header-subheader">
-			<h3>The four pillars</h3>
+			<h3>The four verticals</h3>
 			<h6></h6>
 			<div></div>
 		</div>
@@ -29,24 +28,23 @@
 			<ul class="template-layout-25x25x25x25 template-clear-fix">
 				<li class="template-layout-column-left">
 					<div class="template-icon-feature template-icon-feature-name-paintbrush-alt"></div>
-					<h5>Project Based Learning</h5>
-					<p>Learn efficiently with a hands-on project solving real-life challenges</p>
+					<h5>Maker</br>Education </h5>
+					<p>Our academic operation for project based learning with multidisciplinary workshops  to build practical skills</p>
 				</li>
 				<li class="template-layout-column-center-left">
 					<div class="template-icon-feature template-icon-feature-name-lab-alt"></div>
-					<h5>Community Innovation</h5>
-					<p>Innovate together with our community tackling social and environmental problems</p>
+					<h5>Community</br>Innovation</h5>
+					<p>Our research and development operation for innovating local solutions to tackle authentic local challenges </p>
 				</li>
 				<li class="template-layout-column-center-right">
 					<div class="template-icon-feature template-icon-feature-name-globe-alt"></div>
-					<h5>International Collaboration</h5>
-					<p>Mentorship with international experts and partnerships with international institutions and universities</p>
+					<h5>International</br>Collaboration </h5>
+					<p>Our co-creation operation with international partners to expand our visibility and knowledge base </p>
 				</li>
 				<li class="template-layout-column-right">
 					<div class="template-icon-feature template-icon-feature-name-flag-alt"></div>
-					<h5>Entrepreneurship</h5>
-					</br>
-					<p>Turn your ideas into products and create sustainable businesses</p>
+					<h5>Social</br>Entrepreneurship </h5>
+					<p>Our business operation to productize our local solutions for creating socio-economic development</p>
 				</li>
 			</ul>
 		</div>
