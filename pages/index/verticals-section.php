@@ -6,10 +6,10 @@
 		<!-- Header and subheader -->
 		<div class="template-component-header-subheader">
 			<h3>
-				<b style="color: #56509F">DreamSpace Academy</b> is a <b>Community Innovation Center</b> to tackle authentic socio-economic and environmental challenges using <b style="color: #56509F">Project & Challenge Based Learning.</b>
+				<b style="color: #56509F">DreamSpace Academy</b> is a <b>Community Innovation Center</b> to tackle authentic local socio-economic and environmental challenges using <b style="color: #56509F">Project & Challenge Based Learning.</b>
 				</br>
 				</br>
-				<b style="color: #56509F">Our mission</b> to empower creative minds through <b>Maker Education</b> and <b style="color: #56509F">Open Innovation</b>, ultimately enabling them to become successful <b>Social Entrepreneurs</b>.
+				<b style="color: #56509F">Our mission</b> to empower creative minds through <b>Maker Education</b>, to create innovative solutions using <b style="color: #56509F">Open Innovations</b>, and ultimately leading them to become successful <b>Social Entrepreneurs</b>.
 				</br>
 				</br>
 				We are a <b style="color: #56509F">Non-profit Social Enterprise</b> that keeps the balance between the <b>Social Mission</b> and the <b style="color: #56509F">Business Venture</b> to ensure <b>Sustainability</b>, with the help of international & local organisations and individuals.
