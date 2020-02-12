@@ -6,8 +6,6 @@
 
 	<?php include('pages/index/verticals-section.php'); ?>
 
-	<?php include('pages/index/statistics-section.php'); ?>
-
 	<?php include('pages/index/training-section.php'); ?>
 
 	<?php include('pages/index/spotlight-section.php');  ?>

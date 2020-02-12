@@ -6,7 +6,6 @@
 		<!-- Header and subheader -->
 		<div class="template-component-header-subheader">
 			<h3>
-
 				<!-- Header and subheader -->
 				<div class="template-component-header-subheader">
 					<h3>Who are we?</h3>
@@ -21,7 +20,8 @@
 					<h6></h6>
 					<div></div>
 				</div>
-				<b style="color: #56509F">Our mission</b> to empower creative minds through <b>Maker Education</b>, to create innovative solutions using <b style="color: #56509F">Open Innovations</b>, and ultimately leading them to become successful <b>Social Entrepreneurs</b>.
+				<b style="color: #56509F">Our mission</b> to empower creative minds through <b>Maker Education</b>, to create innovative solutions using <b style="color: #56509F">Open Innovations</b>, and ultimately leading them to become successful <b>Social
+					Entrepreneurs</b>.
 				</br>
 
 				<!-- Header and subheader -->
@@ -30,7 +30,8 @@
 					<h6></h6>
 					<div></div>
 				</div>
-				We are a <b style="color: #56509F">Non-profit Social Enterprise</b> that keeps the balance between the <b>Social Mission</b> and the <b style="color: #56509F">Business Venture</b> to ensure <b>Sustainability</b>, with the help of international & local organisations and individuals.
+				We are a <b style="color: #56509F">Non-profit Social Enterprise</b> that keeps the balance between the <b>Social Mission</b> and the <b style="color: #56509F">Business Venture</b> to ensure <b>Sustainability</b>, with the help of international &
+				local organisations and individuals.
 			</h3>
 		</div>
 
