@@ -6,68 +6,41 @@
 
 	<!-- Layout 50x50 -->
 	<div class="template-layout-50x50 template-clear-fix">
-
 		<!-- Left column -->
 		<div class="template-layout-column-left">
-
 			<!-- Nivo slider -->
 			<div class="template-component-nivo-slider template-component-nivo-slider-style-1 template-preloader">
 				<div>
-
 					<img src="../../media/images/workshops/studies-of-languages-photo-1.jpg" data-thumb="../../media/images/workshops/studies-of-languages-photo-1.jpg" alt="studies-of-languages-dreamspace-batticaloa" />
 					<img src="../../media/images/workshops/studies-of-languages-photo-2.jpg" data-thumb="../../media/images/workshops/studies-of-languages-photo-2.jpg" alt="studies-of-languages-dreamspace-batticaloa" />
 					<img src="../../media/images/workshops/studies-of-languages-photo-3.jpg" data-thumb="../../media/images/workshops/studies-of-languages-photo-3.jpg" alt="studies-of-languages-dreamspace-batticaloa" />
-
 				</div>
 			</div>
-
 		</div>
 
 
 		<!-- Right column -->
 		<div class="template-layout-column-right">
-
 			<!-- Header -->
-			<h4 id="studies-of-languages">Studies of Languages</h4>
-
-			<p>We are providing so many languages in our community such as English,French and Sinhala Those are based on Activity and Presentation</p>
+			<h4>Wet Lab</h4>
+			<p>For those who want to get their hands wet with BioHacking, to build practical dexterity on BioTechnology</p>
 
 			<!-- List -->
+			<h5>Workshops</h5>
 			<div class="template-component-list template-component-list-style-1 template-margin-top-3">
 				<ul>
-					<li>Alphabet</li>
-					<li>Writing </li>
-					<li>Reading and Listening </li>
-					<li>Speaking</li>
+					<li>How to extract and sequence E.coli Genomic DNA</li>
+					<li>How to edit genes of benign microbes</li>
+					<li>How to build a Bioreactor to culture microorganisms</li>
+					<li>How to brew probiotic drinks with flower fermentation</li>
+					<li>How to produce alternative superfood from Cyanobacterias</li>
+					<li>How to culture mushrooms for sustainable materials</li>
 				</ul>
 			</div>
 
-			<!-- Vertical grid -->
-			<div class="template-component-vertical-grid template-margin-top-3">
-				<ul>
-					<li class="template-component-vertical-grid-line-1n">
-						<div>Age Group:</div>
-						<div>14+ Years Old</div>
-					</li>
-					<li class="template-component-vertical-grid-line-2n">
-						<div>Class Size:</div>
-						<div>20 Participants</div>
-					</li>
-					<li class="template-component-vertical-grid-line-1n">
-						<div>Duration:</div>
-						<div>6 Months</div>
-					</li>
-					<li class="template-component-vertical-grid-line-2n">
-						<div>Sessions:</div>
-						<div>64 hrs with facilitator <br />24 hrs on self-Assessment and Project </div>
-					</li>
-				</ul>
-			</div>
+			<h5>Content</h5>
+			<p>BioSafety Level 1 Lab Techniques, Genetic Engineering, DNA Sequencing, BioChemistry, Mycology, Molecular Biology, BioInformatics, Cell Biology, BioEthics. </p>
 
 		</div>
-
-
-
 	</div>
-
 </div>

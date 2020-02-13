@@ -7,70 +7,40 @@
 
 	<!-- Layout 50x50 -->
 	<div class="template-layout-50x50 template-clear-fix">
-
 		<!-- Left column -->
 		<div class="template-layout-column-left">
-
 			<!-- Nivo slider -->
 			<div class="template-component-nivo-slider template-component-nivo-slider-style-1 template-preloader">
 				<div>
-
 					<img src="../../media/images/workshops/information-technology-photo-1.jpg" data-thumb="../../media/images/workshops/information-technology-photo-1.jpg" alt="information-technology-dreamspace-batticaloa" />
 					<img src="../../media/images/workshops/information-technology-photo-2.jpg" data-thumb="../../media/images/workshops/information-technology-photo-2.jpg" alt="information-technology-dreamspace-batticaloa" />
 					<img src="../../media/images/workshops/information-technology-photo-3.jpg" data-thumb="../../media/images/workshops/information-technology-photo-3.jpg" alt="information-technology-dreamspace-batticaloa" />
-
 				</div>
 			</div>
-
 		</div>
 
 
 		<!-- Right column -->
 		<div class="template-layout-column-right">
-
 			<!-- Header -->
-			<h4>Information Technology</h4>
+			<h4>Business Lab</h4>
+			<p>For those who have entrepreneurial mindset, to build practical knowledge for maximizing growth of the business venture/p>
 
-			<p> Information technology is the use of computers to store, retrieve, transmit, and manipulate data, or information,
-				often in the context of a business or other enterprise.</p>
+				<!-- List -->
+				<h5>Workshops</h5>
+				<div class="template-component-list template-component-list-style-1 template-margin-top-3">
+					<ul>
+						<li>How to design user centric solutions using Design Thinking </li>
+						<li>How to plan a financial modeling for a new business </li>
+						<li>How to make business plan & pricing for a sustainable business </li>
+						<li>How to develop B2B and B2C sales funnel </li>
+						<li>How to be a startup entrepreneur</li>
+					</ul>
+				</div>
 
-			<!-- List -->
-			<div class="template-component-list template-component-list-style-1 template-margin-top-3">
-				<ul>
-					<li>Project based technological programme</li>
-					<li>Enhances programming knowledge</li>
-					<li>Ability to do alone </li>
-
-				</ul>
-			</div>
-
-			<!-- Vertical grid -->
-			<div class="template-component-vertical-grid template-margin-top-3">
-				<ul>
-					<li class="template-component-vertical-grid-line-1n">
-						<div>Age Group:</div>
-						<div>12+ Years Old</div>
-					</li>
-					<li class="template-component-vertical-grid-line-2n">
-						<div>Class Size:</div>
-						<div>20 Participants</div>
-					</li>
-					<li class="template-component-vertical-grid-line-1n">
-						<div>Duration:</div>
-						<div>6 Months</div>
-					</li>
-					
-					<li class="template-component-vertical-grid-line-2n">
-						<div>Sessions:</div>
-						<div>64 hrs with facilitators <br />28 hrs Mentioning</div>
-					</li>
-				</ul>
-			</div>
-
+				<h5>Content</h5>
+				<p></p>
 		</div>
 
-
-
 	</div>
-
 </div>

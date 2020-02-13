@@ -3,35 +3,35 @@
 
 	<!-- Header and subheader -->
 	<div class="template-component-header-subheader">
-		<h2>Our Trainings</h2>
+		<h2>Maker Education</h2>
 		<h6></h6>
 		<div></div>
 	</div>
 
 	<!-- Layout 50x50 -->
 	<div class="template-layout-50x50 template-clear-fix">
-
 		<!-- Left column -->
 		<div class="template-layout-column-left">
-
 			<!-- Header -->
-			<h4 id="maker-education">Maker Education</h4>
-
-			<p>It is an approach to problem-based and project-based learning that relies upon hands-on,
-				often collaborative, learning experiences as a method for solving authentic problems. </p>
+			<h4>Electronics Lab</h4>
+			<p>For those are fascinated by robots, to build practical techniques for building anything from circuits to humanoid robotics</p>
 
 			<!-- List -->
+			<h5>Workshops</h5>
 			<div class="template-component-list template-component-list-style-1 template-margin-top-3">
 				<ul>
-					<li>Project based technological innovation programme </li>
-					<li>Enhances critical creative</li>
-					<li>Design thinning practices </li>
-					<li>Solution for community problems</li>
+					<li>How to design, develop and prototype digital & analog electronic circuit s (Circuits)</li>
+					<li>How to develop and program a firmware for embedded microcontrollers (Firmware)</li>
+					<li>How to design, program and build a robotic system  (Robotics)</li>
+					<li>How to design and develop wired and wireless communication systems (Networks)</li>
 				</ul>
 			</div>
 
+			<h5>Content</h5>
+			<p>Microcontrollers, Architecture, GPIO, ADC / DAC, Timer / Clock, Firmware, IDE, C, C++ or Scratch, Compiler, Flasher, Arduino, Platforms, IDE, Serial output, Community</p>
+
 			<!-- Vertical grid -->
-			<div class="template-component-vertical-grid template-margin-top-3">
+			<!-- <div class="template-component-vertical-grid template-margin-top-3">
 				<ul>
 					<li class="template-component-vertical-grid-line-1n">
 						<div>Age Group:</div>
@@ -50,27 +50,21 @@
 						<div>64 hrs with facilitator <br />24 hrs on self-Assessment and Project </div>
 					</li>
 				</ul>
-			</div>
+			</div> -->
 
 		</div>
 
 		<!-- Right column -->
 		<div class="template-layout-column-right">
-
 			<!-- Nivo slider -->
 			<div class="template-component-nivo-slider template-component-nivo-slider-style-1 template-preloader">
 				<div>
-
-
 					<img src="../../media/images/workshops/maker-education-photo-1.jpg" data-thumb="../../media/images/workshops/maker-education-photo-1.jpg" alt="maker-education-dreamspace-batticaloa" />
 					<img src="../../media/images/workshops/maker-education-photo-2.jpg" data-thumb="../../media/images/workshops/maker-education-photo-2.jpg" alt="maker-education-dreamspace-batticaloa" />
 					<img src="../../media/images/workshops/maker-education-photo-4.jpg" data-thumb="../../media/images/workshops/maker-education-photo-4.jpg" alt="maker-education-dreamspace-batticaloa" />
-
 				</div>
 			</div>
 
 		</div>
-
 	</div>
-
 </div>
