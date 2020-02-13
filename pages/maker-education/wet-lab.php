@@ -8,21 +8,8 @@
 	<div class="template-layout-50x50 template-clear-fix">
 		<!-- Left column -->
 		<div class="template-layout-column-left">
-			<!-- Nivo slider -->
-			<div class="template-component-nivo-slider template-component-nivo-slider-style-1 template-preloader">
-				<div>
-					<img src="../../media/images/maker-education/studies-of-languages-photo-1.jpg" data-thumb="../../media/images/maker-education/studies-of-languages-photo-1.jpg" alt="studies-of-languages-dreamspace-batticaloa" />
-					<img src="../../media/images/maker-education/studies-of-languages-photo-2.jpg" data-thumb="../../media/images/maker-education/studies-of-languages-photo-2.jpg" alt="studies-of-languages-dreamspace-batticaloa" />
-					<img src="../../media/images/maker-education/studies-of-languages-photo-3.jpg" data-thumb="../../media/images/maker-education/studies-of-languages-photo-3.jpg" alt="studies-of-languages-dreamspace-batticaloa" />
-				</div>
-			</div>
-		</div>
-
-
-		<!-- Right column -->
-		<div class="template-layout-column-right">
 			<!-- Header -->
-			<h4>Wet Lab</h4>
+			<h4>Wet Lab <span style="width:200px;margin-left:20px;padding:10px;text-align:center;background-color:#FE6500;color:#FFF; font-size:18px;">Coming Soon</span></h4>
 			<p>For those who want to get their hands wet with BioHacking, to build practical dexterity on BioTechnology</p>
 
 			<!-- List -->
@@ -42,5 +29,20 @@
 			<p>BioSafety Level 1 Lab Techniques, Genetic Engineering, DNA Sequencing, BioChemistry, Mycology, Molecular Biology, BioInformatics, Cell Biology, BioEthics. </p>
 
 		</div>
+
+		<!-- Right column -->
+		<div class="template-layout-column-right">
+			<!-- Nivo slider -->
+			<div class="template-component-nivo-slider template-component-nivo-slider-style-1 template-preloader">
+				<div>
+					<img src="../../media/images/maker-education/wet/dreamspace-wet-lab-2.jpg" data-thumb="../../media/images/maker-education/wet/dreamspace-wet-lab-2.jpg" alt="maker-education-dreamspace-academy" />
+					<img src="../../media/images/maker-education/wet/dreamspace-wet-lab-3.jpg" data-thumb="../../media/images/maker-education/wet/dreamspace-wet-lab-3.jpg" alt="maker-education-dreamspace-academy" />
+					<img src="../../media/images/maker-education/wet/dreamspace-wet-lab-4.jpg" data-thumb="../../media/images/maker-education/wet/dreamspace-wet-lab-4.jpg" alt="maker-education-dreamspace-academy" />
+					<img src="../../media/images/maker-education/wet/dreamspace-wet-lab-5.jpg" data-thumb="../../media/images/maker-education/wet/dreamspace-wet-lab-5.jpg" alt="maker-education-dreamspace-academy" />
+					<img src="../../media/images/maker-education/wet/dreamspace-wet-lab-6.jpg" data-thumb="../../media/images/maker-education/wet/dreamspace-wet-lab-6.jpg" alt="maker-education-dreamspace-academy" />
+				</div>
+			</div>
+		</div>
+
 	</div>
 </div>
