@@ -11,9 +11,9 @@
 			<!-- Nivo slider -->
 			<div class="template-component-nivo-slider template-component-nivo-slider-style-1 template-preloader">
 				<div>
-					<img src="../../media/images/workshops/design-thining-photo-1.jpg" data-thumb="../../media/images/workshops/design-thining-photo-1.jpg" alt="design-thining-dreamspace-batticaloa" />
-					<img src="../../media/images/workshops/design-thining-photo-2.jpg" data-thumb="../../media/images/workshops/design-thining-photo-2.jpg" alt="design-thining-dreamspace-batticaloa" />
-					<img src="../../media/images/workshops/design-thining-photo-3.jpg" data-thumb="../../media/images/workshops/design-thining-photo-3.jpg" alt="design-thining-dreamspace-batticaloa" />
+					<img src="../../media/images/maker-education/design-thining-photo-1.jpg" data-thumb="../../media/images/maker-education/design-thining-photo-1.jpg" alt="design-thining-dreamspace-batticaloa" />
+					<img src="../../media/images/maker-education/design-thining-photo-2.jpg" data-thumb="../../media/images/maker-education/design-thining-photo-2.jpg" alt="design-thining-dreamspace-batticaloa" />
+					<img src="../../media/images/maker-education/design-thining-photo-3.jpg" data-thumb="../../media/images/maker-education/design-thining-photo-3.jpg" alt="design-thining-dreamspace-batticaloa" />
 				</div>
 			</div>
 		</div>

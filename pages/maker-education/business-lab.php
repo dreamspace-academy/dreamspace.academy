@@ -12,9 +12,9 @@
 			<!-- Nivo slider -->
 			<div class="template-component-nivo-slider template-component-nivo-slider-style-1 template-preloader">
 				<div>
-					<img src="../../media/images/workshops/information-technology-photo-1.jpg" data-thumb="../../media/images/workshops/information-technology-photo-1.jpg" alt="information-technology-dreamspace-batticaloa" />
-					<img src="../../media/images/workshops/information-technology-photo-2.jpg" data-thumb="../../media/images/workshops/information-technology-photo-2.jpg" alt="information-technology-dreamspace-batticaloa" />
-					<img src="../../media/images/workshops/information-technology-photo-3.jpg" data-thumb="../../media/images/workshops/information-technology-photo-3.jpg" alt="information-technology-dreamspace-batticaloa" />
+					<img src="../../media/images/maker-education/information-technology-photo-1.jpg" data-thumb="../../media/images/maker-education/information-technology-photo-1.jpg" alt="information-technology-dreamspace-batticaloa" />
+					<img src="../../media/images/maker-education/information-technology-photo-2.jpg" data-thumb="../../media/images/maker-education/information-technology-photo-2.jpg" alt="information-technology-dreamspace-batticaloa" />
+					<img src="../../media/images/maker-education/information-technology-photo-3.jpg" data-thumb="../../media/images/maker-education/information-technology-photo-3.jpg" alt="information-technology-dreamspace-batticaloa" />
 				</div>
 			</div>
 		</div>

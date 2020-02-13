@@ -11,9 +11,9 @@
 			<!-- Nivo slider -->
 			<div class="template-component-nivo-slider template-component-nivo-slider-style-1 template-preloader">
 				<div>
-					<img src="../../media/images/workshops/studies-of-languages-photo-1.jpg" data-thumb="../../media/images/workshops/studies-of-languages-photo-1.jpg" alt="studies-of-languages-dreamspace-batticaloa" />
-					<img src="../../media/images/workshops/studies-of-languages-photo-2.jpg" data-thumb="../../media/images/workshops/studies-of-languages-photo-2.jpg" alt="studies-of-languages-dreamspace-batticaloa" />
-					<img src="../../media/images/workshops/studies-of-languages-photo-3.jpg" data-thumb="../../media/images/workshops/studies-of-languages-photo-3.jpg" alt="studies-of-languages-dreamspace-batticaloa" />
+					<img src="../../media/images/maker-education/studies-of-languages-photo-1.jpg" data-thumb="../../media/images/maker-education/studies-of-languages-photo-1.jpg" alt="studies-of-languages-dreamspace-batticaloa" />
+					<img src="../../media/images/maker-education/studies-of-languages-photo-2.jpg" data-thumb="../../media/images/maker-education/studies-of-languages-photo-2.jpg" alt="studies-of-languages-dreamspace-batticaloa" />
+					<img src="../../media/images/maker-education/studies-of-languages-photo-3.jpg" data-thumb="../../media/images/maker-education/studies-of-languages-photo-3.jpg" alt="studies-of-languages-dreamspace-batticaloa" />
 				</div>
 			</div>
 		</div>
