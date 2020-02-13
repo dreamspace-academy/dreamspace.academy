@@ -11,9 +11,10 @@
 			<!-- Nivo slider -->
 			<div class="template-component-nivo-slider template-component-nivo-slider-style-1 template-preloader">
 				<div>
-					<img src="../../media/images/maker-education/design-thining-photo-1.jpg" data-thumb="../../media/images/maker-education/design-thining-photo-1.jpg" alt="design-thining-dreamspace-batticaloa" />
-					<img src="../../media/images/maker-education/design-thining-photo-2.jpg" data-thumb="../../media/images/maker-education/design-thining-photo-2.jpg" alt="design-thining-dreamspace-batticaloa" />
-					<img src="../../media/images/maker-education/design-thining-photo-3.jpg" data-thumb="../../media/images/maker-education/design-thining-photo-3.jpg" alt="design-thining-dreamspace-batticaloa" />
+					<img src="../../media/images/maker-education/software/dreamspace-software-lab-2.jpg" data-thumb="../../media/images/maker-education/software/dreamspace-software-lab-2.jpg" alt="maker-education-dreamspace-academy" />
+					<img src="../../media/images/maker-education/software/dreamspace-software-lab-3.jpg" data-thumb="../../media/images/maker-education/software/dreamspace-software-lab-3.jpg" alt="maker-education-dreamspace-academy" />
+					<img src="../../media/images/maker-education/software/dreamspace-software-lab-4.jpg" data-thumb="../../media/images/maker-education/software/dreamspace-software-lab-4.jpg" alt="maker-education-dreamspace-academy" />
+					<img src="../../media/images/maker-education/software/dreamspace-software-lab-5.jpg" data-thumb="../../media/images/maker-education/software/dreamspace-software-lab-5.jpg" alt="maker-education-dreamspace-academy" />
 				</div>
 			</div>
 		</div>
