@@ -28,7 +28,7 @@
 			</div>
 
 			<h5>Content</h5>
-			<p>Microcontrollers, Architecture, GPIO, ADC / DAC, Timer / Clock, Firmware, IDE, C, C++ or Scratch, Compiler, Flasher, Arduino, Platforms, IDE, Serial output, Community</p>
+			<p>Circuits building, Breadboard, Soldering, PCB design, PCB manufacturing, Wired & Wireless communication, Microcontrollers, Arduino, STM32, Firmware development, Electronic components, Sensors, Actuators, Robots building, Embedded Systems, Electrical safety</p>
 
 			<!-- Vertical grid -->
 			<!-- <div class="template-component-vertical-grid template-margin-top-3">

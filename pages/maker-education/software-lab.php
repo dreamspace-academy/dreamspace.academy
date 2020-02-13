@@ -39,7 +39,7 @@
 			</div>
 
 			<h5>Content</h5>
-			<p></p>
+			<p>HTML, Javascript, Java, Python, Application development, DMBS, CMS, DevOps, Data Science, Machine Learning, Deep Learning, Cloud computing, IDE, Version control, Web servers</p>
 
 		</div>
 	</div>

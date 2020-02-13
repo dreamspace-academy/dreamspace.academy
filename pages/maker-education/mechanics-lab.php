@@ -26,7 +26,7 @@
 			</div>
 
 			<h5>Content</h5>
-			<p></p>
+			<p>CAD, CAM, 3D printing, CNC milling, Laser cutting, Woodworking, Metalworking, Digital fabrication, Industrial design, Manufacturing</p>
 		</div>
 
 
