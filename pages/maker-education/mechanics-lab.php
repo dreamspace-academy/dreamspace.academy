@@ -10,8 +10,7 @@
 		<div class="template-layout-column-left">
 			<!-- Header -->
 			<h4>Mechanics Lab</h4>
-			<p>An instrumental is a musical composition or recording without lyrics, or singing, although it might include
-				some inarticulate vocals, such as shouted backup vocals in a Big Band setting.</p>
+			<p>For those who want to shift their brain gears, to build practical skills for mechanical design and fabrication</p>
 
 			<!-- List -->
 			<h5>Workshops</h5>
