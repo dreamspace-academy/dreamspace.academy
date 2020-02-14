@@ -5,57 +5,55 @@
 		<div id="rev_slider_1_1" class="rev_slider fullwidthabanner" style="display:none;" data-version="5.1.6">
 
 			<ul>
-
 				<!-- SLIDE -->
 				<li data-index="rs-1" data-transition="fade" data-slotamount="7" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="300" data-thumb="media/image/_sample/slider/slider_slide1_background-100x50.png"
 				  data-rotate="0" data-saveperformance="off" class="fable_slide_1_class" id="fable_slide_1_id" data-title="fable_slide_1" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8=""
 				  data-param9="" data-param10="" data-description="">
 
-					<img src="media/images/slider/dreamspace-pbl.png" alt="" width="100" height="600" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="repeat-x" class="rev-slidebg" data-no-retina>
-
-					<!-- Layer nr. 3 -->
-					<div class="tp-caption tp-font-handlee tp-resizeme" id="slide-1-layer-3" data-x="center" data-hoffset="0" data-y="center" data-voffset="-102" data-width="auto" data-height="auto" data-transform_idle="" data-transform_in="x:0;y:-20;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:1400;e:Power3.easeInOut;"
-					  data-transform_out="x:0;y:-20;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:300;s:300;" data-start="800" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index:9;white-space:nowrap;color:rgba(254,101,0,1.00);border-color:rgba(86,80,159,1.00);background-color: white;padding-right: 10px; padding-left: 10px;">DreamSpace
-						provides
-					</div>
+					<img src="media/images/slider/dreamspace-academy.jpg" alt="" width="100" height="600" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="repeat-x" class="rev-slidebg" data-no-retina>
 
 					<!-- Layer nr. 4 -->
-					<div class="tp-caption tp-font-lato-black tp-resizeme" id="slide-1-layer-4" data-x="center" data-hoffset="0" data-y="center" data-voffset="-45" data-width="auto" data-height="auto" data-transform_idle="" data-transform_in="x:0;y:50;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:1000;e:Power3.easeInOut;"
-					  data-transform_out="x:0;y:50;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:300;s:300;" data-start="1600" data-splitin="words" data-splitout="words" data-responsive_offset="on" data-elementdelay="0.1" data-endelementdelay="0.1" style="z-index:8;white-space:nowrap;border-color:rgba(86,80,159,1.00);background-color: white; padding-right: 10px; padding-left: 10px;">Project
-						Based Learning
+					<div class="tp-caption tp-font-lato-black tp-resizeme" id="slide-1-layer-4" data-x="center" data-hoffset="0" data-y="400" data-voffset="-45" data-width="auto" data-height="auto" data-transform_idle="" data-transform_in="x:0;y:50;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:1000;e:Power3.easeInOut;"
+					  data-transform_out="x:0;y:50;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:300;s:300;" data-start="1600" data-splitin="words" data-splitout="words" data-responsive_offset="on" data-elementdelay="0.1" data-endelementdelay="0.1" style="z-index:8;white-space:nowrap;border-color:rgba(86,80,159,1.00);background-color: white; padding-right: 10px; padding-left: 10px;"><span>DreamSpace Academy </span>
 					</div>
-
-					<!-- Layer nr. 5 -->
-					<div class="tp-caption tp-font-lato-light tp-resizeme" id="slide-1-layer-5" data-x="center" data-hoffset="0" data-y="center" data-voffset="15" data-width="auto" data-height="auto" data-transform_idle="" data-transform_in="x:0;y:50;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:1000;e:Power3.easeInOut;"
-					  data-transform_out="x:0;y:50;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:300;s:300;" data-start="2100" data-splitin="words" data-splitout="words" data-responsive_offset="on" data-elementdelay="0.1" data-endelementdelay="0.1" style="z-index:7;white-space:nowrap;border-color:rgba(86,80,159,1.00);background-color: white;padding-right: 10px; padding-left: 10px;">to
-						learn anything efficiently
-					</div>
-
 				</li>
 
 				<!-- SLIDE -->
-				<li data-index="rs-4" data-transition="fade" data-slotamount="7" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="300" data-thumb="media/image/_sample/slider/slider_slide2_background-100x50.png"
+				<li data-index="rs-2" data-transition="fade" data-slotamount="7" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="300" data-thumb="media/image/_sample/slider/slider_slide1_background-100x50.png"
+					data-rotate="0" data-saveperformance="off" class="fable_slide_1_class" id="fable_slide_1_id" data-title="fable_slide_1" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8=""
+					data-param9="" data-param10="" data-description="">
+
+					<img src="media/images/slider/maker-education-dreamspace.jpg" alt="" width="100" height="600" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="repeat-x" class="rev-slidebg" data-no-retina>
+
+					<!-- Layer nr. 4 -->
+					<div class="tp-caption tp-font-lato-black tp-resizeme" id="slide-2-layer-4" data-x="center" data-hoffset="0" data-y="center" data-voffset="-45" data-width="auto" data-height="auto" data-transform_idle="" data-transform_in="x:0;y:50;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:1000;e:Power3.easeInOut;"
+						data-transform_out="x:0;y:50;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:300;s:300;" data-start="1600" data-splitin="words" data-splitout="words" data-responsive_offset="on" data-elementdelay="0.1" data-endelementdelay="0.1" style="z-index:8;white-space:nowrap;border-color:rgba(86,80,159,1.00);background-color: white; padding-right: 10px; padding-left: 10px;"><span>Maker Education </span>
+					</div>
+				</li>
+
+				<!-- SLIDE -->
+				<li data-index="rs-3" data-transition="fade" data-slotamount="7" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="300" data-thumb="media/image/_sample/slider/slider_slide2_background-100x50.png"
 				  data-rotate="0" data-saveperformance="off" class="fable_slide_2_class" id="fable_slide_2_id" data-title="fable_slide_2" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8=""
 				  data-param9="" data-param10="" data-description="">
 
-					<img src="media/images/slider/dreamspace-community-innovation.jpg" alt="" width="100" height="600" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="repeat-x" class="rev-slidebg" data-no-retina>
-
-					<!-- Layer nr. 3 -->
-					<div class="tp-caption tp-font-handlee tp-resizeme" id="slide-4-layer-3" data-x="100" data-y="center" data-voffset="-102" data-width="auto" data-height="auto" data-transform_idle="" data-transform_in="x:0;y:-20;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:1400;e:Power3.easeInOut;"
-					  data-transform_out="x:0;y:-20;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:300;s:300;" data-start="800" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index:9;white-space:nowrap;color:rgba(254,101,0,1.00);border-color:rgba(86,80,159,1.00);background-color: white;">DreamSpace
-						helps you to realize
-					</div>
+					<img src="media/images/slider/community-innovation-dreamspace.jpg" alt="" width="100" height="600" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="repeat-x" class="rev-slidebg" data-no-retina>
 
 					<!-- Layer nr. 4 -->
-					<div class="tp-caption tp-font-lato-black tp-resizeme" id="slide-4-layer-4" data-x="100" data-y="center" data-voffset="-45" data-width="auto" data-height="auto" data-transform_idle="" data-transform_in="x:0;y:50;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:1000;e:Power3.easeInOut;"
-					  data-transform_out="x:0;y:50;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:300;s:300;" data-start="1600" data-splitin="words" data-splitout="words" data-responsive_offset="on" data-elementdelay="0.1" data-endelementdelay="0.1" style="z-index:8;white-space:nowrap;border-color:rgba(86,80,159,1.00);background-color: white;">Community
-						Innovation
+					<div class="tp-caption tp-font-lato-black tp-resizeme" id="slide-3-layer-4" data-x="500" data-y="400" data-voffset="-45" data-width="auto" data-height="auto" data-transform_idle="" data-transform_in="x:0;y:50;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:1000;e:Power3.easeInOut;"
+					  data-transform_out="x:0;y:50;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:300;s:300;" data-start="1600" data-splitin="words" data-splitout="words" data-responsive_offset="on" data-elementdelay="0.1" data-endelementdelay="0.1" style="z-index:8;white-space:nowrap;border-color:rgba(86,80,159,1.00);background-color: white; padding-right: 10px; padding-left: 10px;"><span>Community Innovation </span>
 					</div>
+				</li>
+
+				<!-- SLIDE -->
+				<li data-index="rs-4" data-transition="fade" data-slotamount="7" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="300" data-thumb="media/image/_sample/slider/slider_slide3_background-100x50.png"
+				  data-rotate="0" data-saveperformance="off" class="fable_slide_3_class" id="fable_slide_3_id" data-title="fable_slide_3" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8=""
+				  data-param9="" data-param10="" data-description="">
+
+					<img src="media/images/slider/international-collaboration-dreamspace.jpg" alt="" width="100" height="600" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="repeat-x" class="rev-slidebg" data-no-retina>
 
 					<!-- Layer nr. 5 -->
-					<div class="tp-caption tp-font-lato-light tp-resizeme" id="slide-4-layer-5" data-x="100" data-y="center" data-voffset="15" data-width="auto" data-height="auto" data-transform_idle="" data-transform_in="x:0;y:50;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:1000;e:Power3.easeInOut;"
-					  data-transform_out="x:0;y:50;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:300;s:300;" data-start="2100" data-splitin="words" data-splitout="words" data-responsive_offset="on" data-elementdelay="0.1" data-endelementdelay="0.1" style="z-index:7;white-space:nowrap;border-color:rgba(86,80,159,1.00);background-color: white;">through
-						Maker Education and mentorship
+					<div class="tp-caption tp-font-lato-black tp-resizeme" id="slide-4-layer-5" data-x="right" data-y="center" data-voffset="-45" data-width="auto" data-height="auto" data-transform_idle="" data-transform_in="x:0;y:50;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:1000;e:Power3.easeInOut;"
+					  data-transform_out="x:0;y:50;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:300;s:300;" data-start="1600" data-splitin="words" data-splitout="words" data-responsive_offset="on" data-elementdelay="0.1" data-endelementdelay="0.1" style="z-index:9;white-space:nowrap;border-color:rgba(86,80,159,1.00);background-color: white; padding-right: 10px; padding-left: 10px;"><span>International Collaboration </span>
 					</div>
 				</li>
 
@@ -64,31 +62,17 @@
 				  data-rotate="0" data-saveperformance="off" class="fable_slide_3_class" id="fable_slide_3_id" data-title="fable_slide_3" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8=""
 				  data-param9="" data-param10="" data-description="">
 
-					<img src="media/images/slider/dreamspace-entrepreneurship.jpg" alt="" width="100" height="600" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="repeat-x" class="rev-slidebg" data-no-retina>
-
-					<!-- Layer nr. 4 -->
-					<div class="tp-caption tp-font-handlee tp-resizeme" id="slide-5-layer-4" data-x="100" data-y="center" data-voffset="-102" data-width="auto" data-height="auto" data-transform_idle="" data-transform_in="x:0;y:-20;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:1400;e:Power3.easeInOut;"
-					  data-transform_out="x:0;y:-20;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:300;s:300;" data-start="800" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index:9;white-space:nowrap;color:rgba(254,101,0,1.00);border-color:rgba(86,80,159,1.00);background-color: white;">DreamSpace
-						gives you a platform for
-					</div>
+					<img src="media/images/slider/social-entrepreneurship-dreamspace.jpg" alt="" width="100" height="600" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="repeat-x" class="rev-slidebg" data-no-retina>
 
 					<!-- Layer nr. 5 -->
-					<div class="tp-caption tp-font-lato-black tp-resizeme" id="slide-5-layer-5" data-x="100" data-y="center" data-voffset="-45" data-width="auto" data-height="auto" data-transform_idle="" data-transform_in="x:0;y:50;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:1000;e:Power3.easeInOut;"
-					  data-transform_out="x:0;y:50;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:300;s:300;" data-start="1600" data-splitin="words" data-splitout="words" data-responsive_offset="on" data-elementdelay="0.1" data-endelementdelay="0.1" style="z-index:9;white-space:nowrap;border-color:rgba(86,80,159,1.00);background-color: white;">Entrepreneurship
+					<div class="tp-caption tp-font-lato-black tp-resizeme" id="slide-5-layer-5" data-x="100" data-y="300" data-voffset="-45" data-width="auto" data-height="auto" data-transform_idle="" data-transform_in="x:0;y:50;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:1000;e:Power3.easeInOut;"
+					  data-transform_out="x:0;y:50;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:300;s:300;" data-start="1600" data-splitin="words" data-splitout="words" data-responsive_offset="on" data-elementdelay="0.1" data-endelementdelay="0.1" style="z-index:9;white-space:nowrap;border-color:rgba(86,80,159,1.00);background-color: white; padding-right: 10px; padding-left: 10px;"><span>Social Entrepreneurship </span>
 					</div>
-
-					<!-- Layer nr. 6 -->
-					<div class="tp-caption tp-font-lato-light tp-resizeme" id="slide-5-layer-6" data-x="100" data-y="center" data-voffset="15" data-width="auto" data-height="auto" data-transform_idle="" data-transform_in="x:0;y:50;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:1000;e:Power3.easeInOut;"
-					  data-transform_out="x:0;y:50;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:300;s:300;" data-start="2100" data-splitin="words" data-splitout="words" data-responsive_offset="on" data-elementdelay="0.1" data-endelementdelay="0.1" style="z-index:8;white-space:nowrap;border-color:rgba(86,80,159,1.00);background-color: white;">to
-						make your ideas into products
-					</div>
-
 				</li>
 
 			</ul>
 
 			<div class="tp-bannertimer tp-bottom" style="visibility:hidden !important;"></div>
-
 		</div>
 
 		<script type="text/javascript">
