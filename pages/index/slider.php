@@ -14,7 +14,7 @@
 
 					<!-- Layer nr. 4 -->
 					<div class="tp-caption tp-font-lato-black tp-resizeme" id="slide-1-layer-4" data-x="center" data-hoffset="0" data-y="400" data-voffset="-45" data-width="auto" data-height="auto" data-transform_idle="" data-transform_in="x:0;y:50;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:1000;e:Power3.easeInOut;"
-					  data-transform_out="x:0;y:50;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:300;s:300;" data-start="1600" data-splitin="words" data-splitout="words" data-responsive_offset="on" data-elementdelay="0.1" data-endelementdelay="0.1" style="z-index:8;white-space:nowrap;border-color:rgba(86,80,159,1.00);background-color: white; padding-right: 10px; padding-left: 10px;"><span>DreamSpace Academy </span>
+					  data-transform_out="x:0;y:50;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:300;s:300;" data-start="1600" data-splitin="words" data-splitout="words" data-responsive_offset="on" data-elementdelay="0.1" data-endelementdelay="0.1" style="z-index:8;white-space:nowrap;border-color:rgba(86,80,159,1.00);background-color: white; padding-right: 10px; padding-left: 10px;">DreamSpace Academy 
 					</div>
 				</li>
 
