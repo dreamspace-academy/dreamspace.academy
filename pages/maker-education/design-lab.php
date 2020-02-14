@@ -25,7 +25,7 @@
 			</div>
 
 			<h5>Content</h5>
-			<p></p>
+			<p>Graphic design, UI/UX, Animation, Multimdia, 3D modeling, Motion graphics, Special effects</p>
 
 		</div>
 

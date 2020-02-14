@@ -42,7 +42,7 @@
 				</div>
 
 				<h5>Content</h5>
-				<p></p>
+				<p>Design Thinking, Financial & Business modeling, B2B, Entrepreneurship</p>
 		</div>
 
 	</div>

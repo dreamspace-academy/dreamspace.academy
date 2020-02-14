@@ -39,7 +39,7 @@
 			</div>
 
 			<h5>Content</h5>
-			<p></p>
+			<p>Fine arts, Photography, Musical instruments, Painting</p>
 
 		</div>
 	</div>
