@@ -2,15 +2,13 @@
 <!-- Content-->
 <div class="template-content">
 
-	<?php include('pages/index/slider-section.php'); ?>
+	<?php include('pages/index/slider.php'); ?>
 
-	<?php include('pages/index/verticals-section.php'); ?>
+	<?php include('pages/index/verticals.php'); ?>
 
-	<?php include('pages/index/statistics-section.php'); ?>
+	<?php include('pages/index/maker-education.php'); ?>
 
-	<?php include('pages/index/training-section.php'); ?>
-
-	<?php include('pages/index/spotlight-section.php');  ?>
+	<?php include('pages/index/spotlight.php');  ?>
 
 </div>
 

@@ -56,15 +56,55 @@
 		</div>
 
 		<!-- Contact form -->
-<?php 
- $soucre= "https://docs.google.com/forms/d/e/1FAIpQLSeHlS5ahdvqTF9k2utdVqZ1gxTrABzQu1MLOZJKHhkN4B43Lg/viewform?embedded=true";
- $soucre = base64_encode($soucre);
- 
- ?>
-		<center><iframe src=<?php echo base64_decode($soucre); ?>  width="100%" height="520" frameborder="1" marginheight="0" marginwidth="0">Loading…</iframe>
-		</center>
+		<div class="template-component-contact-form">
+		
+		<!-- Layout 50x50 -->
+				<div class="template-layout-50x50 template-clear-fix">
+
+					<!-- Left column -->
+					<div class="template-layout-column-left">
+		
+						<form method="POST" action="https://docs.google.com/forms/d/e/1FAIpQLSeHlS5ahdvqTF9k2utdVqZ1gxTrABzQu1MLOZJKHhkN4B43Lg" onsubmit="return window.submitGoogleForm(this);">
+							<div class="col-md-12 input-container wow animated fadeInUp" data-wow-delay="0.2s">
+							  <input type="text" class="form-control" placeholder="Your Name" id="contactName" name="entry.1049395714">
+							</div>
+							<div class="template-form-line template-state-block">
+							  <input type="text" class="form-control" placeholder="Your Email" id="contactEmail" name="emailAddress">
+							</div>
+							<div class="template-form-line template-state-block">
+							  <input type="text" class="form-control" placeholder="Your Organisation" id="contactOrg" name="entry.448362686">
+							</div>
+					</div>
+					<div class="template-layout-column-right">
+								<div class="template-form-line template-state-block">
+									<textarea class="form-control" placeholder="Your Message Here" id="contactMessage" name="entry.1793047725"></textarea>
+								</div>
+					</div>
+					<div class="col-md-12 button-container wow animated fadeInUp" data-wow-delay="0.2s">
+					  <input id="contactBtn" type="submit" class="submit-btn def-btn" value="Send Message">
+					  
+					</div>
+				</div>
+			</form>
+		 </div>
+
+			
+
+		
+
 	</div>
-	
+	<?php
+			if(isset($_POST['contact-form-submit']))
+			{
+				$to      = 'battikaran;@gmail.com';
+				$subject = $_POST['contact-form-subject'];
+				$message = $_POST['contact-form-message'];
+				$headers = 'From: webmaster@example.com' . "\r\n" .
+					'Reply-To: webmaster@example.com' . "\r\n" .
+					'X-Mailer: PHP/' . phpversion();
+				mail($to, $subject, $message, $headers);
+			}
+			?>
 
 	<div class="template-content-section template-padding-top-reset template-padding-bottom-reset">
 
