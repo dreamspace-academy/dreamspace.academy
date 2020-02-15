@@ -30,11 +30,11 @@
 			<h5>Workshops</h5>
 			<div class="template-component-list template-component-list-style-1 template-margin-top-3">
 				<ul>
-					<li>How to program cross compatible software apps for desktop, web  and mobile (Apps)</li>
-					<li>How to develop, integrate and maintain databases  (DBMS)</li>
-					<li>How to build websites with content management system  (CMS)</li>
-					<li>How to design, deploy and maintain web servers  (DevOps)</li>
-					<li>How to program machine learning algorithms (Data Science )</li>
+					<li>How to program cross compatible software apps for desktop, web and mobile (Apps)</li>
+					<li>How to develop, integrate and maintain databases (DBMS)</li>
+					<li>How to build websites with content management system (CMS)</li>
+					<li>How to design, deploy and maintain web servers (DevOps)</li>
+					<li>How to program machine learning algorithms (Data Science)</li>
 				</ul>
 			</div>
 

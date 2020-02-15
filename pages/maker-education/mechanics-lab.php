@@ -17,9 +17,9 @@
 			<div class="template-component-list template-component-list-style-1 template-margin-top-3">
 				<ul>
 					<li>How to design mechanical design (CAD)</li>
-					<li>How to produce bioplastic products with additive manufacturing (3D printing) </li>
-					<li>How to produce wood & metal products with subtractive manufacturing (CNC milling) </li>
-					<li>How to fabricate intricate designs in wood, plastic, paper, fabric (Laser cutting )</li>
+					<li>How to produce bioplastic products with additive manufacturing (3D printing)</li>
+					<li>How to produce wood & metal products with subtractive manufacturing (CNC milling)</li>
+					<li>How to fabricate intricate designs in wood, plastic, paper, fabric (Laser cutting)</li>
 					<li>How to make wooden parts with power tools (Woodworking)</li>
 					<li>How to make metal parts with power tools (Metalworking)</li>
 				</ul>

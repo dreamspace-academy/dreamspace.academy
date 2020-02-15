@@ -32,8 +32,8 @@
 			<h5>Workshops</h5>
 			<div class="template-component-list template-component-list-style-1 template-margin-top-3">
 				<ul>
-					<li>How to play musical instruments (Performing arts) </li>
-					<li>How to make films and photos (Visual arts) </li>
+					<li>How to play musical instruments (Performing arts)</li>
+					<li>How to make films and photos (Visual arts)</li>
 					<li>How to make sculptures on rice (Micro arts)</li>
 				</ul>
 			</div>
