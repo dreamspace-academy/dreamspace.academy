@@ -1,6 +1,9 @@
+<!-- Divider -->
+<div class="template-component-divider template-component-divider-style-1"></div>
 <div class="template-component-header-subheader">
 	<h2>&nbsp;</h2>
 </div>
+
 <!-- Section -->
 <div class="template-content-section template-padding-top-reset template-padding-bottom-5 template-main">
 
@@ -28,8 +31,6 @@
 			<h5>Content</h5>
 			<p>CAD, CAM, 3D printing, CNC milling, Laser cutting, Woodworking, Metalworking, Digital fabrication, Industrial design, Manufacturing</p>
 		</div>
-
-
 
 		<!-- Right column -->
 		<div class="template-layout-column-right">

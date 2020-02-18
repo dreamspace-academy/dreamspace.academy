@@ -4,6 +4,16 @@
 <!-- Content -->
 <div class="template-content">
 
+  <!-- Header and subheader -->
+  <div class="template-component-header-subheader">
+    <h2>International Collaboration</h2>
+    <h6></h6>
+    <div></div>
+  </div>
+
+  <!-- Divider -->
+  <div class="template-component-divider template-component-divider-style-1"></div>
+
   <!-- Section -->
   <div class="template-content-section template-content-layout template-content-layout-sidebar-right template-main template-clear-fix ">
 
@@ -13,8 +23,9 @@
       <!-- Post list -->
       <ul class="template-post-list">
 
-        <?php include('maite.php');  ?>
-        
+        <?php include('story-telling-nico.php');  ?>
+        <?php include('design-thinking-maite.php');  ?>
+
       </ul>
 
     </div>

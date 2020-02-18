@@ -1,5 +1,5 @@
 <!-- Post -->
-<li>
+<li id="design-thinking-maite" style="padding-top:85px">
 
   <!-- Post container -->
   <div class="template-post">
@@ -9,7 +9,7 @@
       <h2 class="template-post-header">
         Maite Hernandez Zubeldia
       </h2>
-      03 April - 20 April 2014
+      01 April - 20 April 2019
     </div>
 
     <!-- Icon -->
@@ -27,26 +27,38 @@
     <!-- Meta -->
     <div class="template-post-section-meta">
       <div class="template-post-meta">
-        <h4><b style="color: #56509F">Design Thinking Expert, Berlin, Germany</b></h4>
+        <h5>Design Thinking Expert | Hasso Plattner Institute | Berlin, Germany</h5>
       </div>
     </div>
 
     <!-- Excerpt -->
     <div class="template-post-section-content">
       <div class="template-post-content">
-        <p>Maite’s core experience is in impact-driven entrepreneurship, human-centric design and agile product development. She has a strong passion for bridging the gap between humanity and technology. While working in Europe, Canada, Cuba and Sri Lanka, she has experienced innovation approaches in different regions of the world.</p>
+        <b style="color: #56509F">Expertise</b>
+        <p>Maite’s core experience is in impact-driven entrepreneurship, human-centric design and agile product development. She has a strong passion for bridging the gap between humanity and technology. </p>
+
+        <b style="color: #56509F">Workshop</b>
+        <p>Design Thinking Workshops were attended by 11 participants including the core team of DreamSpace Academy. Maite provided all the necessary techniques and methodologies to apply design thinking in anything from business to personal life.</p>
+
+        <b style="color: #56509F">Impact</b>
+        <p>One of the participants, Manickam Elankumaran, has been applying Design Thinking in his teaching career to help his students design their life.</p>
+
       </div>
+    </div>
+
+    <div class="template-component-blockquote">
+      <p>
+        Wonderful team
+      </p>
+      <span>Maite Hernandez Zubeldia</span>
     </div>
 
     <!-- "Continue reading" button -->
     <div class="template-post-section-button">
       <a href="../maker-education/index.php#business-lab" class="template-component-button template-component-button-style-1">
-        Check more about Business Lab<i></i>
+        Design Thinking @ Business Lab<i></i>
       </a>
-    </div>
-
-    <!-- Divider -->
-    <div class="template-post-section-divider">
+      <!-- Divider -->
       <div class="template-component-divider template-component-divider-style-1"></div>
     </div>
 

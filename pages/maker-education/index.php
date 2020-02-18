@@ -4,6 +4,13 @@
 <!-- Content -->
 <div class="template-content">
 
+	<!-- Header and subheader -->
+	<div class="template-component-header-subheader">
+		<h2>Maker Education</h2>
+		<h6></h6>
+		<div></div>
+	</div>
+
 	<section id="electronics-lab">
 		<?php include('electronics-lab.php'); ?>
 	</section>

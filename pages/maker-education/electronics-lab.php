@@ -1,12 +1,11 @@
+<!-- Divider -->
+<div class="template-component-divider template-component-divider-style-1"></div>
+<div class="template-component-header-subheader">
+	<h2>&nbsp;</h2>
+</div>
+
 <!-- Section -->
 <div class="template-content-section template-padding-top-reset template-padding-bottom-5 template-main">
-
-	<!-- Header and subheader -->
-	<div class="template-component-header-subheader">
-		<h2>Maker Education</h2>
-		<h6></h6>
-		<div></div>
-	</div>
 
 	<!-- Layout 50x50 -->
 	<div class="template-layout-50x50 template-clear-fix">
@@ -29,29 +28,6 @@
 
 			<h5>Content</h5>
 			<p>Circuits building, Breadboard, Soldering, PCB design, PCB manufacturing, Wired & Wireless communication, Microcontrollers, Arduino, STM32, Firmware development, Electronic components, Sensors, Actuators, Robots building, Embedded Systems, Electrical safety</p>
-
-			<!-- Vertical grid -->
-			<!-- <div class="template-component-vertical-grid template-margin-top-3">
-				<ul>
-					<li class="template-component-vertical-grid-line-1n">
-						<div>Age Group:</div>
-						<div>14+ Years Old</div>
-					</li>
-					<li class="template-component-vertical-grid-line-2n">
-						<div>Class Size:</div>
-						<div>20 Participants</div>
-					</li>
-					<li class="template-component-vertical-grid-line-1n">
-						<div>Duration:</div>
-						<div>4 Months</div>
-					</li>
-					<li class="template-component-vertical-grid-line-2n">
-						<div>Sessions:</div>
-						<div>64 hrs with facilitator <br />24 hrs on self-Assessment and Project </div>
-					</li>
-				</ul>
-			</div> -->
-
 		</div>
 
 		<!-- Right column -->
