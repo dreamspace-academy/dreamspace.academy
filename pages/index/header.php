@@ -184,19 +184,52 @@
 										</ul>
 									</li>
 
-									<!-- Maker Education Menu -->
+									<!-- The Verticals Menu -->
 									<li>
-										<a href="#">Maker Education<span></span></a>
+										<a href="#">The Verticals<span></span></a>
 										<ul>
-											<li><a href="pages/maker-education/index.php#electronics-lab">Electronics Lab</a></li>
-											<li><a href="pages/maker-education/index.php#software-lab">Software Lab</a></li>
-											<li><a href="pages/maker-education/index.php#mechanics-lab">Mechanics Lab</a></li>
-											<li><a href="pages/maker-education/index.php#business-lab">Business Lab</a></li>
-											<li><a href="pages/maker-education/index.php#design-lab">Design Lab</a></li>
-											<li><a href="pages/maker-education/index.php#art-lab">Art Lab</a></li>
-											<li><a href="pages/maker-education/index.php#wet-lab">Wet Lab</a></li>
+
+											<!-- Maker Education Menu -->
+											<li>
+												<a href="#">Maker Education<span></span></a>
+												<ul>
+													<li><a href="pages/maker-education/index.php#electronics-lab">Electronics Lab</a></li>
+													<li><a href="pages/maker-education/index.php#software-lab">Software Lab</a></li>
+													<li><a href="pages/maker-education/index.php#mechanics-lab">Mechanics Lab</a></li>
+													<li><a href="pages/maker-education/index.php#business-lab">Business Lab</a></li>
+													<li><a href="pages/maker-education/index.php#design-lab">Design Lab</a></li>
+													<li><a href="pages/maker-education/index.php#art-lab">Art Lab</a></li>
+													<li><a href="pages/maker-education/index.php#wet-lab">Wet Lab</a></li>
+												</ul>
+											</li>
+
+											<!-- Community Innovation Menu -->
+											<li>
+												<a href="#">Community Innovation<span></span></a>
+												<ul>
+													<li><a href="pages/maker-education/index.php#electronics-lab">Underwater Glider</a></li>
+												</ul>
+											</li>
+
+											<!-- International Collaboration Menu -->
+											<li>
+												<a href="#">International Collaboration<span></span></a>
+												<ul>
+													<li><a href="pages/international-collaboration/index.php">Design Thinking by Maite</a></li>
+												</ul>
+											</li>
+
+											<!-- Social Enterpreneurship Menu -->
+											<li>
+												<a href="#">Social Enterpreneurship<span></span></a>
+												<ul>
+													<li><a href="pages/international-collaboration/index.php">DreamSpace Terrace</a></li>
+												</ul>
+											</li>
+
 										</ul>
 									</li>
+
 									<!-- Communities Menu -->
 									<li>
 										<a href="#">Communities<span></span></a>
