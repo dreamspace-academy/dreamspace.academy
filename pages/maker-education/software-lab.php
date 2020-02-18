@@ -28,7 +28,7 @@
 
 			<!-- List -->
 			<h5>Workshops</h5>
-			<div class="template-component-list template-component-list-style-1 template-margin-top-3">
+			<div class="template-component-list template-component-list-style-8 template-margin-top-3">
 				<ul>
 					<li>How to program cross compatible software apps for desktop, web and mobile (Apps)</li>
 					<li>How to develop, integrate and maintain databases (DBMS)</li>

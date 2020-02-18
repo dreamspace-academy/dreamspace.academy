@@ -31,7 +31,7 @@
 
 				<!-- List -->
 				<h5>Workshops</h5>
-				<div class="template-component-list template-component-list-style-1 template-margin-top-3">
+				<div class="template-component-list template-component-list-style-8 template-margin-top-3">
 					<ul>
 						<li>How to design user centric solutions using Design Thinking</li>
 						<li>How to plan a financial modeling for a new business</li>

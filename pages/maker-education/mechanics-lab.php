@@ -14,7 +14,7 @@
 
 			<!-- List -->
 			<h5>Workshops</h5>
-			<div class="template-component-list template-component-list-style-1 template-margin-top-3">
+			<div class="template-component-list template-component-list-style-8 template-margin-top-3">
 				<ul>
 					<li>How to design mechanical design (CAD)</li>
 					<li>How to produce bioplastic products with additive manufacturing (3D printing)</li>
