@@ -82,19 +82,45 @@
 								</ul>
 							</li>
 
+							<!-- The Four Verticals Menu -->
+							<li class="sf-mega-enable-1">
+								<a href="#"><span class="template-icon-menu template-icon-menu-document"></span>The Verticals</a>
+								<div class="sf-mega template-layout-25x25x25x25 template-clear-fix">
+									<div class="template-layout-column-left">
+										<span class="sf-mega-header">Maker Education</span>
+										<ul>
+											<li><a href="../../pages/maker-education/index.php#electronics-lab">Electronics Lab</a></li>
+											<li><a href="../../pages/maker-education/index.php#software-lab">Software Lab</a></li>
+											<li><a href="../../pages/maker-education/index.php#mechanics-lab">Mechanics Lab</a></li>
+											<li><a href="../../pages/maker-education/index.php#business-lab">Business Lab</a></li>
+											<li><a href="../../pages/maker-education/index.php#design-lab">Design Lab</a></li>
+											<li><a href="../../pages/maker-education/index.php#art-lab">Art Lab</a></li>
+											<li><a href="../../pages/maker-education/index.php#wet-lab">Wet Lab</a></li>
+										</ul>
+									</div>
 
-							<!-- Maker Education Menu -->
-							<li class="sf-mega-enable-0">
-								<a href="../maker-education/index.php"><span class="template-icon-menu template-icon-menu-lab"></span>Maker Education</a>
-								<ul>
-									<li><a href="../maker-education/index.php#electronics-lab">Electronics Lab</a></li>
-									<li><a href="../maker-education/index.php#software-lab">Software Lab</a></li>
-									<li><a href="../maker-education/index.php#mechanics-lab">Mechanics Lab</a></li>
-									<li><a href="../maker-education/index.php#business-lab">Business Lab</a></li>
-									<li><a href="../maker-education/index.php#design-lab">Design Lab</a></li>
-									<li><a href="../maker-education/index.php#art-lab">Art Lab</a></li>
-									<li><a href="../maker-education/index.php#wet-lab">Wet Lab</a></li>
-								</ul>
+									<div class="template-layout-column-center-left">
+										<span class="sf-mega-header">Community Innovation</span>
+										<ul>
+											<li><a href="../../pages/international-collaboration/index.php">Underwater Glider</a></li>
+										</ul>
+									</div>
+
+									<div class="template-layout-column-center-right">
+										<span class="sf-mega-header">International Collaboration</span>
+										<ul>
+											<li><a href="../../pages/international-collaboration/index.php">Design Thinking by Maite</a></li>
+										</ul>
+									</div>
+
+									<div class="template-layout-column-right">
+										<span class="sf-mega-header">Social Enterpreneurship</span>
+										<ul>
+											<li><a href="../../pages/international-collaboration/index.php">DreamSpace Terrace</a></li>
+										</ul>
+									</div>
+
+								</div>
 							</li>
 
 							<!-- Communities Menu -->
@@ -119,7 +145,7 @@
 							</li>
 							<!-- Contact Menu -->
 							<li class="sf-mega-enable-1">
-								<a href="../../pages/contact.php"><span class="template-icon-menu template-icon-menu-envelope"></span>Contact</a>
+								<a href="../../pages/master-page/contact.php"><span class="template-icon-menu template-icon-menu-envelope"></span>Contact</a>
 							</li>
 
 						</ul>
@@ -189,7 +215,7 @@
 									<!-- Contact Menu -->
 									<li>
 
-										<a href="../../pages/contact.php">Contact</a>
+										<a href="../../pages/master-page/contact.php">Contact</a>
 									</li>
 
 								</ul>

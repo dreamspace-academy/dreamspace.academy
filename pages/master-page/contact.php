@@ -1,4 +1,4 @@
-<?php include('master-page/header.php'); ?>
+<?php include('header.php'); ?>
 
 <!-- Content -->
 <div class="template-content">
@@ -111,4 +111,4 @@
 
 </div>
 
-<?php include('master-page/footer.php'); ?>
+<?php include('footer.php'); ?>
