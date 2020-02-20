@@ -19,12 +19,11 @@
 			<h5>Workshops</h5>
 			<div class="template-component-list template-component-list-style-8 template-margin-top-3">
 				<ul>
-					<li>How to extract and sequence E.coli Genomic DNA</li>
-					<li>How to edit genes of benign microbes</li>
-					<li>How to build a Bioreactor to culture microorganisms</li>
-					<li>How to brew probiotic drinks with flower fermentation</li>
-					<li>How to produce alternative superfood from Cyanobacterias</li>
-					<li>How to culture mushrooms for sustainable materials</li>
+					<li>How to extract, sequence and edit DNA of E.coli bacteria (Genetics)</li>
+					<li>How to build a Bioreactor to culture microorganisms (Bioreactor)</li>
+					<li>How to brew probiotic drinks by fermenting Hibiscus (Culture)</li>
+					<li>How to produce alternative superfood from Cyanobacterias (FoodTech)</li>
+					<li>How to culture mushrooms for sustainable materials (Mycology)</li>
 				</ul>
 			</div>
 

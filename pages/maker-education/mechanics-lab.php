@@ -13,18 +13,17 @@
 		<div class="template-layout-column-left">
 			<!-- Header -->
 			<h4>Mechanics Lab</h4>
-			<p>For those who want to shift their brain gears, to build practical skills for mechanical design and fabrication</p>
+			<p>For those who shift their brain gears, to gather practical skills for anything mechanical design to digital fabrication</p>
 
 			<!-- List -->
 			<h5>Workshops</h5>
 			<div class="template-component-list template-component-list-style-8 template-margin-top-3">
 				<ul>
-					<li>How to design mechanical design (CAD)</li>
-					<li>How to produce bioplastic products with additive manufacturing (3D printing)</li>
-					<li>How to produce wood & metal products with subtractive manufacturing (CNC milling)</li>
-					<li>How to fabricate intricate designs in wood, plastic, paper, fabric (Laser cutting)</li>
-					<li>How to make wooden parts with power tools (Woodworking)</li>
-					<li>How to make metal parts with power tools (Metalworking)</li>
+					<li>How to do high precision & manufacturable mechanical designs (CAD)<li>
+					<li>How to produce bioplastic products with additive manufacturing (3D printing) <li>
+					<li>How to make wood & metal products with subtractive manufacturing (CNC milling) <li>
+					<li>How to fabricate intricate designs in wood, plastic, paper, fabric (Laser cutting )<li>
+					<li>How to make wooden & metal parts with power tools (Woodworking & Metalworking)<li>
 				</ul>
 			</div>
 

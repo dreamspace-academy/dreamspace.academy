@@ -28,17 +28,17 @@
 		<div class="template-layout-column-right">
 			<!-- Header -->
 			<h4>Business Lab</h4>
-			<p>For those who have entrepreneurial mindset, to build practical knowledge for maximizing growth of the business venture/p>
+			<p>For those who have entrepreneurial mindset, to build practical knowledge for maximizing growth of the business venture</p>
 
 				<!-- List -->
 				<h5>Workshops</h5>
 				<div class="template-component-list template-component-list-style-8 template-margin-top-3">
 					<ul>
-						<li>How to design user centric solutions using Design Thinking</li>
-						<li>How to plan a financial modeling for a new business</li>
-						<li>How to make business plan & pricing for a sustainable business</li>
-						<li>How to develop B2B and B2C sales funnel</li>
-						<li>How to be a startup entrepreneur</li>
+						<li>How to design user centric solutions (Design Thinking )</li>
+						<li>How to develop sustainable financial and business modeling (Business)</li>
+						<li>How to develop B2B and B2C funnel  (Sales)</li>
+						<li>How to create startups from innovative ideas (Entrepreneurship)</li>
+						<li>How to raise funds or investments for a business venture (Investment)</li>
 					</ul>
 				</div>
 

@@ -43,7 +43,7 @@
 					<div class="template-layout-flex-50x50">
 						<div>
 							<h5>Software Lab</h5>
-							<span>For those who crave for digital adrenaline, to gain practical experience on coding anything from apps to cloud computing</br></br></span>
+							<span>For those who crave for digital adrenaline, to gain practical experience on coding anything from apps to cloud computing</span>
 							<div class="template-layout-flex-50x50">
 								<div>
 									<span>8+</span>
@@ -66,7 +66,7 @@
 					<div class="template-layout-flex-50x50">
 						<div>
 							<h5>Mechanics Lab</h5>
-							<span>For those who want to shift their brain gears, to build practical skills for mechanical design and digital fabrication</br></br></br></span>
+							<span>For those who shift their brain gears, to gather practical skills for anything mechanical design to digital fabrication</br></br></span>
 							<div class="template-layout-flex-50x50">
 								<div>
 									<span>12+</span>
@@ -89,7 +89,7 @@
 					<div class="template-layout-flex-50x50">
 						<div>
 							<h5>Business Lab</h5>
-							<span>For those who have entrepreneurial mindset, to build practical knowledge for maximizing growth of the business venture</span>
+							<span>For those with entrepreneurial mindset, to acquire practical knowledge for maximizing the growth of business ventures</span>
 							</br></br>
 							<div class="template-layout-flex-50x50">
 								<div>
@@ -113,7 +113,7 @@
 					<div class="template-layout-flex-50x50">
 						<div>
 							<h5>Design Lab</h5>
-							<span>For those born with an eye for beauty, to build practical expertise on multimedia design and production</br></br></span>
+							<span>For those born with an eye for beauty, to build practical expertise on anything from graphic design to character animation</span>
 							<div class="template-layout-flex-50x50">
 								<div>
 									<span>16+</span>

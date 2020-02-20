@@ -13,17 +13,17 @@
 		<div class="template-layout-column-left">
 			<!-- Header -->
 			<h4>Design Lab</h4>
-			<p>For those born with an eye for beauty, to build practical expertise on multimedia design and production</p>
+			<p>For those born with an eye for beauty, to build practical expertise on anything from graphic design to character animation</p>
 
 			<!-- List -->
 			<h5>Workshops</h5>
 			<div class="template-component-list template-component-list-style-8 template-margin-top-3">
 				<ul>
 					<li>How to design aesthetic logos, posters and banners (Graphic design)</li>
-					<li>How to design user friendly interface (UI/UX)</li>
-					<li>How to create 2D animation (Cartoon)</li>
+					<li>How to sketch user friendly interface and experience (UI/UX)</li>
 					<li>How to create motion graphics and special effects (Video)</li>
 					<li>How to design 3D models and characters (3D modeling)</li>
+					<li>How to make 2D characters animation (Cartoon)</li>
 				</ul>
 			</div>
 
