@@ -13,21 +13,22 @@
 		<div class="template-layout-column-left">
 			<!-- Header -->
 			<h4>Electronics Lab</h4>
-			<p>For those are fascinated by robots, to build practical techniques for building anything from circuits to humanoid robotics</p>
+			<p>For those who are fascinated by robots, to develop practical skills for building anything from circuits to humanoid robotics</p>
 
 			<!-- List -->
 			<h5>Workshops</h5>
 			<div class="template-component-list template-component-list-style-8 template-margin-top-3">
 				<ul>
-					<li>How to design, develop and prototype digital & analog electronic circuits (Circuits)</li>
-					<li>How to develop and program a firmware for embedded microcontrollers (Firmware)</li>
-					<li>How to design, program and build a robotic system (Robotics)</li>
-					<li>How to design and develop wired and wireless communication systems (Networks)</li>
+					<li>How to design, prototype and manufacture digital & analog electronic circuit s (Circuits)</li>
+					<li>How to develop a firmware for embedded microcontrollers (Firmware)</li>
+					<li>How to design, build and program robotic system s (Robotics)</li>
+					<li>How to design wired and wireless communication systems (Networks)</li>
 				</ul>
 			</div>
 
 			<h5>Content</h5>
-			<p>Circuits building, Breadboard, Soldering, PCB design, PCB manufacturing, Wired & Wireless communication, Microcontrollers, Arduino, STM32, Firmware development, Electronic components, Sensors, Actuators, Robots building, Embedded Systems, Electrical safety</p>
+			<p>Circuits building, Breadboard, Soldering, PCB design, PCB manufacturing, Wired & Wireless communication, Microcontrollers, Arduino, STM32, Firmware development, Electronic components, Sensors, Actuators, Robots building, Embedded Systems,
+				Electrical safety</p>
 		</div>
 
 		<!-- Right column -->

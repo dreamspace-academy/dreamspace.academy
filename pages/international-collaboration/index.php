@@ -7,7 +7,7 @@
   <!-- Header and subheader -->
   <div class="template-component-header-subheader">
     <h2>International Collaboration</h2>
-    <h6></h6>
+    <p>Our co-creation operation with international partners to expand our visibility and knowledge base .</p>
     <div></div>
   </div>
 

@@ -7,7 +7,7 @@
 	<!-- Header and subheader -->
 	<div class="template-component-header-subheader">
 		<h2>Maker Education</h2>
-		<h6></h6>
+		<p>Our academic operation for project based learning with multidisciplinary workshops  to build practical skills</p>
 		<div></div>
 	</div>
 

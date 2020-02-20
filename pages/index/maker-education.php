@@ -19,7 +19,7 @@
 					<div class="template-layout-flex-50x50">
 						<div>
 							<h5>Electronics Lab</h5>
-							<span>For those are fascinated by robots, to build practical techniques for building anything from circuits to humanoid robotics</span>
+							<span>For those who are fascinated by robots, to develop practical skills for building anything from circuits to humanoid robotics</span>
 							<div class="template-layout-flex-50x50">
 								<div>
 									<span>6+</span>
@@ -43,7 +43,7 @@
 					<div class="template-layout-flex-50x50">
 						<div>
 							<h5>Software Lab</h5>
-							<span>For those who want to master digital world, to build practical experience for coding anything from apps to cloud computing</br></br></span>
+							<span>For those who crave for digital adrenaline, to gain practical experience on coding anything from apps to cloud computing</br></br></span>
 							<div class="template-layout-flex-50x50">
 								<div>
 									<span>8+</span>
