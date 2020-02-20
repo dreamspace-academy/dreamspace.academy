@@ -67,7 +67,7 @@
 
 							<!-- About Menu -->
 							<li class="sf-mega-enable-0">
-								<a href="pages/about/index.php"><span class="template-icon-menu template-icon-menu-document"></span>About</a>
+								<a href="pages/about/index.php"><span class="template-icon-menu template-icon-menu-people"></span>About</a>
 								<ul>
 									<li><a href="pages/about/index.php#organisation">Organisation</a></li>
 									<li><a href="pages/about/index.php#team">Team</a></li>
@@ -80,7 +80,7 @@
 
 							<!-- The Four Verticals Menu -->
 							<li class="sf-mega-enable-1">
-								<a href="#"><span class="template-icon-menu template-icon-menu-document"></span>The Verticals</a>
+								<a href="#"><span class="template-icon-menu template-icon-menu-diagram"></span>The Verticals</a>
 								<div class="sf-mega template-layout-25x25x25x25 template-clear-fix">
 									<div class="template-layout-column-left">
 										<span class="sf-mega-header">Maker Education</span>
@@ -120,26 +120,20 @@
 								</div>
 							</li>
 
-							<!-- Communities Menu -->
-							<li class="sf-mega-enable-0">
-								<a href="pages/communities/index.php"><span class="template-icon-menu template-icon-menu-people"></span>Communities</a>
-								<ul>
-									<li><a href="pages/communities/index.php#community-innovation">Community Innovation</a></li>
-									<li><a href="pages/communities/index.php#terrace">Terrace</a></li>
-									<li><a href="pages/communities/index.php#urban-farming">Urban Farming</a></li>
-									<li><a href="pages/communities/index.php#chess">Chess</a></li>
-								</ul>
+							<!-- Blog Menu -->
+							<li class="sf-mega-enable-1">
+							  <a target="_blank" href="https://blog.dreamspace.academy"><span class="template-icon-menu template-icon-menu-pencil"></span>Blog</a>
 							</li>
-
 
 							<!-- Links Menu -->
 							<li class="sf-mega-enable-0">
-								<a href="#forum"><span class="template-icon-menu template-icon-menu-printer"></span>Links</a>
-								<ul>
-									<li><a href="#">Community Forum</a></li>
-									<li><a href="#">Events</a></li>
-								</ul>
+							  <a href="#"><span class="template-icon-menu template-icon-menu-database"></span>Links</a>
+							  <ul>
+							    <li><a href="pages/communities/index.php">Communities</a></li>
+							    <li><a href="#">Events</a></li>
+							  </ul>
 							</li>
+
 							<!-- Contact Menu -->
 							<li class="sf-mega-enable-1">
 								<a href="pages/master-page/contact.php"><span class="template-icon-menu template-icon-menu-envelope"></span>Contact</a>
@@ -233,21 +227,16 @@
 										</ul>
 									</li>
 
-									<!-- Communities Menu -->
+									<!-- Blog Menu -->
 									<li>
-										<a href="#">Communities<span></span></a>
-										<ul>
-											<li><a href="pages/communities/index.php#community-innovation">Community Innovation</a></li>
-											<li><a href="pages/communities/index.php#terrace">Terrace</a></li>
-											<li><a href="pages/communities/index.php#urban-farming">Urban Farming</a></li>
-											<li><a href="pages/communities/index.php#chess">Chess</a></li>
-										</ul>
+										<a target="_blank" href="https://blog.dreamspace.academy">Blog</a>
 									</li>
+
 									<!-- Links Menu -->
 									<li>
 										<a href="#">Links<span></span></a>
 										<ul>
-											<li><a href="#">Community Forum</a></li>
+											<li><a href="pages/communities/index.php">Communities</a></li>
 											<li><a href="#">Events</a></li>
 										</ul>
 									</li>
@@ -255,7 +244,6 @@
 									<!-- Contact Menu -->
 									<li>
 										<a href="pages/master-page/contact.php">Contact</a>
-
 									</li>
 
 								</ul>
