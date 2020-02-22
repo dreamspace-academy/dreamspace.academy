@@ -134,7 +134,7 @@
 								<a href="#"><span class="template-icon-menu template-icon-menu-database"></span>Links</a>
 								<ul>
 									<li><a href="../communities/index.php">Communities</a></li>
-									<li><a href="#">Events</a></li>
+									<li><a href="../../pages/master-page/calendar.php">Calendar</a></li>
 								</ul>
 							</li>
 
@@ -230,7 +230,7 @@
 										<a href="#">Links<span></span></a>
 										<ul>
 											<li><a href="../communities/index.php">Communities</a></li>
-											<li><a href="#">Events</a></li>
+											<li><a href="../../pages/master-page/calendar.php">Calendar</a></li>
 										</ul>
 									</li>
 
