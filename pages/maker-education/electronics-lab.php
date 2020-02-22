@@ -23,6 +23,7 @@
 					<li>How to develop a firmware for embedded microcontrollers (Firmware)</li>
 					<li>How to design, build and program robotic system s (Robotics)</li>
 					<li>How to design wired and wireless communication systems (Networks)</li>
+					<li>How to build automation systems with sensors and actuators (Automation)</li>
 				</ul>
 			</div>
 

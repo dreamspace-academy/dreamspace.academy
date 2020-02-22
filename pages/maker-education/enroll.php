@@ -8,7 +8,7 @@
 					<h3>If this is interesting for you, please send us a message</h3>
 				</div>
 				<div class="template-component-call-to-action-content-right">
-					<a href="../../contact-us.php" class="template-component-button template-component-button-style-2 template-section-white">Click Here !<i></i></a>
+					<a href="../master-page/contact.php" class="template-component-button template-component-button-style-2 template-section-white">Click Here !<i></i></a>
 				</div>
 			</div>
 		</div>

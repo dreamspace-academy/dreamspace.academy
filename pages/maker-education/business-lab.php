@@ -38,8 +38,7 @@
 						<li>How to develop sustainable financial and business modeling (Business)</li>
 						<li>How to develop B2B and B2C funnel  (Sales)</li>
 						<li>How to create startups from innovative ideas (Entrepreneurship)</li>
-						<li>How to raise funds or investments for a business venture (Investment)</li>
-						<li>How to build automation systems with sensors and actuators (Automation)</li>
+						<li>How to raise funds or investments for a business venture (Investment)</li>						
 					</ul>
 				</div>
 
