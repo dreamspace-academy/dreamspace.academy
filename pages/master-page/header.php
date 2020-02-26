@@ -102,7 +102,7 @@
 									<div class="template-layout-column-center-left">
 										<span class="sf-mega-header">Community Innovation</span>
 										<ul>
-											<li><a href="../../pages/international-collaboration/index.php">Underwater Glider</a></li>
+											<li><a href="../../pages/community-innovation/underwater-glider.php">Underwater Glider</a></li>
 										</ul>
 									</div>
 
