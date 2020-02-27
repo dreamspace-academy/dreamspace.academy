@@ -73,8 +73,7 @@
 									<li><a href="pages/about/index.php#team">Team</a></li>
 									<li><a href="pages/about/index.php#supporters">Supporters</a></li>
 									<li><a href="pages/about/index.php#partners">Partners</a></li>
-									<!--		<li><a href="pages/about/index.php#skills">Skills</a></li> -->
-
+									<li><a href="pages/about/index.php">Awards</a></li>
 								</ul>
 							</li>
 
@@ -113,25 +112,51 @@
 									<div class="template-layout-column-right">
 										<span class="sf-mega-header">Social Enterpreneurship</span>
 										<ul>
-											<li><a href="pages/international-collaboration/index.php">DreamSpace Terrace</a></li>
+											<li><a href="pages/communities/index.php#terrace">DreamSpace Terrace</a></li>
 										</ul>
 									</div>
 
 								</div>
 							</li>
 
-							<!-- Blog Menu -->
+							<!-- Activities Menu -->
 							<li class="sf-mega-enable-1">
-							  <a target="_blank" href="https://blog.dreamspace.academy"><span class="template-icon-menu template-icon-menu-pencil"></span>Blog</a>
+								<a href="#"><span class="template-icon-menu template-icon-menu-signpost"></span>Activities</a>
+								<div class="sf-mega template-layout-25x25x25x25 template-clear-fix">
+									<div class="template-layout-column-left">
+										<span class="sf-mega-header">Competitions</span>
+										<ul>
+											<li><a href="https://www.facebook.com/dreamspace.academy/photos/?tab=album&album_id=2427450264198969">The Duke of Edinburgh's Award (UK)</a></li>
+											<li><a href="https://www.facebook.com/dreamspace.academy/posts/2550019751942019">Stockholm Junior Water Prize (Sweden)</a></li>
+										</ul>
+									</div>
+
+									<div class="template-layout-column-center-left">
+										<span class="sf-mega-header">Camps</span>
+										<ul>
+											<li><a href="https://inclusivegrowth.com.lk">Skills For Inclusive Growth (Australia)</a></li>
+										</ul>
+									</div>
+
+									<div class="template-layout-column-center-right">
+										<span class="sf-mega-header">Communities</span>
+										<ul>
+											<li><a href="pages/communities/index.php#community-innovation">Makers</a></li>
+											<li><a href="pages/communities/index.php#chess">Chess</a></li>
+											<li><a href="pages/communities/index.php#urban-farming">Urban Farming</a></li>
+										</ul>
+									</div>
+
+								</div>
 							</li>
 
 							<!-- Links Menu -->
 							<li class="sf-mega-enable-0">
-							  <a href="#"><span class="template-icon-menu template-icon-menu-database"></span>Links</a>
-							  <ul>
-							    <li><a href="pages/communities/index.php">Communities</a></li>
-							    <li><a href="pages/master-page/calendar.php">Calendar</a></li>
-							  </ul>
+								<a href="#"><span class="template-icon-menu template-icon-menu-database"></span>Links</a>
+								<ul>
+									<li><a href="https://blog.dreamspace.academy">Blog</a></li>
+									<li><a href="pages/master-page/calendar.php">Calendar</a></li>
+								</ul>
 							</li>
 
 							<!-- Contact Menu -->
@@ -174,6 +199,9 @@
 											</li>
 											<li>
 												<a href="pages/about/index.php#partners">Partners</a>
+											</li>
+											<li>
+												<a href="pages/about/index.php#partners">Awards</a>
 											</li>
 
 										</ul>
@@ -220,23 +248,53 @@
 											<li>
 												<a href="#">Social Enterpreneurship<span></span></a>
 												<ul>
-													<li><a href="pages/international-collaboration/index.php">DreamSpace Terrace</a></li>
+													<li><a href="pages/communities/index.php#terrace">DreamSpace Terrace</a></li>
 												</ul>
 											</li>
 
 										</ul>
 									</li>
 
-									<!-- Blog Menu -->
+									<!-- Activities Menu -->
 									<li>
-										<a target="_blank" href="https://blog.dreamspace.academy">Blog</a>
+										<a href="#">Activities<span></span></a>
+										<ul>
+
+											<!-- Competitions Menu -->
+											<li>
+												<a href="#">Competitions<span></span></a>
+												<ul>
+													<li><a href="https://www.facebook.com/dreamspace.academy/photos/?tab=album&album_id=2427450264198969">The Duke of Edinburgh's Award (UK)</a></li>
+													<li><a href="https://www.facebook.com/dreamspace.academy/posts/2550019751942019">Stockholm Junior Water Prize (Sweden)</a></li>
+												</ul>
+											</li>
+
+											<!-- Camps -->
+											<li>
+												<a href="#">Camps<span></span></a>
+												<ul>
+													<li><a href="https://inclusivegrowth.com.lk">Skills For Inclusive Growth (Australia)</a></li>
+												</ul>
+											</li>
+
+											<!-- Communities Menu -->
+											<li>
+												<a href="#">Communities<span></span></a>
+												<ul>
+													<li><a href="pages/communities/index.php#community-innovation">Makers</a></li>
+													<li><a href="pages/communities/index.php#chess">Chess</a></li>
+													<li><a href="pages/communities/index.php#urban-farming">Urban Farming</a></li>
+												</ul>
+											</li>
+
+										</ul>
 									</li>
 
 									<!-- Links Menu -->
 									<li>
 										<a href="#">Links<span></span></a>
 										<ul>
-											<li><a href="pages/communities/index.php">Communities</a></li>
+											<li><a href="https://blog.dreamspace.academy">Blog</a></li>
 											<li><a href="pages/master-page/calendar.php">Calendar</a></li>
 										</ul>
 									</li>
@@ -247,15 +305,10 @@
 									</li>
 
 								</ul>
-
 							<li>
-
 						</ul>
-
 					</nav>
-
 				</div>
-
 			</div>
 		</div>
 
