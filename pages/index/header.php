@@ -132,7 +132,7 @@
 									</div>
 
 									<div class="template-layout-column-center-left">
-										<span class="sf-mega-header">Camps</span>
+										<span class="sf-mega-header">Programs</span>
 										<ul>
 											<li><a href="https://inclusivegrowth.com.lk">Skills For Inclusive Growth (Australia)</a></li>
 										</ul>
@@ -154,7 +154,7 @@
 							<li class="sf-mega-enable-0">
 								<a href="#"><span class="template-icon-menu template-icon-menu-database"></span>Links</a>
 								<ul>
-									<li><a href="https://blog.dreamspace.academy">Blog</a></li>
+									<li><a target="_blank" href="https://blog.dreamspace.academy">Blog</a></li>
 									<li><a href="pages/master-page/calendar.php">Calendar</a></li>
 								</ul>
 							</li>
@@ -269,9 +269,9 @@
 												</ul>
 											</li>
 
-											<!-- Camps -->
+											<!-- Programs -->
 											<li>
-												<a href="#">Camps<span></span></a>
+												<a href="#">Programs<span></span></a>
 												<ul>
 													<li><a href="https://inclusivegrowth.com.lk">Skills For Inclusive Growth (Australia)</a></li>
 												</ul>
@@ -294,7 +294,7 @@
 									<li>
 										<a href="#">Links<span></span></a>
 										<ul>
-											<li><a href="https://blog.dreamspace.academy">Blog</a></li>
+											<li><a target="_blank" href="https://blog.dreamspace.academy">Blog</a></li>
 											<li><a href="pages/master-page/calendar.php">Calendar</a></li>
 										</ul>
 									</li>
