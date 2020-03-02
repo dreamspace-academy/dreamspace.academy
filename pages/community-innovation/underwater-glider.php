@@ -24,13 +24,18 @@
 
       <!-- Preambule -->
       <div class="template-post-section-preambule">
-        <!-- Image -->
-        <div class="template-component-image template-fancybox template-preloader">
-          <a href="../../media/images/community-innovation/underwater-glider/underwater-glider-dreamspace-1.jpg">
-            <img src="../../media/images/community-innovation/underwater-glider/underwater-glider-dreamspace-1.jpg" alt="underwater-glider-dreamspace" />
-            <span><span><span></span></span></span>
-          </a>
+        <!-- Nivo slider -->
+        <div class="template-component-nivo-slider template-component-nivo-slider-style-2 template-preloader">
+          <div>
+            <img src="../../media/images/community-innovation/underwater-glider/underwater-glider-dreamspace-1.jpg" data-thumb="../../media/images/community-innovation/underwater-glider/underwater-glider-dreamspace-1.jpg" alt="Chess Community" />
+            <img src="../../media/images/community-innovation/underwater-glider/underwater-glider-dreamspace-2.jpg" data-thumb="../../media/images/community-innovation/underwater-glider/underwater-glider-dreamspace-2.jpg" alt="Chess Community" />
+            <img src="../../media/images/community-innovation/underwater-glider/underwater-glider-dreamspace-3.jpg" data-thumb="../../media/images/community-innovation/underwater-glider/underwater-glider-dreamspace-3.jpg" alt="Chess Community" />
+            <img src="../../media/images/community-innovation/underwater-glider/underwater-glider-dreamspace-4.jpg" data-thumb="../../media/images/community-innovation/underwater-glider/underwater-glider-dreamspace-4.jpg" alt="Chess Community" />
+            <img src="../../media/images/community-innovation/underwater-glider/underwater-glider-dreamspace-5.jpg" data-thumb="../../media/images/community-innovation/underwater-glider/underwater-glider-dreamspace-5.jpg" alt="Chess Community" />
+          </div>
         </div>
+
+        <div class="template-component-divider template-component-divider-style-1"></div>
       </div>
 
       <!-- Meta -->
@@ -38,20 +43,22 @@
 
         <div class="template-post-meta">
 
+          <!-- Author -->
+          <div class="template-icon-blog template-icon-blog-author">
+            <a target="_blank" href="https://hackaday.io/aswilliams">Alex Williams</a>
+          </div>
+
           <!-- Tag -->
-          <div class="template-icon-blog template-icon-blog-tag">
+          <div class="template-icon-blog template-icon-blog-category">
             <ul class="template-reset-list">
-              <li><a href="https://hackaday.io/project/20458-osug-open-source-underwater-glider">OSUG: Open-Source Underwater Glider</a></li>
+              <li><a target="_blank" href="https://hackaday.io/project/20458-osug-open-source-underwater-glider">Open-source Underwater Glider (OSUG)</a></li>
             </ul>
           </div>
 
-          <!-- Author -->
           <div class="template-icon-blog template-icon-blog-author">
-            <a href="https://hackaday.io/aswilliams">Alex Williams</a>
+            <a target="_blank" href="http://www.dailynews.lk/2019/09/12/tc/196709/walk-talk">Shanjeevan Amalanathan</a>
           </div>
-
         </div>
-
       </div>
 
       <!-- Content -->
@@ -128,7 +135,8 @@
             open-source project OSUG.
           </p>
           <p class="template-padding-reset" align="justify">
-            He strongly believes that he will be further contributing to the OSUG project, by making it a production-ready underwater glider with multiparameter measurements system that will play a vital role in protecting the Blue Ecosystems in Global South.
+            He strongly believes that he will be further contributing to the OSUG project, by making it a production-ready underwater glider with multiparameter measurements system that will play a vital role in protecting the Blue Ecosystems in
+            Global South.
           </p>
 
           <!-- SDGs -->
