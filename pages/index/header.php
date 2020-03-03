@@ -141,7 +141,7 @@
 									<div class="template-layout-column-center-right">
 										<span class="sf-mega-header">Communities</span>
 										<ul>
-											<li><a href="pages/communities/index.php#community-innovation">Makers</a></li>
+											<li><a href="pages/communities/makers.php">Makers</a></li>
 											<li><a href="pages/communities/index.php#chess">Chess</a></li>
 											<li><a href="pages/communities/index.php#urban-farming">Urban Farming</a></li>
 										</ul>
@@ -281,7 +281,7 @@
 											<li>
 												<a href="#">Communities<span></span></a>
 												<ul>
-													<li><a href="pages/communities/index.php#community-innovation">Makers</a></li>
+													<li><a href="pages/communities/makers.php">Makers</a></li>
 													<li><a href="pages/communities/index.php#chess">Chess</a></li>
 													<li><a href="pages/communities/index.php#urban-farming">Urban Farming</a></li>
 												</ul>
