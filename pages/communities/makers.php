@@ -19,15 +19,15 @@
       <ul class="template-layout-25x25x25x25 template-clear-fix">
         <li class="template-layout-column-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../../media/images/communities/makers/aravinth-dreamspace-makers.jpg" alt="dreamspace-makers" />
+            <img src="../../media/images/communities/makers/gowshan-nandakukar-dreamspace-makers.jpg" alt="dreamspace-makers" />
             <div>
-              <h6>Aravinth Panch</h6>
-              <span>araBot, araBeat</span>
+              <h6>Gowshan Nandakumar</h6>
+              <span>Animator</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
-                <li><a target="_blank" href="https://www.linkedin.com/in/aravinthpanch/" class="template-component-social-icon-linkedin"></a></li>
-                <li><a target="_blank" href="http://aravinth.info/" class="template-component-social-icon-wykop"></a></li>
+                <li><a target="_blank" href="https://www.linkedin.com/in/gowshan-nandakumar-33470636/" class="template-component-social-icon-linkedin"></a></li>
+                <li><a target="_blank" href="https://nandakumargowshan.blogspot.com" class="template-component-social-icon-rss"></a></li>
               </ul>
             </div>
           </div>
@@ -37,7 +37,7 @@
             <img src="../../media/images/communities/makers/aravinth-dreamspace-makers.jpg" alt="dreamspace-makers" />
             <div>
               <h6>Aravinth Panch</h6>
-              <span>araBot, araBeat</span>
+              <span>Community Builder</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
@@ -52,12 +52,12 @@
             <img src="../../media/images/communities/makers/aravinth-dreamspace-makers.jpg" alt="dreamspace-makers" />
             <div>
               <h6>Aravinth Panch</h6>
-              <span>araBot, araBeat</span>
+              <span>Community Builder</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
                 <li><a target="_blank" href="https://www.linkedin.com/in/aravinthpanch/" class="template-component-social-icon-linkedin"></a></li>
-                <li><a target="_blank" href="http://aravinth.info/" class="template-component-social-icon-wykop"></a></li>
+                <li><a target="_blank" href="http://aravinth.info/" class="template-component-social-icon-rss"></a></li>
               </ul>
             </div>
           </div>
@@ -67,12 +67,12 @@
             <img src="../../media/images/communities/makers/aravinth-dreamspace-makers.jpg" alt="dreamspace-makers" />
             <div>
               <h6>Aravinth Panch</h6>
-              <span>araBot, araBeat</span>
+              <span>Community Builder</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
                 <li><a target="_blank" href="https://www.linkedin.com/in/aravinthpanch/" class="template-component-social-icon-linkedin"></a></li>
-                <li><a target="_blank" href="http://aravinth.info/" class="template-component-social-icon-wykop"></a></li>
+                <li><a target="_blank" href="http://aravinth.info/" class="template-component-social-icon-rss"></a></li>
               </ul>
             </div>
           </div>
@@ -100,12 +100,12 @@
             <img src="../../media/images/communities/makers/aravinth-dreamspace-makers.jpg" alt="dreamspace-makers" />
             <div>
               <h6>Aravinth Panch</h6>
-              <span>araBot, araBeat</span>
+              <span>Community Builder</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
                 <li><a target="_blank" href="https://www.linkedin.com/in/aravinthpanch/" class="template-component-social-icon-linkedin"></a></li>
-                <li><a target="_blank" href="http://aravinth.info/" class="template-component-social-icon-wykop"></a></li>
+                <li><a target="_blank" href="http://aravinth.info/" class="template-component-social-icon-rss"></a></li>
               </ul>
             </div>
           </div>
@@ -115,12 +115,12 @@
             <img src="../../media/images/communities/makers/aravinth-dreamspace-makers.jpg" alt="dreamspace-makers" />
             <div>
               <h6>Aravinth Panch</h6>
-              <span>araBot, araBeat</span>
+              <span>Community Builder</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
                 <li><a target="_blank" href="https://www.linkedin.com/in/aravinthpanch/" class="template-component-social-icon-linkedin"></a></li>
-                <li><a target="_blank" href="http://aravinth.info/" class="template-component-social-icon-wykop"></a></li>
+                <li><a target="_blank" href="http://aravinth.info/" class="template-component-social-icon-rss"></a></li>
               </ul>
             </div>
           </div>
@@ -130,12 +130,12 @@
             <img src="../../media/images/communities/makers/aravinth-dreamspace-makers.jpg" alt="dreamspace-makers" />
             <div>
               <h6>Aravinth Panch</h6>
-              <span>araBot, araBeat</span>
+              <span>Community Builder</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
                 <li><a target="_blank" href="https://www.linkedin.com/in/aravinthpanch/" class="template-component-social-icon-linkedin"></a></li>
-                <li><a target="_blank" href="http://aravinth.info/" class="template-component-social-icon-wykop"></a></li>
+                <li><a target="_blank" href="http://aravinth.info/" class="template-component-social-icon-rss"></a></li>
               </ul>
             </div>
           </div>
@@ -145,12 +145,12 @@
             <img src="../../media/images/communities/makers/aravinth-dreamspace-makers.jpg" alt="dreamspace-makers" />
             <div>
               <h6>Aravinth Panch</h6>
-              <span>araBot, araBeat</span>
+              <span>Community Builder</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
                 <li><a target="_blank" href="https://www.linkedin.com/in/aravinthpanch/" class="template-component-social-icon-linkedin"></a></li>
-                <li><a target="_blank" href="http://aravinth.info/" class="template-component-social-icon-wykop"></a></li>
+                <li><a target="_blank" href="http://aravinth.info/" class="template-component-social-icon-rss"></a></li>
               </ul>
             </div>
           </div>
