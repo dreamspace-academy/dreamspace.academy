@@ -273,7 +273,7 @@
 											<li>
 												<a href="#">Programs<span></span></a>
 												<ul>
-													<li><a href="https://inclusivegrowth.com.lk">Skills For Inclusive Growth (Australia)</a></li>
+													<li><a href="https://blog.dreamspace.academy/category/trainings/s4ig/">Skills For Inclusive Growth (Australia)</a></li>
 												</ul>
 											</li>
 
