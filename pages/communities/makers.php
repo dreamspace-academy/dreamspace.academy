@@ -67,7 +67,7 @@
             </div>
           </div>
         </li>
-        <li class="template-layout-column-right">
+        <!-- <li class="template-layout-column-right">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
             <img src="../../media/images/communities/makers/aravinth-dreamspace-makers.jpg" alt="dreamspace-makers" />
             <div>
@@ -81,7 +81,7 @@
               </ul>
             </div>
           </div>
-        </li>
+        </li> -->
       </ul>
     </div>
 
@@ -102,50 +102,53 @@
       <ul class="template-layout-25x25x25x25 template-clear-fix">
         <li class="template-layout-column-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../../media/images/communities/makers/aravinth-dreamspace-makers.jpg" alt="dreamspace-makers" />
+            <img src="../../media/images/communities/makers/pavithran-thayalanathan-dreamspace-junior-makers.jpg" alt="dreamspace-makers" />
             <div>
-              <h6>Aravinth Panch</h6>
-              </br><span>Community Builder</span>
+              <h6>Pavithran Thayalanathan</h6>
+            </br><span>IFV Makers</span>
+            <span>Kommathurai</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
-                <li><a target="_blank" href="https://www.linkedin.com/in/aravinthpanch/" class="template-component-social-icon-linkedin"></a></li>
-                <li><a target="_blank" href="http://aravinth.info/" class="template-component-social-icon-rss"></a></li>
+                <li><a target="_blank" href="https://www.linkedin.com/company/dreamspace-academy" class="template-component-social-icon-linkedin"></a></li>
+                <li><a target="_blank" href="https://www.facebook.com/pavi.thayah" class="template-component-social-icon-rss"></a></li>
               </ul>
             </div>
           </div>
         </li>
         <li class="template-layout-column-center-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../../media/images/communities/makers/aravinth-dreamspace-makers.jpg" alt="dreamspace-makers" />
+            <img src="../../media/images/communities/makers/jathurshan-yokeswaran-dreamspace-junior-makers.jpg" alt="dreamspace-makers" />
             <div>
-              <h6>Aravinth Panch</h6>
-              </br><span>Community Builder</span>
+              <h6>Jathurshan Yogeswaran </h6>
+            </br><span>IFV Makers</span>
+            <span>Kommathurai</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
-                <li><a target="_blank" href="https://www.linkedin.com/in/aravinthpanch/" class="template-component-social-icon-linkedin"></a></li>
-                <li><a target="_blank" href="http://aravinth.info/" class="template-component-social-icon-rss"></a></li>
+                <li><a target="_blank" href="https://www.linkedin.com/company/dreamspace-academy" class="template-component-social-icon-linkedin"></a></li>
+                <li><a target="_blank" href="https://www.facebook.com/profile.php?id=100034270422305" class="template-component-social-icon-rss"></a></li>
               </ul>
             </div>
           </div>
         </li>
         <li class="template-layout-column-center-right">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../../media/images/communities/makers/aravinth-dreamspace-makers.jpg" alt="dreamspace-makers" />
+            <img src="../../media/images/communities/makers/kosaaruna-tharmanathan-dreamspace-junior-makers.jpg" alt="dreamspace-makers" />
             <div>
-              <h6>Aravinth Panch</h6>
-              </br><span>Community Builder</span>
+              <h6>Kosaaruna Tharmanathan </h6>
+            </br><span>IFV Makers</span>
+            <span>Kommathurai</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
-                <li><a target="_blank" href="https://www.linkedin.com/in/aravinthpanch/" class="template-component-social-icon-linkedin"></a></li>
-                <li><a target="_blank" href="http://aravinth.info/" class="template-component-social-icon-rss"></a></li>
+                <li><a target="_blank" href="https://www.linkedin.com/company/dreamspace-academy" class="template-component-social-icon-linkedin"></a></li>
+                <li><a target="_blank" href="https://www.facebook.com/profile.php?id=100034384755732" class="template-component-social-icon-rss"></a></li>
               </ul>
             </div>
           </div>
         </li>
-        <li class="template-layout-column-right">
+        <!-- <li class="template-layout-column-right">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
             <img src="../../media/images/communities/makers/aravinth-dreamspace-makers.jpg" alt="dreamspace-makers" />
             <div>
@@ -159,7 +162,7 @@
               </ul>
             </div>
           </div>
-        </li>
+        </li> -->
       </ul>
     </div>
 
