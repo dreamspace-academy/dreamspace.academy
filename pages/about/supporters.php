@@ -16,7 +16,7 @@
       <ul class="template-layout-25x25x25x25 template-clear-fix">
         <li class="template-layout-column-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../../media/images/about/supporters/maite-dreamspace.jpg" alt="dreamspace-team" />
+            <img src="../../media/images/about/supporters/maite-dreamspace.jpg" alt="dreamspace-supporters" />
             <div>
               <h6>Maite Hernandez Zubeldia</h6>
               </br>
@@ -32,7 +32,7 @@
         </li>
         <li class="template-layout-column-center-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../../media/images/about/supporters/darina-dreamspace.jpg" alt="dreamspace-team" />
+            <img src="../../media/images/about/supporters/darina-dreamspace.jpg" alt="dreamspace-supporters" />
             <div>
               <h6>Darina Onoprienko</h6>
               </br>
@@ -49,7 +49,7 @@
         </li>
         <li class="template-layout-column-center-right">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../../media/images/about/supporters/nico-dreamspace.jpg" alt="dreamspace-team" />
+            <img src="../../media/images/about/supporters/nico-dreamspace.jpg" alt="dreamspace-supporters" />
             <div>
               <h6>Dr. Nico Meißner</h6>
               </br>
@@ -66,7 +66,7 @@
         </li>
         <li class="template-layout-column-right">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../../media/images/about/supporters/luise-dreamspace.jpg" alt="dreamspace-team" />
+            <img src="../../media/images/about/supporters/luise-dreamspace.jpg" alt="dreamspace-supporters" />
             <div>
               <h6>Luise Kröning</h6>
               </br>
@@ -83,7 +83,7 @@
         </li>
         <li class="template-layout-column-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../../media/images/about/supporters/zoe-dreamspace.jpg" alt="dreamspace-team" />
+            <img src="../../media/images/about/supporters/zoe-dreamspace.jpg" alt="dreamspace-supporters" />
             <div>
               <h6>Zoë Harman Conlon</h6>
               </br>
@@ -100,7 +100,7 @@
         </li>
         <li class="template-layout-column-center-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../../media/images/about/supporters/melani-dreamspace.jpg" alt="dreamspace-team" />
+            <img src="../../media/images/about/supporters/melani-dreamspace.jpg" alt="dreamspace-supporters" />
             <div>
               <h6>Melani Jayamanna</h6>
               </br>
@@ -117,7 +117,7 @@
         </li>
         <li class="template-layout-column-center-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../../media/images/about/supporters/soniya-dreamspace.jpg" alt="dreamspace-team" />
+            <img src="../../media/images/about/supporters/soniya-dreamspace.jpg" alt="dreamspace-supporters" />
             <div>
               <h6>Soniya Siva</h6>
               </br>
