@@ -27,11 +27,11 @@
         <!-- Nivo slider -->
         <div class="template-component-nivo-slider template-component-nivo-slider-style-2 template-preloader">
           <div>
-            <img src="../../media/images/community-innovation/underwater-glider/underwater-glider-dreamspace-1.jpg" data-thumb="../../media/images/community-innovation/underwater-glider/underwater-glider-dreamspace-1.jpg" alt="Chess Community" />
-            <img src="../../media/images/community-innovation/underwater-glider/underwater-glider-dreamspace-2.jpg" data-thumb="../../media/images/community-innovation/underwater-glider/underwater-glider-dreamspace-2.jpg" alt="Chess Community" />
-            <img src="../../media/images/community-innovation/underwater-glider/underwater-glider-dreamspace-3.jpg" data-thumb="../../media/images/community-innovation/underwater-glider/underwater-glider-dreamspace-3.jpg" alt="Chess Community" />
-            <img src="../../media/images/community-innovation/underwater-glider/underwater-glider-dreamspace-4.jpg" data-thumb="../../media/images/community-innovation/underwater-glider/underwater-glider-dreamspace-4.jpg" alt="Chess Community" />
-            <img src="../../media/images/community-innovation/underwater-glider/underwater-glider-dreamspace-5.jpg" data-thumb="../../media/images/community-innovation/underwater-glider/underwater-glider-dreamspace-5.jpg" alt="Chess Community" />
+            <img src="../../media/images/community-innovation/underwater-glider/underwater-glider-dreamspace-1.jpg" data-thumb="../../media/images/community-innovation/underwater-glider/underwater-glider-dreamspace-1.jpg" alt="dreamspace-community-innovation" />
+            <img src="../../media/images/community-innovation/underwater-glider/underwater-glider-dreamspace-2.jpg" data-thumb="../../media/images/community-innovation/underwater-glider/underwater-glider-dreamspace-2.jpg" alt="dreamspace-community-innovation" />
+            <img src="../../media/images/community-innovation/underwater-glider/underwater-glider-dreamspace-3.jpg" data-thumb="../../media/images/community-innovation/underwater-glider/underwater-glider-dreamspace-3.jpg" alt="dreamspace-community-innovation" />
+            <img src="../../media/images/community-innovation/underwater-glider/underwater-glider-dreamspace-4.jpg" data-thumb="../../media/images/community-innovation/underwater-glider/underwater-glider-dreamspace-4.jpg" alt="dreamspace-community-innovation" />
+            <img src="../../media/images/community-innovation/underwater-glider/underwater-glider-dreamspace-5.jpg" data-thumb="../../media/images/community-innovation/underwater-glider/underwater-glider-dreamspace-5.jpg" alt="dreamspace-community-innovation" />
           </div>
         </div>
 
@@ -133,7 +133,7 @@
           </p>
 
           <!-- SDGs -->
-          <h4 class="template-margin-top-5 template-margin-bottom-5">This innovation collects SDG Badges for</h4>
+          <h4 class="template-margin-top-5 template-margin-bottom-5">This innovation collects SDG Badges of</h4>
           <div class="template-component-feature template-component-feature-style-1 template-component-feature-position-left template-component-feature-size-medium">
             <ul class="template-layout-33x33x33 template-clear-fix">
               <li class="template-layout-column-left">

@@ -20,7 +20,7 @@
 					<h6></h6>
 					<div></div>
 				</div>
-				<b style="color: #56509F">Our mission</b> to empower creative minds through <b>Maker Education</b>, to create innovative solutions using <b style="color: #56509F">Open Innovations</b>, and ultimately leading them to become successful <b>Social
+				<b style="color: #56509F">Our mission</b> is to empower creative minds through <b>Maker Education</b>, to create innovative solutions using <b style="color: #56509F">Open Innovations</b>, and ultimately leading them to become successful <b>Social
 					Entrepreneurs</b>.
 				</br>
 
@@ -30,7 +30,7 @@
 					<h6></h6>
 					<div></div>
 				</div>
-				We are a <b style="color: #56509F">Non-profit Social Enterprise</b> that keeps the balance between the <b>Social Mission</b> and the <b style="color: #56509F">Business Venture</b> to ensure <b>Sustainability</b>, with the help of international &
+				We are a <b style="color: #56509F">Non-profit Social Enterprise</b> that keeps the balance between the <b>Social Mission</b> and the <b style="color: #56509F">Business Venture</b> to implement <b>Sustainable Development Goals</b>, with the help of international &
 				local organisations and individuals.
 			</h3>
 		</div>
