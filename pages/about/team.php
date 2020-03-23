@@ -258,7 +258,7 @@
               <h6>Luise Kröning</h6>
               </br>
               </br>
-              <span>Design Thinking Coach</span>
+              <span>Innovation Consultant</span>
               <span>Germany</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
