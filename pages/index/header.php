@@ -71,7 +71,6 @@
 								<ul>
 									<li><a href="pages/about/index.php#organisation">Organisation</a></li>
 									<li><a href="pages/about/index.php#team">Team</a></li>
-									<li><a href="pages/about/index.php#supporters">Supporters</a></li>
 									<li><a href="pages/about/index.php#partners">Partners</a></li>
 									<li><a href="pages/about/index.php">Awards</a></li>
 								</ul>
@@ -177,25 +176,17 @@
 								<ul>
 									<li>
 										<a href="index.php">Home</a>
-
 									</li>
+
 									<!-- About Menu -->
 									<li>
-
-
 										<a href="#">About<span></span></a>
 										<ul>
 											<li>
 												<a href="pages/about/index.php#organisation">Organisation</a>
-
 											</li>
 											<li>
 												<a href="pages/about/index.php#team">Team</a>
-
-											</li>
-											<li>
-												<a href="pages/about/index.php#supporters">Supporters</a>
-
 											</li>
 											<li>
 												<a href="pages/about/index.php#partners">Partners</a>
@@ -203,7 +194,6 @@
 											<li>
 												<a href="pages/about/index.php#partners">Awards</a>
 											</li>
-
 										</ul>
 									</li>
 
@@ -211,7 +201,6 @@
 									<li>
 										<a href="#">The Verticals<span></span></a>
 										<ul>
-
 											<!-- Maker Education Menu -->
 											<li>
 												<a href="#">Maker Education<span></span></a>

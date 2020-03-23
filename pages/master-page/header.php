@@ -75,10 +75,8 @@
 								<ul>
 									<li><a href="../about/index.php#organisation">Organisation</a></li>
 									<li><a href="../about/index.php#team">Team</a></li>
-									<li><a href="../about/index.php#supporters">Supporters</a></li>
 									<li><a href="../about/index.php#partners">Partners</a></li>
-									<!--		<li><a href="pages/about/index.php#skills">Skills</a></li> -->
-
+									<li><a href="../about/index.php#awards">Awards</a></li>
 								</ul>
 							</li>
 
@@ -182,20 +180,16 @@
 								<ul>
 									<li>
 										<a href="../../index.php">Home</a>
-
 									</li>
+
 									<!-- About Menu -->
 									<li>
-
-
 										<a href="#">About<span></span></a>
 										<ul>
-											<li><a href="#organisation">Organisation</a></li>
-											<li><a href="#team">Team</a></li>
-											<li><a href="#supporters">Supporters</a></li>
-											<li><a href="#partners">Partners</a></li>
-											<!--	<li><a href="#skills">Skills</a></li>-->
-
+											<li><a href="../about/index.php#organisation">Organisation</a></li>
+											<li><a href="../about/index.php#team">Team</a></li>											
+											<li><a href="../about/index.php#partners">Partners</a></li>
+											<li><a href="../about/index.php#awards">Awards</a></li>
 										</ul>
 									</li>
 
