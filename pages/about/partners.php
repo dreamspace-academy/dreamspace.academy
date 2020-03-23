@@ -327,6 +327,21 @@
             </div>
           </div>
         </li>
+        <li class="template-layout-column-center-right">
+          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+            <img src="../../media/images/about/partners/lwb-dreamspace.jpg" alt="dreamspace-partners" />
+            <div>
+              <h6>Lecturers Without Borders</h6>              
+              </br>
+              <span>France</span>
+            </div>
+            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+              <ul>
+                <li><a target="_blank" href="https://scied.network/" class="template-component-social-icon-rss"></a></li>
+              </ul>
+            </div>
+          </div>
+        </li>
 
       </ul>
     </div>
