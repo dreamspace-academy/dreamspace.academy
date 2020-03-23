@@ -73,10 +73,9 @@
 							<li class="sf-mega-enable-0">
 								<a href="../about/index.php"><span class="template-icon-menu template-icon-menu-people"></span>About</a>
 								<ul>
-									<li><a href="../about/index.php#organisation">Organisation</a></li>
 									<li><a href="../about/index.php#team">Team</a></li>
-									<li><a href="../about/index.php#partners">Partners</a></li>
 									<li><a href="../about/index.php#awards">Awards</a></li>
+									<li><a href="../about/index.php#partners">Partners</a></li>
 								</ul>
 							</li>
 
@@ -101,6 +100,7 @@
 										<span class="sf-mega-header">Community Innovation</span>
 										<ul>
 											<li><a href="../../pages/community-innovation/underwater-glider.php">Underwater Glider</a></li>
+											<li><a href="../../pages/community-innovation/circular-plastic.php">Circular Plastic</a></li>
 										</ul>
 									</div>
 
@@ -186,10 +186,9 @@
 									<li>
 										<a href="#">About<span></span></a>
 										<ul>
-											<li><a href="../about/index.php#organisation">Organisation</a></li>
-											<li><a href="../about/index.php#team">Team</a></li>											
-											<li><a href="../about/index.php#partners">Partners</a></li>
+											<li><a href="../about/index.php#team">Team</a></li>
 											<li><a href="../about/index.php#awards">Awards</a></li>
+											<li><a href="../about/index.php#partners">Partners</a></li>
 										</ul>
 									</li>
 
@@ -216,7 +215,8 @@
 											<li>
 												<a href="#">Community Innovation<span></span></a>
 												<ul>
-													<li><a href="../../pages/maker-education/index.php#electronics-lab">Underwater Glider</a></li>
+													<li><a href="../../pages/community-innovation/underwater-glider.php">Underwater Glider</a></li>
+													<li><a href="../../pages/community-innovation/circular-plastic.php">Circular Plastic</a></li>
 												</ul>
 											</li>
 
