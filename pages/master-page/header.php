@@ -6,7 +6,7 @@
 
 	<title>DreamSpace Academy</title>
 	<meta name="keywords" content="" />
-	<meta name="description" content="Community Innovation Center to tackle authentic socio-economic and environmental challenges using Project Based Learning (PBL)" />
+	<meta name="description" content="DreamSpace Academy is a Community Innovation Center to tackle authentic local socio-economic and environmental challenges using Project & Challenge Based Learning." />
 
 	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
