@@ -4,18 +4,6 @@
 <!-- Content -->
 <div class="template-content">
 
-	<!-- Header and subheader -->
-	<div class="template-component-header-subheader">
-		<h2>Communities</h2>
-		<h6></h6>
-		<div></div>
-	</div>
-
-	<!-- community-innovation section -->
-	<section id="community-innovation">
-		<?php include('community-innovation.php') ?>
-	</section>
-
 	<!-- terrace section -->
 	<section id="terrace">
 		<?php include('terrace.php') ?>
