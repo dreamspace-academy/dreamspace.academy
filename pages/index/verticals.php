@@ -6,6 +6,7 @@
 		<!-- Header and subheader -->
 		<div class="template-component-header-subheader">
 			<h3>
+				
 				<!-- Header and subheader -->
 				<div class="template-component-header-subheader">
 					<h3>Who are we?</h3>

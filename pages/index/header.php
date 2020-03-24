@@ -51,7 +51,7 @@
 
 				<div class="template-header-top-logo">
 					<a href="index.php">
-						<img src="media/images/dreamspace-logo.png" alt="" />
+						<img src="media/images/dreamspace-logo.png"/>						
 					</a>
 				</div>
 				<!-- Desktop Web Menu -->
