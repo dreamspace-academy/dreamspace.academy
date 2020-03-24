@@ -6,14 +6,14 @@
 		<!-- Header and subheader -->
 		<div class="template-component-header-subheader">
 			<h3>
-				
+
 				<!-- Header and subheader -->
 				<div class="template-component-header-subheader">
 					<h3>Who are we?</h3>
 					<h6></h6>
 					<div></div>
 				</div>
-				<b style="color: #56509F">DreamSpace Academy</b> is a <b>Community Innovation Center</b> to tackle authentic local socio-economic and environmental challenges using <b style="color: #56509F">Project & Challenge Based Learning.</b>
+				<b style="color: #56509F">DreamSpace Academy</b> is a <b>Community Innovation Center</b>, based in Batticaloa - Sri Lanka, to tackle local socio-economic and environmental challenges using <b style="color: #56509F">Project & Challenge Based Learning.</b>
 
 				<!-- Header and subheader -->
 				<div class="template-component-header-subheader">
