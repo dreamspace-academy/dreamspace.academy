@@ -302,7 +302,7 @@
             </div>
           </div>
         </li>
-        <li class="template-layout-column-center-left">
+        <!-- <li class="template-layout-column-center-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
             <img src="../../media/images/about/supporters/soniya-dreamspace.jpg" alt="dreamspace-supporters" />
             <div>
@@ -318,7 +318,7 @@
               </ul>
             </div>
           </div>
-        </li>
+        </li> -->
       </ul>
     </div>
   </div>
