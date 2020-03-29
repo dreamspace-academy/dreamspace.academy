@@ -159,7 +159,23 @@
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
                 <li><a target="_blank" href="https://www.linkedin.com/company/dreamspace-academy" class="template-component-social-icon-linkedin"></a></li>
-                <li><a target="_blank" href="https://www.facebook.com/profile.php?id=100034384755732" class="template-component-social-icon-rss"></a></li>
+                <li><a target="_blank" href="https://www.facebook.com/dreamspace.academy/" class="template-component-social-icon-rss"></a></li>
+              </ul>
+            </div>
+          </div>
+        </li>
+        <li class="template-layout-column-left">
+          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+            <img src="../../media/images/communities/makers/thanajayan-dreamspace-makers.jpg" alt="dreamspace-makers" />
+            <div>
+              <h6>Thananjayan</h6>
+            </br><span>Innovator</span>
+            <span>Batticaloa</span>
+            </div>
+            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+              <ul>
+                <li><a target="_blank" href="https://www.linkedin.com/company/dreamspace-academy" class="template-component-social-icon-linkedin"></a></li>
+                <li><a target="_blank" href="https://www.facebook.com/dreamspace.academy/" class="template-component-social-icon-rss"></a></li>
               </ul>
             </div>
           </div>
