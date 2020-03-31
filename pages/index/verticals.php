@@ -31,8 +31,7 @@
 					<h6></h6>
 					<div></div>
 				</div>
-				We are a <b style="color: #56509F">Non-profit Social Enterprise</b> that keeps the balance between the <b>Social Mission</b> and the <b style="color: #56509F">Business Venture</b> to implement <b>Sustainable Development Goals</b>, with the help of international &
-				local organisations and individuals.
+				We are a <b style="color: #56509F">Non-profit Social Enterprise</b> that keeps the balance between the <b>Social Mission</b> and the <b style="color: #56509F">Business Venture</b>, to achieve <b>Sustainable Development Goals</b> and empower the <b style="color: #56509F">Underprivileged Communities</b>, with the help of international & local organisations and individuals.
 			</h3>
 		</div>
 
