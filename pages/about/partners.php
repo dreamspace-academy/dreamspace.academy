@@ -223,6 +223,7 @@
             <div>
               <h6>UN Volunteers</h6>
               </br>
+              </br>
               <span>Sri Lanka</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
@@ -347,6 +348,7 @@
             <img src="../../media/images/about/partners/jogl-dreamspace.jpg" alt="dreamspace-partners" />
             <div>
               <h6>Just One Giant Lab</h6>
+              </br>
               </br>
               <span>France</span>
             </div>
