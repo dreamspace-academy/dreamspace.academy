@@ -331,13 +331,43 @@
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
             <img src="../../media/images/about/partners/lwb-dreamspace.jpg" alt="dreamspace-partners" />
             <div>
-              <h6>Lecturers Without Borders</h6>              
+              <h6>Lecturers Without Borders</h6>
               </br>
               <span>France</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
                 <li><a target="_blank" href="https://scied.network/" class="template-component-social-icon-rss"></a></li>
+              </ul>
+            </div>
+          </div>
+        </li>
+        <li class="template-layout-column-right">
+          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+            <img src="../../media/images/about/partners/jogl-dreamspace.jpg" alt="dreamspace-partners" />
+            <div>
+              <h6>Just One Giant Lab</h6>
+              </br>
+              <span>France</span>
+            </div>
+            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+              <ul>
+                <li><a target="_blank" href="http://jogl.io/" class="template-component-social-icon-rss"></a></li>
+              </ul>
+            </div>
+          </div>
+        </li>
+        <li class="template-layout-column-left">
+          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+            <img src="../../media/images/about/partners/a2p-dreamspace.jpg" alt="dreamspace-partners" />
+            <div>
+              <h6>Access 2 Perspectives</h6>
+              </br>
+              <span>Germany</span>
+            </div>
+            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+              <ul>
+                <li><a target="_blank" href="http://access2perspectives.com/" class="template-component-social-icon-rss"></a></li>
               </ul>
             </div>
           </div>
