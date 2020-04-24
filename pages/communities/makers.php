@@ -158,7 +158,7 @@
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
-                <li><a target="_blank" href="https://www.linkedin.com/company/dreamspace-academy" class="template-component-social-icon-linkedin"></a></li>
+                <li><a target="_blank" href="https://www.linkedin.com/in/rajakumar-b-a789341a5/" class="template-component-social-icon-linkedin"></a></li>
                 <li><a target="_blank" href="https://www.facebook.com/dreamspace.academy/" class="template-component-social-icon-rss"></a></li>
               </ul>
             </div>
@@ -174,7 +174,7 @@
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
-                <li><a target="_blank" href="https://www.linkedin.com/company/dreamspace-academy" class="template-component-social-icon-linkedin"></a></li>
+                <li><a target="_blank" href="https://www.linkedin.com/in/thananchayan-ramakirushnan1998/" class="template-component-social-icon-linkedin"></a></li>
                 <li><a target="_blank" href="https://www.facebook.com/dreamspace.academy/" class="template-component-social-icon-rss"></a></li>
               </ul>
             </div>
