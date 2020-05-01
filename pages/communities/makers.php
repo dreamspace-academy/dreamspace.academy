@@ -110,7 +110,7 @@
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
-                <li><a target="_blank" href="https://www.linkedin.com/company/dreamspace-academy" class="template-component-social-icon-linkedin"></a></li>
+                <li><a target="_blank" href="https://www.linkedin.com/in/pavithiran-thayah-5711b71a5/" class="template-component-social-icon-linkedin"></a></li>
                 <li><a target="_blank" href="https://www.facebook.com/pavi.thayah" class="template-component-social-icon-rss"></a></li>
               </ul>
             </div>
@@ -126,7 +126,7 @@
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
-                <li><a target="_blank" href="https://www.linkedin.com/company/dreamspace-academy" class="template-component-social-icon-linkedin"></a></li>
+                <li><a target="_blank" href="https://www.linkedin.com/in/jathurshan-j-b052951a6/" class="template-component-social-icon-linkedin"></a></li>
                 <li><a target="_blank" href="https://www.facebook.com/profile.php?id=100034270422305" class="template-component-social-icon-rss"></a></li>
               </ul>
             </div>
@@ -142,7 +142,7 @@
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
-                <li><a target="_blank" href="https://www.linkedin.com/company/dreamspace-academy" class="template-component-social-icon-linkedin"></a></li>
+                <li><a target="_blank" href="https://www.linkedin.com/in/kosaaruna-tharamanathan-733b421a4/" class="template-component-social-icon-linkedin"></a></li>
                 <li><a target="_blank" href="https://www.facebook.com/profile.php?id=100034384755732" class="template-component-social-icon-rss"></a></li>
               </ul>
             </div>
@@ -206,7 +206,7 @@
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
-                <li><a target="_blank" href="https://www.linkedin.com/company/dreamspace-academy" class="template-component-social-icon-linkedin"></a></li>
+                <li><a target="_blank" href="https://www.linkedin.com/in/pathma-priyan-94211a142/" class="template-component-social-icon-linkedin"></a></li>
                 <li><a target="_blank" href="https://www.facebook.com/pathma.priyan.7" class="template-component-social-icon-rss"></a></li>
               </ul>
             </div>
