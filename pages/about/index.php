@@ -5,6 +5,7 @@
 	<!-- team-section -->
 	<section id="team">
 		<?php include('team.php') ?>
+		<?php include('supporters.php') ?>
 	</section>
 
 	<!-- partners-section -->

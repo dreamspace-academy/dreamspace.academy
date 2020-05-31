@@ -14,6 +14,7 @@
     <!-- Gallery -->
     <div class="template-component-gallery">
       <ul class="template-layout-25x25x25x25 template-clear-fix">
+        <!-- Supporters -->
         <li class="template-layout-column-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
             <img src="../../media/images/about/supporters/maite-dreamspace.jpg" alt="dreamspace-supporters" />
@@ -71,7 +72,7 @@
               <h6>Luise Kröning</h6>
               </br>
               </br>
-              <span>Design Thinking Coach</span>
+              <span>Innovation Consultant</span>
               <span>Germany</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
@@ -88,7 +89,7 @@
               <h6>Zoë Harman Conlon</h6>
               </br>
               </br>
-              <span>Community Manager</span>
+              <span>Event Manager</span>
               <span>Germany | Ireland</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
@@ -98,7 +99,7 @@
             </div>
           </div>
         </li>
-        <li class="template-layout-column-center-left">
+        <!-- <li class="template-layout-column-center-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
             <img src="../../media/images/about/supporters/melani-dreamspace.jpg" alt="dreamspace-supporters" />
             <div>
@@ -114,8 +115,8 @@
               </ul>
             </div>
           </div>
-        </li>
-        <li class="template-layout-column-center-left">
+        </li> -->
+        <!-- <li class="template-layout-column-center-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
             <img src="../../media/images/about/supporters/soniya-dreamspace.jpg" alt="dreamspace-supporters" />
             <div>
@@ -131,7 +132,7 @@
               </ul>
             </div>
           </div>
-        </li>
+        </li> -->
       </ul>
     </div>
   </div>

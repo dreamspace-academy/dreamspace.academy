@@ -153,6 +153,21 @@
 						</div>
 					</div>
 				</li>
+        <li class="template-layout-column-left">
+					<div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+						<img src="../../media/images/about/partners/gtmh-dreamspace.jpg" alt="dreamspace-partners" />
+						<div>
+							<h6>Global Talent Mentoring (GTMH)</h6>
+							</br>
+							<span>Germany | UAE</span>
+						</div>
+						<div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+							<ul>
+								<li><a target="_blank" href="https://globaltalentmentoring.org/" class="template-component-social-icon-rss"></a></li>
+							</ul>
+						</div>
+					</div>
+				</li>
 			</ul>
 		</div>
 	</div>
