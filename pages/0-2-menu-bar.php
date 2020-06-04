@@ -27,7 +27,7 @@
 
 						<!-- The Four Verticals Menu -->
 						<li class="sf-mega-enable-1">
-							<a href="#"><span class="template-icon-menu template-icon-menu-diagram"></span>The Verticals</a>
+							<a href="#"><span class="template-icon-menu template-icon-menu-diagram"></span>Life Cycle</a>
 							<div class="sf-mega template-layout-25x25x25x25 template-clear-fix">
 								<div class="template-layout-column-left">
 									<span class="sf-mega-header">Maker Education</span>

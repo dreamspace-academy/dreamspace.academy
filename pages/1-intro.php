@@ -1,13 +1,7 @@
-<!-- Verticals Section -->
 <div class="template-content-section template-padding-top-reset template-padding-bottom-5">
-	<!-- Main -->
 	<div class="template-main">
-
-		<!-- Header and subheader -->
 		<div class="template-component-header-subheader">
 			<h3>
-
-				<!-- Header and subheader -->
 				<div class="template-component-header-subheader">
 					<h3>Who are we?</h3>
 					<h6></h6>
@@ -15,7 +9,6 @@
 				</div>
 				<b style="color: #56509F">DreamSpace Academy</b> is a <b>Community Innovation Center</b>, based in Batticaloa - Sri Lanka, to tackle local socio-economic and environmental challenges using <b style="color: #56509F">Project & Challenge Based Learning.</b>
 
-				<!-- Header and subheader -->
 				<div class="template-component-header-subheader">
 					<h3>What do we do?</h3>
 					<h6></h6>
@@ -25,7 +18,6 @@
 					Entrepreneurs</b>.
 				</br>
 
-				<!-- Header and subheader -->
 				<div class="template-component-header-subheader">
 					<h3>What are we?</h3>
 					<h6></h6>
@@ -35,14 +27,12 @@
 			</h3>
 		</div>
 
-		<!-- Header and subheader -->
 		<div class="template-component-header-subheader">
-			<h3>How do we do?</h3>
+			<h3>DreamSpace Life Cycle</h3>
 			<h6></h6>
 			<div></div>
 		</div>
 
-		<!-- Feature -->
 		<div class="template-component-feature template-component-feature-style-4 template-component-feature-position-top template-component-feature-size-large">
 			<ul class="template-layout-25x25x25x25 template-clear-fix">
 				<li class="template-layout-column-left">
@@ -67,7 +57,5 @@
 				</li>
 			</ul>
 		</div>
-
-
 	</div>
 </div>
