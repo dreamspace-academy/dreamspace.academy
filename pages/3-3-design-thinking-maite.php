@@ -55,7 +55,7 @@
 
     <!-- "Continue reading" button -->
     <div class="template-post-section-button">
-      <a href="../maker-education/index.php#business-lab" class="template-component-button template-component-button-style-1">
+      <a href="3-1-0-maker-education.php#business-lab" class="template-component-button template-component-button-style-1">
         Design Thinking @ Business Lab<i></i>
       </a>
       <!-- Divider -->

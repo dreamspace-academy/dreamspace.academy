@@ -33,7 +33,7 @@
 						</div>
 						<div class="template-component-class-background-1">
 							<!-- Button -->
-							<a href="pages/maker-education/index.php#electronics-lab" class="template-component-button template-component-button-style-1">Click here<i></i></a>
+							<a href="3-1-0-maker-education.php#electronics-lab" class="template-component-button template-component-button-style-1">Click here<i></i></a>
 						</div>
 					</div>
 				</li>
@@ -56,7 +56,7 @@
 							</div>
 						</div>
 						<div class="template-component-class-background-2">
-							<a href="pages/maker-education/index.php#software-lab" class="template-component-button template-component-button-style-1">Click here<i></i></a>
+							<a href="3-1-0-maker-education.php#software-lab" class="template-component-button template-component-button-style-1">Click here<i></i></a>
 						</div>
 					</div>
 				</li>
@@ -79,7 +79,7 @@
 							</div>
 						</div>
 						<div class="template-component-class-background-3">
-							<a href="pages/maker-education/index.php#mechanics-lab" class="template-component-button template-component-button-style-1">Click here<i></i></a>
+							<a href="3-1-0-maker-education.php#mechanics-lab" class="template-component-button template-component-button-style-1">Click here<i></i></a>
 						</div>
 					</div>
 				</li>
@@ -103,7 +103,7 @@
 							</div>
 						</div>
 						<div class="template-component-class-background-4">
-							<a href="pages/maker-education/index.php#business-lab" class="template-component-button template-component-button-style-1">Click here<i></i></a>
+							<a href="3-1-0-maker-education.php#business-lab" class="template-component-button template-component-button-style-1">Click here<i></i></a>
 						</div>
 					</div>
 				</li>
@@ -126,7 +126,7 @@
 							</div>
 						</div>
 						<div class="template-component-class-background-5">
-							<a href="pages/maker-education/index.php#design-lab" class="template-component-button template-component-button-style-1">Click here<i></i></a>
+							<a href="3-1-0-maker-education.php#design-lab" class="template-component-button template-component-button-style-1">Click here<i></i></a>
 						</div>
 					</div>
 				</li>
@@ -150,7 +150,7 @@
 							</div>
 						</div>
 						<div class="template-component-class-background-6">
-							<a href="pages/maker-education/index.php#art-lab" class="template-component-button template-component-button-style-1">Click here<i></i></a>
+							<a href="3-1-0-maker-education.php#art-lab" class="template-component-button template-component-button-style-1">Click here<i></i></a>
 						</div>
 					</div>
 				</li>
@@ -173,7 +173,7 @@
 							</div>
 						</div>
 						<div class="template-component-class-background-7">
-							<a href="pages/maker-education/index.php#wet-lab" class="template-component-button template-component-button-style-1">Click here<i></i></a>
+							<a href="3-1-0-maker-education.php#wet-lab" class="template-component-button template-component-button-style-1">Click here<i></i></a>
 						</div>
 					</div>
 				</li>

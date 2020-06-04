@@ -2,7 +2,7 @@
 	<div class="template-header-top">
 		<div class="template-main template-clear-fix">
 			<div class="template-header-top-logo">
-				<a href="index.php">
+				<a href="1-index.php">
 					<img src="../media/images/dreamspace-logo.png" />
 				</a>
 			</div>
