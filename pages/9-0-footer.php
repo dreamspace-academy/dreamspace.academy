@@ -35,7 +35,7 @@
 <script type="text/javascript" src="../script/revslider/extensions/revolution.extension.slideanims.min.js"></script>
 <script type="text/javascript" src="../script/revslider/extensions/revolution.extension.video.min.js"></script>
 <script type="text/javascript" src="../script/sticky.min.js"></script>
-<script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
+<script type="text/javascript" src="https://maps.google.com/maps/api/js?sensor=false"></script>
 <script type="text/javascript" src="../script/jquery.template.component.js"></script>
 <script type="text/javascript" src="../script/public.js"></script>
 </body>
