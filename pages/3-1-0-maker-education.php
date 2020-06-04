@@ -1,47 +1,17 @@
-<!-- header-menu -->
-<?php include('../master-page/header.php') ?>
-
-<!-- Content -->
+<?php include('0-0-header.php') ?>
 <div class="template-content">
-
-	<!-- Header and subheader -->
 	<div class="template-component-header-subheader">
 		<h2>Maker Education</h2>
 		<p>Our academic operation for project based learning with multidisciplinary workshops  to build practical skills</p>
 		<div></div>
 	</div>
-
-	<section id="electronics-lab">
-		<?php include('electronics-lab.php'); ?>
-	</section>
-
-	<section id="software-lab">
-		<?php include('software-lab.php'); ?>
-	</section>
-
-	<section id="mechanics-lab">
-		<?php include('mechanics-lab.php'); ?>
-	</section>
-
-	<section id="business-lab">
-		<?php include('business-lab.php'); ?>
-	</section>
-
-	<section id="design-lab">
-		<?php include('design-lab.php'); ?>
-	</section>
-
-	<section id="art-lab">
-		<?php include('art-lab.php'); ?>
-	</section>
-
-	<section id="wet-lab">
-		<?php include('wet-lab.php'); ?>
-	</section>
-
-	<?php include('enroll.php'); ?>
-
+	<?php include('3-1-electronics-lab.php'); ?>
+	<?php include('3-1-software-lab.php'); ?>
+	<?php include('3-1-mechanics-lab.php'); ?>
+	<?php include('3-1-business-lab.php'); ?>
+	<?php include('3-1-design-lab.php'); ?>
+	<?php include('3-1-art-lab.php'); ?>
+	<?php include('3-1-wet-lab.php'); ?>
+	<?php include('3-1-enroll.php'); ?>
 </div>
-
-<!-- footer-menu -->
-<?php include('../master-page/footer.php') ?>
+<?php include('9-0-footer.php') ?>

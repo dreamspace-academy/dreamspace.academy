@@ -1,5 +1,5 @@
 <!-- Divider -->
-<div class="template-component-divider template-component-divider-style-1"></div>
+<div class="template-component-divider template-component-divider-style-1" id="software-lab"></div>
 <div class="template-component-header-subheader">
 	<h2>&nbsp;</h2>
 </div>

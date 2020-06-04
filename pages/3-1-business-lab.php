@@ -1,5 +1,5 @@
 <!-- Divider -->
-<div class="template-component-divider template-component-divider-style-1"></div>
+<div class="template-component-divider template-component-divider-style-1" id="business-lab"></div>
 <div class="template-component-header-subheader">
 	<h2>&nbsp;</h2>
 </div>
@@ -38,7 +38,7 @@
 						<li>How to develop sustainable financial and business modeling (Business)</li>
 						<li>How to develop B2B and B2C funnel  (Sales)</li>
 						<li>How to create startups from innovative ideas (Entrepreneurship)</li>
-						<li>How to raise funds or investments for a business venture (Investment)</li>						
+						<li>How to raise funds or investments for a business venture (Investment)</li>
 					</ul>
 				</div>
 
