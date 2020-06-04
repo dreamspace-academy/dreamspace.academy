@@ -75,6 +75,15 @@
 							<a href="#"><span class="template-icon-menu template-icon-menu-signpost"></span>Activities</a>
 							<div class="sf-mega template-layout-25x25x25x25 template-clear-fix">
 								<div class="template-layout-column-left">
+									<span class="sf-mega-header">Communities</span>
+									<ul>
+										<li><a href="4-1-makers.php">Makers</a></li>
+										<li><a href="4-1-0-communities.php#chess">Chess</a></li>
+										<li><a href="4-1-0-communities.php#urban-farming">Urban Farming</a></li>
+									</ul>
+								</div>
+
+								<div class="template-layout-column-center-left">
 									<span class="sf-mega-header">Competitions</span>
 									<ul>
 										<li><a href="https://www.facebook.com/dreamspace.academy/photos/?tab=album&album_id=2427450264198969">The Duke of Edinburgh's Award (UK)</a></li>
@@ -82,22 +91,12 @@
 									</ul>
 								</div>
 
-								<div class="template-layout-column-center-left">
+								<div class="template-layout-column-center-right">
 									<span class="sf-mega-header">Programs</span>
 									<ul>
 										<li><a href="https://inclusivegrowth.com.lk">Skills For Inclusive Growth (Australia)</a></li>
 									</ul>
 								</div>
-
-								<div class="template-layout-column-center-right">
-									<span class="sf-mega-header">Communities</span>
-									<ul>
-										<li><a href="pages/communities/makers.php">Makers</a></li>
-										<li><a href="pages/communities/index.php#chess">Chess</a></li>
-										<li><a href="pages/communities/index.php#urban-farming">Urban Farming</a></li>
-									</ul>
-								</div>
-
 							</div>
 						</li>
 
@@ -198,6 +197,15 @@
 								<li>
 									<a href="#">Activities<span></span></a>
 									<ul>
+										<!-- Communities Menu -->
+										<li>
+											<a href="#">Communities<span></span></a>
+											<ul>
+												<li><a href="4-1-makers.php">Makers</a></li>
+												<li><a href="4-1-0-communities.php#chess">Chess</a></li>
+												<li><a href="4-1-0-communities.php#urban-farming">Urban Farming</a></li>
+											</ul>
+										</li>
 
 										<!-- Competitions Menu -->
 										<li>
@@ -208,24 +216,13 @@
 											</ul>
 										</li>
 
-										<!-- Programs -->
+										<!-- Programs Menu-->
 										<li>
 											<a href="#">Programs<span></span></a>
 											<ul>
 												<li><a href="https://blog.dreamspace.academy/category/trainings/s4ig/">Skills For Inclusive Growth (Australia)</a></li>
 											</ul>
 										</li>
-
-										<!-- Communities Menu -->
-										<li>
-											<a href="#">Communities<span></span></a>
-											<ul>
-												<li><a href="pages/communities/makers.php">Makers</a></li>
-												<li><a href="pages/communities/index.php#chess">Chess</a></li>
-												<li><a href="pages/communities/index.php#urban-farming">Urban Farming</a></li>
-											</ul>
-										</li>
-
 									</ul>
 								</li>
 

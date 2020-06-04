@@ -1,13 +1,6 @@
-<!-- Section -->
-<div class="template-content-section template-padding-bottom-5">
-
-	<!-- Main -->
+<div class="template-content-section template-padding-bottom-5" id="urban-farming">
 	<div class="template-main">
-
-		<!-- Layout 50x50 -->
 		<div class="template-layout-50x50 template-clear-fix">
-
-			<!-- Left column -->
 			<div class="template-layout-column-left template-margin-bottom-reset">
 				<div class="template-align-center">
 					<h2>Urban Farming</h2>
@@ -25,10 +18,7 @@
 					</p>
 				</div>
 			</div>
-
-			<!-- Right column -->
 			<div class="template-layout-column-right template-margin-bottom-reset">
-				<!-- Nivo slider -->
 				<div class="template-component-nivo-slider template-component-nivo-slider-style-1 template-preloader">
 					<div>
 						<img src="../../media/images/communities/urban-farming/dreamspace-harvast-june-2019-kishoth-1.jpg" data-thumb="../../media/images/communities/urban-farming/dreamspace-harvast-june-2019-kishoth-1.jpg" alt="Chess Community" />
@@ -37,9 +27,6 @@
 					</div>
 				</div>
 			</div>
-
 		</div>
-
 	</div>
-
 </div>

@@ -1,25 +1,6 @@
-<!-- header-menu -->
-<?php include('../master-page/header.php') ?>
-
-<!-- Content -->
+<?php include('0-0-header.php') ?>
 <div class="template-content">
-
-	<!-- terrace section -->
-	<section id="terrace">
-		<?php include('terrace.php') ?>
-	</section>
-
-	<!-- urban-farming section -->
-	<section id="urban-farming">
-		<?php include('urban-farming.php') ?>
-	</section>
-
-	<!-- chess section -->
-	<section id="chess">
-		<?php include('chess.php') ?>
-	</section>
-
+<?php include('4-1-urban-farming.php') ?>
+<?php include('4-1-chess.php') ?>
 </div>
-
-<!-- footer-menu -->
-<?php include('../master-page/footer.php') ?>
+<?php include('9-0-footer.php') ?>
