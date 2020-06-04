@@ -61,9 +61,9 @@
 								</div>
 
 								<div class="template-layout-column-right">
-									<span class="sf-mega-header">Social Enterpreneurship</span>
+									<span class="sf-mega-header">Social Entrepreneurship</span>
 									<ul>
-										<li><a href="pages/communities/index.php#terrace">DreamSpace Terrace</a></li>
+										<li><a href="3-4-social-entrepreneurship.php#terrace">DreamSpace Terrace</a></li>
 									</ul>
 								</div>
 
@@ -185,9 +185,9 @@
 
 										<!-- Social Enterpreneurship Menu -->
 										<li>
-											<a href="#">Social Enterpreneurship<span></span></a>
+											<a href="#">Social Entrepreneurship<span></span></a>
 											<ul>
-												<li><a href="pages/communities/index.php#terrace">DreamSpace Terrace</a></li>
+												<li><a href="3-4-social-entrepreneurship.php#terrace">DreamSpace Terrace</a></li>
 											</ul>
 										</li>
 
