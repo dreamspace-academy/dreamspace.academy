@@ -32,7 +32,7 @@
 							</div>
 						</div>
 						<div style="background-image:url('../media/images/org-labs/lab-electronics-dreamspace-1.jpg'">
-							<a href="3-1-0-maker-education.php#electronics-lab" class="template-component-button template-component-button-style-1">Click here<i></i></a>
+							<a href="3-1-0-maker-education.php#electronics-lab" class="template-component-button template-component-button-style-1">More<i></i></a>
 						</div>
 					</div>
 				</li>
@@ -55,7 +55,7 @@
 							</div>
 						</div>
 						<div style="background-image:url('../media/images/org-labs/lab-software-dreamspace-1.jpg'">
-							<a href="3-1-0-maker-education.php#software-lab" class="template-component-button template-component-button-style-1">Click here<i></i></a>
+							<a href="3-1-0-maker-education.php#software-lab" class="template-component-button template-component-button-style-1">More<i></i></a>
 						</div>
 					</div>
 				</li>
@@ -78,7 +78,7 @@
 							</div>
 						</div>
 						<div style="background-image:url('../media/images/org-labs/lab-mechanics-dreamspace-1.jpg'">
-							<a href="3-1-0-maker-education.php#mechanics-lab" class="template-component-button template-component-button-style-1">Click here<i></i></a>
+							<a href="3-1-0-maker-education.php#mechanics-lab" class="template-component-button template-component-button-style-1">More<i></i></a>
 						</div>
 					</div>
 				</li>
@@ -102,7 +102,7 @@
 							</div>
 						</div>
 						<div style="background-image:url('../media/images/org-labs/lab-business-dreamspace-1.jpg'">
-							<a href="3-1-0-maker-education.php#business-lab" class="template-component-button template-component-button-style-1">Click here<i></i></a>
+							<a href="3-1-0-maker-education.php#business-lab" class="template-component-button template-component-button-style-1">More<i></i></a>
 						</div>
 					</div>
 				</li>
@@ -125,7 +125,7 @@
 							</div>
 						</div>
 						<div style="background-image:url('../media/images/org-labs/lab-design-dreamspace-1.jpg'">
-							<a href="3-1-0-maker-education.php#design-lab" class="template-component-button template-component-button-style-1">Click here<i></i></a>
+							<a href="3-1-0-maker-education.php#design-lab" class="template-component-button template-component-button-style-1">More<i></i></a>
 						</div>
 					</div>
 				</li>
@@ -149,7 +149,7 @@
 							</div>
 						</div>
 						<div style="background-image:url('../media/images/org-labs/lab-art-dreamspace-1.jpg'">
-							<a href="3-1-0-maker-education.php#art-lab" class="template-component-button template-component-button-style-1">Click here<i></i></a>
+							<a href="3-1-0-maker-education.php#art-lab" class="template-component-button template-component-button-style-1">More<i></i></a>
 						</div>
 					</div>
 				</li>
@@ -172,7 +172,7 @@
 							</div>
 						</div>
 						<div style="background-image:url('../media/images/org-labs/lab-bio-dreamspace-1.jpg'">
-							<a href="3-1-0-maker-education.php#bio-lab" class="template-component-button template-component-button-style-1">Click here<i></i></a>
+							<a href="3-1-0-maker-education.php#bio-lab" class="template-component-button template-component-button-style-1">More<i></i></a>
 						</div>
 					</div>
 				</li>
