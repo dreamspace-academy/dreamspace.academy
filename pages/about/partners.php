@@ -155,9 +155,9 @@
 				</li>
         <li class="template-layout-column-left">
 					<div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-						<img src="../../media/images/about/partners/gtmh-dreamspace.jpg" alt="dreamspace-partners" />
+						<img src="../../media/images/about/partners/gtm-dreamspace.jpg" alt="dreamspace-partners" />
 						<div>
-							<h6>Global Talent Mentoring (GTMH)</h6>
+							<h6>Global Talent Mentoring (GTM)</h6>
 							</br>
 							<span>Germany | UAE</span>
 						</div>
