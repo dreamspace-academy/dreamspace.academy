@@ -55,8 +55,8 @@
 								<div class="template-layout-column-center-right">
 									<span class="sf-mega-header">International Collaboration</span>
 									<ul>
-										<li><a href="pages/international-collaboration/index.php#design-thinking-maite">Design Thinking by Maite</a></li>
-										<li><a href="pages/international-collaboration/index.php#story-telling-nico">Storytelling by Dr. Nico</a></li>
+										<li><a href="3-3-0-international-collaboration.php#design-thinking-maite">Design Thinking by Maite</a></li>
+										<li><a href="3-3-0-international-collaboration.php#story-telling-nico">Storytelling by Dr. Nico</a></li>
 									</ul>
 								</div>
 
@@ -177,9 +177,9 @@
 										<li>
 											<a href="#">International Collaboration<span></span></a>
 											<ul>
-												<li><a href="pages/international-collaboration/index.php">Design Thinking by Maite</a></li>
-												<li><a href="pages/international-collaboration/index.php#design-thinking-maite">Design Thinking by Maite</a></li>
-												<li><a href="pages/international-collaboration/index.php#story-telling-nico">Storytelling by Dr. Nico</a></li>
+												<li><a href="3-3-0-international-collaboration.php">Design Thinking by Maite</a></li>
+												<li><a href="3-3-0-international-collaboration.php#design-thinking-maite">Design Thinking by Maite</a></li>
+												<li><a href="3-3-0-international-collaboration.php#story-telling-nico">Storytelling by Dr. Nico</a></li>
 											</ul>
 										</li>
 
