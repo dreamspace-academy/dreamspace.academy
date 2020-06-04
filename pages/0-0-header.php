@@ -25,8 +25,8 @@
 	<link rel="stylesheet" type="text/css" href="../style/retina.css" />
 	<script type="text/javascript" src="../script/jquery.min.js"></script>
 	<script type="text/javascript" src="../script/google-form.js"></script>
-	<link rel="icon" type="image/png" href="../media/images/favicon-32x32.png" sizes="32x32" />
-	<link rel="icon" type="image/png" href="../media/images/favicon-16x16.png" sizes="16x16" />
+	<link rel="icon" type="image/png" href="../media/images/logos/logo-32x32-dreamspace.png" sizes="32x32" />
+	<link rel="icon" type="image/png" href="../media/images/logos/logo-16x16-dreamspace.png" sizes="16x16" />
 	<?php include('0-1-cookies-consent.php'); ?>
 </head>
 

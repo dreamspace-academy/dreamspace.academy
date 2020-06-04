@@ -4,9 +4,9 @@
 			<div class="template-layout-column-left template-margin-bottom-reset">
 				<div class="template-component-nivo-slider template-component-nivo-slider-style-1 template-preloader">
 					<div>
-						<img src="../media/images/communities/chess/dreamspace-chess-thanooch-june-2019-1.jpg" data-thumb="../media/images/communities/chess/dreamspace-chess-thanooch-june-2019-1.jpg" alt="Chess Community" />
-						<img src="../media/images/communities/chess/dreamspace-chess-thanooch-june-2019-2.jpg" data-thumb="../media/images/communities/chess/dreamspace-chess-thanooch-june-2019-2.jpg" alt="Chess Community" />
-						<img src="../media/images/communities/chess/dreamspace-chess-thanooch-june-2019-3.jpg" data-thumb="../media/images/communities/chess/dreamspace-chess-thanooch-june-2019-3.jpg" alt="Chess Community" />
+						<img src="../media/images/community-chess/chess-dreamspace-1.jpg" data-thumb="../media/images/community-chess/chess-dreamspace-1.jpg" alt="Chess Community" />
+						<img src="../media/images/community-chess/chess-dreamspace-2.jpg" data-thumb="../media/images/community-chess/chess-dreamspace-2.jpg" alt="Chess Community" />
+						<img src="../media/images/community-chess/chess-dreamspace-3.jpg" data-thumb="../media/images/community-chess/chess-dreamspace-3.jpg" alt="Chess Community" />
 					</div>
 				</div>
 			</div>

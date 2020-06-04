@@ -6,7 +6,7 @@
 
 			<div class="template-header-top-logo">
 				<a href="1-index.php">
-					<center><img src="../media/images/dreamspace-logo.png" alt="" width="150px" height="150px" /> </center>
+					<center><img src="../media/images/logos/logo-4148x2074-dreamspace.png" alt="" width="150px" height="150px" /> </center>
 				</a>
 			</div>
 

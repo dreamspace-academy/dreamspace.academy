@@ -14,11 +14,11 @@
       <div class="template-post-section-preambule">
         <div class="template-component-nivo-slider template-component-nivo-slider-style-2 template-preloader">
           <div>
-            <img src="../media/images/community-innovation/underwater-glider/underwater-glider-dreamspace-1.jpg" data-thumb="../media/images/community-innovation/underwater-glider/underwater-glider-dreamspace-1.jpg" alt="dreamspace-community-innovation" />
-            <img src="../media/images/community-innovation/underwater-glider/underwater-glider-dreamspace-2.jpg" data-thumb="../media/images/community-innovation/underwater-glider/underwater-glider-dreamspace-2.jpg" alt="dreamspace-community-innovation" />
-            <img src="../media/images/community-innovation/underwater-glider/underwater-glider-dreamspace-3.jpg" data-thumb="../media/images/community-innovation/underwater-glider/underwater-glider-dreamspace-3.jpg" alt="dreamspace-community-innovation" />
-            <img src="../media/images/community-innovation/underwater-glider/underwater-glider-dreamspace-4.jpg" data-thumb="../media/images/community-innovation/underwater-glider/underwater-glider-dreamspace-4.jpg" alt="dreamspace-community-innovation" />
-            <img src="../media/images/community-innovation/underwater-glider/underwater-glider-dreamspace-5.jpg" data-thumb="../media/images/community-innovation/underwater-glider/underwater-glider-dreamspace-5.jpg" alt="dreamspace-community-innovation" />
+            <img src="../media/images/innovation-underwater-glider/underwater-glider-dreamspace-1.jpg" data-thumb="../media/images/innovation-underwater-glider/underwater-glider-dreamspace-1.jpg" alt="dreamspace-community-innovation" />
+            <img src="../media/images/innovation-underwater-glider/underwater-glider-dreamspace-2.jpg" data-thumb="../media/images/innovation-underwater-glider/underwater-glider-dreamspace-2.jpg" alt="dreamspace-community-innovation" />
+            <img src="../media/images/innovation-underwater-glider/underwater-glider-dreamspace-3.jpg" data-thumb="../media/images/innovation-underwater-glider/underwater-glider-dreamspace-3.jpg" alt="dreamspace-community-innovation" />
+            <img src="../media/images/innovation-underwater-glider/underwater-glider-dreamspace-4.jpg" data-thumb="../media/images/innovation-underwater-glider/underwater-glider-dreamspace-4.jpg" alt="dreamspace-community-innovation" />
+            <img src="../media/images/innovation-underwater-glider/underwater-glider-dreamspace-5.jpg" data-thumb="../media/images/innovation-underwater-glider/underwater-glider-dreamspace-5.jpg" alt="dreamspace-community-innovation" />
           </div>
         </div>
         <div class="template-component-divider template-component-divider-style-1"></div>

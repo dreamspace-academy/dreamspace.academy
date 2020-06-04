@@ -4275,13 +4275,13 @@ ul.template-widget-list
 					position:static;
 				}
 
-				.template-component-class>ul>li>.template-layout-flex-50x50>div+div.template-component-class-background-1 { background-image:url('../media/images/maker-education/electronics/dreamspace-electronics-lab-1.jpg'); }
-				.template-component-class>ul>li>.template-layout-flex-50x50>div+div.template-component-class-background-2 { background-image:url('../media/images/maker-education/software/dreamspace-software-lab-1.jpg'); }
-				.template-component-class>ul>li>.template-layout-flex-50x50>div+div.template-component-class-background-3 { background-image:url('../media/images/maker-education/mechanics/dreamspace-mechanics-lab-1.jpg'); }
-				.template-component-class>ul>li>.template-layout-flex-50x50>div+div.template-component-class-background-4 { background-image:url('../media/images/maker-education/business/dreamspace-business-lab-1.jpg'); }
-				.template-component-class>ul>li>.template-layout-flex-50x50>div+div.template-component-class-background-5 { background-image:url('../media/images/maker-education/design/dreamspace-design-lab-1.jpg'); }
-				.template-component-class>ul>li>.template-layout-flex-50x50>div+div.template-component-class-background-6 { background-image:url('../media/images/maker-education/art/dreamspace-art-lab-1.jpg'); }
-				.template-component-class>ul>li>.template-layout-flex-50x50>div+div.template-component-class-background-7 { background-image:url('../media/images/maker-education/wet/dreamspace-wet-lab-1.jpg'); }
+				.template-component-class>ul>li>.template-layout-flex-50x50>div+div.template-component-class-background-1 {}
+				.template-component-class>ul>li>.template-layout-flex-50x50>div+div.template-component-class-background-2 {}
+				.template-component-class>ul>li>.template-layout-flex-50x50>div+div.template-component-class-background-3 {}
+				.template-component-class>ul>li>.template-layout-flex-50x50>div+div.template-component-class-background-4 {}
+				.template-component-class>ul>li>.template-layout-flex-50x50>div+div.template-component-class-background-5 {}
+				.template-component-class>ul>li>.template-layout-flex-50x50>div+div.template-component-class-background-6 {}
+				.template-component-class>ul>li>.template-layout-flex-50x50>div+div.template-component-class-background-7 {}
 
 					.template-component-class>ul>li>.template-layout-flex-50x50>div+div>.template-component-button
 					{
