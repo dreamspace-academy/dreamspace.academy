@@ -158,7 +158,7 @@
 				<li class="template-layout-column-left">
 					<div class="template-layout-flex-50x50">
 						<div>
-							<h5>Wet Lab <span style="width:200px;padding:5px;text-align:center;background-color:#FE6500;color:#FFF; font-size:14px;">Coming Soon</span></h5>
+							<h5>Bio Lab <span style="width:200px;padding:5px;text-align:center;background-color:#FE6500;color:#FFF; font-size:14px;">Coming Soon</span></h5>
 							<span>For those who want to get their hands wet with BioHacking, to build practical dexterity on BioTechnology</span>
 							<div class="template-layout-flex-50x50">
 								<div>
@@ -172,7 +172,7 @@
 							</div>
 						</div>
 						<div style="background-image:url('../media/images/org-labs/lab-bio-dreamspace-1.jpg'">
-							<a href="3-1-0-maker-education.php#wet-lab" class="template-component-button template-component-button-style-1">Click here<i></i></a>
+							<a href="3-1-0-maker-education.php#bio-lab" class="template-component-button template-component-button-style-1">Click here<i></i></a>
 						</div>
 					</div>
 				</li>

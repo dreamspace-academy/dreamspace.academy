@@ -11,7 +11,7 @@
 	<?php include('3-1-business-lab.php'); ?>
 	<?php include('3-1-design-lab.php'); ?>
 	<?php include('3-1-art-lab.php'); ?>
-	<?php include('3-1-wet-lab.php'); ?>
+	<?php include('3-1-bio-lab.php'); ?>
 	<?php include('3-1-enroll.php'); ?>
 </div>
 <?php include('9-0-footer.php') ?>

@@ -38,7 +38,7 @@
 										<li><a href="3-1-0-maker-education.php#business-lab">Business Lab</a></li>
 										<li><a href="3-1-0-maker-education.php#design-lab">Design Lab</a></li>
 										<li><a href="3-1-0-maker-education.php#art-lab">Art Lab</a></li>
-										<li><a href="3-1-0-maker-education.php#wet-lab">Wet Lab</a></li>
+										<li><a href="3-1-0-maker-education.php#bio-lab">Bio Lab</a></li>
 									</ul>
 								</div>
 
@@ -157,7 +157,7 @@
 												<li><a href="3-1-0-maker-education.php#business-lab">Business Lab</a></li>
 												<li><a href="3-1-0-maker-education.php#design-lab">Design Lab</a></li>
 												<li><a href="3-1-0-maker-education.php#art-lab">Art Lab</a></li>
-												<li><a href="3-1-0-maker-education.php#wet-lab">Wet Lab</a></li>
+												<li><a href="3-1-0-maker-education.php#bio-lab">Bio Lab</a></li>
 											</ul>
 										</li>
 

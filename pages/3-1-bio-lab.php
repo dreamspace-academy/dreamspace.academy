@@ -1,5 +1,5 @@
 <!-- Divider -->
-<div class="template-component-divider template-component-divider-style-1" id="wet-lab"></div>
+<div class="template-component-divider template-component-divider-style-1" id="bio-lab"></div>
 <div class="template-component-header-subheader">
 	<h2>&nbsp;</h2>
 </div>
@@ -12,7 +12,7 @@
 		<!-- Left column -->
 		<div class="template-layout-column-left">
 			<!-- Header -->
-			<h4>Wet Lab <span style="width:200px;margin-left:20px;padding:10px;text-align:center;background-color:#FE6500;color:#FFF; font-size:18px;">Coming Soon</span></h4>
+			<h4>Bio Lab <span style="width:200px;margin-left:20px;padding:10px;text-align:center;background-color:#FE6500;color:#FFF; font-size:18px;">Coming Soon</span></h4>
 			<p>For those who want to get their hands wet with BioHacking, to build practical dexterity on BioTechnology</p>
 
 			<!-- List -->
