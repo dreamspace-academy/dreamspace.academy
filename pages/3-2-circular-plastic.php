@@ -1,30 +1,18 @@
-<!-- Header -->
-<?php include('../master-page/header.php') ?>
-
-<!-- Content -->
+<?php include('0-0-header.php') ?>
 <div class="template-content">
-
-  <!-- Section -->
   <div class="template-content-section template-padding-top-reset template-main">
-
-    <!-- Header and subheader -->
     <div class="template-component-header-subheader">
       <h2>Circular Plastic</h2>
       <h6>An interactive installation to create environmental and health awareness</h6>
       <div></div>
     </div>
 
-    <!-- Post -->
     <div class="template-post">
-
-      <!-- Icon -->
       <div class="template-post-section-icon">
         <div class="template-post-icon template-post-icon-sticky"></div>
       </div>
 
-      <!-- Preambule -->
       <div class="template-post-section-preambule">
-        <!-- Nivo slider -->
         <div class="template-component-nivo-slider template-component-nivo-slider-style-2 template-preloader">
           <div>
             <img src="../../media/images/community-innovation/circular-plastic/circular-plastic-dreamspace-1.jpg" data-thumb="../../media/images/community-innovation/circular-plastic/circular-plastic-dreamspace-1.jpg" alt="dreamspace-community-innovation" />
@@ -35,34 +23,26 @@
             <img src="../../media/images/community-innovation/circular-plastic/circular-plastic-dreamspace-6.jpg" data-thumb="../../media/images/community-innovation/circular-plastic/circular-plastic-dreamspace-6.jpg" alt="dreamspace-community-innovation" />
           </div>
         </div>
-
         <div class="template-component-divider template-component-divider-style-1"></div>
       </div>
 
-      <!-- Meta -->
       <div class="template-post-section-meta">
-
         <div class="template-post-meta">
-
           <div class="template-icon-blog template-icon-blog-author">
             <a target="_blank" href="https://www.linkedin.com/in/dave-hakkens-6718ba75/">Dave Hakkens & Team</a>
           </div>
-
           <div class="template-icon-blog template-icon-blog-category">
             <a target="_blank" href="https://preciousplastic.com/about/mission.html">Precious Plastic</a>
           </div>
-
           <div class="template-icon-blog template-icon-blog-author">
             <a target="_blank" href="https://www.linkedin.com/in/jayanthan-amalanathan-1020a4183/">Jayanthan Amalanathan & Team</a>
           </div>
-
           <div class="template-icon-blog template-icon-blog-category">
             <a target="_blank" href="https://github.com/dreamspace-academy/circular-plastic">Circular Plastic</a>
           </div>
         </div>
       </div>
 
-      <!-- Content -->
       <div class="template-post-section-content">
         <div class="template-post-content">
           <h4 class="template-margin-top-3">Motivation</h4>
@@ -122,5 +102,4 @@
   </div>
 </div>
 
-<!-- Footer -->
-<?php include('../master-page/footer.php') ?>
+<?php include('9-0-footer.php') ?>

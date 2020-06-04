@@ -1,30 +1,17 @@
-<!-- Header -->
-<?php include('../master-page/header.php') ?>
-
-<!-- Content -->
+<?php include('0-0-header.php') ?>
 <div class="template-content">
-
-  <!-- Section -->
   <div class="template-content-section template-padding-top-reset template-main">
-
-    <!-- Header and subheader -->
     <div class="template-component-header-subheader">
       <h2>Underwater Glider</h2>
       <h6>An autonomous underwater vehicle to keep an eye on our Blue Ecosystems</h6>
       <div></div>
     </div>
-
-    <!-- Post -->
     <div class="template-post">
-
-      <!-- Icon -->
       <div class="template-post-section-icon">
         <div class="template-post-icon template-post-icon-sticky"></div>
       </div>
 
-      <!-- Preambule -->
       <div class="template-post-section-preambule">
-        <!-- Nivo slider -->
         <div class="template-component-nivo-slider template-component-nivo-slider-style-2 template-preloader">
           <div>
             <img src="../../media/images/community-innovation/underwater-glider/underwater-glider-dreamspace-1.jpg" data-thumb="../../media/images/community-innovation/underwater-glider/underwater-glider-dreamspace-1.jpg" alt="dreamspace-community-innovation" />
@@ -34,34 +21,25 @@
             <img src="../../media/images/community-innovation/underwater-glider/underwater-glider-dreamspace-5.jpg" data-thumb="../../media/images/community-innovation/underwater-glider/underwater-glider-dreamspace-5.jpg" alt="dreamspace-community-innovation" />
           </div>
         </div>
-
         <div class="template-component-divider template-component-divider-style-1"></div>
       </div>
 
-      <!-- Meta -->
       <div class="template-post-section-meta">
-
         <div class="template-post-meta">
-
-          <!-- Author -->
           <div class="template-icon-blog template-icon-blog-author">
             <a target="_blank" href="https://hackaday.io/aswilliams">Alex Williams</a>
           </div>
-
-          <!-- Tag -->
           <div class="template-icon-blog template-icon-blog-category">
             <ul class="template-reset-list">
               <li><a target="_blank" href="https://hackaday.io/project/20458-osug-open-source-underwater-glider">Open-source Underwater Glider (OSUG)</a></li>
             </ul>
           </div>
-
           <div class="template-icon-blog template-icon-blog-author">
             <a target="_blank" href="http://www.dailynews.lk/2019/09/12/tc/196709/walk-talk">Shanjeevan Amalanathan</a>
           </div>
         </div>
       </div>
 
-      <!-- Content -->
       <div class="template-post-section-content">
         <div class="template-post-content">
           <h4 class="template-margin-top-3">Motivation</h4>
@@ -75,7 +53,8 @@
           <a target="_blank" href="http://www.ft.lk/article/620407/Oceans-and-Sri-Lanka-s-future--Towards-a-blue-economy">[more]</a>
           <h6 class="template-margin-top-3">Life Below Water</h6>
           <p class="template-padding-reset" align="justify">
-            The world’s waters – their temperature, chemistry, currents and life – drive global systems that make the Earth habitable. How we manage this vital resource is essential for life on earth, and to counterbalance the effects of climate change.
+            The world’s waters – their temperature, chemistry, currents and life – drive global systems that make the Earth habitable. How we manage this vital resource is essential for life on earth, and to counterbalance the effects of climate
+            change.
           </p>
           <p class="template-padding-reset" align="justify">
             DreamSpace Academy has also adopted the sustainable development goal 14 “Life Below Water” to conserve and sustainably use the oceans, seas and marine resources.
@@ -89,19 +68,22 @@
             roads, in many parts of the country.
           </p>
           <p class="template-padding-reset" align="justify">
-            Therefore it is understandable that there is no modern infrastructure in Sri Lanka to measure and monitor the water ecosystems. Such equipment is very crucial for scientific research and assessment on an ecosystem, which is swiftly changing due to various weather conditions.
+            Therefore it is understandable that there is no modern infrastructure in Sri Lanka to measure and monitor the water ecosystems. Such equipment is very crucial for scientific research and assessment on an ecosystem, which is swiftly
+            changing due to various weather conditions.
           </p>
           <a target="_blank" href="https://ec.europa.eu/maritimeaffairs/policy/ocean-governance_en">[more]</a>
 
           <h6 class="template-margin-top-3">Affordability</h6>
           <p class="template-padding-reset" align="justify">
-            There are several solutions, such as Autonomous underwater vehicles (AUVs), to gather real-time oceanographic data for an extended duration and distance, with very little human effort. However, such commercial solutions could cost around 200,000 € and needs very special expertise & cost to maintain and repair such systems. Thus such solutions are not suitable for Sri Lanka.
+            There are several solutions, such as Autonomous underwater vehicles (AUVs), to gather real-time oceanographic data for an extended duration and distance, with very little human effort. However, such commercial solutions could cost around
+            200,000 € and needs very special expertise & cost to maintain and repair such systems. Thus such solutions are not suitable for Sri Lanka.
           </p>
 
           <h4 class="template-margin-top-3">Solution</h4>
           <h6 class="template-margin-top-3">Open-source Underwater Glider (OSUG)</h6>
           <p class="template-padding-reset" align="justify">
-            There has been a breakthrough with low cost autonomous underwater vehicles, and as this capability has matured a wide range of hobby and commercial applications have been developed. However, there are no affordable extended duration underwater exploration platforms and this project aims to address this need.
+            There has been a breakthrough with low cost autonomous underwater vehicles, and as this capability has matured a wide range of hobby and commercial applications have been developed. However, there are no affordable extended duration
+            underwater exploration platforms and this project aims to address this need.
           </p>
           <p class="template-padding-reset" align="justify">
             <a target="_blank" href="https://www.linkedin.com/in/alexwxyz/">Alex Williams</a>, a young inventor from the USA, has developed a low cost and versatile underwater glider capable of extended missions of up to weeks at a time; using
@@ -119,10 +101,13 @@
 
           <h4 class="template-margin-top-3">Maker</h4>
           <p class="template-padding-reset" align="justify">
-            <a target="_blank" href="http://www.dailynews.lk/2019/09/12/tc/196709/walk-talk">Shanjeevan Amalanathan</a> is a young Maker from Batticaloa- a city on the eastern coast of Sri Lanka. To reinforce his innovative thinking, he joined DreamSpace Academy in 2019, and has been gaining the necessary Maker skills to develop Electronics, Mechanics and Softwares. After finishing his G.C.E Advanced Level in 2019, he decided to take a break, before he goes to University, to explore the ocean ecosystem in Sri Lanka.
+            <a target="_blank" href="http://www.dailynews.lk/2019/09/12/tc/196709/walk-talk">Shanjeevan Amalanathan</a> is a young Maker from Batticaloa- a city on the eastern coast of Sri Lanka. To reinforce his innovative thinking, he joined
+            DreamSpace Academy in 2019, and has been gaining the necessary Maker skills to develop Electronics, Mechanics and Softwares. After finishing his G.C.E Advanced Level in 2019, he decided to take a break, before he goes to University, to
+            explore the ocean ecosystem in Sri Lanka.
           </p>
           <p class="template-padding-reset" align="justify">
-            During his study, he found out that after the Tsunami disaster in 2004, the water ecosystem in Batticaloa was significantly disrupted, and the local community started seeing a large number of eels that had emerged from the backwaters, which locals presumed to be snakes, as such species were not commonly visible above water.
+            During his study, he found out that after the Tsunami disaster in 2004, the water ecosystem in Batticaloa was significantly disrupted, and the local community started seeing a large number of eels that had emerged from the backwaters,
+            which locals presumed to be snakes, as such species were not commonly visible above water.
           </p>
           <p class="template-padding-reset" align="justify">
             He saw the need for a system to monitor the ocean and backwaters around Batticaloa. Therefore he has taken the challenge to build an affordable underwater glider, with the help of the existing open-source project OSUG.
@@ -132,7 +117,6 @@
             Global South.
           </p>
 
-          <!-- SDGs -->
           <h4 class="template-margin-top-5 template-margin-bottom-5">This innovation collects SDG Badges of</h4>
           <div class="template-component-feature template-component-feature-style-1 template-component-feature-position-left template-component-feature-size-medium">
             <ul class="template-layout-33x33x33 template-clear-fix">
@@ -158,12 +142,9 @@
               </li>
             </ul>
           </div>
-
         </div>
       </div>
     </div>
   </div>
 </div>
-
-<!-- Footer -->
-<?php include('../master-page/footer.php') ?>
+<?php include('9-0-footer.php') ?>

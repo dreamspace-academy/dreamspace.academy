@@ -45,8 +45,8 @@
 								<div class="template-layout-column-center-left">
 									<span class="sf-mega-header">Community Innovation</span>
 									<ul>
-										<li><a href="pages/community-innovation/underwater-glider.php">Underwater Glider</a></li>
-										<li><a href="pages/community-innovation/circular-plastic.php">Circular Plastic</a></li>
+										<li><a href="3-2-underwater-glider.php">Underwater Glider</a></li>
+										<li><a href="3-2-circular-plastic.php">Circular Plastic</a></li>
 										<li><a target="_blank" href="https://corona.dreamspace.academy">CoronaBot</a></li>
 										<li><a target="_blank" href="../../media/images/community-innovation/opencovid19-mask/dreamspace-opencovid-19-mask-01-3.jpg">OpenCovid19 Mask</a></li>
 									</ul>
@@ -166,8 +166,8 @@
 										<li>
 											<a href="#">Community Innovation<span></span></a>
 											<ul>
-												<li><a href="pages/community-innovation/underwater-glider.php">Underwater Glider</a></li>
-												<li><a href="pages/community-innovation/circular-plastic.php">Circular Plastic</a></li>
+												<li><a href="3-2-underwater-glider.php">Underwater Glider</a></li>
+												<li><a href="3-2-circular-plastic.php">Circular Plastic</a></li>
 												<li><a target="_blank" href="https://corona.dreamspace.academy">CoronaBot</a></li>
 												<li><a target="_blank" href="../../media/images/community-innovation/opencovid19-mask/dreamspace-opencovid-19-mask-01-3.jpg">OpenCovid19 Mask</a></li>
 											</ul>
