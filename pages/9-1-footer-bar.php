@@ -22,7 +22,7 @@
 				<?php echo date('Y'); ?>
 				<a href="http://dreamspace.academy"><b>DreamSpace Academy</b></a>.
 				All rights reserved. </br> Co-created by <a target="_blank" href="http://aravinth.info"><b>Aravinth Panch</b></a> & <a target="_blank" href="https://www.linkedin.com/in/nviththiyakaran/"><b>N.Viththiyakaran</b></a>
-				</br> <a id="change_cookies" href="#"><b>Cookies Consent</b></a> | <a href="pages/master-page/imprint.php"><b>Imprint</b></a>
+				</br> <a id="change_cookies" href="#"><b>Cookies Consent</b></a> | <a href="8-1-imprint.php"><b>Imprint</b></a>
 			</div>
 		</div>
 	</div>

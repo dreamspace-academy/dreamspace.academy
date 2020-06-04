@@ -1,4 +1,4 @@
-<?php include('header.php'); ?>
+<?php include('0-0-header.php'); ?>
 
 <div class="template-content">
 
@@ -47,4 +47,4 @@
 </div>
 </div>
 
-<?php include('footer.php'); ?>
+<?php include('9-0-footer.php'); ?>

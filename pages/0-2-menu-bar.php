@@ -105,13 +105,13 @@
 							<a href="#"><span class="template-icon-menu template-icon-menu-database"></span>Links</a>
 							<ul>
 								<li><a target="_blank" href="https://blog.dreamspace.academy">Blog</a></li>
-								<li><a href="pages/master-page/calendar.php">Calendar</a></li>
+								<li><a href="5-1-calendar.php">Calendar</a></li>
 							</ul>
 						</li>
 
 						<!-- Contact Menu -->
 						<li class="sf-mega-enable-1">
-							<a href="pages/master-page/contact.php"><span class="template-icon-menu template-icon-menu-envelope"></span>Contact</a>
+							<a href="6-1-contact.php"><span class="template-icon-menu template-icon-menu-envelope"></span>Contact</a>
 						</li>
 					</ul>
 				</nav>
@@ -231,13 +231,13 @@
 									<a href="#">Links<span></span></a>
 									<ul>
 										<li><a target="_blank" href="https://blog.dreamspace.academy">Blog</a></li>
-										<li><a href="pages/master-page/calendar.php">Calendar</a></li>
+										<li><a href="5-1-calendar.php">Calendar</a></li>
 									</ul>
 								</li>
 
 								<!-- Contact Menu -->
 								<li>
-									<a href="pages/master-page/contact.php">Contact</a>
+									<a href="6-1-contact.php">Contact</a>
 								</li>
 							</ul>
 						</li>
