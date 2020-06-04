@@ -36,11 +36,11 @@
 			<!-- Nivo slider -->
 			<div class="template-component-nivo-slider template-component-nivo-slider-style-1 template-preloader">
 				<div>
-					<img src="../../media/images/maker-education/mechanics/dreamspace-mechanics-lab-2.jpg" data-thumb="../../media/images/maker-education/mechanics/dreamspace-mechanics-lab-2.jpg" alt="maker-education-dreamspace-academy" />
-					<img src="../../media/images/maker-education/mechanics/dreamspace-mechanics-lab-3.jpg" data-thumb="../../media/images/maker-education/mechanics/dreamspace-mechanics-lab-3.jpg" alt="maker-education-dreamspace-academy" />
-					<img src="../../media/images/maker-education/mechanics/dreamspace-mechanics-lab-4.jpg" data-thumb="../../media/images/maker-education/mechanics/dreamspace-mechanics-lab-4.jpg" alt="maker-education-dreamspace-academy" />
-					<img src="../../media/images/maker-education/mechanics/dreamspace-mechanics-lab-5.jpg" data-thumb="../../media/images/maker-education/mechanics/dreamspace-mechanics-lab-5.jpg" alt="maker-education-dreamspace-academy" />
-					<img src="../../media/images/maker-education/mechanics/dreamspace-mechanics-lab-6.jpg" data-thumb="../../media/images/maker-education/mechanics/dreamspace-mechanics-lab-6.jpg" alt="maker-education-dreamspace-academy" />
+					<img src="../media/images/maker-education/mechanics/dreamspace-mechanics-lab-2.jpg" data-thumb="../media/images/maker-education/mechanics/dreamspace-mechanics-lab-2.jpg" alt="maker-education-dreamspace-academy" />
+					<img src="../media/images/maker-education/mechanics/dreamspace-mechanics-lab-3.jpg" data-thumb="../media/images/maker-education/mechanics/dreamspace-mechanics-lab-3.jpg" alt="maker-education-dreamspace-academy" />
+					<img src="../media/images/maker-education/mechanics/dreamspace-mechanics-lab-4.jpg" data-thumb="../media/images/maker-education/mechanics/dreamspace-mechanics-lab-4.jpg" alt="maker-education-dreamspace-academy" />
+					<img src="../media/images/maker-education/mechanics/dreamspace-mechanics-lab-5.jpg" data-thumb="../media/images/maker-education/mechanics/dreamspace-mechanics-lab-5.jpg" alt="maker-education-dreamspace-academy" />
+					<img src="../media/images/maker-education/mechanics/dreamspace-mechanics-lab-6.jpg" data-thumb="../media/images/maker-education/mechanics/dreamspace-mechanics-lab-6.jpg" alt="maker-education-dreamspace-academy" />
 				</div>
 			</div>
 		</div>

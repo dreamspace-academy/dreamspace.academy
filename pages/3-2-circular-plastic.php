@@ -15,12 +15,12 @@
       <div class="template-post-section-preambule">
         <div class="template-component-nivo-slider template-component-nivo-slider-style-2 template-preloader">
           <div>
-            <img src="../../media/images/community-innovation/circular-plastic/circular-plastic-dreamspace-1.jpg" data-thumb="../../media/images/community-innovation/circular-plastic/circular-plastic-dreamspace-1.jpg" alt="dreamspace-community-innovation" />
-            <img src="../../media/images/community-innovation/circular-plastic/circular-plastic-dreamspace-2.jpg" data-thumb="../../media/images/community-innovation/circular-plastic/circular-plastic-dreamspace-2.jpg" alt="dreamspace-community-innovation" />
-            <img src="../../media/images/community-innovation/circular-plastic/circular-plastic-dreamspace-3.jpg" data-thumb="../../media/images/community-innovation/circular-plastic/circular-plastic-dreamspace-3.jpg" alt="dreamspace-community-innovation" />
-            <img src="../../media/images/community-innovation/circular-plastic/circular-plastic-dreamspace-4.jpg" data-thumb="../../media/images/community-innovation/circular-plastic/circular-plastic-dreamspace-4.jpg" alt="dreamspace-community-innovation" />
-            <img src="../../media/images/community-innovation/circular-plastic/circular-plastic-dreamspace-5.jpg" data-thumb="../../media/images/community-innovation/circular-plastic/circular-plastic-dreamspace-5.jpg" alt="dreamspace-community-innovation" />
-            <img src="../../media/images/community-innovation/circular-plastic/circular-plastic-dreamspace-6.jpg" data-thumb="../../media/images/community-innovation/circular-plastic/circular-plastic-dreamspace-6.jpg" alt="dreamspace-community-innovation" />
+            <img src="../media/images/community-innovation/circular-plastic/circular-plastic-dreamspace-1.jpg" data-thumb="../media/images/community-innovation/circular-plastic/circular-plastic-dreamspace-1.jpg" alt="dreamspace-community-innovation" />
+            <img src="../media/images/community-innovation/circular-plastic/circular-plastic-dreamspace-2.jpg" data-thumb="../media/images/community-innovation/circular-plastic/circular-plastic-dreamspace-2.jpg" alt="dreamspace-community-innovation" />
+            <img src="../media/images/community-innovation/circular-plastic/circular-plastic-dreamspace-3.jpg" data-thumb="../media/images/community-innovation/circular-plastic/circular-plastic-dreamspace-3.jpg" alt="dreamspace-community-innovation" />
+            <img src="../media/images/community-innovation/circular-plastic/circular-plastic-dreamspace-4.jpg" data-thumb="../media/images/community-innovation/circular-plastic/circular-plastic-dreamspace-4.jpg" alt="dreamspace-community-innovation" />
+            <img src="../media/images/community-innovation/circular-plastic/circular-plastic-dreamspace-5.jpg" data-thumb="../media/images/community-innovation/circular-plastic/circular-plastic-dreamspace-5.jpg" alt="dreamspace-community-innovation" />
+            <img src="../media/images/community-innovation/circular-plastic/circular-plastic-dreamspace-6.jpg" data-thumb="../media/images/community-innovation/circular-plastic/circular-plastic-dreamspace-6.jpg" alt="dreamspace-community-innovation" />
           </div>
         </div>
         <div class="template-component-divider template-component-divider-style-1"></div>
@@ -76,19 +76,19 @@
           <div class="template-component-feature template-component-feature-style-1 template-component-feature-position-left template-component-feature-size-medium">
             <ul class="template-layout-33x33x33 template-clear-fix">
               <li class="template-layout-column-left">
-                <div class="template-icon-feature"><img src="../../media//images/sdg-icons/un-sdg-12.png" alt="un-sdg-dreamspace" /></div>
+                <div class="template-icon-feature"><img src="../media//images/sdg-icons/un-sdg-12.png" alt="un-sdg-dreamspace" /></div>
                 <h5>Sustainable Consumption and Production</br></br></h5>
                 <p><b>UN SDG 12</b></p>
                 <p>Ensure sustainable consumption and production patterns</p>
               </li>
               <li class="template-layout-column-center">
-                <div class="template-icon-feature"><img src="../../media//images/sdg-icons/un-sdg-14.png" alt="un-sdg-dreamspace" /></div>
+                <div class="template-icon-feature"><img src="../media//images/sdg-icons/un-sdg-14.png" alt="un-sdg-dreamspace" /></div>
                 <h5>Life Below Water</br></br></br></br></h5>
                 <p><b>UN SDG 14</b></p>
                 <p>Conserve and sustainably use the oceans, seas and marine resources for sustainable development</p>
               </li>
               <li class="template-layout-column-right">
-                <div class="template-icon-feature"><img src="../../media//images/sdg-icons/un-sdg-11.png" alt="un-sdg-dreamspace" /></div>
+                <div class="template-icon-feature"><img src="../media//images/sdg-icons/un-sdg-11.png" alt="un-sdg-dreamspace" /></div>
                 <h5>Sustainable Cities and Communities</br></br></br></h5>
                 <p><b>UN SDG 11</b></p>
                 <p>Make cities and human settlements inclusive, safe, resilient and sustainable</p>

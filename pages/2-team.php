@@ -16,7 +16,7 @@
       <ul class="template-layout-25x25x25x25 template-clear-fix">
         <li class="template-layout-column-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../../media/images/about/team/kishoth-dreamspace.jpg" alt="dreamspace-team" />
+            <img src="../media/images/about/team/kishoth-dreamspace.jpg" alt="dreamspace-team" />
             <div>
               <h6>Kishoth Navaretnarajah</h6>
               </br>
@@ -33,7 +33,7 @@
         </li>
         <li class="template-layout-column-center-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../../media/images/about/team/aravinth-dreamspace.jpg" alt="dreamspace-team" />
+            <img src="../media/images/about/team/aravinth-dreamspace.jpg" alt="dreamspace-team" />
             <div>
               <h6>Aravinth Panch</h6>
               </br>
@@ -49,7 +49,7 @@
         </li>
         <li class="template-layout-column-center-right">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../../media/images/about/team/viththiyakaran-dreamspace.jpg" alt="dreamspace-team" />
+            <img src="../media/images/about/team/viththiyakaran-dreamspace.jpg" alt="dreamspace-team" />
             <div>
               <h6>Viththiyakaran Nadarajah</h6>
               </br>
@@ -66,7 +66,7 @@
         </li>
         <li class="template-layout-column-right">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../../media/images/about/team/prasath-dreamspace.jpg" alt="dreamspace-team" />
+            <img src="../media/images/about/team/prasath-dreamspace.jpg" alt="dreamspace-team" />
             <div>
               <h6>Prasath Thevapalan</h6>
               </br>
@@ -83,7 +83,7 @@
         </li>
         <li class="template-layout-column-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../../media/images/about/team/thanushkar-dreamspace.jpg" alt="dreamspace-team" />
+            <img src="../media/images/about/team/thanushkar-dreamspace.jpg" alt="dreamspace-team" />
             <div>
               <h6>Thanushkar Srikaran</h6>
               </br>
@@ -100,7 +100,7 @@
         </li>
         <li class="template-layout-column-center-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../../media/images/about/team/jayanthan-dreamspace.jpg" alt="dreamspace-team" />
+            <img src="../media/images/about/team/jayanthan-dreamspace.jpg" alt="dreamspace-team" />
             <div>
               <h6>Jayanthan Amalanathan</h6>
               </br>
@@ -116,7 +116,7 @@
         </li>
         <li class="template-layout-column-center-right">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../../media/images/about/team/pavithran-dreamspace.jpg" alt="dreamspace-team" />
+            <img src="../media/images/about/team/pavithran-dreamspace.jpg" alt="dreamspace-team" />
             <div>
               <h6>Pavithran Manisegraram</h6>
               </br>
@@ -133,7 +133,7 @@
         </li>
         <li class="template-layout-column-right">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../../media/images/about/team/shanjeevan-dreamspace.jpg" alt="dreamspace-team" />
+            <img src="../media/images/about/team/shanjeevan-dreamspace.jpg" alt="dreamspace-team" />
             <div>
               <h6>Shanjeevan Amalanathan</h6>
               </br>
@@ -150,7 +150,7 @@
         </li>
         <li class="template-layout-column-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../../media/images/about/team/suhail-dreamspace.jpg" alt="dreamspace-team" />
+            <img src="../media/images/about/team/suhail-dreamspace.jpg" alt="dreamspace-team" />
             <div>
               <h6>Suhail Mohammed</h6>
               </br>
@@ -167,7 +167,7 @@
         </li>
         <li class="template-layout-column-center-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../../media/images/about/team/shankarie-dreamspace.jpg" alt="dreamspace-team" />
+            <img src="../media/images/about/team/shankarie-dreamspace.jpg" alt="dreamspace-team" />
             <div>
               <h6>Shankarie Sritharan</h6>
               </br>
@@ -184,7 +184,7 @@
         </li>
         <li class="template-layout-column-center-right">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../../media/images/about/team/grason-dreamspace.jpg" alt="dreamspace-team" />
+            <img src="../media/images/about/team/grason-dreamspace.jpg" alt="dreamspace-team" />
             <div>
               <h6>Grason Prashanth</h6>
               </br>

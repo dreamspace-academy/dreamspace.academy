@@ -17,7 +17,7 @@
       <ul class="template-layout-25x25x25x25 template-clear-fix">
         <li class="template-layout-column-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../../media/images/about/partners/bookbridge-dreamspace.jpg" alt="dreamspace-partners" />
+            <img src="../media/images/about/partners/bookbridge-dreamspace.jpg" alt="dreamspace-partners" />
             <div>
               <h6>BookBridge</h6>
               </br>
@@ -32,7 +32,7 @@
         </li>
 				<li class="template-layout-column-center-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../../media/images/about/partners/aracreate-dreamspace.jpg" alt="dreamspace-partners" />
+            <img src="../media/images/about/partners/aracreate-dreamspace.jpg" alt="dreamspace-partners" />
             <div>
               <h6>araCreate</h6>
               </br>
@@ -47,7 +47,7 @@
         </li>
 				<li class="template-layout-column-center-right">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../../media/images/about/partners/sylc-dreamspace.jpg" alt="dreamspace-partners" />
+            <img src="../media/images/about/partners/sylc-dreamspace.jpg" alt="dreamspace-partners" />
             <div>
               <h6>SYLC</h6>
               </br>
@@ -62,7 +62,7 @@
         </li>
 				<li class="template-layout-column-right">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../../media/images/about/partners/open-edge-dreamspace.jpg" alt="dreamspace-partners" />
+            <img src="../media/images/about/partners/open-edge-dreamspace.jpg" alt="dreamspace-partners" />
             <div>
               <h6>OpenEdge</h6>
               </br>
@@ -95,7 +95,7 @@
 			<ul class="template-layout-25x25x25x25 template-clear-fix">
 				<li class="template-layout-column-left">
 					<div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-						<img src="../../media/images/about/partners/siwi-dreamspace.jpg" alt="dreamspace-partners" />
+						<img src="../media/images/about/partners/siwi-dreamspace.jpg" alt="dreamspace-partners" />
 						<div>
 							<h6>Stockholm International Water Institute (SJWP)</h6>
 							</br>
@@ -110,7 +110,7 @@
 				</li>
 				<li class="template-layout-column-center-left">
 					<div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-						<img src="../../media/images/about/partners/duke-dreamspace.jpg" alt="dreamspace-partners" />
+						<img src="../media/images/about/partners/duke-dreamspace.jpg" alt="dreamspace-partners" />
 						<div>
 							<h6>The Duke of Edinburgh's International Award</h6>
 							</br>
@@ -125,7 +125,7 @@
 				</li>
 				<li class="template-layout-column-center-right">
 					<div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-						<img src="../../media/images/about/partners/s4ig-dreamspace.jpg" alt="dreamspace-partners" />
+						<img src="../media/images/about/partners/s4ig-dreamspace.jpg" alt="dreamspace-partners" />
 						<div>
 							<h6>Skills for Inclusive Growth (S4IG)</h6>
 							</br>
@@ -140,7 +140,7 @@
 				</li>
 				<li class="template-layout-column-right">
 					<div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-						<img src="../../media/images/about/partners/stsa-dreamspace.jpg" alt="dreamspace-partners" />
+						<img src="../media/images/about/partners/stsa-dreamspace.jpg" alt="dreamspace-partners" />
 						<div>
 							<h6>Sri Lankan Tamil Student Association (STSA)</h6>
 							</br>
@@ -155,7 +155,7 @@
 				</li>
         <li class="template-layout-column-left">
 					<div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-						<img src="../../media/images/about/partners/gtm-dreamspace.jpg" alt="dreamspace-partners" />
+						<img src="../media/images/about/partners/gtm-dreamspace.jpg" alt="dreamspace-partners" />
 						<div>
 							<h6>Global Talent Mentoring (GTM)</h6>
 							</br>
@@ -188,7 +188,7 @@
       <ul class="template-layout-25x25x25x25 template-clear-fix">
         <li class="template-layout-column-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../../media/images/about/partners/motionlab-dreamspace.jpg" alt="dreamspace-partners" />
+            <img src="../media/images/about/partners/motionlab-dreamspace.jpg" alt="dreamspace-partners" />
             <div>
               <h6>MotionLab Berlin</h6>
               </br>
@@ -204,7 +204,7 @@
         </li>
         <li class="template-layout-column-center-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../../media/images/about/partners/gig-dreamspace.jpg" alt="dreamspace-partners" />
+            <img src="../media/images/about/partners/gig-dreamspace.jpg" alt="dreamspace-partners" />
             <div>
               <h6>Global Innovation Gathering (GIG)</h6>
               </br>
@@ -219,7 +219,7 @@
         </li>
         <li class="template-layout-column-center-right">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../../media/images/about/partners/cpbr-dreamspace.jpg" alt="dreamspace-partners" />
+            <img src="../media/images/about/partners/cpbr-dreamspace.jpg" alt="dreamspace-partners" />
             <div>
               <h6>Centre for Peacebuilding and Reconciliation (CPBR)</h6>
               </br>
@@ -234,7 +234,7 @@
         </li>
         <li class="template-layout-column-right">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../../media/images/about/partners/un-volunteers-dreamspace.jpg" alt="dreamspace-partners" />
+            <img src="../media/images/about/partners/un-volunteers-dreamspace.jpg" alt="dreamspace-partners" />
             <div>
               <h6>UN Volunteers</h6>
               </br>
@@ -250,7 +250,7 @@
         </li>
         <li class="template-layout-column-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../../media/images/about/partners/greenbuzz-dreamspace.jpg" alt="dreamspace-partners" />
+            <img src="../media/images/about/partners/greenbuzz-dreamspace.jpg" alt="dreamspace-partners" />
             <div>
               <h6>GreenBuzz</h6>
               </br>
@@ -266,7 +266,7 @@
         </li>
         <li class="template-layout-column-center-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../../media/images/about/partners/troublemaker-dreamspace.jpg" alt="dreamspace-partners" />
+            <img src="../media/images/about/partners/troublemaker-dreamspace.jpg" alt="dreamspace-partners" />
             <div>
               <h6>Troublemaker Shenzhen</h6>
               </br>
@@ -282,7 +282,7 @@
         </li>
         <li class="template-layout-column-center-right">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../../media/images/about/partners/steam-head-dreamspace.jpg" alt="dreamspace-partners" />
+            <img src="../media/images/about/partners/steam-head-dreamspace.jpg" alt="dreamspace-partners" />
             <div>
               <h6>SteamHead</h6>
               </br>
@@ -298,7 +298,7 @@
         </li>
         <li class="template-layout-column-right">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../../media/images/about/partners/gosh-dreamspace.jpg" alt="dreamspace-partners" />
+            <img src="../media/images/about/partners/gosh-dreamspace.jpg" alt="dreamspace-partners" />
             <div>
               <h6>Gathering for Open Science Hardware (GOSH)</h6>
               </br>
@@ -313,7 +313,7 @@
         </li>
         <li class="template-layout-column-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../../media/images/about/partners/shdb-dreamspace.jpg" alt="dreamspace-partners" />
+            <img src="../media/images/about/partners/shdb-dreamspace.jpg" alt="dreamspace-partners" />
             <div>
               <h6>Science Hack Day Berlin</h6>
               </br>
@@ -329,7 +329,7 @@
         </li>
         <li class="template-layout-column-center-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../../media/images/about/partners/scout-dreamspace.jpg" alt="dreamspace-partners" />
+            <img src="../media/images/about/partners/scout-dreamspace.jpg" alt="dreamspace-partners" />
             <div>
               <h6>Scout Association</h6>
               </br>
@@ -345,7 +345,7 @@
         </li>
         <li class="template-layout-column-center-right">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../../media/images/about/partners/lwb-dreamspace.jpg" alt="dreamspace-partners" />
+            <img src="../media/images/about/partners/lwb-dreamspace.jpg" alt="dreamspace-partners" />
             <div>
               <h6>Lecturers Without Borders</h6>
               </br>
@@ -360,7 +360,7 @@
         </li>
         <li class="template-layout-column-right">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../../media/images/about/partners/jogl-dreamspace.jpg" alt="dreamspace-partners" />
+            <img src="../media/images/about/partners/jogl-dreamspace.jpg" alt="dreamspace-partners" />
             <div>
               <h6>Just One Giant Lab</h6>
               </br>
@@ -376,7 +376,7 @@
         </li>
         <li class="template-layout-column-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../../media/images/about/partners/a2p-dreamspace.jpg" alt="dreamspace-partners" />
+            <img src="../media/images/about/partners/a2p-dreamspace.jpg" alt="dreamspace-partners" />
             <div>
               <h6>Access 2 Perspectives</h6>
               </br>

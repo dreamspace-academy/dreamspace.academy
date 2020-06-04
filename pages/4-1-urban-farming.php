@@ -21,9 +21,9 @@
 			<div class="template-layout-column-right template-margin-bottom-reset">
 				<div class="template-component-nivo-slider template-component-nivo-slider-style-1 template-preloader">
 					<div>
-						<img src="../../media/images/communities/urban-farming/dreamspace-harvast-june-2019-kishoth-1.jpg" data-thumb="../../media/images/communities/urban-farming/dreamspace-harvast-june-2019-kishoth-1.jpg" alt="Chess Community" />
-						<img src="../../media/images/communities/urban-farming/dreamspace-harvast-june-2019-kishoth-2.jpg" data-thumb="../../media/images/communities/urban-farming/dreamspace-harvast-june-2019-kishoth-2.jpg" alt="Chess Community" />
-						<img src="../../media/images/communities/urban-farming/dreamspace-harvast-june-2019-kishoth-3.jpg" data-thumb="../../media/images/communities/urban-farming/dreamspace-harvast-june-2019-kishoth-3.jpg" alt="Chess Community" />
+						<img src="../media/images/communities/urban-farming/dreamspace-harvast-june-2019-kishoth-1.jpg" data-thumb="../media/images/communities/urban-farming/dreamspace-harvast-june-2019-kishoth-1.jpg" alt="Chess Community" />
+						<img src="../media/images/communities/urban-farming/dreamspace-harvast-june-2019-kishoth-2.jpg" data-thumb="../media/images/communities/urban-farming/dreamspace-harvast-june-2019-kishoth-2.jpg" alt="Chess Community" />
+						<img src="../media/images/communities/urban-farming/dreamspace-harvast-june-2019-kishoth-3.jpg" data-thumb="../media/images/communities/urban-farming/dreamspace-harvast-june-2019-kishoth-3.jpg" alt="Chess Community" />
 					</div>
 				</div>
 			</div>

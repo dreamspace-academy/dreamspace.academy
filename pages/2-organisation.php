@@ -44,8 +44,8 @@
 					<ul class="template-layout-100 template-clear-fix">
 						<li class="template-layout-column-left">
 							<div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-								<a href="../../media/images/about/organisation/organisation-interior-view-2.jpg" data-fancybox-group="gallery-1">
-									<img src="../../media/images/about/organisation/organisation-interior-view-2.jpg" alt="" />
+								<a href="../media/images/about/organisation/organisation-interior-view-2.jpg" data-fancybox-group="gallery-1">
+									<img src="../media/images/about/organisation/organisation-interior-view-2.jpg" alt="" />
 									<span><span><span></span></span></span>
 								</a>
 
@@ -79,8 +79,8 @@
 					<ul class="template-layout-100 template-clear-fix">
 						<li class="template-layout-column-left">
 							<div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-								<a href="../../media/images/about/organisation/organisation-interior-view-1.jpg" data-fancybox-group="gallery-1">
-									<img src="../../media/images/about/organisation/organisation-interior-view-1.jpg" alt="" />
+								<a href="../media/images/about/organisation/organisation-interior-view-1.jpg" data-fancybox-group="gallery-1">
+									<img src="../media/images/about/organisation/organisation-interior-view-1.jpg" alt="" />
 									<span><span><span></span></span></span>
 								</a>
 

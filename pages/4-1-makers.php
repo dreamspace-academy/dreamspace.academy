@@ -11,7 +11,7 @@
       <ul class="template-layout-25x25x25x25 template-clear-fix">
         <li class="template-layout-column-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../../media/images/communities/makers/sakthikumar-thangavel-dreamspace-makers.jpg" alt="dreamspace-makers" />
+            <img src="../media/images/communities/makers/sakthikumar-thangavel-dreamspace-makers.jpg" alt="dreamspace-makers" />
             <div>
               <h6>Thangavel Sakthikumar</h6>
               </br>
@@ -28,7 +28,7 @@
         </li>
         <li class="template-layout-column-center-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../../media/images/communities/makers/muralitharan-paramasivam-dreamspace-makers.jpg" alt="dreamspace-makers" />
+            <img src="../media/images/communities/makers/muralitharan-paramasivam-dreamspace-makers.jpg" alt="dreamspace-makers" />
             <div>
               <h6>Muralitharan Paramasivam</h6>
               <span>Sculptor</span>
@@ -44,7 +44,7 @@
         </li>
         <li class="template-layout-column-center-right">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../../media/images/communities/makers/gowshan-nandakukar-dreamspace-makers.jpg" alt="dreamspace-makers" />
+            <img src="../media/images/communities/makers/gowshan-nandakukar-dreamspace-makers.jpg" alt="dreamspace-makers" />
             <div>
               <h6>Gowshan Nandakumar</h6>
               </br>
@@ -74,7 +74,7 @@
       <ul class="template-layout-25x25x25x25 template-clear-fix">
         <li class="template-layout-column-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../../media/images/communities/makers/pavithran-thayalanathan-dreamspace-junior-makers.jpg" alt="dreamspace-makers" />
+            <img src="../media/images/communities/makers/pavithran-thayalanathan-dreamspace-junior-makers.jpg" alt="dreamspace-makers" />
             <div>
               <h6>Pavithran Thayalanathan</h6>
             </br><span>IFV Makers</span>
@@ -90,7 +90,7 @@
         </li>
         <li class="template-layout-column-center-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../../media/images/communities/makers/jathurshan-yokeswaran-dreamspace-junior-makers.jpg" alt="dreamspace-makers" />
+            <img src="../media/images/communities/makers/jathurshan-yokeswaran-dreamspace-junior-makers.jpg" alt="dreamspace-makers" />
             <div>
               <h6>Jathurshan Yogeswaran </h6>
             </br><span>IFV Makers</span>
@@ -106,7 +106,7 @@
         </li>
         <li class="template-layout-column-center-right">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../../media/images/communities/makers/kosaaruna-tharmanathan-dreamspace-junior-makers.jpg" alt="dreamspace-makers" />
+            <img src="../media/images/communities/makers/kosaaruna-tharmanathan-dreamspace-junior-makers.jpg" alt="dreamspace-makers" />
             <div>
               <h6>Kosaaruna Tharmanathan </h6>
             </br><span>IFV Makers</span>
@@ -122,7 +122,7 @@
         </li>
         <li class="template-layout-column-right">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../../media/images/communities/makers/rajakumar-banujan-dreamspace-junior-makers.jpg" alt="dreamspace-makers" />
+            <img src="../media/images/communities/makers/rajakumar-banujan-dreamspace-junior-makers.jpg" alt="dreamspace-makers" />
             <div>
               <h6>Rajakumar Banujan</h6>
             </br><span>Innovator</span>
@@ -138,7 +138,7 @@
         </li>
         <li class="template-layout-column-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../../media/images/communities/makers/thanajayan-dreamspace-junior-makers.jpg" alt="dreamspace-makers" />
+            <img src="../media/images/communities/makers/thanajayan-dreamspace-junior-makers.jpg" alt="dreamspace-makers" />
             <div>
               <h6>Thananjayan</h6>
             </br><span>Innovator</span>
@@ -154,7 +154,7 @@
         </li>
         <li class="template-layout-column-center-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../../media/images/communities/makers/amirkhan-dreamspace-junior-makers.jpg" alt="dreamspace-makers" />
+            <img src="../media/images/communities/makers/amirkhan-dreamspace-junior-makers.jpg" alt="dreamspace-makers" />
             <div>
               <h6>Nazsar Imanuval Ameerkhan </h6>
               </br><span>Innovator</span>
@@ -170,7 +170,7 @@
         </li>
         <li class="template-layout-column-center-right">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../../media/images/communities/makers/pathmapriyan-dreamspace-junior-makers.jpg" alt="dreamspace-makers" />
+            <img src="../media/images/communities/makers/pathmapriyan-dreamspace-junior-makers.jpg" alt="dreamspace-makers" />
             <div>
               <h6>Murugupillai Pathmapriyan</h6>
             </br><span>Innovator</span>
