@@ -1,5 +1,5 @@
 <!-- Content -->
-<div class="template-content">
+<div class="template-content" id="partners" style="margin-bottom: 100px;">
 
 	<!-- Funding Partners -->
   <!-- Header and subheader -->

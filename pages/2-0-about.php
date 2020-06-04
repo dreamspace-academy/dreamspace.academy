@@ -1,18 +1,7 @@
-<?php include('0-header.php') ?>
-<!-- Content -->
+<?php include('0-0-header.php') ?>
 <div class="template-content">
-
-	<!-- team-section -->
-	<section id="team">
-		<?php include('2-team.php') ?>
-		<?php include('2-supporters.php') ?>
-	</section>
-
-	<!-- partners-section -->
-	<section id="partners" style="margin-bottom: 100px;">
-		<?php include('2-partners.php') ?>
-	</section>
-
-
+<?php include('2-team.php') ?>
+<?php include('2-supporters.php') ?>
+<?php include('2-partners.php') ?>
 </div>
-<?php include('9-footer.php') ?>
+<?php include('9-0-footer.php') ?>

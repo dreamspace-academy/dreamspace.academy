@@ -1,5 +1,5 @@
 <!-- Content -->
-<div class="template-content">
+<div class="template-content" id="team">
 
   <!-- Header and subheader -->
   <div class="template-component-header-subheader">
