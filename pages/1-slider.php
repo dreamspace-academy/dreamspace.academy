@@ -6,27 +6,64 @@
 
 			<ul>
 				<!-- SLIDE -->
-				<li data-index="rs-1" data-transition="fade" data-slotamount="7" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="300" data-thumb="../media/images/org-life-cycle/dreamspace-academy.jpg"
-				  data-rotate="0" data-saveperformance="off" class="fable_slide_1_class" id="fable_slide_1_id" data-title="fable_slide_1" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8=""
+				<li
+					data-index="rs-1"
+					data-transition="fade"
+					data-slotamount="7"
+					data-hideafterloop="0"
+					data-hideslideonmobile="off"
+					data-easein="default"
+					data-easeout="default"
+					data-masterspeed="300"
+					data-thumb="../media/images/org-life-cycle/dreamspace-academy.jpg"
+				  data-rotate="0"
+					data-saveperformance="off"
+					class="fable_slide_1_class"
+					id="fable_slide_1_id"
+					data-title="fable_slide_1"
+					data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8=""
 				  data-param9="" data-param10="" data-description="">
 
-					<img src="../media/images/org-life-cycle/dreamspace-academy.jpg" alt="" width="100" height="600" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="repeat-x" class="rev-slidebg" data-no-retina>
+					<img src="../media/images/org-life-cycle/dreamspace-academy.jpg"
+					alt=""
+					width="100"
+					height="600"
+					data-bgposition="center top"
+					data-bgfit="cover"
+					data-bgrepeat="repeat-x"
+					class="rev-slidebg"
+					data-no-retina>
 
-					<!-- Layer nr. 4 -->
-					<div class="tp-caption tp-font-lato-black tp-resizeme" id="slide-1-layer-4" data-x="center" data-hoffset="0" data-y="400" data-voffset="-45" data-width="auto" data-height="auto" data-transform_idle="" data-transform_in="x:0;y:50;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:1000;e:Power3.easeInOut;"
-					  data-transform_out="x:0;y:50;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:300;s:300;" data-start="1600" data-splitin="words" data-splitout="words" data-responsive_offset="on" data-elementdelay="0.1" data-endelementdelay="0.1" style="z-index:8;white-space:nowrap;border-color:rgba(86,80,159,1.00);background-color: white; padding-right: 10px; padding-left: 10px;">DreamSpace Academy</div>
+					<div class="tp-caption tp-font-lato-black tp-resizeme"
+					id="slide-1-layer-1"
+					data-x="center"
+					data-hoffset="0"
+					data-y="400"
+					data-voffset="-45"
+					data-width="auto"
+					data-height="auto"
+					data-transform_idle=""
+					data-transform_in="x:0;y:50;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:1000;e:Power3.easeInOut;"
+					data-transform_out="x:0;y:50;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:300;s:300;"
+					data-start="1600"
+					data-splitin="words"
+					data-splitout="words"
+					data-responsive_offset="on"
+					data-elementdelay="0.1"
+					data-endelementdelay="0.1"
+					style="z-index:8;white-space:nowrap;border-color:rgba(86,80,159,1.00);background-color: white; padding-right: 10px; padding-left: 10px;">DreamSpace Academy</div>
 				</li>
 
 				<!-- SLIDE -->
 				<li data-index="rs-2" data-transition="fade" data-slotamount="7" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="300" data-thumb="../media/image/_sample/slider/slider_slide1_background-100x50.png"
-					data-rotate="0" data-saveperformance="off" class="fable_slide_1_class" id="fable_slide_1_id" data-title="fable_slide_1" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8=""
-					data-param9="" data-param10="" data-description="">
+				  data-rotate="0" data-saveperformance="off" class="fable_slide_1_class" id="fable_slide_1_id" data-title="fable_slide_1" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8=""
+				  data-param9="" data-param10="" data-description="">
 
 					<img src="../media/images/org-life-cycle/maker-education-dreamspace.jpg" alt="" width="100" height="600" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="repeat-x" class="rev-slidebg" data-no-retina>
 
 					<!-- Layer nr. 4 -->
 					<div class="tp-caption tp-font-lato-black tp-resizeme" id="slide-2-layer-4" data-x="center" data-hoffset="0" data-y="center" data-voffset="-45" data-width="auto" data-height="auto" data-transform_idle="" data-transform_in="x:0;y:50;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:1000;e:Power3.easeInOut;"
-						data-transform_out="x:0;y:50;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:300;s:300;" data-start="1600" data-splitin="words" data-splitout="words" data-responsive_offset="on" data-elementdelay="0.1" data-endelementdelay="0.1" style="z-index:8;white-space:nowrap;border-color:rgba(86,80,159,1.00);background-color: white; padding-right: 10px; padding-left: 10px;">Maker Education</div>
+					  data-transform_out="x:0;y:50;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:300;s:300;" data-start="1600" data-splitin="words" data-splitout="words" data-responsive_offset="on" data-elementdelay="0.1" data-endelementdelay="0.1" style="z-index:8;white-space:nowrap;border-color:rgba(86,80,159,1.00);background-color: white; padding-right: 10px; padding-left: 10px;">Maker Education</div>
 				</li>
 
 				<!-- SLIDE -->
@@ -63,6 +100,18 @@
 					<!-- Layer nr. 5 -->
 					<div class="tp-caption tp-font-lato-black tp-resizeme" id="slide-5-layer-5" data-x="100" data-y="300" data-voffset="-45" data-width="auto" data-height="auto" data-transform_idle="" data-transform_in="x:0;y:50;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:1000;e:Power3.easeInOut;"
 					  data-transform_out="x:0;y:50;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:300;s:300;" data-start="1600" data-splitin="words" data-splitout="words" data-responsive_offset="on" data-elementdelay="0.1" data-endelementdelay="0.1" style="z-index:9;white-space:nowrap;border-color:rgba(86,80,159,1.00);background-color: white; padding-right: 10px; padding-left: 10px;">Social Entrepreneurship</div>
+				</li>
+
+				<!-- SLIDE -->
+				<li data-index="rs-6" data-transition="fade" data-slotamount="7" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="300" data-thumb="../media/image/_sample/slider/slider_slide3_background-100x50.png"
+				  data-rotate="0" data-saveperformance="off" class="fable_slide_3_class" id="fable_slide_3_id" data-title="fable_slide_3" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8=""
+				  data-param9="" data-param10="" data-description="">
+
+					<img src="../media/images/org-life-cycle/co-creating-dreams-dreamspace.jpg" alt="" width="100" height="600" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="repeat-x" class="rev-slidebg" data-no-retina>
+
+					<!-- Layer nr. 5 -->
+					<div class="tp-caption tp-font-lato-black tp-resizeme" id="slide-6-layer-5" data-x="right" data-y="center" data-voffset="-45" data-width="auto" data-height="auto" data-transform_idle="" data-transform_in="x:0;y:50;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:1000;e:Power3.easeInOut;"
+					  data-transform_out="x:0;y:50;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:300;s:300;" data-start="1600" data-splitin="words" data-splitout="words" data-responsive_offset="on" data-elementdelay="0.1" data-endelementdelay="0.1" style="z-index:9;white-space:nowrap;border-color:rgba(86,80,159,1.00);background-color: white; padding-right: 10px; padding-left: 10px;">Co-creating The Dream</div>
 				</li>
 
 			</ul>
