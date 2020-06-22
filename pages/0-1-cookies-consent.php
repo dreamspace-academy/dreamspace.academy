@@ -15,8 +15,8 @@
 
   <!-- Google Analytics -->
   <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script type="text/plain" cookie-consent="tracking" async src="https://www.googletagmanager.com/gtag/js?id=UA-168585905-2"></script>
-  <script type="text/plain" cookie-consent="tracking">
+  <script type="text/plain" cookie-consent="strictly-necessary" async src="https://www.googletagmanager.com/gtag/js?id=UA-168585905-2"></script>
+  <script type="text/plain" cookie-consent="strictly-necessary">
     window.dataLayer = window.dataLayer || [];
 
       function gtag() {
