@@ -62,17 +62,6 @@
         <li class="template-layout-column-right">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
             <img src="../media/images/community-makers/makers-dreamspace-suthakaran-sivaprakasam.jpg" alt="dreamspace-makers" />
-            <div>
-              <h6>Suthakaran Sivaprakasam</h6>
-            </br><span>Innovator</span>
-            <span>Batticaloa</span>
-            </div>
-            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
-              <ul>
-                <li><a target="_blank" href="" class="template-component-social-icon-linkedin"></a></li>
-                <li><a target="_blank" href="" class="template-component-social-icon-rss"></a></li>
-              </ul>
-            </div>
           </div>
         </li>
       </ul>
