@@ -59,11 +59,7 @@
             </div>
           </div>
         </li>
-        <li class="template-layout-column-right">
-          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/images/community-makers/makers-dreamspace-suthakaran-sivaprakasam.jpg" alt="dreamspace-makers" />
-          </div>
-        </li>
+    
       </ul>
     </div>
   </div>
