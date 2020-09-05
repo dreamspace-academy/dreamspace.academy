@@ -61,7 +61,7 @@
         </li>
         <li class="template-layout-column-right">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/images/community-makers/makers-dreamspace-suthakaran-sivaprakasam.jpg" alt="dreamspace-makers" />
+            <img src="../media/images/community-makers/makers-dreamspace-gowshan-nandakukar.jpg" alt="dreamspace-makers" />
             <div>
               <h6>Suthakaran Sivaprakasam</h6>
               </br>
