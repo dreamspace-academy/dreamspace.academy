@@ -49,57 +49,6 @@
         </li>
         <li class="template-layout-column-center-right">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/images/org-team/team-dreamspace-viththiyakaran.jpg" alt="dreamspace-team" />
-            <div>
-              <h6>Viththiyakaran Nadarajah</h6>
-              </br>
-              <span>Guardian of Software Lab</span>
-              </br>
-            </div>
-            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
-              <ul>
-                <li><a target="_blank" href="https://www.linkedin.com/in/nviththiyakaran" class="template-component-social-icon-linkedin"></a></li>
-                <li><a target="_blank" href="http://team.dreamspace.academy/viththi/" class="template-component-social-icon-rss"></a></li>
-              </ul>
-            </div>
-          </div>
-        </li>
-        <li class="template-layout-column-right">
-          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/images/org-team/team-dreamspace-prasath.jpg" alt="dreamspace-team" />
-            <div>
-              <h6>Prasath Thevapalan</h6>
-              </br>
-              <span>Guardian of Art Lab</span>
-              </br>
-            </div>
-            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
-              <ul>
-                <li><a target="_blank" href="https://www.linkedin.com/in/prasath-thevapalan-953731184/" class="template-component-social-icon-linkedin"></a></li>
-                <li><a target="_blank" href="http://team.dreamspace.academy/prashath/" class="template-component-social-icon-rss"></a></li>
-              </ul>
-            </div>
-          </div>
-        </li>
-        <li class="template-layout-column-left">
-          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/images/org-team/team-dreamspace-thanushkar.jpg" alt="dreamspace-team" />
-            <div>
-              <h6>Thanushkar Srikaran</h6>
-              </br>
-              <span>Guardian of Electronics Lab</span>
-              </br>
-            </div>
-            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
-              <ul>
-                <li><a target="_blank" href="https://www.linkedin.com/in/thanushkar-srikaran-203285178" class="template-component-social-icon-linkedin"></a></li>
-                <li><a target="_blank" href="http://team.dreamspace.academy/kishoth/" class="template-component-social-icon-rss"></a></li>
-              </ul>
-            </div>
-          </div>
-        </li>
-        <li class="template-layout-column-center-left">
-          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
             <img src="../media/images/org-team/team-dreamspace-jayanthan.jpg" alt="dreamspace-team" />
             <div>
               <h6>Jayanthan Amalanathan</h6>
@@ -114,36 +63,18 @@
             </div>
           </div>
         </li>
-        <li class="template-layout-column-center-right">
-          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/images/org-team/team-dreamspace-pavithran.jpg" alt="dreamspace-team" />
-            <div>
-              <h6>Pavithran Manisegraram</h6>
-              </br>
-              <span>Guardian of Electronics Lab</span>
-              </br>
-            </div>
-            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
-              <ul>
-                <li><a target="_blank" href="https://www.linkedin.com/in/manisegaran-pavithran-a85464129/" class="template-component-social-icon-linkedin"></a></li>
-                <li><a target="_blank" href="http://team.dreamspace.academy/pavi/" class="template-component-social-icon-rss"></a></li>
-              </ul>
-            </div>
-          </div>
-        </li>
         <li class="template-layout-column-right">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
             <img src="../media/images/org-team/team-dreamspace-shanjeevan.jpg" alt="dreamspace-team" />
             <div>
               <h6>Shanjeevan Amalanathan</h6>
               </br>
-              <span>Community Innovator</span>
-              </br>
+              <span>Guardian of Electronics & Mechanics Lab</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
                 <li><a target="_blank" href="https://www.linkedin.com/in/shanjeevan-amalanathan-1231081a3/" class="template-component-social-icon-linkedin"></a></li>
-                <li><a target="_blank" href="http://team.dreamspace.academy/pavi/" class="template-component-social-icon-rss"></a></li>
+                <li><a target="_blank" href="" class="template-component-social-icon-rss"></a></li>
               </ul>
             </div>
           </div>
@@ -154,7 +85,7 @@
             <div>
               <h6>Suhail Mohammed</h6>
               </br>
-              <span>Guardian of Wet Lab</span>
+              <span>Guardian of Bio Lab</span>
               </br>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
@@ -167,28 +98,11 @@
         </li>
         <li class="template-layout-column-center-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/images/org-team/team-dreamspace-shankarie.jpg" alt="dreamspace-team" />
-            <div>
-              <h6>Shankarie Sritharan</h6>
-              </br>
-              <span>ICT Trainer</span>
-              </br>
-            </div>
-            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
-              <ul>
-                <li><a target="_blank" href="https://www.linkedin.com/in/shankarie-sritharan-2964b9156/" class="template-component-social-icon-linkedin"></a></li>
-                <li><a target="_blank" href="" class="template-component-social-icon-rss"></a></li>
-              </ul>
-            </div>
-          </div>
-        </li>
-        <li class="template-layout-column-center-right">
-          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
             <img src="../media/images/org-team/team-dreamspace-grason.jpg" alt="dreamspace-team" />
             <div>
               <h6>Grason Prashanth</h6>
               </br>
-              <span>Photography & Music Trainer</span>
+              <span>Guardian of Art Lab</span>
               </br>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
