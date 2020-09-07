@@ -1,7 +1,7 @@
 <?php include('0-0-header.php') ?>
 <div class="template-content">
   <div class="template-component-header-subheader">
-    <h2>Our Maker Community</h2>
+    <h2>Our Content Providers</h2>
     <h6></h6>
     <div></div>
   </div>
@@ -11,11 +11,11 @@
       <ul class="template-layout-25x25x25x25 template-clear-fix">
         <li class="template-layout-column-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/images/community-makers/makers-dreamspace-sakthikumar-thangavel.jpg" alt="dreamspace-makers" />
+            <img src="../media/images/community-content-providers/content-providers-dreamspace-abilajini-seeralan" alt="dreamspace-makers" />
             <div>
-              <h6>Thangavel Sakthikumar</h6>
+              <h6>Abilajini Seeralan</h6>
               </br>
-              <span>Innovator</span>
+              <span>Content Provider</span>
               <span>Batticaloa</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
