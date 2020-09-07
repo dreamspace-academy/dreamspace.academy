@@ -113,6 +113,22 @@
             </div>
           </div>
         </li>
+        <li class="template-layout-column-center-right">
+          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+            <img src="../media/images/org-team/team-dreamspace-sarri.jpg" alt="dreamspace-team" />
+            <div>
+              <h6>Sarri Bater</h6>
+              </br>
+              <span>Advisor | Story Lab</span>
+            </div>
+            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+              <ul>
+                <li><a target="_blank" href="" class="template-component-social-icon-linkedin"></a></li>
+                <li><a target="_blank" href="https://www.openedge.org.uk/sarri-bater.html" class="template-component-social-icon-rss"></a></li>
+              </ul>
+            </div>
+          </div>
+        </li>
       </ul>
     </div>
   </div>
