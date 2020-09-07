@@ -119,7 +119,7 @@
             <div>
               <h6>Sarri Bater</h6>
               </br>
-              <span>Advisor | Story Lab</span>
+              <span>Advisor of Story Lab</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
