@@ -20,7 +20,8 @@
 							<a href="2-0-about.php"><span class="template-icon-menu template-icon-menu-people"></span>About</a>
 							<ul>
 								<li><a href="2-0-about.php#team">Team</a></li>
-								<li><a href="2-0-about.php">Awards</a></li>
+								<li><a href="2-0-about.php#supporters">Supporters</a></li>
+								<li><a href="2-0-about.php#Awards">Awards</a></li>
 								<li><a href="2-0-about.php#partners">Partners</a></li>
 							</ul>
 						</li>
