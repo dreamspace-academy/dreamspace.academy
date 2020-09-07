@@ -19,10 +19,10 @@
 						<li class="sf-mega-enable-0">
 							<a href="2-0-about.php"><span class="template-icon-menu template-icon-menu-people"></span>About</a>
 							<ul>
-								<li><a href="2-0-about.php#team">Team</a></li>
-								<li><a href="2-0-about.php#supporters">Supporters</a></li>
-								<li><a href="2-0-about.php#Awards">Awards</a></li>
-								<li><a href="2-0-about.php#partners">Partners</a></li>
+								<li><a href="2-team">Team</a></li>
+								<li><a href="2-supporters">Supporters</a></li>
+								<li><a href="2-awards">Awards</a></li>
+								<li><a href="2-partners">Partners</a></li>
 							</ul>
 						</li>
 
