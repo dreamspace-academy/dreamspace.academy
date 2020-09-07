@@ -11,7 +11,7 @@
       <ul class="template-layout-25x25x25x25 template-clear-fix">
         <li class="template-layout-column-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/images/community-content-providers/content-providers-dreamspace-abilajini-seeralan" alt="dreamspace-makers" />
+            <img src="../media/images/community-content-providers/content-providers-dreamspace-abilajini-seeralan.jpg" alt="dreamspace-makers" />
             <div>
               <h6>Abilajini Seeralan</h6>
               </br>
