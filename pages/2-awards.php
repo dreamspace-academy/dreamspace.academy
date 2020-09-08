@@ -3,7 +3,7 @@
 
   <!-- Header and subheader -->
   <div class="template-component-header-subheader">
-    <h2>Our Supporters</h2>
+    <h2>Our Awards</h2>
     <h6></h6>
     <div></div>
   </div>
