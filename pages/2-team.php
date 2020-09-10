@@ -211,7 +211,7 @@ Guardian of Guardians</span>
               <h6>Ahaliya David</h6>
               </br>
               <span>Guardian of</span>
-              <span>Diversity & Inclusion</span>
+              <span>Art Lab</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
