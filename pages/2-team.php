@@ -168,7 +168,7 @@
         <li class="template-layout-column-center-left">
 
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/images/org-team/team-dreamspace-Charuni.jpg" alt="dreamspace-team" />
+            <img src="../media/images/org-team/team-dreamspace-charuni.jpg" alt="dreamspace-team" />
             <div>
               <h6>Charuni Indrajith</h6>
               </br>
