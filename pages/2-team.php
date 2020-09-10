@@ -120,12 +120,100 @@
             <div>
               <h6>Sarri Bater</h6>
               </br>
-              <span>Advisor of Story Lab</span>
+              <span>Guardian of Strategies</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
                 <li><a target="_blank" href="" class="template-component-social-icon-linkedin"></a></li>
                 <li><a target="_blank" href="https://www.openedge.org.uk/sarri-bater.html" class="template-component-social-icon-rss"></a></li>
+              </ul>
+            </div>
+          </div>
+        </li>
+        <li class="template-layout-column-right">
+          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+            <img src="../media/images/org-team/team-dreamspace-sajani.jpg" alt="dreamspace-team" />
+            <div>
+              <h6>Sajani Balasingam</h6>
+              </br>
+              <span>Guardian of</span>
+              <span>Diversity & Inclusion</span>
+            </div>
+            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+              <ul>
+                <li><a target="_blank" href="" class="template-component-social-icon-linkedin"></a></li>
+                <li><a target="_blank" href="https://www.facebook.com/saja.sai/" class="template-component-social-icon-rss"></a></li>
+              </ul>
+            </div>
+          </div>
+        </li>
+        <li class="template-layout-column-left">
+
+          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+            <img src="../media/images/org-team/team-dreamspace-anna.jpg" alt="dreamspace-team" />
+            <div>
+              <h6>Anna Jeyaraj Moses</h6>
+              </br>
+              <span>Guardian of</span>
+              <span>Social Impact</span>
+            </div>
+            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+              <ul>
+                <li><a target="_blank" href="" class="template-component-social-icon-linkedin"></a></li>
+                <li><a target="_blank" href="https://www.facebook.com/Annie.Moses.J" class="template-component-social-icon-rss"></a></li>
+              </ul>
+            </div>
+          </div>
+        </li>
+        <li class="template-layout-column-center-left">
+
+          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+            <img src="../media/images/org-team/team-dreamspace-Charuni.jpg" alt="dreamspace-team" />
+            <div>
+              <h6>Charuni Indrajith</h6>
+              </br>
+              <span>Guardian of Operations</span>
+            </div>
+            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+              <ul>
+                <li><a target="_blank" href="" class="template-component-social-icon-linkedin"></a></li>
+                <li><a target="_blank" href="https://www.facebook.com/CharuniIndrajith" class="template-component-social-icon-rss"></a></li>
+              </ul>
+            </div>
+          </div>
+        </li>
+        <li class="template-layout-column-center-right">
+
+          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+            <img src="../media/images/org-team/team-dreamspace-jerushan.jpg" alt="dreamspace-team" />
+            <div>
+              <h6>Jerushan Sritharan</h6>
+              </br>
+              <span>Guardian of</span>
+              <span>Electronic & Mechanical Lab</span>
+            </div>
+            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+              <ul>
+                <li><a target="_blank" href="https://www.linkedin.com/in/jerushan-sritharan-9017011b4/" class="template-component-social-icon-linkedin"></a></li>
+                <li><a target="_blank" href="https://www.facebook.com/jeru.roro" class="template-component-social-icon-rss"></a></li>
+              </ul>
+            </div>
+          </div>
+        </li>
+        <li class="template-layout-column-right">
+
+          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+            <img src="../media/images/org-team/team-dreamspace-ahaliya.jpg" alt="dreamspace-team" />
+            <div>
+              <h6>Ahaliya David</h6>
+              </br>
+              <span>Guardian of</span>
+              <span>Diversity & Inclusion</span>
+            </div>
+            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+              <ul>
+                <li><a target="_blank" href="" class="template-component-social-icon-linkedin"></a></li>
+                <li><a target="_blank" href="" class="template-component-social-icon-rss"></a></li>
               </ul>
             </div>
           </div>
