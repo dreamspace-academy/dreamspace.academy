@@ -1,4 +1,3 @@
-
 <!-- Content -->
 <div class="template-content" id="team">
 
@@ -38,8 +37,8 @@
             <div>
               <h6>Aravinth Panch</h6>
               </br>
-              <span>Co-founder & Director
-Guardian of Guardians</span>
+              <span>Co-founder & Director</span>
+              <span>Guardian of Guardians</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
@@ -56,7 +55,7 @@ Guardian of Guardians</span>
               <h6>Sarri Bater</h6>
               </br>
               <span>Guardian of</span>
-                <span>Strategies and Planning</span>
+              <span>Strategies and Planning</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
