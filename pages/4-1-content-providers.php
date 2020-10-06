@@ -1,7 +1,7 @@
 <?php include('0-0-header.php') ?>
 <div class="template-content">
   <div class="template-component-header-subheader">
-    <h2>Our Content Providers</h2>
+    <h2>Our Visual Content Makers</h2>
     <h6></h6>
     <div></div>
   </div>
@@ -11,323 +11,426 @@
       <ul class="template-layout-25x25x25x25 template-clear-fix">
         <li class="template-layout-column-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/images/community-content-providers/content-providers-dreamspace-abilajini-seeralan.jpg" alt="dreamspace-makers" />
+            <img src="../media/images/community-visual-content-makers/visual-content-makers-dreamspace-abilajini-seeralan.jpg" alt="dreamspace-makers" />
             <div>
               <h6>Abilajini Seeralan</h6>
               </br>
-              <span>Content Provider</span>
+              </br>
+              <span>Visual Content Makers</span>
               <span>Batticaloa</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
                 <li><a target="_blank" href="" class="template-component-social-icon-linkedin"></a></li>
-                <li><a target="_blank" href="https://www.youtube.com/channel/UC2zjwN43Mnk-DE0pXLKnsrA" class="template-component-social-icon-rss"></a></li>
+                <li><a target="_blank" href="" class="template-component-social-icon-rss"></a></li>
               </ul>
             </div>
           </div>
         </li>
         <li class="template-layout-column-center-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/images/community-makers/makers-dreamspace-muralitharan-paramasivam.jpg" alt="dreamspace-makers" />
+            <img src="../media/images/community-visual-content-makers/visual-content-makers-dreamspace-achuthan-arunachalam.jpg" alt="dreamspace-makers" />
             <div>
-              <h6>Muralitharan Paramasivam</h6>
-              <span>Sculptor</span>
+              <h6>Achuthan Arunachalam</h6>
+              </br>
+                  </br>
+              <span>Visual Content Makers</span>
               <span>Batticaloa</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
-                <li><a target="_blank" href="https://www.linkedin.com/in/m161275/" class="template-component-social-icon-linkedin"></a></li>
-                <li><a target="_blank" href="https://www.facebook.com/artistmuralibatti/" class="template-component-social-icon-rss"></a></li>
+                <li><a target="_blank" href="" class="template-component-social-icon-linkedin"></a></li>
+                <li><a target="_blank" href="https://www.facebook.com/achsuthan.alaguthurai" class="template-component-social-icon-rss"></a></li>
               </ul>
             </div>
           </div>
         </li>
         <li class="template-layout-column-center-right">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/images/community-makers/makers-dreamspace-gowshan-nandakukar.jpg" alt="dreamspace-makers" />
+            <img src="../media/images/community-visual-content-makers/visual-content-makers-dreamspace-ahamad-jifry-ahamad-muhfeeth.jpg" alt="dreamspace-makers" />
             <div>
-              <h6>Gowshan Nandakumar</h6>
+              <h6>Ahamad Jifry Ahamad Muhfeeth</h6>
               </br>
-              <span>Animator</span>
-              <span>Batticaloa</span>
+              <span>Visual Content Makers</span>
+              <span>Ampara</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
-                <li><a target="_blank" href="https://www.linkedin.com/in/gowshan-nandakumar-33470636/" class="template-component-social-icon-linkedin"></a></li>
-                <li><a target="_blank" href="https://nandakumargowshan.blogspot.com" class="template-component-social-icon-rss"></a></li>
+                <li><a target="_blank" href="" class="template-component-social-icon-linkedin"></a></li>
+                <li><a target="_blank" href="https://www.facebook.com/aj.ahamad.54" class="template-component-social-icon-rss"></a></li>
               </ul>
             </div>
           </div>
         </li>
         <li class="template-layout-column-right">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/images/community-makers/makers-dreamspace-suthakaran-sivaprakasam.jpg" alt="dreamspace-makers" />
+            <img src="../media/images/community-visual-content-makers/visual-content-makers-dreamspace-asath.jpg" alt="dreamspace-makers" />
             <div>
-              <h6>Suthakaran Sivaprakasam</h6>
-              </br>
-              <span>Mechanics</span>
-              <span>Batticaloa</span>
+              <h6>Mohamed Azath Aabdeen</h6>
+            </br>
+                </br>
+            <span>Visual Content Makers</span>
+            <span>Batticaloa</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
                 <li><a target="_blank" href="" class="template-component-social-icon-linkedin"></a></li>
-                <li><a target="_blank" href="https://www.youtube.com/channel/UC2zjwN43Mnk-DE0pXLKnsrA" class="template-component-social-icon-rss"></a></li>
+                <li><a target="_blank" href="https://www.facebook.com/Azathzad" class="template-component-social-icon-rss"></a></li>
               </ul>
             </div>
           </div>
         </li>
         <li class="template-layout-column-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/images/community-makers/makers-dreamspace-viththiyakaran.jpg" alt="dreamspace-makers" />
+            <img src="../media/images/community-visual-content-makers/visual-content-makers-dreamspace-basith.jpg" alt="dreamspace-makers" />
             <div>
-              <h6>Viththiyakaran Nadarajah</h6>
-              </br>
-              <span>Software</span>
-              <span>Batticaloa</span>
+              <h6>Rafeekin Abdul Basith</h6>
+            </br>
+                </br>
+            <span>Visual Content Makers</span>
+            <span>Batticaloa</span>
               </br>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
-                <li><a target="_blank" href="https://www.linkedin.com/in/nviththiyakaran" class="template-component-social-icon-linkedin"></a></li>
-                <li><a target="_blank" href="http://team.dreamspace.academy/viththi/" class="template-component-social-icon-rss"></a></li>
+                <li><a target="_blank" href="https://www.linkedin.com/in/abdul-basith-rafeekin-9a7334192/" class="template-component-social-icon-linkedin"></a></li>
+                <li><a target="_blank" href="https://www.facebook.com/profile.php?id=100012693817746" class="template-component-social-icon-rss"></a></li>
               </ul>
             </div>
           </div>
         </li>
         <li class="template-layout-column-center-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/images/community-makers/makers-dreamspace-prasath.jpg" alt="dreamspace-makers" />
+            <img src="../media/images/community-visual-content-makers/visual-content-makers-dreamspace-christykaran-pathmanathan.jpg" alt="dreamspace-makers" />
             <div>
-              <h6>Prasath Thevapalan</h6>
-              </br>
-              <span>Photography</span>
-              <span>Batticaloa</span>
+              <h6>Christykaran Pathmanathan</h6>
+            </br>
+            <span>Visual Content Makers</span>
+            <span>Batticaloa</span>
               </br>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
-                <li><a target="_blank" href="https://www.linkedin.com/in/prasath-thevapalan-953731184/" class="template-component-social-icon-linkedin"></a></li>
-                <li><a target="_blank" href="http://team.dreamspace.academy/prashath/" class="template-component-social-icon-rss"></a></li>
+                <li><a target="_blank" href="" class="template-component-social-icon-linkedin"></a></li>
+                <li><a target="_blank" href="https://www.facebook.com/christykaran.pathmanathan" class="template-component-social-icon-rss"></a></li>
               </ul>
             </div>
           </div>
         </li>
         <li class="template-layout-column-center-right">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/images/community-makers/makers-dreamspace-thanushkar.jpg" alt="dreamspace-makers" />
+            <img src="../media/images/community-visual-content-makers/visual-content-makers-dreamspace-fareed-munis.jpg" alt="dreamspace-makers" />
             <div>
-              <h6>Thanushkar Srikaran</h6>
-              </br>
-              <span>Electronics</span>
-              <span>Batticaloa</span>
+              <h6>Fareed Munis Rasick</h6>
+            </br>
+                </br>
+            <span>Visual Content Makers</span>
+            <span>Trincomalee</span>
               </br>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
-                <li><a target="_blank" href="https://www.linkedin.com/in/thanushkar-srikaran-203285178" class="template-component-social-icon-linkedin"></a></li>
-                <li><a target="_blank" href="http://team.dreamspace.academy/kishoth/" class="template-component-social-icon-rss"></a></li>
+                <li><a target="_blank" href="" class="template-component-social-icon-linkedin"></a></li>
+                <li><a target="_blank" href="https://www.facebook.com/raanu.rasickfareed" class="template-component-social-icon-rss"></a></li>
               </ul>
             </div>
           </div>
         </li>
         <li class="template-layout-column-right">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/images/community-makers/makers-dreamspace-pavithran.jpg" alt="dreamspace-makers" />
+            <img src="../media/images/community-visual-content-makers/visual-content-makers-dreamspace-joseph-ramesh-abishterance.jpg" alt="dreamspace-makers" />
             <div>
-              <h6>Pavithran Manisegraram</h6>
-              </br>
-              <span>Electronics</span>
-              <span>Batticaloa</span>
+              <h6>Joseph Ramesh Abishterance</h6>
+            </br>
+            <span>Visual Content Makers</span>
+            <span>Batticaloa</span>
               </br>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
-                <li><a target="_blank" href="https://www.linkedin.com/in/manisegaran-pavithran-a85464129/" class="template-component-social-icon-linkedin"></a></li>
-                <li><a target="_blank" href="http://team.dreamspace.academy/pavi/" class="template-component-social-icon-rss"></a></li>
+                <li><a target="_blank" href="" class="template-component-social-icon-linkedin"></a></li>
+                <li><a target="_blank" href="https://www.facebook.com/ramesh.abishteraech.5" class="template-component-social-icon-rss"></a></li>
               </ul>
             </div>
           </div>
         </li>
         <li class="template-layout-column-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/images/community-makers/makers-dreamspace-shankarie.jpg" alt="dreamspace-makers" />
+            <img src="../media/images/community-visual-content-makers/visual-content-makers-dreamspace-jude-logini.jpg" alt="dreamspace-makers" />
+            <div>
+              <h6>Jude Logini</h6>
+            </br>
+                </br>
+            <span>Visual Content Makers</span>
+            <span>Trincomalee</span>
+              </br>
+            </div>
+            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+              <ul>
+                <li><a target="_blank" href="" class="template-component-social-icon-linkedin"></a></li>
+                <li><a target="_blank" href="https://www.facebook.com/profile.php?id=100014432140371" class="template-component-social-icon-rss"></a></li>
+              </ul>
+            </div>
+          </div>
+        </li>
+        <li class="template-layout-column-center-left">
+          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+            <img src="../media/images/community-visual-content-makers/visual-content-makers-dreamspace-kajenthirappirapa-rishanthini.jpg" alt="dreamspace-makers" />
+            <div>
+              <h6>Kajenthirappirapa Rishanthini</h6>
+            </br>
+            <span>Visual Content Makers</span>
+            <span>Batticaloa</span>
+              </br>
+            </div>
+            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+              <ul>
+                <li><a target="_blank" href="" class="template-component-social-icon-linkedin"></a></li>
+                <li><a target="_blank" href="https://www.facebook.com/RishanthiniKajenthirappirapa" class="template-component-social-icon-rss"></a></li>
+              </ul>
+            </div>
+          </div>
+        </li>
+        <li class="template-layout-column-center-right">
+          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+            <img src="../media/images/community-visual-content-makers/visual-content-makers-dreamspace-kavinda-weerasooriya.jpg" alt="dreamspace-makers" />
+            <div>
+              <h6>Kavinda Weerasooriya</h6>
+            </br>
+                </br>
+            <span>Visual Content Makers</span>
+            <span>Polannaruwa</span>
+              </br>
+            </div>
+            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+              <ul>
+                <li><a target="_blank" href="" class="template-component-social-icon-linkedin"></a></li>
+                <li><a target="_blank" href="https://www.facebook.com/kavindapiumal.weerasooriya" class="template-component-social-icon-rss"></a></li>
+              </ul>
+            </div>
+          </div>
+        </li>
+        <li class="template-layout-column-right">
+          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+            <img src="../media/images/community-visual-content-makers/visual-content-makers-dreamspace-kumaresan-tharshika.jpg" alt="dreamspace-makers" />
+            <div>
+              <h6>Kumaresan Tharshika</h6>
+            </br>
+                </br>
+            <span>Visual Content Makers</span>
+            <span>Trincomalee</span>
+              </br>
+            </div>
+            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+              <ul>
+                <li><a target="_blank" href="" class="template-component-social-icon-linkedin"></a></li>
+                <li><a target="_blank" href="https://www.facebook.com/tharshikutty.nio" class="template-component-social-icon-rss"></a></li>
+              </ul>
+            </div>
+          </div>
+        </li>
+        <li class="template-layout-column-left">
+          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+            <img src="../media/images/community-visual-content-makers/visual-content-makers-dreamspace-kunasekaran-sathveegan.jpg" alt="dreamspace-makers" />
+            <div>
+              <h6>Kunasekaran Sathveegan</h6>
+            </br>
+                </br>
+            <span>Visual Content Makers</span>
+            <span>Ampara</span>
+              </br>
+            </div>
+            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+              <ul>
+                <li><a target="_blank" href="" class="template-component-social-icon-linkedin"></a></li>
+                <li><a target="_blank" href="https://www.facebook.com/profile.php?id=100009444818788" class="template-component-social-icon-rss"></a></li>
+              </ul>
+            </div>
+          </div>
+        </li>
+        <li class="template-layout-column-center-left">
+          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+            <img src="../media/images/community-visual-content-makers/visual-content-makers-dreamspace-manisha-nirodhani.jpg" alt="dreamspace-makers" />
+            <div>
+              <h6>Maneesha Nirodhani</h6>
+            </br>
+                </br>
+            <span>Visual Content Makers</span>
+            <span>Pollanaruwa</span>
+              </br>
+            </div>
+            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+              <ul>
+                <li><a target="_blank" href="" class="template-component-social-icon-linkedin"></a></li>
+                <li><a target="_blank" href="https://www.facebook.com/maneesha.nirodhani" class="template-component-social-icon-rss"></a></li>
+              </ul>
+            </div>
+          </div>
+        </li>
+        <li class="template-layout-column-center-right">
+          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+            <img src="../media/images/community-visual-content-makers/visual-content-makers-dreamspace-mohamed-hashim.jpg" alt="dreamspace-makers" />
+            <div>
+              <h6>Mohamed Hashim Hameem</h6>
+            </br>
+                </br>
+            <span>Visual Content Makers</span>
+            <span>Trincomalee</span>
+              </br>
+            </div>
+            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+              <ul>
+                <li><a target="_blank" href="" class="template-component-social-icon-linkedin"></a></li>
+                <li><a target="_blank" href="https://www.facebook.com/hashimstark" class="template-component-social-icon-rss"></a></li>
+              </ul>
+            </div>
+          </div>
+        </li>
+        <li class="template-layout-column-right">
+          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+            <img src="../media/images/community-visual-content-makers/visual-content-makers-dreamspace-mohamed-ismail-mohamed-fahim.jpg" alt="dreamspace-makers" />
+            <div>
+              <h6>Mohamed Ismail Mohamed Fahim</h6>
+            </br>
+            <span>Visual Content Makers</span>
+            <span>Batticaloa</span>
+              </br>
+            </div>
+            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+              <ul>
+                <li><a target="_blank" href="" class="template-component-social-icon-linkedin"></a></li>
+                <li><a target="_blank" href="https://www.facebook.com/faahimshaaz" class="template-component-social-icon-rss"></a></li>
+              </ul>
+            </div>
+          </div>
+        </li>
+        <li class="template-layout-column-left">
+          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+            <img src="../media/images/community-visual-content-makers/visual-content-makers-dreamspace-nazeer-fathima-zeena.jpg" alt="dreamspace-makers" />
+            <div>
+              <h6>Nazeer Fathima Zeena</h6>
+            </br>
+                </br>
+            <span>Visual Content Makers</span>
+            <span>Ampara</span>
+              </br>
+            </div>
+            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+              <ul>
+                <li><a target="_blank" href="" class="template-component-social-icon-linkedin"></a></li>
+                <li><a target="_blank" href="https://www.facebook.com/Zeena-Nazeer-Photography-104496434700277/" class="template-component-social-icon-rss"></a></li>
+              </ul>
+            </div>
+          </div>
+        </li>
+        <li class="template-layout-column-center-left">
+          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+            <img src="../media/images/community-visual-content-makers/visual-content-makers-dreamspace-priyangika-nilmini.jpg" alt="dreamspace-makers" />
+            <div>
+              <h6>Priyangika Nilmini</h6>
+            </br>
+                </br>
+            <span>Visual Content Makers</span>
+            <span>Ampara</span>
+              </br>
+            </div>
+            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+              <ul>
+                <li><a target="_blank" href="" class="template-component-social-icon-linkedin"></a></li>
+                <li><a target="_blank" href="https://www.facebook.com/profile.php?id=100004946478715" class="template-component-social-icon-rss"></a></li>
+              </ul>
+            </div>
+          </div>
+        </li>
+        <li class="template-layout-column-center-right">
+          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+            <img src="../media/images/community-visual-content-makers/visual-content-makers-dreamspace-niyazul-anver.jpg" alt="dreamspace-makers" />
+            <div>
+              <h6>Niyazul Anver</h6>
+            </br>
+                </br>
+            <span>Visual Content Makers</span>
+            <span>Batticaloa</span>
+              </br>
+            </div>
+            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+              <ul>
+                <li><a target="_blank" href="" class="template-component-social-icon-linkedin"></a></li>
+                <li><a target="_blank" href="https://www.facebook.com/niyaz.anver" class="template-component-social-icon-rss"></a></li>
+              </ul>
+            </div>
+          </div>
+        </li>
+        <li class="template-layout-column-right">
+          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+            <img src="../media/images/community-visual-content-makers/visual-content-makers-dreamspace-p.h.dilanka-chamod-weerakon.jpg" alt="dreamspace-makers" />
+            <div>
+              <h6>Dilanka Chamod Weerakon</h6>
+            </br>
+            <span>Visual Content Makers</span>
+            <span>Pollanaruwa</span>
+              </br>
+            </div>
+            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+              <ul>
+                <li><a target="_blank" href="" class="template-component-social-icon-linkedin"></a></li>
+                <li><a target="_blank" href="https://www.facebook.com/chamod.weerakoon.10" class="template-component-social-icon-rss"></a></li>
+              </ul>
+            </div>
+          </div>
+        </li>
+        <li class="template-layout-column-left">
+          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+            <img src="../media/images/community-visual-content-makers/visual-content-makers-dreamspace-rajendrakumar-jathushanth.jpg" alt="dreamspace-makers" />
+            <div>
+              <h6>Rajendrakumar Jathushanth</h6>
+            </br>
+            <span>Visual Content Makers</span>
+            <span>Trincomalee</span>
+              </br>
+            </div>
+            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+              <ul>
+                <li><a target="_blank" href="" class="template-component-social-icon-linkedin"></a></li>
+                <li><a target="_blank" href="https://www.facebook.com/jathu.jathushanth.9" class="template-component-social-icon-rss"></a></li>
+              </ul>
+            </div>
+          </div>
+        </li>
+        <li class="template-layout-column-center-left">
+          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+            <img src="../media/images/community-visual-content-makers/visual-content-makers-dreamspace-rukshan-johnson.jpg" alt="dreamspace-makers" />
+            <div>
+              <h6>Rukshan Johnson</h6>
+            </br>
+                </br>
+            <span>Visual Content Makers</span>
+            <span>Batticaloa</span>
+              </br>
+            </div>
+            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+              <ul>
+                <li><a target="_blank" href="" class="template-component-social-icon-linkedin"></a></li>
+                <li><a target="_blank" href="https://www.facebook.com/collectionartstudio/" class="template-component-social-icon-rss"></a></li>
+              </ul>
+            </div>
+          </div>
+        </li>
+        <li class="template-layout-column-center-right">
+          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+            <img src="../media/images/community-visual-content-makers/visual-content-makers-dreamspace-shankarie-sritharan.jpg" alt="dreamspace-makers" />
             <div>
               <h6>Shankarie Sritharan</h6>
-              </br>
-              <span>Software</span>
-              <span>Batticaloa</span>
-              </br>
-            </div>
-            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
-              <ul>
-                <li><a target="_blank" href="https://www.linkedin.com/in/shankarie-sritharan-2964b9156/" class="template-component-social-icon-linkedin"></a></li>
-                <li><a target="_blank" href="" class="template-component-social-icon-rss"></a></li>
-              </ul>
-            </div>
-          </div>
-        </li>
-        <li class="template-layout-column-center-left">
-          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/images/community-makers/makers-dreamspace-abisaya.jpg" alt="dreamspace-makers" />
-            <div>
-              <h6>Abisaya Mohanalingam</h6>
-              </br>
-              <span>Urban Farming</span>
-              <span>Batticaloa</span>
-              </br>
-            </div>
-            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
-              <ul>
-                <li><a target="_blank" href="" class="template-component-social-icon-linkedin"></a></li>
-                <li><a target="_blank" href="" class="template-component-social-icon-rss"></a></li>
-              </ul>
-            </div>
-          </div>
-        </li>
-        <li class="template-layout-column-center-right">
-          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/images/community-makers/makers-dreamspace-grashiyan-dreamspace.jpg" alt="dreamspace-makers" />
-            <div>
-              <h6>Grashiyan Charles</h6>
-              </br>
-              <span>Graphic Design</span>
-              <span>Batticaloa</span>
-              </br>
-            </div>
-            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
-              <ul>
-                <li><a target="_blank" href="" class="template-component-social-icon-linkedin"></a></li>
-                <li><a target="_blank" href="" class="template-component-social-icon-rss"></a></li>
-              </ul>
-            </div>
-          </div>
-        </li>
-        <li class="template-layout-column-right">
-          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/images/community-makers/makers-dreamspace-dilushan-dreamspace.jpg" alt="dreamspace-makers" />
-            <div>
-              <h6>Dilushan</h6>
-              </br>
-              <span>Mechanics</span>
-              <span>Batticaloa</span>
-              </br>
-            </div>
-            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
-              <ul>
-                <li><a target="_blank" href="" class="template-component-social-icon-linkedin"></a></li>
-                <li><a target="_blank" href="" class="template-component-social-icon-rss"></a></li>
-              </ul>
-            </div>
-          </div>
-        </li>
-        <li class="template-layout-column-left">
-          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/images/community-makers/makers-dreamspace-pavithran-thayalanathan.jpg" alt="dreamspace-makers" />
-            <div>
-              <h6>Pavithran Thayalanathan</h6>
-            </br><span>IFV Makers</span>
-            <span>Kommathurai</span>
-            </div>
-            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
-              <ul>
-                <li><a target="_blank" href="https://www.linkedin.com/in/pavithiran-thayah-5711b71a5/" class="template-component-social-icon-linkedin"></a></li>
-                <li><a target="_blank" href="https://www.facebook.com/pavi.thayah" class="template-component-social-icon-rss"></a></li>
-              </ul>
-            </div>
-          </div>
-        </li>
-        <li class="template-layout-column-center-left">
-          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/images/community-makers/makers-dreamspace-jathurshan-yokeswaran.jpg" alt="dreamspace-makers" />
-            <div>
-              <h6>Jathurshan Yogeswaran </h6>
-            </br><span>IFV Makers</span>
-            <span>Kommathurai</span>
-            </div>
-            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
-              <ul>
-                <li><a target="_blank" href="https://www.linkedin.com/in/jathurshan-j-b052951a6/" class="template-component-social-icon-linkedin"></a></li>
-                <li><a target="_blank" href="https://www.facebook.com/profile.php?id=100034270422305" class="template-component-social-icon-rss"></a></li>
-              </ul>
-            </div>
-          </div>
-        </li>
-        <li class="template-layout-column-center-right">
-          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/images/community-makers/makers-dreamspace-kosaaruna-tharmanathan.jpg" alt="dreamspace-makers" />
-            <div>
-              <h6>Kosaaruna Tharmanathan </h6>
-            </br><span>IFV Makers</span>
-            <span>Kommathurai</span>
-            </div>
-            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
-              <ul>
-                <li><a target="_blank" href="https://www.linkedin.com/in/kosaaruna-tharamanathan-733b421a4/" class="template-component-social-icon-linkedin"></a></li>
-                <li><a target="_blank" href="https://www.facebook.com/profile.php?id=100034384755732" class="template-component-social-icon-rss"></a></li>
-              </ul>
-            </div>
-          </div>
-        </li>
-        <li class="template-layout-column-right">
-          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/images/community-makers/makers-dreamspace-rajakumar-banujan.jpg" alt="dreamspace-makers" />
-            <div>
-              <h6>Rajakumar Banujan</h6>
-            </br><span>Innovator</span>
-            <span>Jaffna</span>
-            </div>
-            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
-              <ul>
-                <li><a target="_blank" href="https://www.linkedin.com/in/rajakumar-b-a789341a5/" class="template-component-social-icon-linkedin"></a></li>
-                <li><a target="_blank" href="https://www.facebook.com/dreamspace.academy/" class="template-component-social-icon-rss"></a></li>
-              </ul>
-            </div>
-          </div>
-        </li>
-        <li class="template-layout-column-left">
-          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/images/community-makers/makers-dreamspace-thanajayan.jpg" alt="dreamspace-makers" />
-            <div>
-              <h6>Thananjayan</h6>
-            </br><span>Innovator</span>
+            </br>
+                </br>
+            <span>Visual Content Makers</span>
             <span>Batticaloa</span>
+              </br>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
-                <li><a target="_blank" href="https://www.linkedin.com/in/thananchayan-ramakirushnan1998/" class="template-component-social-icon-linkedin"></a></li>
-                <li><a target="_blank" href="https://www.facebook.com/dreamspace.academy/" class="template-component-social-icon-rss"></a></li>
-              </ul>
-            </div>
-          </div>
-        </li>
-        <li class="template-layout-column-center-left">
-          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/images/community-makers/makers-dreamspace-amirkhan-imanuval.jpg" alt="dreamspace-makers" />
-            <div>
-              <h6>Nazsar Imanuval Ameerkhan </h6>
-              </br><span>Innovator</span>
-            <span>Batticaloa</span>
-            </div>
-            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
-              <ul>
-                <li><a target="_blank" href="https://www.linkedin.com/company/dreamspace-academy" class="template-component-social-icon-linkedin"></a></li>
-                <li><a target="_blank" href="https://www.facebook.com/siva.mayuran.148" class="template-component-social-icon-rss"></a></li>
-              </ul>
-            </div>
-          </div>
-        </li>
-        <li class="template-layout-column-center-right">
-          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/images/community-makers/makers-dreamspace-pathmapriyan-murugupillai.jpg" alt="dreamspace-makers" />
-            <div>
-              <h6>Murugupillai Pathmapriyan</h6>
-            </br><span>Innovator</span>
-            <span>Batticaloa</span>
-            </div>
-            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
-              <ul>
-                <li><a target="_blank" href="https://www.linkedin.com/in/pathma-priyan-94211a142/" class="template-component-social-icon-linkedin"></a></li>
-                <li><a target="_blank" href="https://www.facebook.com/pathma.priyan.7" class="template-component-social-icon-rss"></a></li>
+                <li><a target="_blank" href="https://www.facebook.com/shankarie.sritharan" class="template-component-social-icon-linkedin"></a></li>
+                <li><a target="_blank" href="https://www.linkedin.com/in/shankarie-sritharan-2964b9156/" class="template-component-social-icon-rss"></a></li>
               </ul>
             </div>
           </div>

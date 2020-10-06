@@ -79,7 +79,7 @@
 									<span class="sf-mega-header">Communities</span>
 									<ul>
 										<li><a href="4-1-makers.php">Makers</a></li>
-										<li><a href="4-1-content-providers.php">Content Providers</a></li>
+										<li><a href="4-1-content-providers.php">Visual Content Makers</a></li>
 										<li><a href="4-1-0-communities.php#chess">Chess</a></li>
 										<li><a href="4-1-0-communities.php#urban-farming">Urban Farming</a></li>
 									</ul>
