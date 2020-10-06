@@ -1,4 +1,3 @@
-
 <!-- Content -->
 <div class="template-content" id="team">
 
@@ -38,8 +37,8 @@
             <div>
               <h6>Aravinth Panch</h6>
               </br>
-              <span>Co-founder & Director
-Guardian of Guardians</span>
+              <span>Co-founder & Director</span>
+              <span>Guardian of Guardians</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
@@ -56,7 +55,7 @@ Guardian of Guardians</span>
               <h6>Sarri Bater</h6>
               </br>
               <span>Guardian of</span>
-                <span>Strategies and Planning</span>
+              <span>Strategies and Planning</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
@@ -117,19 +116,18 @@ Guardian of Guardians</span>
           </div>
         </li>
         <li class="template-layout-column-center-right">
-
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/images/org-team/team-dreamspace-jerushan.jpg" alt="dreamspace-team" />
+            <img src="../media/images/org-team/team-dreamspace-suhail.jpg" alt="dreamspace-team" />
             <div>
-              <h6>Jerushan Sritharan</h6>
+              <h6>Suhail Mohammed</h6>
               </br>
-              <span>Guardian of</span>
-              <span>Electronic & Mechanical Lab</span>
+              <span>Guardian of Bio Lab</span>
+              </br>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
-                <li><a target="_blank" href="https://www.linkedin.com/in/jerushan-sritharan-9017011b4/" class="template-component-social-icon-linkedin"></a></li>
-                <li><a target="_blank" href="https://www.facebook.com/jeru.roro" class="template-component-social-icon-rss"></a></li>
+                <li><a target="_blank" href="" class="template-component-social-icon-linkedin"></a></li>
+                <li><a target="_blank" href="" class="template-component-social-icon-rss"></a></li>
               </ul>
             </div>
           </div>
@@ -154,56 +152,22 @@ Guardian of Guardians</span>
         <li class="template-layout-column-left">
 
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/images/org-team/team-dreamspace-basith.jpg" alt="dreamspace-team" />
+            <img src="../media/images/org-team/team-dreamspace-jerushan.jpg" alt="dreamspace-team" />
             <div>
-              <h6>Abdul Basith</h6>
+              <h6>Jerushan Sritharan</h6>
               </br>
               <span>Guardian of</span>
-              <span>Perfomance Marketing</span>
+              <span>Electronic & Mechanical Lab</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
-                <li><a target="_blank" href="https://www.linkedin.com/in/abdul-basith-rafeekin-9a7334192/" class="template-component-social-icon-linkedin"></a></li>
-                <li><a target="_blank" href="https://www.facebook.com/profile.php?id=100012693817746" class="template-component-social-icon-rss"></a></li>
+                <li><a target="_blank" href="https://www.linkedin.com/in/jerushan-sritharan-9017011b4/" class="template-component-social-icon-linkedin"></a></li>
+                <li><a target="_blank" href="https://www.facebook.com/jeru.roro" class="template-component-social-icon-rss"></a></li>
               </ul>
             </div>
           </div>
         </li>
         <li class="template-layout-column-center-left">
-          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/images/org-team/team-dreamspace-grason.jpg" alt="dreamspace-team" />
-            <div>
-              <h6>Grason Prashanth</h6>
-              </br>
-              <span>Guardian of Art Lab</span>
-              </br>
-            </div>
-            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
-              <ul>
-                <li><a target="_blank" href="https://www.linkedin.com/in/grasonprashanth/" class="template-component-social-icon-linkedin"></a></li>
-                <li><a target="_blank" href="" class="template-component-social-icon-rss"></a></li>
-              </ul>
-            </div>
-          </div>
-        </li>
-        <li class="template-layout-column-center-right">
-          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/images/org-team/team-dreamspace-suhail.jpg" alt="dreamspace-team" />
-            <div>
-              <h6>Suhail Mohammed</h6>
-              </br>
-              <span>Guardian of Bio Lab</span>
-              </br>
-            </div>
-            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
-              <ul>
-                <li><a target="_blank" href="" class="template-component-social-icon-linkedin"></a></li>
-                <li><a target="_blank" href="" class="template-component-social-icon-rss"></a></li>
-              </ul>
-            </div>
-          </div>
-        </li>
-        <li class="template-layout-column-right">
 
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
             <img src="../media/images/org-team/team-dreamspace-ahaliya.jpg" alt="dreamspace-team" />
@@ -221,7 +185,24 @@ Guardian of Guardians</span>
             </div>
           </div>
         </li>
-        <li class="template-layout-column-center-left">
+        <li class="template-layout-column-center-right">
+          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+            <img src="../media/images/org-team/team-dreamspace-grason.jpg" alt="dreamspace-team" />
+            <div>
+              <h6>Grason Prashanth</h6>
+              </br>
+              <span>Guardian of Art Lab</span>
+              </br>
+            </div>
+            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+              <ul>
+                <li><a target="_blank" href="https://www.linkedin.com/in/grasonprashanth/" class="template-component-social-icon-linkedin"></a></li>
+                <li><a target="_blank" href="" class="template-component-social-icon-rss"></a></li>
+              </ul>
+            </div>
+          </div>
+        </li>
+        <li class="template-layout-column-right">
 
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
             <img src="../media/images/org-team/team-dreamspace-anna.jpg" alt="dreamspace-team" />
@@ -239,7 +220,25 @@ Guardian of Guardians</span>
             </div>
           </div>
         </li>
-        <li class="template-layout-column-center-right">
+        <li class="template-layout-column-left">
+
+          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+            <img src="../media/images/org-team/team-dreamspace-basith.jpg" alt="dreamspace-team" />
+            <div>
+              <h6>Abdul Basith</h6>
+              </br>
+              <span>Guardian of</span>
+              <span>Perfomance Marketing</span>
+            </div>
+            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+              <ul>
+                <li><a target="_blank" href="https://www.linkedin.com/in/abdul-basith-rafeekin-9a7334192/" class="template-component-social-icon-linkedin"></a></li>
+                <li><a target="_blank" href="https://www.facebook.com/profile.php?id=100012693817746" class="template-component-social-icon-rss"></a></li>
+              </ul>
+            </div>
+          </div>
+        </li>
+        <li class="template-layout-column-center-left">
 
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
             <img src="../media/images/org-team/team-dreamspace-zeena.jpg" alt="dreamspace-team" />
