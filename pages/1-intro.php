@@ -7,23 +7,24 @@
 					<h6></h6>
 					<div></div>
 				</div>
-				<b style="color: #56509F">DreamSpace Academy</b> is a <b>Community Innovation Center</b>, based in Batticaloa - Sri Lanka, to tackle local socio-economic and environmental challenges using <b style="color: #56509F">Project & Challenge Based Learning.</b>
+				<b style="color: #56509F">DreamSpace Academy</b> is a <b>community innovation centre</b> to tackle complex local socio-economic and environmental challenges with <b style="color: #56509F">challenge-based learning</b>
 
 				<div class="template-component-header-subheader">
-					<h3>What do we do?</h3>
+					<h3>What is our mission?</h3>
 					<h6></h6>
 					<div></div>
 				</div>
-				<b style="color: #56509F">Our mission</b> is to empower creative minds through <b>Maker Education</b>, to create innovative solutions using <b style="color: #56509F">Open Innovations</b>, and ultimately leading them to become successful <b>Social
-					Entrepreneurs</b>.
+				We are a <b style="color: #56509F">non-profit social enterprise</b> with a perfect balance between the <b>social mission</b> and the <b style="color: #56509F">business venture</b>, to achieve <b>sustainable development goals</b> by empowering
+				the <b style="color: #56509F">underprivileged communities</b> and protecting the <b>environmental ecosystems</b> in Sri Lanka
 				</br>
 
-				<div class="template-component-header-subheader">
-					<h3>What are we?</h3>
+				<div class="template-component-header-subheader"style="padding-bottom:0">
+					<h3>What are our activities?</h3>
 					<h6></h6>
 					<div></div>
-				</div>
-				We are a <b style="color: #56509F">Non-profit Social Enterprise</b> that keeps the balance between the <b>Social Mission</b> and the <b style="color: #56509F">Business Venture</b>, to achieve <b>Sustainable Development Goals</b> and empower the <b style="color: #56509F">Underprivileged Communities</b>, with the help of international & local organisations and individuals.
+					<center>
+						<img src="../media/images/org-about/what-do-we-do.svg" height="400" width="800"/>
+					</center>
 			</h3>
 		</div>
 	</div>
