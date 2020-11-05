@@ -9,7 +9,7 @@
 	<?php include('3-1-software-lab.php'); ?>
 	<?php include('3-1-mechanics-lab.php'); ?>
 	<?php include('3-1-business-lab.php'); ?>
-	<?php include('3-1-design-lab.php'); ?>
+	<?php include('3-1-story-lab.php'); ?>
 	<?php include('3-1-art-lab.php'); ?>
 	<?php include('3-1-bio-lab.php'); ?>
 	<?php include('3-1-enroll.php'); ?>
