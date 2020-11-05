@@ -1,4 +1,4 @@
-<div class="template-content-section template-padding-top-reset">
+<div class="template-content-section template-padding-top-reset" style="padding-bottom:0">
 	<div class="template-main">
 		<div class="template-component-header-subheader">
 			<h3>
@@ -18,13 +18,24 @@
 				the <b style="color: #56509F">underprivileged communities</b> and protecting the <b>environmental ecosystems</b> in Sri Lanka
 				</br>
 
-				<div class="template-component-header-subheader"style="padding-bottom:0">
+				<div class="template-component-header-subheader">
 					<h3>What are our activities?</h3>
 					<h6></h6>
 					<div></div>
-					<center>
-						<img src="../media/images/org-about/what-do-we-do.svg" height="400" width="800"/>
-					</center>
+				</div>
+				<center>
+					<img src="../media/images/org-about/social-mission-business-venture.svg" height="400" width="800" />
+				</center>
+
+				<div class="template-component-header-subheader">
+					<h3>How do we empower?</h3>
+					<h6>Personalised Empowerment | DreamSpace Lifecycle</h6>
+					<div></div>
+				</div>
+				<center>
+					<img src="../media/images/org-about/personalised-empowerment.svg" height="375" width="1000" />
+				</center>
+
 			</h3>
 		</div>
 	</div>

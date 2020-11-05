@@ -4,8 +4,8 @@
 	<div class="template-main">
 		<!-- Header and subheader -->
 		<div class="template-component-header-subheader">
-			<h3>Maker Education</h3>
-			<h6></h6>
+			<h3>What workshops do we provide?</h3>
+			<h6>Multidisciplinary Maker Education</h6>
 			<div></div>
 		</div>
 

@@ -1,8 +1,8 @@
 <div class="template-content-section template-padding-top-reset">
 	<div class="template-main">
 		<div class="template-component-header-subheader">
-			<h2>Spotlight</h2>
-			<h6></h6>
+			<h3>What are we up to?</h3>
+			<h6>Public Presence & Achievements</h6>
 			<div></div>
 		</div>
 
