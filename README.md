@@ -10,6 +10,8 @@
 ## CONTRIBUTORS
   - Viththiyakaran Nadarajah
   - Jayanthan Amalanathan
+  - Guna Rahulan
+  
 
 ## DEVELOPMENT SETUP
 - Setup Git
