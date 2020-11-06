@@ -25,7 +25,6 @@
 							    </br>
 					<div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
 						<ul>
-							<li><a target="_blank" href="" class="template-component-social-icon-linkedin"></a></li>
 							<li><a target="_blank" href="https://dreamspace-terrace.business.site/" class="template-component-social-icon-rss"></a></li>
 						</ul>
 					</div>

@@ -66,6 +66,9 @@
 									<span class="sf-mega-header">Social Enterprise</span>
 									<ul>
 										<li><a href="3-4-social-entrepreneurship.php#terrace">DreamSpace Terrace</a></li>
+										<li><a href="3-4-social-entrepreneurship.php#trash-for-trade">Trash For Trade</a></li>
+										<li><a href="3-4-social-entrepreneurship.php#ocean-biome">Ocean Biome</a></li>
+										<li><a href="3-4-social-entrepreneurship.php#j-matrix">J Matrix</a></li>
 									</ul>
 								</div>
 
@@ -178,6 +181,9 @@
 											<a href="#">Social Enterprise<span></span></a>
 											<ul>
 												<li><a href="3-4-social-entrepreneurship.php#terrace">DreamSpace Terrace</a></li>
+												<li><a href="3-4-social-entrepreneurship.php#trash-for-trade">Trash For Trade</a></li>
+												<li><a href="3-4-social-entrepreneurship.php#ocean-biome">Ocean Biome</a></li>
+												<li><a href="3-4-social-entrepreneurship.php#j-matrix">J Matrix</a></li>
 											</ul>
 										</li>
 

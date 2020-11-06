@@ -11,7 +11,10 @@
   <div class="template-content-section template-content-layout template-content-layout-sidebar-right template-main template-clear-fix ">
     <div class="template-content-layout-column-center">
       <ul class="template-post-list">
-	<?php include('3-4-terrace.php') ?>
+	<?php include('3-4-terrace.php'); ?>
+	<?php include('3-4-trash-for-trade.php'); ?>
+	<?php include('3-4-ocean-biome.php'); ?>
+	<?php include('3-4-j-matrix.php'); ?>
 </ul>
 </div>
 </div>
