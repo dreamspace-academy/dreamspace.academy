@@ -28,7 +28,7 @@
 
 						<!-- The Four Verticals Menu -->
 						<li class="sf-mega-enable-1">
-							<a href="#"><span class="template-icon-menu template-icon-menu-diagram"></span>Life Cycle</a>
+							<a href="#"><span class="template-icon-menu template-icon-menu-diagram"></span>Lifecycle</a>
 							<div class="sf-mega template-layout-25x25x25x25 template-clear-fix">
 								<div class="template-layout-column-left">
 									<span class="sf-mega-header">Maker Education</span>
@@ -48,8 +48,9 @@
 									<ul>
 										<li><a href="3-2-underwater-glider.php">Underwater Glider</a></li>
 										<li><a href="3-2-circular-plastic.php">Circular Plastic</a></li>
-										<li><a target="_blank" href="https://corona.dreamspace.academy">CoronaBot</a></li>
-										<li><a target="_blank" href="../media/images/community-innovation/opencovid19-mask/dreamspace-opencovid-19-mask-01-3.jpg">OpenCovid19 Mask</a></li>
+										<li><a href="3-2-open-covid.php">Open Covid</a></li>
+										<li><a href="3-2-corona-hunter.php">Corona Hunter</a></li>
+										<li><a href="3-2-agaram.php">Agaram</a></li>
 									</ul>
 								</div>
 
@@ -62,7 +63,7 @@
 								</div>
 
 								<div class="template-layout-column-right">
-									<span class="sf-mega-header">Social Entrepreneurship</span>
+									<span class="sf-mega-header">Social Enterprise</span>
 									<ul>
 										<li><a href="3-4-social-entrepreneurship.php#terrace">DreamSpace Terrace</a></li>
 									</ul>
@@ -86,17 +87,11 @@
 								</div>
 
 								<div class="template-layout-column-center-left">
-									<span class="sf-mega-header">Competitions</span>
-									<ul>
-										<li><a href="https://www.facebook.com/dreamspace.academy/photos/?tab=album&album_id=2427450264198969">The Duke of Edinburgh's Award (UK)</a></li>
-										<li><a href="https://www.facebook.com/dreamspace.academy/posts/2550019751942019">Stockholm Junior Water Prize (Sweden)</a></li>
-									</ul>
-								</div>
-
-								<div class="template-layout-column-center-right">
 									<span class="sf-mega-header">Programs</span>
 									<ul>
-										<li><a href="https://inclusivegrowth.com.lk">Skills For Inclusive Growth (Australia)</a></li>
+										<li><a target=_blank href="https://www.facebook.com/dreamspace.academy/photos/?tab=album&album_id=2427450264198969">The Duke of Edinburgh's Award (UK)</a></li>
+										<li><a target=_blank href="https://www.facebook.com/dreamspace.academy/posts/2550019751942019">Stockholm Junior Water Prize (Sweden)</a></li>
+										<li><a target=_blank href="https://inclusivegrowth.com.lk">Skills For Inclusive Growth (Australia)</a></li>
 									</ul>
 								</div>
 							</div>
@@ -106,7 +101,6 @@
 						<li class="sf-mega-enable-0">
 							<a href="#"><span class="template-icon-menu template-icon-menu-database"></span>Links</a>
 							<ul>
-								<li><a target="_blank" href="https://blog.dreamspace.academy">Blog</a></li>
 								<li><a href="5-1-calendar.php">Calendar</a></li>
 							</ul>
 						</li>
@@ -132,22 +126,16 @@
 								<li>
 									<a href="#">About<span></span></a>
 									<ul>
-										<li>
-											<a href="2-0-about.php#team">Team</a>
-										</li>
-										<li>
-											<a href="2-0-about.php#partners">Awards</a>
-										</li>
-										<li>
-											<a href="2-0-about.php#partners">Partners</a>
-										</li>
-
+										<li><a href="2-0-about.php#team">Team</a></li>
+										<li><a href="2-0-about.php#supporters">Supporters</a></li>
+										<li><a href="2-0-about.php#awards">Awards</a></li>
+										<li><a href="2-0-about.php#partners">Partners</a></li>
 									</ul>
 								</li>
 
-								<!-- The Verticals Menu -->
+								<!-- Lifecycle Menu -->
 								<li>
-									<a href="#">The Verticals<span></span></a>
+									<a href="#">Lifecycle<span></span></a>
 									<ul>
 										<!-- Maker Education Menu -->
 										<li>
@@ -169,8 +157,9 @@
 											<ul>
 												<li><a href="3-2-underwater-glider.php">Underwater Glider</a></li>
 												<li><a href="3-2-circular-plastic.php">Circular Plastic</a></li>
-												<li><a target="_blank" href="https://corona.dreamspace.academy">CoronaBot</a></li>
-												<li><a target="_blank" href="../media/images/community-innovation/opencovid19-mask/dreamspace-opencovid-19-mask-01-3.jpg">OpenCovid19 Mask</a></li>
+												<li><a href="3-2-open-covid.php">Open Covid</a></li>
+												<li><a href="3-2-corona-hunter.php">Corona Hunter</a></li>
+												<li><a href="3-2-agaram.php">Agaram</a></li>
 											</ul>
 										</li>
 
@@ -186,7 +175,7 @@
 
 										<!-- Social Enterpreneurship Menu -->
 										<li>
-											<a href="#">Social Entrepreneurship<span></span></a>
+											<a href="#">Social Enterprise<span></span></a>
 											<ul>
 												<li><a href="3-4-social-entrepreneurship.php#terrace">DreamSpace Terrace</a></li>
 											</ul>
@@ -204,17 +193,9 @@
 											<a href="#">Communities<span></span></a>
 											<ul>
 												<li><a href="4-1-makers.php">Makers</a></li>
+												<li><a href="4-1-content-providers.php">Visual Content Makers</a></li>
 												<li><a href="4-1-0-communities.php#chess">Chess</a></li>
 												<li><a href="4-1-0-communities.php#urban-farming">Urban Farming</a></li>
-											</ul>
-										</li>
-
-										<!-- Competitions Menu -->
-										<li>
-											<a href="#">Competitions<span></span></a>
-											<ul>
-												<li><a href="https://www.facebook.com/dreamspace.academy/photos/?tab=album&album_id=2427450264198969">The Duke of Edinburgh's Award (UK)</a></li>
-												<li><a href="https://www.facebook.com/dreamspace.academy/posts/2550019751942019">Stockholm Junior Water Prize (Sweden)</a></li>
 											</ul>
 										</li>
 
@@ -222,7 +203,9 @@
 										<li>
 											<a href="#">Programs<span></span></a>
 											<ul>
-												<li><a href="https://blog.dreamspace.academy/category/trainings/s4ig/">Skills For Inclusive Growth (Australia)</a></li>
+												<li><a target=_blank href="https://www.facebook.com/dreamspace.academy/photos/?tab=album&album_id=2427450264198969">The Duke of Edinburgh's Award (UK)</a></li>
+												<li><a target=_blank href="https://www.facebook.com/dreamspace.academy/posts/2550019751942019">Stockholm Junior Water Prize (Sweden)</a></li>
+												<li><a target=_blank href="https://inclusivegrowth.com.lk">Skills For Inclusive Growth (Australia)</a></li>
 											</ul>
 										</li>
 									</ul>
@@ -232,7 +215,6 @@
 								<li>
 									<a href="#">Links<span></span></a>
 									<ul>
-										<li><a target="_blank" href="https://blog.dreamspace.academy">Blog</a></li>
 										<li><a href="5-1-calendar.php">Calendar</a></li>
 									</ul>
 								</li>
