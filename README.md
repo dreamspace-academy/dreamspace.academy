@@ -9,7 +9,6 @@
 
 ## CONTRIBUTORS
   - Viththiyakaran Nadarajah
-  - Shankarie Sritharan
   - Jayanthan Amalanathan
 
 ## DEVELOPMENT SETUP
