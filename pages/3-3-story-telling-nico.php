@@ -35,21 +35,19 @@
     <div class="template-post-section-content">
       <div class="template-post-content">
         <b style="color: #56509F">Expertise</b>
-        <p></p>
+        <p>Dr Nico Meißner is Senior Lecturer and Deputy Director (Learning & Teaching) at Griffith Film School, Australia’s largest film school. He is researching and writing on entrepreneurship in the creative industries and the intricate relations between storytelling and innovation. He was the inaugural Dean of the Faculty of Cinematic Arts in Malaysia and has taught documentary filmmaking, storytelling and entrepreneurship in the UK, Finland, Portugal, Malaysia, Myanmar, Sri Lanka, Ghana, Colombia and Australia.</p>
 
         <b style="color: #56509F">Workshop</b>
-        <p></p>
+        <p>As part of my engagement with DreamSpace Academy, we held two workshops: a one-day StoryLab, using an ethnomediaology approach for authentic story development, followed by a 4-day StoryMapping workshop that uses storytelling sensitivities to solve complex problems and generate innovative solutions.</p>
 
         <b style="color: #56509F">Impact</b>
-        <p></p>
+        <p>During the StoryLab workshop, we worked with 20 young people from Batticaloa, building techniques and the confidence to tell authentic stories. The StoryMapping workshop focused specifically on DreamSpace Academy and worked with seven core team members. We tackled the problem of DreamSpace's visibility in the local community and arrived at the Single Question: What if...we train youth ambassadors by solving real-world problems in their communities and captured their journey through authentic videos? We then spent the final day of our workshop to gather photographs and turned them into an authentic Innovation Story.</p>
 
       </div>
     </div>
 
     <div class="template-component-blockquote">
-      <p>
-        Creative team
-      </p>
+      <p>DreamSpace Academy is doing important and inspiring work. I met many passionate, dedicated, forward-thinking and resourceful young people that deeply care about their community and innovating society in a human-centered, grassroots way.</p>
       <span>Dr. Nico Meissner</span>
     </div>
 
