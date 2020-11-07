@@ -50,7 +50,7 @@
 										<li><a href="3-2-circular-plastic.php">Circular Plastic</a></li>
 										<li><a href="3-2-open-covid.php">Open Covid</a></li>
 										<li><a href="3-2-corona-hunter.php">Corona Hunter</a></li>
-										<li><a href="3-2-agaram.php">Agaram</a></li>
+										<!-- <li><a href="3-2-agaram.php">Agaram</a></li> -->
 									</ul>
 								</div>
 
@@ -162,7 +162,7 @@
 												<li><a href="3-2-circular-plastic.php">Circular Plastic</a></li>
 												<li><a href="3-2-open-covid.php">Open Covid</a></li>
 												<li><a href="3-2-corona-hunter.php">Corona Hunter</a></li>
-												<li><a href="3-2-agaram.php">Agaram</a></li>
+												<!--<li><a href="3-2-agaram.php">Agaram</a></li>-->
 											</ul>
 										</li>
 

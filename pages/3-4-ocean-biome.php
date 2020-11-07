@@ -23,12 +23,11 @@
 					<p class="template-margin-top-3">
 						We are a group of young people who are captivated by oceanic research and we want to construct an environment for our next generation to involve,learn and engage in the study of the ocean.							</br>
 									</br>
-					<div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
-						<ul>
-							<li><a target="_blank" href="" class="template-component-social-icon-linkedin"></a></li>
-							<li><a target="_blank" href="https://oceanbio.me/" class="template-component-social-icon-rss"></a></li>
-						</ul>
-					</div>
+									<div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+										<ul>
+											<li><a target="_blank" href="https://oceanbio.me/" class="template-component-social-icon-rss"></a></li>
+										</ul>
+									</div>
 				</div>
 			</div>
 		</div>
