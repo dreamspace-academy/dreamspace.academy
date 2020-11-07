@@ -1,6 +1,6 @@
 
 <!-- Content -->
-<div class="template-content" id="supporters"> 
+<div class="template-content" id="supporters">
 
   <!-- Header and subheader -->
   <div class="template-component-header-subheader">
@@ -96,6 +96,23 @@
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
                 <li><a target="_blank" href="https://www.linkedin.com/in/zo%C3%AB-harman-conlon-85986880/" class="template-component-social-icon-linkedin"></a></li>
+              </ul>
+            </div>
+          </div>
+        </li>
+        <li class="template-layout-column-center-left">
+          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+            <img src="../media/images/org-supporters/supporters-dreamspace-johnny.jpg" alt="dreamspace-supporters" />
+            <div>
+              <h6>Johnny FD</h6>
+              </br>
+              </br>
+              <span>Documentry Maker</span>
+              <span>United States</span>
+            </div>
+            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+              <ul>
+                <li><a target="_blank" href="https://www.johnnyfd.com/p/about.html" class="template-component-social-icon-linkedin"></a></li>
               </ul>
             </div>
           </div>
