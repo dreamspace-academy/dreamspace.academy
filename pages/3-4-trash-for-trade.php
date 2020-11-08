@@ -1,4 +1,4 @@
-<div class="template-content-section template-padding-bottom-5 template-background-color-2" id="trash-for-trade">
+<div class="template-content-section template-padding-bottom-5" id="trash-for-trade">
 	<div class="template-main">
 		<div class="template-layout-50x50 template-clear-fix">
 
@@ -10,13 +10,12 @@
 						A Future free from plastic pollution
 					</div>
 					<p class="template-margin-top-3">
-						Trash for Trade is a Plastic Upcycling Social Business. It is a Social innovation idea developed from an Open Source community called Precious Plastic with the support of DreamSpace Academy. We develop our own machinaries for the upcycling process.					</p>
-							</br>
-									</br>
+						Trash for Trade is a Plastic Upcycling Social Business. It is a Social innovation idea developed from an Open Source community called Precious Plastic with the support of DreamSpace Academy. We develop our own machinaries for the upcycling
+						process. </p>
+					</br>
+					</br>
 					<div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
-						<ul>
-							<li><a target="_blank" href="https://trashfortrade.com/" class="template-component-social-icon-rss"></a></li>
-						</ul>
+						<a target="_blank" href="https://trashfortrade.com/" class="template-component-button template-component-button-style-1">More<i></i></a>
 					</div>
 				</div>
 			</div>

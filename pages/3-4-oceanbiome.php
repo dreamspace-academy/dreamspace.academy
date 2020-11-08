@@ -1,4 +1,4 @@
-<div class="template-content-section template-padding-bottom-5 template-background-color-2" id="ocean-biome">
+<div class="template-content-section template-padding-bottom-5 template-background-color-2" id="oceanbiome">
 	<div class="template-main">
 		<div class="template-layout-50x50 template-clear-fix">
 
@@ -15,19 +15,17 @@
 
 			<div class="template-layout-column-right template-margin-bottom-reset">
 				<div class="template-align-center">
-					<h2>Ocean Biome</h2>
+					<h2>OceanBiome</h2>
 					<div class="template-component-divider template-component-divider-style-2"></div>
 					<div class="template-component-italic template-margin-top-3">
 						Ocean is for all
 					</div>
 					<p class="template-margin-top-3">
-						We are a group of young people who are captivated by oceanic research and we want to construct an environment for our next generation to involve,learn and engage in the study of the ocean.							</br>
-									</br>
-									<div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
-										<ul>
-											<li><a target="_blank" href="https://oceanbio.me/" class="template-component-social-icon-rss"></a></li>
-										</ul>
-									</div>
+						We are a group of young people who are captivated by oceanic research and we want to construct an environment for our next generation to involve,learn and engage in the study of the ocean. </br>
+						</br>
+						<div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+							<a target="_blank" href="https://oceanbio.me/" class="template-component-button template-component-button-style-1">More<i></i></a>
+						</div>
 				</div>
 			</div>
 		</div>

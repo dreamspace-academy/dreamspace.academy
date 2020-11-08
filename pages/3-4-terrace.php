@@ -21,12 +21,10 @@
 					<p class="template-margin-top-3">
 						It is a public location where members of a community tend to gather for group activities, social support, public information, and other purposes.
 					</p>
-				      </br>
-							    </br>
+					</br>
+					</br>
 					<div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
-						<ul>
-							<li><a target="_blank" href="https://dreamspace-terrace.business.site/" class="template-component-social-icon-rss"></a></li>
-						</ul>
+						<a target="_blank" href="https://dreamspace-terrace.business.site/" class="template-component-button template-component-button-style-1">More<i></i></a>
 					</div>
 				</div>
 			</div>

@@ -1,4 +1,4 @@
-<div class="template-content-section template-padding-bottom-5 template-background-color-2" id="j-matrix">
+<div class="template-content-section template-padding-bottom-5" id="j-matrix">
 	<div class="template-main">
 		<div class="template-layout-50x50 template-clear-fix">
 
@@ -12,12 +12,10 @@
 					<p class="template-margin-top-3">
 						We develop different 3D models for social experments and interractions. We provide educational materials for person with desabilities and kids.
 					</p>
-				      </br>
-							    </br>
+					</br>
+					</br>
 					<div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
-						<ul>
-							<li><a target="_blank" href="" class="template-component-social-icon-rss"></a></li>
-						</ul>
+						<a target="_blank" href="https://jayanthan.info/" class="template-component-button template-component-button-style-1">More<i></i></a>
 					</div>
 				</div>
 			</div>
