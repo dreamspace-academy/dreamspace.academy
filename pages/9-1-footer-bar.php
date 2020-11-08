@@ -6,15 +6,24 @@
 
 			<div class="template-header-top-logo">
 				<a href="1-index.php">
-					<center><img src="../media/images/logos/logo-4148x2074-dreamspace.png" alt="" width="150px" height="150px" /> </center>
+					<center><img src="../media/images/logos/logo-4148x2074-dreamspace.png" width="40%" /> </center>
 				</a>
 			</div>
 
-			<div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix template-margin-bottom-2">
+			<div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix template-margin-bottom-2 template-margin-top-2">
 				<ul>
-					<li><a target="_blank" href="https://www.linkedin.com/company/dreamspace-academy" class="template-component-social-icon-linkedin"></a></li>
-					<li><a target="_blank" href="#" class="template-component-social-icon-twitter"></a></li>
-					<li><a target="_blank" href="https://www.facebook.com/dreamspace.academy" class="template-component-social-icon-facebook"></a></li>
+					<li><a target="_blank" href="https://www.linkedin.com/company/dreamspace-academy">
+							<div style="font-size:xx-large; color: White"><i class="fab fa-linkedin-in"></i></div>
+						</a></li>
+					<li><a target="_blank" href="https://github.com/dreamspace-academy">
+							<div style="font-size:xx-large; color: White"><i class="fab fa-github"></i></div>
+						</a></li>
+					<li><a target="_blank" href="https://www.facebook.com/dreamspace.academy">
+							<div style="font-size:xx-large; color: White"><i class="fab fa-facebook"></i></div>
+						</a></li>
+					<li><a target="_blank" href="https://twitter.com/DreamSpaceAcad">
+							<div style="font-size:xx-large; color: White"><i class="fab fa-twitter"></i></div>
+						</a></li>
 				</ul>
 			</div>
 			<div>
