@@ -2,7 +2,7 @@
 <div class="template-content">
 	<div class="template-component-header-subheader">
 		<h2>Maker Education</h2>
-		<p>Our academic operation for project based learning with multidisciplinary workshops  to build practical skills</p>
+		<p>Multidisciplinary workshops  to build practical scientific, technical and soft-skills</p>
 		<div></div>
 	</div>
 	<?php include('3-1-electronics-lab.php'); ?>

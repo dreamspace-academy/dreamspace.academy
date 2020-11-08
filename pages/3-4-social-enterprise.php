@@ -2,7 +2,7 @@
 <div class="template-content">
   <div class="template-component-header-subheader">
     <h2>Social Enterprise</h2>
-    <p>We balance our social mission with business ventures through community business and socio economic development .</p>
+    <p>Startups created from locally developed community innovations to solve socio-economic or environmental challenges</p>
     <div></div>
   </div>
 
