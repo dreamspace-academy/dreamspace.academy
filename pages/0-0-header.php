@@ -23,6 +23,7 @@
 	<link rel="stylesheet" type="text/css" href="../style/base.css" />
 	<link rel="stylesheet" type="text/css" href="../style/responsive.css" />
 	<link rel="stylesheet" type="text/css" href="../style/retina.css" />
+	<link rel="stylesheet" type="text/css" href="../style/font-awesome/css/all.css" />
 	<script type="text/javascript" src="../script/jquery.min.js"></script>
 	<script type="text/javascript" src="../script/google-form.js"></script>
 	<link rel="icon" type="image/png" href="../media/images/logos/logo-32x32-dreamspace.png" sizes="32x32" />
