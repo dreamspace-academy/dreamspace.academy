@@ -4,8 +4,8 @@
 	<div class="template-main">
 		<!-- Header and subheader -->
 		<div class="template-component-header-subheader">
-			<h3>What workshops do we provide?</h3>
-			<h6>Multidisciplinary Maker Education</h6>
+			<h3>What capacities do we build?</h3>
+			<h6>Multidisciplinary Workshops</h6>
 			<div></div>
 		</div>
 
@@ -20,6 +20,7 @@
 						<div>
 							<h5>Electronics Lab</h5>
 							<span>For those who are fascinated by robots, to develop practical skills for building anything from circuits to humanoid robotics</span>
+							</br></br>
 							<div class="template-layout-flex-50x50">
 							</div>
 						</div>
@@ -35,6 +36,7 @@
 						<div>
 							<h5>Software Lab</h5>
 							<span>For those who crave for digital adrenaline, to gain practical experience on coding anything from apps to cloud computing</span>
+							</br></br>
 							<div class="template-layout-flex-50x50">
 							</div>
 						</div>
@@ -129,7 +131,7 @@
 					<div class="template-layout-flex-50x50">
 						<div>
 							<h5>Policy Lab</h5>
-							<span>For those who live by fundamental values & human rights, to learn more about value education and constitutional right</span>
+							<span>For those who are driven by systems change, to gain hands-on knowledge on co-creation of national and regional policies reforms</span>
 							<div class="template-layout-flex-50x50">
 							</div>
 						</div>
@@ -145,6 +147,7 @@
 						<div>
 							<h5>Space Lab</h5>
 							<span>For those who look upwards into the endless universes, to gain hands-on knowledge astronomy and space exploration</span>
+							</br></br>
 							<div class="template-layout-flex-50x50">
 							</div>
 						</div>
@@ -159,7 +162,8 @@
 					<div class="template-layout-flex-50x50">
 						<div>
 							<h5>Nano Lab</h5>
-							<span>For those who live by fundamental values & human rights</span>
+							<span>For those who have the finest mind to fiddle with molecule-scale structures, to build practical dexterity on NanoTechnology</span>
+							</br></br>
 							<div class="template-layout-flex-50x50">
 							</div>
 						</div>
@@ -174,7 +178,7 @@
 					<div class="template-layout-flex-50x50">
 						<div>
 							<h5>Fabrics Lab</h5>
-							<span>For those who look upwards into the endless universes, to gain hands-on knowledge astronomy and space exploration</span>
+							<span>For those who are intrigued by the interlocking patterns, to gain practical training on fashion technology and digital textiles fabrication</span>
 							<div class="template-layout-flex-50x50">
 							</div>
 						</div>
@@ -189,7 +193,7 @@
 					<div class="template-layout-flex-50x50">
 						<div>
 							<h5>Edible Lab</h5>
-							<span>For those who live by fundamental values & human rights, to learn more about value education and constitutional right</span>
+							<span>For those who are amazed by the flavours of natural food, to earn the necessary skills to create a nutritious, prebiotic and probiotic diet</span>
 							<div class="template-layout-flex-50x50">
 							</div>
 						</div>
