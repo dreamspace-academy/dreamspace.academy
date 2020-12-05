@@ -3,7 +3,7 @@
   <div class="template-content-section template-padding-top-reset template-main">
     <div class="template-component-header-subheader">
       <h2>Corona Hunter</h2>
-      <h6>an open-source detection method for SARS CoV-2, analogous to the GMO Detective and Corona Detective</h6>
+      <h6>An open-source cheaper rapid test kit to detect SARS-CoV-2 using isothermal amplification</h6>
       <div></div>
     </div>
     <div class="template-post">
@@ -14,12 +14,11 @@
       <div class="template-post-section-preambule">
         <div class="template-component-nivo-slider template-component-nivo-slider-style-2 template-preloader">
           <div>
+            <img src="../media/images/innovation-corona-hunter/corona-hunter-dreamspace-3.jpg" data-thumb="../media/images/innovation-corona-hunter/corona-hunter-dreamspace-1.jpg" alt="dreamspace-community-innovation" />
             <img src="../media/images/innovation-corona-hunter/corona-hunter-dreamspace-1.jpg" data-thumb="../media/images/innovation-corona-hunter/corona-hunter-dreamspace-1.jpg" alt="dreamspace-community-innovation" />
             <img src="../media/images/innovation-corona-hunter/corona-hunter-dreamspace-2.jpg" data-thumb="../media/images/innovation-corona-hunter/corona-hunter-dreamspace-2.jpg" alt="dreamspace-community-innovation" />
-            <img src="../media/images/innovation-corona-hunter/corona-hunter-dreamspace-3.jpg" data-thumb="../media/images/innovation-corona-hunter/corona-hunter-dreamspace-3.jpg" alt="dreamspace-community-innovation" />
             <img src="../media/images/innovation-corona-hunter/corona-hunter-dreamspace-4.jpg" data-thumb="../media/images/innovation-corona-hunter/corona-hunter-dreamspace-4.jpg" alt="dreamspace-community-innovation" />
             <img src="../media/images/innovation-corona-hunter/corona-hunter-dreamspace-5.jpg" data-thumb="../media/images/innovation-corona-hunter/corona-hunter-dreamspace-5.jpg" alt="dreamspace-community-innovation" />
-            <img src="../media/images/innovation-corona-hunter/corona-hunter-dreamspace-6.jpg" data-thumb="../media/images/innovation-corona-hunter/corona-hunter-dreamspace-6.jpg" alt="dreamspace-community-innovation" />
             <img src="../media/images/innovation-corona-hunter/corona-hunter-dreamspace-7.jpg" data-thumb="../media/images/innovation-corona-hunter/corona-hunter-dreamspace-7.jpg" alt="dreamspace-community-innovation" />
           </div>
         </div>
@@ -29,18 +28,17 @@
       <div class="template-post-section-meta">
         <div class="template-post-meta">
           <div class="template-icon-blog template-icon-blog-author">
-            <a target="_blank" href="https://app.jogl.io/challenge/opencovid19-detection">Just One Giant Lab</a>
-          </div>
-          <div class="template-icon-blog template-icon-blog-category">
-            <a target="_blank" href="https://app.jogl.io/program/opencovid19#projects">Open Covid Initiative</a>
+            <a target="_blank" href="https://app.jogl.io/challenge/opencovid19-detection">Just One Giant Lab (JOGL)</a>
           </div>
           <div class="template-icon-blog template-icon-blog-author">
             <ul class="template-reset-list">
-              <li><a target="_blank" href="https://medium.com/justonegiantlab/meet-coronahunter-a-semi-finalist-for-the-xprize-rapid-covid-testing-challenge-9ac658956168">Corona Hunter</a></li>
+              <li><a target="_blank" href="https://www.slintec.lk/">Sri Lanka Institute of Nanotechnology (SLINTEC)</a></li>
             </ul>
           </div>
-          <div class="template-icon-blog template-icon-blog-category">
-            <a target="_blank" href="https://www.facebook.com/233977750310900/posts/1213415742367091/?vh=e&extid=ihcONzPxI3zRBIWs&d=n">Aravinth Panch and Team</a>
+          <div class="template-icon-blog template-icon-blog-author">
+            <ul class="template-reset-list">
+              <li><a target="_blank" href="http://dreamspace.academy">DreamSpace Academy</a></li>
+            </ul>
           </div>
         </div>
       </div>
@@ -66,35 +64,23 @@
           <h4 class="template-margin-top-3">Solution</h4>
           <h6 class="template-margin-top-3">Open-source Corona Detection</h6>
           <p class="template-padding-reset" align="justify">
-            SLINTEC CoronaHunter is a COVID-19 test kit that uses an openly available loop-mediated isothermal amplification (LAMP) protocol as an alternative to the costly and time-consuming RT-PCR method, which is currently being used in Sri Lanka and globally. We envision a test kit that can be used in high throughput laboratories to get a quantitative measurement: a new approach that is different from other commonly available low-cost LAMP solutions. Our unique solution is tailor-made to the specifications of Sri Lankan regulations, and also to build an innovation on top of the existing infrastructure without reinventing the wheel. We define a certain time period as a LAMP “cycle” that is allowing us to have this quantitative approach to an otherwise qualitative method.
+            CoronaHunter is a COVID-19 test kit that uses an openly available loop-mediated isothermal amplification (LAMP) protocol as an alternative to the costly and time-consuming RT-PCR method, which is currently being used in Sri Lanka and globally. We envision a test kit that can be used in high throughput laboratories to get a quantitative measurement: a new approach that is different from other commonly available low-cost LAMP solutions. Our unique solution is tailor-made to the specifications of Sri Lankan regulations, and also to build an innovation on top of the existing infrastructure without reinventing the wheel. We define a certain time period as a LAMP “cycle” that is allowing us to have this quantitative approach to an otherwise qualitative method.
           </p>
           <p class="template-padding-reset" align="justify">
             Therefore with our innovative solution, we can identify positive and negative COVID 19 from samples extracted from nasopharyngeal, saliva, oropharyngeal, and throat swabs, and RNA is extracted from the sample using magnetic beads. Additionally, our solution can also differentiate between the samples, which are high-risk (low Ct value/high viral load) or low-risk (high Ct value/low viral load). Our careful trials with real patient samples have revealed that this method has a sensitivity threshold almost equivalent to the standard RT-qPCR.
           </p>
           <a target="_blank" href="https://medium.com/justonegiantlab/meet-coronahunter-a-semi-finalist-for-the-xprize-rapid-covid-testing-challenge-9ac658956168">[more]</a>
 
-          <h4 class="template-margin-top-3">Maker</h4>
+          <h4 class="template-margin-top-3">Team</h4>
           <p class="template-padding-reset" align="justify">
             The Corona Hunter project, led by <a target="_blank" href="https://www.linkedin.com/in/kasunprabuddha/">Prabuddha Dissanayake</a>, <a target="_blank" href="https://www.linkedin.com/in/kasunprabuddha/">Madhavi Hewadikaram</a>, Sanjaya Bathige, Aravinth Panch, and Kalindu Perera, is developing an open-source detection method for SARS CoV-2, adapted from ‘GMO Detective’, a low-cost and open community science project for detection of transgenic elements in food and plants, for both scientific and educational purposes.
           </p>
-          <p class="template-padding-reset" align="justify">
-            During his study, he found out that after the Tsunami disaster in 2004, the water ecosystem in Batticaloa was significantly disrupted, and the local community started seeing a large number of eels that had emerged from the backwaters,
-            which locals presumed to be snakes, as such species were not commonly visible above water.
-          </p>
-          <p class="template-padding-reset" align="justify">
-            He saw the need for a system to monitor the ocean and backwaters around Batticaloa. Therefore he has taken the challenge to build an affordable underwater glider, with the help of the existing open-source project OSUG.
-          </p>
-          <p class="template-padding-reset" align="justify">
-            He strongly believes that he will be further contributing to the OSUG project, by making it a production-ready underwater glider with multiparameter measurements system that will play a vital role in protecting the Blue Ecosystems in
-            Global South.
-          </p>
-
           <h4 class="template-margin-top-5 template-margin-bottom-5">This innovation collects SDG Badges of</h4>
           <div class="template-component-feature template-component-feature-style-1 template-component-feature-position-left template-component-feature-size-medium">
             <ul class="template-layout-33x33x33 template-clear-fix">
               <li class="template-layout-column-left">
-                <div class="template-icon-feature"><img src="../media/images/logos-sdg/un-sdg-dreamspace-14.png" alt="un-sdg-dreamspace" /></div>
-                <h5>Good Health and wellbeing</br></h5>
+                <div class="template-icon-feature"><img src="../media/images/logos-sdg/un-sdg-dreamspace-3.png" alt="un-sdg-dreamspace" /></div>
+                <h5>Good Health and Wellbeing</br></h5>
                 <p><b>UN SDG 03</b></p>
                 <p>Ensuring healthy lives and promoting the well-being for all at all ages is essential to sustainable development.</p>
               </li>
