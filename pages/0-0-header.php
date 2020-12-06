@@ -2,11 +2,8 @@
 <html class="template-page-home-1">
 
 <head>
-	<title>DreamSpace Academy</title>
-	<meta name="keywords" content="" />
-	<meta name="description" content="DreamSpace Academy is a community innovation centre to tackle complex local socio-economic and environmental challenges with challenge-based learning." />
-	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
-	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+	<?php include('0-3-meta.php'); ?>
+
 	<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Droid+Serif:400,700italic,700,400italic%7CLato:400,100,100italic,300,300italic,400italic,700,700italic,900,900italic%7COpen+Sans:Open+Sans:400,800italic,800,700italic,700,600italic,600,400italic,300italic,300%7CHandlee">
 	<link rel="stylesheet" type="text/css" href="../style/megafish.css" />
 	<link rel="stylesheet" type="text/css" href="../style/superfish.css" />
