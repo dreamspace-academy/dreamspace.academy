@@ -146,8 +146,8 @@
 					<div class="template-layout-flex-50x50">
 						<div>
 							<h5>Space Lab</h5>
-							<span>For those who look upwards into the endless universes, to gain hands-on knowledge astronomy and space exploration</span>
-							</br></br>
+							<span>For those who look upwards into the endless universes, to gain hands-on knowledge astronomy, space exploration, aviation and drone technology</span>
+							</br>
 							<div class="template-layout-flex-50x50">
 							</div>
 						</div>
@@ -163,7 +163,7 @@
 						<div>
 							<h5>Nano Lab</h5>
 							<span>For those who have the finest mind to fiddle with molecule-scale structures, to build practical dexterity on NanoTechnology</span>
-							</br></br>
+							</br>
 							<div class="template-layout-flex-50x50">
 							</div>
 						</div>
@@ -198,6 +198,37 @@
 							</div>
 						</div>
 						<div style="background-image:url('../media/images/org-labs/lab-edible-dreamspace-1.jpg')">
+							<a href="3-1-0-maker-education.php" class="template-component-button template-component-button-style-1">More<i></i></a>
+						</div>
+					</div>
+				</li>
+
+				<!-- Left column -->
+				<li class="template-layout-column-left">
+					<div class="template-layout-flex-50x50">
+						<div>
+							<h5>Mind Lab</h5>
+							<span>For those who crave for the balance between the mind and the body, to harness the power of Mindfulness, Heartfulness and Kriya Yoga</span>
+							</br>
+							<div class="template-layout-flex-50x50">
+							</div>
+						</div>
+						<div style="background-image:url('../media/images/org-labs/lab-mind-dreamspace-1.jpg')">
+							<a href="3-1-0-maker-education.php" class="template-component-button template-component-button-style-1">More<i></i></a>
+						</div>
+					</div>
+				</li>
+
+				<!-- Right column -->
+				<li class="template-layout-column-right">
+					<div class="template-layout-flex-50x50">
+						<div>
+							<h5>Language Lab</h5>
+							<span>For those who are passionate about tossing tongue-twisting words, to become a true global citizen with proficiency in international & local languages</span>
+							<div class="template-layout-flex-50x50">
+							</div>
+						</div>
+						<div style="background-image:url('../media/images/org-labs/lab-language-dreamspace-1.jpg')">
 							<a href="3-1-0-maker-education.php" class="template-component-button template-component-button-style-1">More<i></i></a>
 						</div>
 					</div>
