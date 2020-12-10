@@ -142,33 +142,33 @@ jQuery(document).ready(function($) {
 
   /**************************************************************************/
 
-  var content = $('.template-content');
-  var footer = $('.template-footer');
-
-  $(window).windowDimensionListener({
-    change: function(width, height) {
-      var menuHeight = $('.template-header .template-header-top.template-header-top-sticky').actual('height');
-
-      var footerHeight = footer.actual('height');
-      var windowHeight = $(window).actual('height') - menuHeight;
-
-      if (windowHeight > footerHeight) {
-        footer.addClass('template-footer-sticky');
-        content.css({
-          'margin-bottom': footerHeight - 1
-        });
-      } else {
-        footer.removeClass('template-footer-sticky');
-        content.css({
-          'margin-bottom': '0'
-        });
-      }
-
-      footer.css({
-        'visibility': 'visible'
-      });
-    }
-  });
+  // var content = $('.template-content');
+  // var footer = $('.template-footer');
+  //
+  // $(window).windowDimensionListener({
+  //   change: function(width, height) {
+  //     var menuHeight = $('.template-header .template-header-top.template-header-top-sticky').actual('height');
+  //
+  //     var footerHeight = footer.actual('height');
+  //     var windowHeight = $(window).actual('height') - menuHeight;
+  //
+  //     if (windowHeight > footerHeight) {
+  //       footer.addClass('template-footer-sticky');
+  //       content.css({
+  //         'margin-bottom': footerHeight - 1
+  //       });
+  //     } else {
+  //       footer.removeClass('template-footer-sticky');
+  //       content.css({
+  //         'margin-bottom': '0'
+  //       });
+  //     }
+  //
+  //     footer.css({
+  //       'visibility': 'visible'
+  //     });
+  //   }
+  // });
 
   /**************************************************************************/
 
