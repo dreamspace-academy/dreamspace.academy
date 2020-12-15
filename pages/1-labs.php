@@ -5,7 +5,7 @@
 		<!-- Header and subheader -->
 		<div class="template-component-header-subheader">
 			<h3>What capacities do we build?</h3>
-			<h6>Multidisciplinary Workshops</h6>
+			<h6>Our labs provide multidisciplinary workshops in anything from photography to biotechnology</h6>
 			<div></div>
 		</div>
 

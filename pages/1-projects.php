@@ -4,7 +4,7 @@
 
 		<div class="template-component-header-subheader">
 			<h3>What are our innovative projects?</h3>
-			<h6>Community innovations for local challenges</h6>
+			<h6>Community innovations are our responses to the complex local challenges</h6>
 			<div></div>
 		</div>
 

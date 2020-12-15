@@ -20,7 +20,7 @@
 
 				<div class="template-component-header-subheader">
 					<h3>What are our activities?</h3>
-					<h6></h6>
+					<h6>Small business ventures help us to financially sustain our social mission</h6>
 					<div></div>
 				</div>
 				<center>
@@ -29,7 +29,7 @@
 
 				<div class="template-component-header-subheader">
 					<h3>How do we empower?</h3>
-					<h6>Personalised Empowerment | DreamSpace Lifecycle</h6>
+					<h6>Our core activity is the personalised empowerment, also called as DreamSpace Lifecycle</h6>
 					<div></div>
 				</div>
 				<center>
