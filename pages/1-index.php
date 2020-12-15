@@ -3,6 +3,7 @@
 <?php include('1-slider.php'); ?>
 <?php include('1-intro.php'); ?>
 <?php include('1-maker-education.php'); ?>
+<?php include('1-projects.php'); ?>
 <?php include('1-spotlight.php'); ?>
 </div>
 <?php include('9-0-footer.php'); ?>
