@@ -3,7 +3,7 @@
 	<div class="template-main">
 
 		<div class="template-component-header-subheader">
-			<h3>What are our latest innovations?</h3>
+			<h3>What are our innovative projects?</h3>
 			<h6>Community Innovations to Social Enterprises</h6>
 			<div></div>
 		</div>
@@ -29,6 +29,7 @@
 					<!-- Description -->
 					<div>
 						<p>An autonomous underwater vehicle to keep an eye on our Blue Ecosystems.</p>
+					</br>
 					</div>
 
 					<a href="3-2-underwater-glider.php" class="template-component-button template-component-button-style-1">More<i></i></a>
@@ -40,19 +41,19 @@
 
 					<!-- Counter -->
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
-						<img src="../media/images/innovation-underwater-glider/underwater-glider-dreamspace-0.jpg" alt="dreamspace-team" />
+						<img src="../media/images/innovation-corona-hunter/corona-hunter-dreamspace-0.jpg" alt="dreamspace-team" />
 					</div>
 
 
 					<!-- Header -->
-					<h4>Underwater Glider</h4>
+					<h4>Corona Hunter</h4>
 
 					<!-- Description -->
 					<div>
-						<p>An autonomous underwater vehicle to keep an eye on our Blue Ecosystems.</p>
+						<p>An open-source cheaper rapid test kit to detect SARS-CoV-2 using isothermal amplification.</p>
 					</div>
 
-					<a href="3-2-underwater-glider.php" class="template-component-button template-component-button-style-1">More<i></i></a>
+					<a href="3-2-corona-hunter.php" class="template-component-button template-component-button-style-1">More<i></i></a>
 
 				</li>
 
@@ -91,7 +92,7 @@
 
 					<!-- Description -->
 					<div>
-						<p>An autonomous underwater vehicle to keep an eye on our Blue Ecosystems.</p>
+						<p>An open-source cheaper rapid test kit to detect SARS-CoV-2 using isothermal amplification.</p>
 					</div>
 
 					<a href="3-2-underwater-glider.php" class="template-component-button template-component-button-style-1">More<i></i></a>
