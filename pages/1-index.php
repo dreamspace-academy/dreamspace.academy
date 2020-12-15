@@ -4,6 +4,6 @@
 <?php include('1-intro.php'); ?>
 <?php include('1-labs.php'); ?>
 <?php include('1-projects.php'); ?>
-<?php include('1-news.php'); ?>
+<?php include('1-timeline.php'); ?>
 </div>
 <?php include('9-0-footer.php'); ?>

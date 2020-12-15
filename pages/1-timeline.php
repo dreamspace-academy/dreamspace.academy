@@ -2,7 +2,7 @@
 	<div class="template-main">
 		<div class="template-component-header-subheader">
 			<h3>What are we up to?</h3>
-			<h6>Our internal and external achievements, milestones & public presence</h6>
+			<h6>Our timeline of notable activities, achievements, milestones & public appearances</h6>
 			<div></div>
 		</div>
 
