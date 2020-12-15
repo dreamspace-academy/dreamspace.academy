@@ -6,7 +6,7 @@
 	<div class="template-footer-bottom">
 		<div class="template-align-center template-main">
 
-			<h3 class="template-margin-top-reset">Co-creating The Dreams</h3>
+			<h3 class="template-margin-top-reset">Co-Creating The Dreams</h3>
 
 			<div class="template-header-top-logo">
 				<a href="1-index.php">
