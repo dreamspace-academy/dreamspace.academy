@@ -68,7 +68,6 @@
 										<li><a href="3-4-0-social-enterprise.php#terrace">DreamSpace Terrace</a></li>
 										<li><a href="3-4-0-social-enterprise.php#trash-for-trade">Trash For Trade</a></li>
 										<li><a href="3-4-0-social-enterprise.php#oceanbiome">OceanBiome</a></li>
-										<li><a href="3-4-0-social-enterprise.php#j-matrix">J Matrix</a></li>
 									</ul>
 								</div>
 
@@ -80,7 +79,15 @@
 							<a href="#"><span class="template-icon-menu template-icon-menu-signpost"></span>Activities</a>
 							<div class="sf-mega template-layout-25x25x25x25 template-clear-fix">
 								<div class="template-layout-column-left">
-									<span class="sf-mega-header">Communities</span>
+									<span class="sf-mega-header">Peacebuilding</span>
+									<ul>
+										<li><a target=_blank href="https://sylcsl.org">Sagacious Youth Lead Consortium (SYLC)</a></li>
+										<li><a target=_blank href="https://srilankaunites.org">Sri Lanka Unites</a></li>
+									</ul>
+								</div>
+
+								<div class="template-layout-column-center-left">
+									<span class="sf-mega-header">Community Building</span>
 									<ul>
 										<li><a href="4-1-makers.php">Makers</a></li>
 										<li><a href="4-1-content-providers.php">Visual Content Makers</a></li>
@@ -89,14 +96,26 @@
 									</ul>
 								</div>
 
-								<div class="template-layout-column-center-left">
-									<span class="sf-mega-header">Programs</span>
+								<div class="template-layout-column-center-right">
+									<span class="sf-mega-header">International Aid Projects</span>
 									<ul>
 										<li><a target=_blank href="https://www.facebook.com/dreamspace.academy/photos/?tab=album&album_id=2427450264198969">The Duke of Edinburgh's Award (UK)</a></li>
 										<li><a target=_blank href="https://www.facebook.com/dreamspace.academy/posts/2550019751942019">Stockholm Junior Water Prize (Sweden)</a></li>
 										<li><a target=_blank href="https://inclusivegrowth.com.lk">Skills For Inclusive Growth (Australia)</a></li>
 									</ul>
 								</div>
+
+								<div class="template-layout-column-right">
+									<span class="sf-mega-header">Service Providing</span>
+									<ul>
+										<li><a target=_blank href="https://aracreate.com">araCreate (360 Consulting)</a></li>
+										<li><a target=_blank href="https://zerosec.in">ZeroSec Solutions (Data Moderation)</a></li>
+										<li><a href="3-4-0-social-enterprise.php#j-matrix">J Matrix (3D Printing)</a></li>
+										<li><a target=_blank href="">GR-Technologies (Software Development)</a></li>
+									</ul>
+								</div>
+
+
 							</div>
 						</li>
 
@@ -183,7 +202,6 @@
 												<li><a href="3-4-0-social-enterprise.php#terrace">DreamSpace Terrace</a></li>
 												<li><a href="3-4-0-social-enterprise.php#trash-for-trade">Trash For Trade</a></li>
 												<li><a href="3-4-0-social-enterprise.php#oceanbiome">OceanBiome</a></li>
-												<li><a href="3-4-0-social-enterprise.php#j-matrix">J Matrix</a></li>
 											</ul>
 										</li>
 
@@ -194,9 +212,18 @@
 								<li>
 									<a href="#">Activities<span></span></a>
 									<ul>
-										<!-- Communities Menu -->
+										<!-- Peacebuilding Menu -->
 										<li>
-											<a href="#">Communities<span></span></a>
+											<a href="#">Peacebuilding<span></span></a>
+											<ul>
+												<li><a target=_blank href="https://sylcsl.org">Sagacious Youth Lead Consortium (SYLC)</a></li>
+												<li><a target=_blank href="https://srilankaunites.org">Sri Lanka Unites</a></li>
+											</ul>
+										</li>
+
+										<!-- Community Building Menu -->
+										<li>
+											<a href="#">Community Building<span></span></a>
 											<ul>
 												<li><a href="4-1-makers.php">Makers</a></li>
 												<li><a href="4-1-content-providers.php">Visual Content Makers</a></li>
@@ -205,15 +232,27 @@
 											</ul>
 										</li>
 
-										<!-- Programs Menu-->
+										<!-- International Aid Projects Menu-->
 										<li>
-											<a href="#">Programs<span></span></a>
+											<a href="#">International Aid Projects<span></span></a>
 											<ul>
 												<li><a target=_blank href="https://www.facebook.com/dreamspace.academy/photos/?tab=album&album_id=2427450264198969">The Duke of Edinburgh's Award (UK)</a></li>
 												<li><a target=_blank href="https://www.facebook.com/dreamspace.academy/posts/2550019751942019">Stockholm Junior Water Prize (Sweden)</a></li>
 												<li><a target=_blank href="https://inclusivegrowth.com.lk">Skills For Inclusive Growth (Australia)</a></li>
 											</ul>
 										</li>
+
+										<!-- Service Providing Menu -->
+										<li>
+											<a href="#">Service Providing<span></span></a>
+											<ul>
+												<li><a target=_blank href="https://aracreate.com">araCreate (360 Consulting)</a></li>
+												<li><a target=_blank href="https://zerosec.in">ZeroSec Solutions (Data Moderation)</a></li>
+												<li><a href="3-4-0-social-enterprise.php#j-matrix">J Matrix (3D Printing)</a></li>
+												<li><a target=_blank href="">GR-Technologies (Software Development)</a></li>
+											</ul>
+										</li>
+
 									</ul>
 								</li>
 
