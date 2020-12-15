@@ -26,10 +26,10 @@
 				<!-- Nivo slider -->
 				<div class="template-component-nivo-slider template-component-nivo-slider-style-1 template-preloader">
 					<div>
-						<img src="../media/images/communities/community-innovations/dreamspace-community-innovations-1.jpg" data-thumb="../media/images/communities/community-innovations/dreamspace-community-innovations-1.jpg" alt="Chess Community" />
-						<img src="../media/images/communities/community-innovations/dreamspace-community-innovations-2.jpg" data-thumb="../media/images/communities/community-innovations/dreamspace-community-innovations-2.jpg" alt="Chess Community" />
-						<img src="../media/images/communities/community-innovations/dreamspace-community-innovations-3.jpg" data-thumb="../media/images/communities/community-innovations/dreamspace-community-innovations-3.jpg" alt="Chess Community" />
-						<img src="../media/images/communities/community-innovations/dreamspace-community-innovations-4.jpg" data-thumb="../media/images/communities/community-innovations/dreamspace-community-innovations-4.jpg" alt="Chess Community" />
+						<img src="../media/images/communities/community-innovations/dreamspace-community-innovations-1.jpg" data-thumb="../media/images/communities/community-innovations/dreamspace-community-innovations-1.jpg" alt="DreamSpace Academy" />
+						<img src="../media/images/communities/community-innovations/dreamspace-community-innovations-2.jpg" data-thumb="../media/images/communities/community-innovations/dreamspace-community-innovations-2.jpg" alt="DreamSpace Academy" />
+						<img src="../media/images/communities/community-innovations/dreamspace-community-innovations-3.jpg" data-thumb="../media/images/communities/community-innovations/dreamspace-community-innovations-3.jpg" alt="DreamSpace Academy" />
+						<img src="../media/images/communities/community-innovations/dreamspace-community-innovations-4.jpg" data-thumb="../media/images/communities/community-innovations/dreamspace-community-innovations-4.jpg" alt="DreamSpace Academy" />
 					</div>
 				</div>
 			</div>

@@ -15,11 +15,11 @@
 			<!-- Nivo slider -->
 			<div class="template-component-nivo-slider template-component-nivo-slider-style-1 template-preloader">
 				<div>
-					<img src="../media/images/org-labs/lab-art-dreamspace-2.jpg" data-thumb="../media/images/org-labs/lab-art-dreamspace-2.jpg" alt="maker-education-dreamspace-academy" />
-					<img src="../media/images/org-labs/lab-art-dreamspace-3.jpg" data-thumb="../media/images/org-labs/lab-art-dreamspace-3.jpg" alt="maker-education-dreamspace-academy" />
-					<img src="../media/images/org-labs/lab-art-dreamspace-4.jpg" data-thumb="../media/images/org-labs/lab-art-dreamspace-4.jpg" alt="maker-education-dreamspace-academy" />
-					<img src="../media/images/org-labs/lab-art-dreamspace-5.jpg" data-thumb="../media/images/org-labs/lab-art-dreamspace-5.jpg" alt="maker-education-dreamspace-academy" />
-					<img src="../media/images/org-labs/lab-art-dreamspace-6.jpg" data-thumb="../media/images/org-labs/lab-art-dreamspace-6.jpg" alt="maker-education-dreamspace-academy" />
+					<img src="../media/images/org-labs/lab-art-dreamspace-2.jpg" data-thumb="../media/images/org-labs/lab-art-dreamspace-2.jpg" alt="DreamSpace Academy" />
+					<img src="../media/images/org-labs/lab-art-dreamspace-3.jpg" data-thumb="../media/images/org-labs/lab-art-dreamspace-3.jpg" alt="DreamSpace Academy" />
+					<img src="../media/images/org-labs/lab-art-dreamspace-4.jpg" data-thumb="../media/images/org-labs/lab-art-dreamspace-4.jpg" alt="DreamSpace Academy" />
+					<img src="../media/images/org-labs/lab-art-dreamspace-5.jpg" data-thumb="../media/images/org-labs/lab-art-dreamspace-5.jpg" alt="DreamSpace Academy" />
+					<img src="../media/images/org-labs/lab-art-dreamspace-6.jpg" data-thumb="../media/images/org-labs/lab-art-dreamspace-6.jpg" alt="DreamSpace Academy" />
 				</div>
 			</div>
 		</div>

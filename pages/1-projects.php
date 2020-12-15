@@ -18,7 +18,7 @@
 
 					<!-- Counter -->
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
-						<img src="../media/images/innovation-corona-hunter/corona-hunter-dreamspace-0.jpg" alt="dreamspace-team" />
+						<img src="../media/images/innovation-corona-hunter/corona-hunter-dreamspace-0.jpg" alt="DreamSpace Academy" />
 					</div>
 
 
@@ -37,7 +37,7 @@
 
 					<!-- Counter -->
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
-						<img src="../media/images/innovation-underwater-glider/underwater-glider-dreamspace-0.jpg" alt="dreamspace-team" />
+						<img src="../media/images/innovation-underwater-glider/underwater-glider-dreamspace-0.jpg" alt="DreamSpace Academy" />
 					</div>
 
 
@@ -57,7 +57,7 @@
 
 					<!-- Counter -->
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
-						<img src="../media/images/innovation-circular-plastic/circular-plastic-dreamspace-0.jpg" alt="dreamspace-team" />
+						<img src="../media/images/innovation-circular-plastic/circular-plastic-dreamspace-0.jpg" alt="DreamSpace Academy" />
 					</div>
 
 
@@ -77,7 +77,7 @@
 
 					<!-- Counter -->
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
-						<img src="../media/images/innovation-open-covid/open-covid-dreamspace-0.jpg" alt="dreamspace-team" />
+						<img src="../media/images/innovation-open-covid/open-covid-dreamspace-0.jpg" alt="DreamSpace Academy" />
 					</div>
 
 

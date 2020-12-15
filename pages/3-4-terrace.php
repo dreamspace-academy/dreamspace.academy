@@ -4,10 +4,10 @@
 			<div class="template-layout-column-left template-margin-bottom-reset">
 				<div class="template-component-nivo-slider template-component-nivo-slider-style-1 template-preloader">
 					<div>
-						<img src="../media/images/enterprise-terrace/terrace-dreamspace-1.jpg" data-thumb="../media/images/enterprise-terrace/terrace-dreamspace-1.jpg" alt="Terrace Community" />
-						<img src="../media/images/enterprise-terrace/terrace-dreamspace-2.jpg" data-thumb="../media/images/enterprise-terrace/terrace-dreamspace-2.jpg" alt="Terrace Community" />
-						<img src="../media/images/enterprise-terrace/terrace-dreamspace-3.jpg" data-thumb="../media/images/enterprise-terrace/terrace-dreamspace-3.jpg" alt="Terrace Community" />
-						<img src="../media/images/enterprise-terrace/terrace-dreamspace-4.jpg" data-thumb="../media/images/enterprise-terrace/terrace-dreamspace-4.jpg" alt="Terrace Community" />
+						<img src="../media/images/enterprise-terrace/terrace-dreamspace-1.jpg" data-thumb="../media/images/enterprise-terrace/terrace-dreamspace-1.jpg" alt="DreamSpace Academy" />
+						<img src="../media/images/enterprise-terrace/terrace-dreamspace-2.jpg" data-thumb="../media/images/enterprise-terrace/terrace-dreamspace-2.jpg" alt="DreamSpace Academy" />
+						<img src="../media/images/enterprise-terrace/terrace-dreamspace-3.jpg" data-thumb="../media/images/enterprise-terrace/terrace-dreamspace-3.jpg" alt="DreamSpace Academy" />
+						<img src="../media/images/enterprise-terrace/terrace-dreamspace-4.jpg" data-thumb="../media/images/enterprise-terrace/terrace-dreamspace-4.jpg" alt="DreamSpace Academy" />
 					</div>
 				</div>
 			</div>

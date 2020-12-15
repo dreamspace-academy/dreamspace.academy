@@ -18,7 +18,7 @@
         <!-- Supporters -->
         <li class="template-layout-column-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/images/org-supporters/supporters-dreamspace-maite.jpg" alt="dreamspace-supporters" />
+            <img src="../media/images/org-supporters/supporters-dreamspace-maite.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Maite Hernandez Zubeldia</h6>
               </br>
@@ -34,7 +34,7 @@
         </li>
         <li class="template-layout-column-center-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/images/org-supporters/supporters-dreamspace-darina.jpg" alt="dreamspace-supporters" />
+            <img src="../media/images/org-supporters/supporters-dreamspace-darina.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Darina Onoprienko</h6>
               </br>
@@ -51,7 +51,7 @@
         </li>
         <li class="template-layout-column-center-right">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/images/org-supporters/supporters-dreamspace-nico.jpg" alt="dreamspace-supporters" />
+            <img src="../media/images/org-supporters/supporters-dreamspace-nico.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Dr. Nico Meißner</h6>
               </br>
@@ -68,7 +68,7 @@
         </li>
         <li class="template-layout-column-right">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/images/org-supporters/supporters-dreamspace-luise.jpg" alt="dreamspace-supporters" />
+            <img src="../media/images/org-supporters/supporters-dreamspace-luise.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Luise Kröning</h6>
               </br>
@@ -85,7 +85,7 @@
         </li>
         <li class="template-layout-column-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/images/org-supporters/supporters-dreamspace-zoe.jpg" alt="dreamspace-supporters" />
+            <img src="../media/images/org-supporters/supporters-dreamspace-zoe.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Zoë Harman Conlon</h6>
               </br>
@@ -102,7 +102,7 @@
         </li>
         <li class="template-layout-column-center-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/images/org-supporters/supporters-dreamspace-johnny.jpg" alt="dreamspace-supporters" />
+            <img src="../media/images/org-supporters/supporters-dreamspace-johnny.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Johnny FD</h6>
               </br>
@@ -119,7 +119,7 @@
         </li>
         <!-- <li class="template-layout-column-center-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/images/org-supporters/supporters-dreamspace-melani.jpg" alt="dreamspace-supporters" />
+            <img src="../media/images/org-supporters/supporters-dreamspace-melani.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Melani Jayamanna</h6>
               </br>
@@ -136,7 +136,7 @@
         </li> -->
         <!-- <li class="template-layout-column-center-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/images/org-supporters/supporters-dreamspace-soniya.jpg" alt="dreamspace-supporters" />
+            <img src="../media/images/org-supporters/supporters-dreamspace-soniya.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Soniya Siva</h6>
               </br>

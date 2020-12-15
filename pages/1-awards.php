@@ -16,7 +16,7 @@
 				<li class="template-layout-column-left">
 					<!-- Counter -->
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
-						<img src="../media/images/org-awards/awards-dreamspace-earth-company.jpg" alt="dreamspace-academy" />
+						<img src="../media/images/org-awards/awards-dreamspace-earth-company.jpg" alt="DreamSpace Academy" />
 					</div>
 
 					<!-- Header -->
@@ -26,7 +26,7 @@
 				<li class="template-layout-column-left">
 					<!-- Counter -->
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
-						<img src="../media/images/org-awards/awards-dreamspace-peace-direct.jpg" alt="dreamspace-academy" />
+						<img src="../media/images/org-awards/awards-dreamspace-peace-direct.jpg" alt="DreamSpace Academy" />
 					</div>
 
 					<!-- Header -->
@@ -36,7 +36,7 @@
 				<li class="template-layout-column-left">
 					<!-- Counter -->
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
-						<img src="../media/images/org-awards/awards-dreamspace-global-community-bio-fellowship.jpg" alt="dreamspace-academy" />
+						<img src="../media/images/org-awards/awards-dreamspace-global-community-bio-fellowship.jpg" alt="DreamSpace Academy" />
 					</div>
 
 					<!-- Header -->
@@ -46,7 +46,7 @@
 				<li class="template-layout-column-left">
 					<!-- Counter -->
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
-						<img src="../media/images/org-awards/awards-dreamspace-genu.jpg" alt="dreamspace-academy" />
+						<img src="../media/images/org-awards/awards-dreamspace-genu.jpg" alt="DreamSpace Academy" />
 					</div>
 
 					<!-- Header -->
@@ -56,7 +56,7 @@
 				<li class="template-layout-column-left">
 					<!-- Counter -->
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
-						<img src="../media/images/org-awards/awards-dreamspace-sjwp.jpg" alt="dreamspace-academy" />
+						<img src="../media/images/org-awards/awards-dreamspace-sjwp.jpg" alt="DreamSpace Academy" />
 					</div>
 
 					<!-- Header -->
@@ -66,7 +66,7 @@
 				<li class="template-layout-column-left">
 					<!-- Counter -->
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
-						<img src="../media/images/org-awards/awards-dreamspace-hackdev.jpg" alt="dreamspace-academy" />
+						<img src="../media/images/org-awards/awards-dreamspace-hackdev.jpg" alt="DreamSpace Academy" />
 					</div>
 
 					<!-- Header -->
@@ -76,7 +76,7 @@
 				<li class="template-layout-column-left">
 					<!-- Counter -->
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
-						<img src="../media/images/org-awards/awards-dreamspace-falling-walls.jpg" alt="dreamspace-academy" />
+						<img src="../media/images/org-awards/awards-dreamspace-falling-walls.jpg" alt="DreamSpace Academy" />
 					</div>
 
 					<!-- Header -->

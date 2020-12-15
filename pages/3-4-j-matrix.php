@@ -22,10 +22,10 @@
 			<div class="template-layout-column-right template-margin-bottom-reset">
 				<div class="template-component-nivo-slider template-component-nivo-slider-style-1 template-preloader">
 					<div>
-						<img src="../media/images/enterprise-j-matrix/j-matrix-dreamspace-1.jpg" data-thumb="../media/images/enterprise-j-matrix/j-matrix-dreamspace-1.jpg" alt="j-matrix Community" />
-						<img src="../media/images/enterprise-j-matrix/j-matrix-dreamspace-2.jpg" data-thumb="../media/images/enterprise-j-matrix/j-matrix-dreamspace-2.jpg" alt="j-matrix Community" />
-						<img src="../media/images/enterprise-j-matrix/j-matrix-dreamspace-3.jpg" data-thumb="../media/images/enterprise-j-matrix/j-matrix-dreamspace-3.jpg" alt="j-matrix Community" />
-						<img src="../media/images/enterprise-j-matrix/j-matrix-dreamspace-4.jpg" data-thumb="../media/images/enterprise-j-matrix/j-matrix-dreamspace-4.jpg" alt="j-matrix Community" />
+						<img src="../media/images/enterprise-j-matrix/j-matrix-dreamspace-1.jpg" data-thumb="../media/images/enterprise-j-matrix/j-matrix-dreamspace-1.jpg" alt="DreamSpace Academy" />
+						<img src="../media/images/enterprise-j-matrix/j-matrix-dreamspace-2.jpg" data-thumb="../media/images/enterprise-j-matrix/j-matrix-dreamspace-2.jpg" alt="DreamSpace Academy" />
+						<img src="../media/images/enterprise-j-matrix/j-matrix-dreamspace-3.jpg" data-thumb="../media/images/enterprise-j-matrix/j-matrix-dreamspace-3.jpg" alt="DreamSpace Academy" />
+						<img src="../media/images/enterprise-j-matrix/j-matrix-dreamspace-4.jpg" data-thumb="../media/images/enterprise-j-matrix/j-matrix-dreamspace-4.jpg" alt="DreamSpace Academy" />
 					</div>
 				</div>
 			</div>
