@@ -4,7 +4,7 @@
 
 		<div class="template-component-header-subheader">
 			<h3>What are our innovative projects?</h3>
-			<h6>Community Innovations to Social Enterprises</h6>
+			<h6>Community innovations for local challenges</h6>
 			<div></div>
 		</div>
 
@@ -19,28 +19,6 @@
 
 					<!-- Counter -->
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
-						<img src="../media/images/innovation-underwater-glider/underwater-glider-dreamspace-0.jpg" alt="dreamspace-team" />
-					</div>
-
-
-					<!-- Header -->
-					<h4>Underwater Glider</h4>
-
-					<!-- Description -->
-					<div>
-						<p>An autonomous underwater vehicle to keep an eye on our Blue Ecosystems.</p>
-					</br>
-					</div>
-
-					<a href="3-2-underwater-glider.php" class="template-component-button template-component-button-style-1">More<i></i></a>
-
-				</li>
-
-				<!-- Center column -->
-				<li class="template-layout-column-center">
-
-					<!-- Counter -->
-					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
 						<img src="../media/images/innovation-corona-hunter/corona-hunter-dreamspace-0.jpg" alt="dreamspace-team" />
 					</div>
 
@@ -50,10 +28,32 @@
 
 					<!-- Description -->
 					<div>
-						<p>An open-source cheaper rapid test kit to detect SARS-CoV-2 using isothermal amplification.</p>
+						<p>An open-source cheaper rapid test kit to detect SARS-CoV-2 using isothermal amplification</p>
 					</div>
 
 					<a href="3-2-corona-hunter.php" class="template-component-button template-component-button-style-1">More<i></i></a>
+
+				</li>
+
+				<!-- Center column -->
+				<li class="template-layout-column-center">
+
+					<!-- Counter -->
+					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
+						<img src="../media/images/innovation-underwater-glider/underwater-glider-dreamspace-0.jpg" alt="dreamspace-team" />
+					</div>
+
+
+					<!-- Header -->
+					<h4>Underwater Glider</h4>
+
+					<!-- Description -->
+					<div>
+						<p>An autonomous underwater vehicle to keep an eye on our Blue Ecosystems</p>
+					</br>
+					</div>
+
+					<a href="3-2-underwater-glider.php" class="template-component-button template-component-button-style-1">More<i></i></a>
 
 				</li>
 
@@ -62,19 +62,20 @@
 
 					<!-- Counter -->
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
-						<img src="../media/images/innovation-underwater-glider/underwater-glider-dreamspace-0.jpg" alt="dreamspace-team" />
+						<img src="../media/images/innovation-circular-plastic/circular-plastic-dreamspace-0.jpg" alt="dreamspace-team" />
 					</div>
 
 
 					<!-- Header -->
-					<h4>Underwater Glider</h4>
+					<h4>Circular Plastic</h4>
 
 					<!-- Description -->
 					<div>
-						<p>An autonomous underwater vehicle to keep an eye on our Blue Ecosystems.</p>
+						<p>An interactive installation to create environmental and health awareness</p>
+					</br>
 					</div>
 
-					<a href="3-2-underwater-glider.php" class="template-component-button template-component-button-style-1">More<i></i></a>
+					<a href="3-2-circular-plastic.php" class="template-component-button template-component-button-style-1">More<i></i></a>
 
 				</li>
 
@@ -83,19 +84,20 @@
 
 					<!-- Counter -->
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
-						<img src="../media/images/innovation-underwater-glider/underwater-glider-dreamspace-0.jpg" alt="dreamspace-team" />
+						<img src="../media/images/innovation-open-covid/open-covid-dreamspace-0.jpg" alt="dreamspace-team" />
 					</div>
 
 
 					<!-- Header -->
-					<h4>Underwater Glider</h4>
+					<h4>CoronaBot</h4>
 
 					<!-- Description -->
 					<div>
-						<p>An open-source cheaper rapid test kit to detect SARS-CoV-2 using isothermal amplification.</p>
+						<p>A ChatBot in Tamil to get real-time answers regarding COVID-19</p>
+					</br>
 					</div>
 
-					<a href="3-2-underwater-glider.php" class="template-component-button template-component-button-style-1">More<i></i></a>
+					<a href="3-2-open-covid.php" class="template-component-button template-component-button-style-1">More<i></i></a>
 
 				</li>
 
