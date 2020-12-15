@@ -1,8 +1,12 @@
+<div class="template-component-divider template-component-divider-style-1"></div>
+
 <!-- Footer -->
 <div class="template-footer">
 	<!-- Bottom footer -->
 	<div class="template-footer-bottom">
 		<div class="template-align-center template-main">
+
+			<h3 class="template-margin-top-reset">Co-creating The Dreams</h3>
 
 			<div class="template-header-top-logo">
 				<a href="1-index.php">
