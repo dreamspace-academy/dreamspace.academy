@@ -14,7 +14,6 @@
 			<!-- Layout 33x33x33 -->
 			<ul class="template-layout-33x33x33 template-clear-fix">
 
-				<!-- Left column -->
 				<li class="template-layout-column-left">
 
 					<!-- Counter -->
@@ -34,9 +33,7 @@
 					<a href="3-2-corona-hunter.php" class="template-component-button template-component-button-style-1">More<i></i></a>
 
 				</li>
-
-				<!-- Center column -->
-				<li class="template-layout-column-center">
+				<li class="template-layout-column-left">
 
 					<!-- Counter -->
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
@@ -56,9 +53,7 @@
 					<a href="3-2-underwater-glider.php" class="template-component-button template-component-button-style-1">More<i></i></a>
 
 				</li>
-
-				<!-- Right column -->
-				<li class="template-layout-column-right">
+				<li class="template-layout-column-left">
 
 					<!-- Counter -->
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
@@ -78,8 +73,6 @@
 					<a href="3-2-circular-plastic.php" class="template-component-button template-component-button-style-1">More<i></i></a>
 
 				</li>
-
-				<!-- Left column -->
 				<li class="template-layout-column-left">
 
 					<!-- Counter -->
