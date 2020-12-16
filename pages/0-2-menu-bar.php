@@ -12,23 +12,37 @@
 					<ul class="sf-menu template-clear-fix">
 						<!-- Home Menu -->
 						<li class="sf-mega-enable-0">
-							<a href="1-index.php"><span class="template-icon-menu template-icon-menu-home"></span>Home</a>
+							<a href="1-index.php"><span class="template-icon-menu" style="font-size:xx-large;"><i class="fas fa-home"></i></span>Home</a>
 						</li>
 
 						<!-- About Menu -->
-						<li class="sf-mega-enable-0">
-							<a href="2-0-about.php"><span class="template-icon-menu template-icon-menu-people"></span>About</a>
-							<ul>
-								<li><a href="2-0-about.php#team">Team</a></li>
-								<li><a href="2-0-about.php#supporters">Supporters</a></li>
-								<li><a href="2-0-about.php#awards">Awards</a></li>
-								<li><a href="2-0-about.php#partners">Partners</a></li>
-							</ul>
+						<li class="sf-mega-enable-1">
+							<a href="#"><span class="template-icon-menu" style="font-size:xx-large;"><i class="fas fa-users"></i></span>About</a>
+							<div class="sf-mega template-layout-25x25x25x25 template-clear-fix">
+								<div class="template-layout-column-left">
+									<span class="sf-mega-header">Organisation</span>
+									<ul>
+										<li><a href="2-0-about.php#team">Our Story</a></li>
+										<li><a href="2-0-about.php#team">Team</a></li>
+										<li><a href="2-0-about.php#supporters">Mentors</a></li>
+										<li><a href="2-0-about.php#partners">Partners</a></li>
+									</ul>
+								</div>
+								<div class="template-layout-column-center-left">
+									<span class="sf-mega-header">More</span>
+									<ul>
+										<li><a href="2-0-about.php#awards">Awards</a></li>
+										<li><a href="#">Press Coverage</a></li>
+										<li><a href="http://storydeck.dreamspace.academy/">Story Deck</a></li>
+										<li><a href="#">Gallery</a></li>
+										<li><a href="5-1-calendar.php">Calendar</a></li>
+									</ul>
+								</div>
 						</li>
 
 						<!-- The Four Verticals Menu -->
 						<li class="sf-mega-enable-1">
-							<a href="#"><span class="template-icon-menu template-icon-menu-diagram"></span>Lifecycle</a>
+							<a href="#"><span class="template-icon-menu" style="font-size:xx-large;"><i class="fas fa-seedling"></i></span>Lifecycle</a>
 							<div class="sf-mega template-layout-25x25x25x25 template-clear-fix">
 								<div class="template-layout-column-left">
 									<span class="sf-mega-header">Maker Education</span>
@@ -76,7 +90,7 @@
 
 						<!-- Activities Menu -->
 						<li class="sf-mega-enable-1">
-							<a href="#"><span class="template-icon-menu template-icon-menu-signpost"></span>Activities</a>
+							<a href="#"><span class="template-icon-menu" style="font-size:xx-large;"><i class="fas fa-people-arrows"></i></span>Activities</a>
 							<div class="sf-mega template-layout-25x25x25x25 template-clear-fix">
 								<div class="template-layout-column-left">
 									<span class="sf-mega-header">Peacebuilding</span>
@@ -121,15 +135,12 @@
 
 						<!-- Links Menu -->
 						<li class="sf-mega-enable-0">
-							<a href="#"><span class="template-icon-menu template-icon-menu-database"></span>Links</a>
-							<ul>
-								<li><a href="5-1-calendar.php">Calendar</a></li>
-							</ul>
+							<a href="#"><span class="template-icon-menu" style="font-size:xx-large;"><i class="fas fa-hand-holding-heart"></i></span>Support</a>
 						</li>
 
 						<!-- Contact Menu -->
 						<li class="sf-mega-enable-1">
-							<a href="6-1-contact.php"><span class="template-icon-menu template-icon-menu-envelope"></span>Contact</a>
+							<a href="6-1-contact.php"><span class="template-icon-menu" style="font-size:xx-large;"><i class="fas fa-handshake"></i></span>Contact</a>
 						</li>
 					</ul>
 				</nav>
@@ -257,12 +268,12 @@
 								</li>
 
 								<!-- Links Menu -->
-								<li>
+								<!-- <li>
 									<a href="#">Links<span></span></a>
 									<ul>
 										<li><a href="5-1-calendar.php">Calendar</a></li>
 									</ul>
-								</li>
+								</li> -->
 
 								<!-- Contact Menu -->
 								<li>
