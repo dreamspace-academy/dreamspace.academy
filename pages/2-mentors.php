@@ -4,7 +4,7 @@
 
   <!-- Header and subheader -->
   <div class="template-component-header-subheader">
-    <h2>Our Supporters</h2>
+    <h2>Our Mentors</h2>
     <h6></h6>
     <div></div>
   </div>
@@ -107,7 +107,7 @@
               <h6>Johnny FD</h6>
               </br>
               </br>
-              <span>Documentry Maker</span>
+              <span>Travelpreneur</span>
               <span>United States</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">

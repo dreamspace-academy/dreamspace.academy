@@ -20,21 +20,26 @@
 							<a href="#"><span class="template-icon-menu" style="font-size:xx-large;"><i class="fas fa-users"></i></span>About</a>
 							<div class="sf-mega template-layout-25x25x25x25 template-clear-fix">
 								<div class="template-layout-column-left">
-									<span class="sf-mega-header">Organisation</span>
+									<span class="sf-mega-header">About</span>
 									<ul>
 										<li><a href="2-0-about.php#team">Our Story</a></li>
-										<li><a href="2-0-about.php#team">Team</a></li>
-										<li><a href="2-0-about.php#supporters">Mentors</a></li>
-										<li><a href="2-0-about.php#partners">Partners</a></li>
+										<li><a href="2-0-about.php#team">Our Team</a></li>
+										<li><a href="2-0-about.php#team">Our Infrastructure</a></li>
+										<li><a href="2-0-about.php#awards">Our Achievements</a></li>
+										<li><a href="2-0-about.php#supporters">Our Mentors</a></li>
+										<li><a href="2-0-about.php#partners">Our Partners</a></li>
 									</ul>
 								</div>
 								<div class="template-layout-column-center-left">
 									<span class="sf-mega-header">More</span>
 									<ul>
-										<li><a href="2-0-about.php#awards">Awards</a></li>
-										<li><a href="#">Press Coverage</a></li>
-										<li><a href="http://storydeck.dreamspace.academy/">Story Deck</a></li>
+
+										<li><a href="#">Press</a></li>
 										<li><a href="#">Gallery</a></li>
+										<li><a href="#">Co-Governance</a></li>
+										<li><a href="#">Guidelines</a></li>
+										<li><a href="#">Tools</a></li>
+										<li><a href="http://storydeck.dreamspace.academy/">Story Deck</a></li>
 										<li><a href="5-1-calendar.php">Calendar</a></li>
 									</ul>
 								</div>
@@ -71,8 +76,8 @@
 								<div class="template-layout-column-center-right">
 									<span class="sf-mega-header">International Collaboration</span>
 									<ul>
-										<li><a href="3-3-0-international-collaboration.php#design-thinking-maite">Design Thinking by Maite</a></li>
-										<li><a href="3-3-0-international-collaboration.php#story-telling-nico">Storytelling by Dr. Nico</a></li>
+										<li><a href="3-3-0-international-collaboration.php#design-thinking-maite">Design Thinking</a></li>
+										<li><a href="3-3-0-international-collaboration.php#story-telling-nico">Storytelling</a></li>
 									</ul>
 								</div>
 
