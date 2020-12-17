@@ -31,7 +31,7 @@
 						</br>
 					</div>
 
-					<a href="3-2-corona-hunter.php" class="template-component-button template-component-button-style-1">More<i></i></a>
+					<a href="3-2-4-corona-hunter.php" class="template-component-button template-component-button-style-1">More<i></i></a>
 
 				</li>
 				<li class="template-layout-column-left">
@@ -51,7 +51,7 @@
 					</br>
 					</div>
 
-					<a href="3-2-underwater-glider.php" class="template-component-button template-component-button-style-1">More<i></i></a>
+					<a href="3-2-1-underwater-glider.php" class="template-component-button template-component-button-style-1">More<i></i></a>
 
 				</li>
 				<li class="template-layout-column-left">
@@ -71,7 +71,7 @@
 					</br>
 					</div>
 
-					<a href="3-2-circular-plastic.php" class="template-component-button template-component-button-style-1">More<i></i></a>
+					<a href="3-2-2-circular-plastic.php" class="template-component-button template-component-button-style-1">More<i></i></a>
 
 				</li>
 				<li class="template-layout-column-left">
@@ -91,7 +91,7 @@
 					</br>
 					</div>
 
-					<a href="3-2-open-covid.php" class="template-component-button template-component-button-style-1">More<i></i></a>
+					<a href="3-2-3-open-covid.php" class="template-component-button template-component-button-style-1">More<i></i></a>
 
 				</li>
 

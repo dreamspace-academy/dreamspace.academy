@@ -67,10 +67,10 @@
 						<li>
 							<a href="#">Community Innovation<span></span></a>
 							<ul>
-								<li><a href="3-2-underwater-glider.php">Underwater Glider</a></li>
-								<li><a href="3-2-circular-plastic.php">Circular Plastic</a></li>
-								<li><a href="3-2-open-covid.php">Open Covid</a></li>
-								<li><a href="3-2-corona-hunter.php">Corona Hunter</a></li>
+								<li><a href="3-2-1-underwater-glider.php">Underwater Glider</a></li>
+								<li><a href="3-2-2-circular-plastic.php">Circular Plastic</a></li>
+								<li><a href="3-2-3-open-covid.php">Open Covid</a></li>
+								<li><a href="3-2-4-corona-hunter.php">Corona Hunter</a></li>
 							</ul>
 						</li>
 
@@ -113,10 +113,10 @@
 						<li>
 							<a href="#">Community Building<span></span></a>
 							<ul>
-								<li><a href="4-1-1-makers.php">Makers</a></li>
-								<li><a href="4-1-2-visual-content-makers.php">Visual Content Makers</a></li>
-								<li><a href="4-1-0-communities.php#chess">Chess</a></li>
-								<li><a href="4-1-0-communities.php#urban-farming">Urban Farming</a></li>
+								<li><a href="4-2-1-makers.php">Makers</a></li>
+								<li><a href="4-2-2-visual-content-makers.php">Visual Content Makers</a></li>
+								<li><a href="4-2-0-communities.php#chess">Chess</a></li>
+								<li><a href="4-2-0-communities.php#urban-farming">Urban Farming</a></li>
 							</ul>
 						</li>
 

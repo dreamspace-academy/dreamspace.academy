@@ -5,13 +5,13 @@
 		<p>Multidisciplinary workshops  to build practical scientific, technical and soft-skills</p>
 		<div></div>
 	</div>
-	<?php include('3-1-electronics-lab.php'); ?>
-	<?php include('3-1-software-lab.php'); ?>
-	<?php include('3-1-mechanics-lab.php'); ?>
-	<?php include('3-1-business-lab.php'); ?>
-	<?php include('3-1-story-lab.php'); ?>
-	<?php include('3-1-art-lab.php'); ?>
-	<?php include('3-1-bio-lab.php'); ?>
-	<?php include('3-1-enroll.php'); ?>
+	<?php include('3-1-1-electronics-lab.php'); ?>
+	<?php include('3-1-2-software-lab.php'); ?>
+	<?php include('3-1-3-mechanics-lab.php'); ?>
+	<?php include('3-1-4-business-lab.php'); ?>
+	<?php include('3-1-7-story-lab.php'); ?>
+	<?php include('3-1-5-art-lab.php'); ?>
+	<?php include('3-1-6-bio-lab.php'); ?>
+	<?php include('3-1-0-enroll.php'); ?>
 </div>
 <?php include('9-0-footer.php') ?>
