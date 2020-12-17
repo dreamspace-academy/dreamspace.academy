@@ -2,7 +2,7 @@
 	<div class="template-header-top">
 		<div class="template-main template-clear-fix">
 			<div class="template-header-top-logo">
-				<a href="1-index.php">
+				<a href="1-0-index.php">
 					<img src="../media/images/logos/logo-4148x2074-dreamspace.png" />
 				</a>
 			</div>
@@ -12,7 +12,7 @@
 					<ul class="sf-menu template-clear-fix">
 						<!-- Home Menu -->
 						<li class="sf-mega-enable-0">
-							<a href="1-index.php"><span class="template-icon-menu" style="font-size:xx-large;"><i class="fas fa-home"></i></span>Home</a>
+							<a href="1-0-index.php"><span class="template-icon-menu" style="font-size:xx-large;"><i class="fas fa-home"></i></span>Home</a>
 						</li>
 
 						<!-- About Menu -->
@@ -39,7 +39,7 @@
 										<li><a href="#">Guidelines</a></li>
 										<li><a href="#">Tools</a></li>
 										<li><a href="http://storydeck.dreamspace.academy/">Story Deck</a></li>
-										<li><a href="5-1-calendar.php">Calendar</a></li>
+										<li><a href="2-1-calendar.php">Calendar</a></li>
 									</ul>
 								</div>
 						</li>
@@ -106,8 +106,8 @@
 								<div class="template-layout-column-center-left">
 									<span class="sf-mega-header">Community Building</span>
 									<ul>
-										<li><a href="4-1-makers.php">Makers</a></li>
-										<li><a href="4-1-content-providers.php">Visual Content Makers</a></li>
+										<li><a href="4-1-1-makers.php">Makers</a></li>
+										<li><a href="4-1-2-visual-content-makers.php">Visual Content Makers</a></li>
 										<li><a href="4-1-0-communities.php#chess">Chess</a></li>
 										<li><a href="4-1-0-communities.php#urban-farming">Urban Farming</a></li>
 									</ul>

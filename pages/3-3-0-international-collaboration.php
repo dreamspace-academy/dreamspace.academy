@@ -8,8 +8,8 @@
       <div class="template-content-section template-content-layout template-content-layout-sidebar-right template-main template-clear-fix ">
           <div class="template-content-layout-column-center">
                   <ul class="template-post-list">
-        <?php include('3-3-storytelling.php');  ?>
-        <?php include('3-3-design-thinking.php');  ?>
+        <?php include('3-3-1-storytelling.php');  ?>
+        <?php include('3-3-2-design-thinking.php');  ?>
               </ul>
     </div>
     </div>

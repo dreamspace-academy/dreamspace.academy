@@ -9,7 +9,7 @@
 			<h3 class="template-margin-top-reset">Co-Creating The Dreams</h3>
 
 			<div class="template-header-top-logo">
-				<a href="1-index.php">
+				<a href="1-0-index.php">
 					<center><img src="../media/images/logos/logo-4148x2074-dreamspace.png" width="40%" /> </center>
 				</a>
 			</div>
@@ -36,7 +36,7 @@
 				<a href="http://dreamspace.academy"><b>DreamSpace Academy</b></a>.
 				All rights reserved. </br> Co-created by <a target="_blank" href="http://aravinth.info"><b>Aravinth</b></a> + <a target="_blank" href="https://www.linkedin.com/in/nviththiyakaran/"><b>Viththiyakaran</b></a>
 				+ <a target="_blank" href="https://www.linkedin.com/in/jayanthan-amalanathan/"><b>Jayanthan</b></a>
-				</br> <a id="change_cookies" href="#"><b>Cookies Consent</b></a> | <a href="8-1-imprint.php"><b>Imprint</b></a>
+				</br> <a id="change_cookies" href="#"><b>Cookies Consent</b></a> | <a href="2-1-imprint.php"><b>Imprint</b></a>
 			</div>
 		</div>
 	</div>

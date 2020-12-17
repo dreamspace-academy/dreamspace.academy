@@ -6,7 +6,7 @@
 			<ul>
 				<!-- Home Menu -->
 				<li>
-					<a href="1-index.php">Home</a>
+					<a href="1-0-index.php">Home</a>
 				</li>
 
 				<!-- About Menu -->
@@ -37,7 +37,7 @@
 								<li><a href="#">Guidelines</a></li>
 								<li><a href="#">Tools</a></li>
 								<li><a href="http://storydeck.dreamspace.academy/">Story Deck</a></li>
-								<li><a href="5-1-calendar.php">Calendar</a></li>
+								<li><a href="2-1-calendar.php">Calendar</a></li>
 							</ul>
 						</li>
 
@@ -113,8 +113,8 @@
 						<li>
 							<a href="#">Community Building<span></span></a>
 							<ul>
-								<li><a href="4-1-makers.php">Makers</a></li>
-								<li><a href="4-1-content-providers.php">Visual Content Makers</a></li>
+								<li><a href="4-1-1-makers.php">Makers</a></li>
+								<li><a href="4-1-2-visual-content-makers.php">Visual Content Makers</a></li>
 								<li><a href="4-1-0-communities.php#chess">Chess</a></li>
 								<li><a href="4-1-0-communities.php#urban-farming">Urban Farming</a></li>
 							</ul>
