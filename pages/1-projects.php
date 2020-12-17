@@ -12,7 +12,7 @@
 		<div class="template-component-counter-box template-state-carousel-enable">
 
 			<!-- Layout 33x33x33 -->
-			<ul class="template-layout-33x33x33 template-clear-fix">
+			<ul class="template-layout-25x25x25x25 template-clear-fix">
 
 				<li class="template-layout-column-left">
 
@@ -23,11 +23,12 @@
 
 
 					<!-- Header -->
-					<h4>Corona Hunter</h4>
+					<h5>Corona Hunter</h5>
 
 					<!-- Description -->
 					<div>
-						<p>An open-source cheaper rapid test kit to detect SARS-CoV-2 using isothermal amplification</p>
+						<p>An open-source cheaper rapid test kit to detect COVID-19 using isothermal amplification</p>
+						</br>
 					</div>
 
 					<a href="3-2-corona-hunter.php" class="template-component-button template-component-button-style-1">More<i></i></a>
@@ -42,7 +43,7 @@
 
 
 					<!-- Header -->
-					<h4>Underwater Glider</h4>
+					<h5>Underwater Glider</h5>
 
 					<!-- Description -->
 					<div>
@@ -62,7 +63,7 @@
 
 
 					<!-- Header -->
-					<h4>Circular Plastic</h4>
+					<h5>Circular Plastic</h5>
 
 					<!-- Description -->
 					<div>
@@ -82,7 +83,7 @@
 
 
 					<!-- Header -->
-					<h4>CoronaBot</h4>
+					<h5>CoronaBot</h5>
 
 					<!-- Description -->
 					<div>

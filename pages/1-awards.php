@@ -12,7 +12,7 @@
 		<div class="template-component-counter-box template-state-carousel-enable">
 
 			<!-- Layout 33x33x33 -->
-			<ul class="template-layout-33x33x33 template-clear-fix">
+			<ul class="template-layout-25x25x25x25 template-clear-fix">
 				<li class="template-layout-column-left">
 					<!-- Counter -->
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
@@ -31,6 +31,7 @@
 
 					<!-- Header -->
 					<h6>Peace Direct - Peacebuilding</br>2020 - USA</h6>
+					</br>
 					<a href="2-0-about.php#awards" class="template-component-button template-component-button-style-1">More<i></i></a>
 				</li>
 				<li class="template-layout-column-left">
@@ -61,6 +62,7 @@
 
 					<!-- Header -->
 					<h6>Stockholm Junior Water Prize</br>2020 - Sweden</h6>
+					</br>
 					<a href="2-0-about.php#awards" class="template-component-button template-component-button-style-1">More<i></i></a>
 				</li>
 				<li class="template-layout-column-left">
