@@ -17,7 +17,7 @@
       <ul class="template-layout-25x25x25x25 template-clear-fix">
         <li class="template-layout-column-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/images/org-awards/awards-dreamspace-sjwp.jpg" alt="DreamSpace Academy" />
+            <img src="../media/images/org-partners/partners-dreamspace-sjwp.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Stockholm Junior Water Prize</h6>
               </br>
@@ -34,7 +34,7 @@
         </li>
         <li class="template-layout-column-center-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/images/org-awards/awards-dreamspace-global-community-bio-fellowship.jpg" alt="DreamSpace Academy" />
+            <img src="../media/images/org-partners/partners-dreamspace-global-community-bio-fellowship.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Global Community Bio Fellowship</h6>
               </br>
@@ -51,7 +51,7 @@
         </li>
         <li class="template-layout-column-center-right">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/images/org-awards/awards-dreamspace-genu.jpg" alt="DreamSpace Academy" />
+            <img src="../media/images/org-partners/partners-dreamspace-genu.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Generation Unlimited Youth Challenge</h6>
               </br>
@@ -67,7 +67,7 @@
         </li>
         <li class="template-layout-column-right">
            <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/images/org-awards/awards-dreamspace-falling-walls.jpg" alt="DreamSpace Academy" />
+            <img src="../media/images/org-partners/partners-dreamspace-falling-walls.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Falling walls Sciece Engagement</h6>
               </br>
@@ -83,7 +83,7 @@
          </li>
         <li class="template-layout-column-left">
             <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-              <img src="../media/images/org-awards/awards-dreamspace-hackdev.jpg" alt="DreamSpace Academy" />
+              <img src="../media/images/org-partners/partners-dreamspace-hackdev.jpg" alt="DreamSpace Academy" />
               <div>
                 <h6>Hackdev Social Innovation Challenge</h6>
                 </br>
