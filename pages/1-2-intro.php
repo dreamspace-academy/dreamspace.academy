@@ -2,6 +2,22 @@
 	<div class="template-main">
 		<div class="template-component-header-subheader">
 			<h3>
+
+				<div class="template-component-header-subheader">
+					<h3>Why do we do what we do?</h3>
+					<h6></h6>
+					<div></div>
+				</div>
+				<p>
+				Three decades of <b style="color: #56509F">civil war</b> in Sri Lanka caused a massive impact on <b>socio-economics</b> and <b style="color: #56509F">environmental ecosystems</b>
+				</p>
+				<p>
+				The international aids provided significant support, but <b style="color: #56509F">imported solutions</b> couldn't solve fundamental <b>socio-economics</b> and <b style="color: #56509F">local problems sustainably</b>
+				</p>
+				<p>
+				We set out to <b>empower locals</b> to solve </br>complex <b style="color: #56509F">local challenges !!!</b>
+				</p>
+
 				<div class="template-component-header-subheader">
 					<h3>Who are we?</h3>
 					<h6></h6>
