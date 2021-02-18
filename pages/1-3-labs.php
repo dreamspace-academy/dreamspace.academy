@@ -130,12 +130,13 @@
 				<li class="template-layout-column-right">
 					<div class="template-layout-flex-50x50">
 						<div>
-							<h5>Policy Lab</h5>
-							<span>For those who are driven by systems change, to gain hands-on knowledge on co-creation of national and regional policies reforms</span>
+							<h5>Space Lab</h5>
+							<span>For those who look upwards into the endless universes, to gain hands-on knowledge astronomy, space exploration, aviation and drone technology</span>
+							</br>
 							<div class="template-layout-flex-50x50">
 							</div>
 						</div>
-						<div style="background-image:url('../media/images/org-labs/lab-policy-dreamspace-1.jpg')">
+						<div style="background-image:url('../media/images/org-labs/lab-space-dreamspace-2.jpg')">
 							<a href="3-1-0-maker-education.php" class="template-component-button template-component-button-style-1">More<i></i></a>
 						</div>
 					</div>
@@ -145,13 +146,12 @@
 				<li class="template-layout-column-left">
 					<div class="template-layout-flex-50x50">
 						<div>
-							<h5>Space Lab</h5>
-							<span>For those who look upwards into the endless universes, to gain hands-on knowledge astronomy, space exploration, aviation and drone technology</span>
-							</br>
+							<h5>Policy Lab</h5>
+							<span>For those who are driven by systems change, to gain hands-on knowledge on co-creation of national and regional policies reforms</span>
 							<div class="template-layout-flex-50x50">
 							</div>
 						</div>
-						<div style="background-image:url('../media/images/org-labs/lab-space-dreamspace-1.jpg')">
+						<div style="background-image:url('../media/images/org-labs/lab-policy-dreamspace-1.jpg')">
 							<a href="3-1-0-maker-education.php" class="template-component-button template-component-button-style-1">More<i></i></a>
 						</div>
 					</div>
