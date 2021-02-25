@@ -272,6 +272,40 @@
             </div>
           </div>
         </li>
+        <li class="template-layout-column-right">
+          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+            <img src="../media/images/org-team/team-dreamspace-rahulan.jpg" alt="DreamSpace Academy" />
+            <div>
+              <h6>Gunarakulan Gunaretnam</h6>
+              </br>
+              <span>Guardian of</span>
+              <span>Software Lab</span>
+            </div>
+            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+              <ul>
+                <li><a target="_blank" href="https://www.linkedin.com/in/guna-rakulan-161119156/" class="template-component-social-icon-linkedin"></a></li>
+                <li><a target="_blank" href="https://www.facebook.com/kuna.rakulan" class="template-component-social-icon-rss"></a></li>
+              </ul>
+            </div>
+          </div>
+        </li>
+        <li class="template-layout-column-left">
+          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+            <img src="../media/images/org-team/team-dreamspace-anuradha.jpg" alt="DreamSpace Academy" />
+            <div>
+              <h6>Gunarakulan Gunaretnam</h6>
+              </br>
+              <span>Guardian of</span>
+              <span>Policy Lab</span>
+            </div>
+            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+              <ul>
+                <li><a target="_blank" href="https://www.linkedin.com/in/anuradha-abeykoon/" class="template-component-social-icon-linkedin"></a></li>
+                <li><a target="_blank" href="https://www.facebook.com/anuradha.gayanath.3" class="template-component-social-icon-rss"></a></li>
+              </ul>
+            </div>
+          </div>
+        </li>
       </ul>
     </div>
   </div>
