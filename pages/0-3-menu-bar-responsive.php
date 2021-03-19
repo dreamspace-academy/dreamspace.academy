@@ -146,7 +146,7 @@
 
 				<!-- Support Menu -->
 				<li>
-					<a href="#">Support</a>
+					<a href="7-1-support.php">Support</a>
 				</li>
 
 				<!-- Contact Menu -->

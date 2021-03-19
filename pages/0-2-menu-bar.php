@@ -138,7 +138,7 @@
 
 						<!-- Links Menu -->
 						<li class="sf-mega-enable-0">
-							<a href="#"><span class="template-icon-menu" style="font-size:xx-large;"><i class="fas fa-hand-holding-heart"></i></span>Support</a>
+							<a href="7-1-support.php"><span class="template-icon-menu" style="font-size:xx-large;"><i class="fas fa-hand-holding-heart"></i></span>Support</a>
 						</li>
 
 						<!-- Contact Menu -->
