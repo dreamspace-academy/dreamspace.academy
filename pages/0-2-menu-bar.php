@@ -143,7 +143,7 @@
 
 						<!-- Contact Menu -->
 						<li class="sf-mega-enable-1">
-							<a href="6-1-contact.php"><span class="template-icon-menu" style="font-size:xx-large;"><i class="fas fa-handshake"></i></span>Contact</a>
+							<a href="8-1-contact.php"><span class="template-icon-menu" style="font-size:xx-large;"><i class="fas fa-handshake"></i></span>Contact</a>
 						</li>
 					</ul>
 				</nav>

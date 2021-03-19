@@ -151,7 +151,7 @@
 
 				<!-- Contact Menu -->
 				<li>
-					<a href="6-1-contact.php">Contact</a>
+					<a href="8-1-contact.php">Contact</a>
 				</li>
 			</ul>
 		</li>
