@@ -39,7 +39,7 @@
 										<li><a href="#">Guidelines</a></li>
 										<li><a href="#">Tools</a></li>
 										<li><a href="http://storydeck.dreamspace.academy/">Story Deck</a></li>
-										<li><a href="2-1-calendar.php">Calendar</a></li>
+										<li><a href="2-2-1-calendar.php">Calendar</a></li>
 									</ul>
 								</div>
 						</li>
