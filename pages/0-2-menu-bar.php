@@ -24,7 +24,7 @@
 									<ul>
 										<li><a href="2-0-about.php">Our Story</a></li>
 										<li><a href="2-0-about.php#team">Our Team</a></li>
-										<li><a href="2-0-about.php#team">Our Infrastructure</a></li>
+										<li><a href="2-0-about.php#infrastructure">Our Infrastructure</a></li>
 										<li><a href="2-0-about.php#achievements">Our Achievements</a></li>
 										<li><a href="2-0-about.php#mentors">Our Mentors</a></li>
 										<li><a href="2-0-about.php#partners">Our Partners</a></li>

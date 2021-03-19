@@ -1,4 +1,4 @@
-<div class="template-main" id="infrastructure">
+<div class="template-main template-padding-bottom-5" id="infrastructure">
 	<!-- Header and subheader -->
 	<div class="template-component-header-subheader">
 		<h2>Our Infrastructure</h2>
@@ -6,7 +6,7 @@
 		<div></div>
 	</div>
 
-	<div class="template-layout-column-left template-margin-bottom-reset">
+	<div class="template-layout-column-left">
 		<div class="template-component-nivo-slider template-component-nivo-slider-style-1 template-preloader">
 			<div>
 				<img src="../media/images/gallery/infrastructure-dreamspace-1.jpg" data-thumb="../media/images/gallery/infrastructure-dreamspace-1.jpg" alt="DreamSpace Academy" />
