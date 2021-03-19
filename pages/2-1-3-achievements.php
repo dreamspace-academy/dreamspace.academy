@@ -1,11 +1,9 @@
-
-<!-- Content -->
-<div class="template-content" id="awards">
+<div class="template-content" id="achievements">
 
   <!-- Header and subheader -->
   <div class="template-component-header-subheader">
-    <h2>Our Awards</h2>
-    <h6></h6>
+    <h2>Our Achievements</h2>
+    <h6>Our achievements at international to national competitions & recognitions</h6>
     <div></div>
   </div>
 
@@ -27,7 +25,9 @@
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
-                <li><a target="_blank" href="https://www.siwi.org/prizes/stockholmjuniorwaterprize/" class="template-component-social-icon-rss"></a></li>
+                <li><a target="_blank" href="https://www.siwi.org/prizes/stockholmjuniorwaterprize/">
+                    <i class="fas fa-link fa-lg" style="color: white; padding-top: 17px;"></i>
+                  </a></li>
               </ul>
             </div>
           </div>
@@ -44,7 +44,9 @@
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
-                <li><a target="_blank" href="https://www.biosummit.org/fellows" class="template-component-social-icon-rss"></a></li>
+                <li><a target="_blank" href="https://www.biosummit.org/fellows">
+                    <i class="fas fa-link fa-lg" style="color: white; padding-top: 17px;"></i>
+                  </a></li>
               </ul>
             </div>
           </div>
@@ -60,13 +62,15 @@
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
-              <li><a target="_blank" href="https://www.generationunlimited.org/" class="template-component-social-icon-rss"></a></li>
+                <li><a target="_blank" href="https://www.generationunlimited.org/">
+                    <i class="fas fa-link fa-lg" style="color: white; padding-top: 17px;"></i>
+                  </a></li>
               </ul>
             </div>
           </div>
         </li>
         <li class="template-layout-column-right">
-           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
             <img src="../media/images/org-partners/partners-dreamspace-falling-walls.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Falling walls Sciece Engagement</h6>
@@ -76,32 +80,36 @@
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
-              <li><a target="_blank" href="https://www.globalinnovationgathering.org/2019/11/13/dreamspace-academy-won-the-falling-walls-science-engagement-award/" class="template-component-social-icon-rss"></a></li>
-              </ul>
-            </div>
-          </div>
-         </li>
-        <li class="template-layout-column-left">
-            <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-              <img src="../media/images/org-partners/partners-dreamspace-hackdev.jpg" alt="DreamSpace Academy" />
-              <div>
-                <h6>Hackdev Social Innovation Challenge</h6>
-                </br>
-
-                <span>Hackdev</span>
-                <span>2019</span>
-              </div>
-              <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
-                <ul>
-                  <li><a target="_blank" href="https://www.hackadev.lk/" class="template-component-social-icon-rss"></a></li>
-                </ul>
-              </div>
-            </div>
-          </li>
-
+                <li><a target="_blank" href="https://www.globalinnovationgathering.org/2019/11/13/dreamspace-academy-won-the-falling-walls-science-engagement-award/">
+                    <i class="fas fa-link fa-lg" style="color: white; padding-top: 17px;"></i>
+                  </a></li>
               </ul>
             </div>
           </div>
         </li>
+        <li class="template-layout-column-left">
+          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+            <img src="../media/images/org-partners/partners-dreamspace-hackdev.jpg" alt="DreamSpace Academy" />
+            <div>
+              <h6>Hackdev Social Innovation Challenge</h6>
+              </br>
+
+              <span>Hackdev</span>
+              <span>2019</span>
+            </div>
+            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+              <ul>
+                <li><a target="_blank" href="https://www.hackadev.lk/">
+                    <i class="fas fa-link fa-lg" style="color: white; padding-top: 17px;"></i>
+                  </a></li>
+              </ul>
+            </div>
+          </div>
+        </li>
+
       </ul>
     </div>
+  </div>
+  </li>
+  </ul>
+</div>

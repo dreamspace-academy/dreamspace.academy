@@ -1,6 +1,4 @@
-
-<!-- Content -->
-<div class="template-content" id="supporters">
+<div class="template-content" id="mentors">
 
   <!-- Header and subheader -->
   <div class="template-component-header-subheader">
@@ -27,7 +25,9 @@
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
-                <li><a target="_blank" href="https://www.linkedin.com/in/maitezubeldia/" class="template-component-social-icon-linkedin"></a></li>
+                <li><a target="_blank" href="https://www.linkedin.com/in/maitezubeldia/">
+                    <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
+                  </a></li>
               </ul>
             </div>
           </div>
@@ -44,7 +44,9 @@
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
-                <li><a target="_blank" href="https://www.linkedin.com/in/darina-onoprienko-6b5b8843/" class="template-component-social-icon-linkedin"></a></li>
+                <li><a target="_blank" href="https://www.linkedin.com/in/darina-onoprienko-6b5b8843/">
+                    <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
+                  </a></li>
               </ul>
             </div>
           </div>
@@ -61,7 +63,9 @@
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
-                <li><a target="_blank" href="https://www.linkedin.com/in/nicomei%C3%9Fner/" class="template-component-social-icon-linkedin"></a></li>
+                <li><a target="_blank" href="https://www.linkedin.com/in/nicomei%C3%9Fner/">
+                    <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
+                  </a></li>
               </ul>
             </div>
           </div>
@@ -78,7 +82,9 @@
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
-                <li><a target="_blank" href="https://www.linkedin.com/in/luise-the-creative-strategist/" class="template-component-social-icon-linkedin"></a></li>
+                <li><a target="_blank" href="https://www.linkedin.com/in/luise-the-creative-strategist/">
+                    <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
+                  </a></li>
               </ul>
             </div>
           </div>
@@ -95,7 +101,9 @@
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
-                <li><a target="_blank" href="https://www.linkedin.com/in/zo%C3%AB-harman-conlon-85986880/" class="template-component-social-icon-linkedin"></a></li>
+                <li><a target="_blank" href="https://www.linkedin.com/in/zo%C3%AB-harman-conlon-85986880/">
+                    <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
+                  </a></li>
               </ul>
             </div>
           </div>
@@ -112,7 +120,9 @@
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
-                <li><a target="_blank" href="https://www.johnnyfd.com/p/about.html" class="template-component-social-icon-linkedin"></a></li>
+                <li><a target="_blank" href="https://www.johnnyfd.com/p/about.html">
+                    <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
+                  </a></li>
               </ul>
             </div>
           </div>
@@ -123,51 +133,18 @@
             <div>
               <h6>Kamalanathan Pakkiyaraja</h6>
               </br>
-              </br>
               <span>Finance Consultant</span>
               <span>Canada</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
-                <li><a target="_blank" href="https://www.linkedin.com/in/kamalanathan-pakkiyaraja-70997141/" class="template-component-social-icon-linkedin"></a></li>
+                <li><a target="_blank" href="https://www.linkedin.com/in/kamalanathan-pakkiyaraja-70997141/">
+                    <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
+                  </a></li>
               </ul>
             </div>
           </div>
         </li>
-        <!-- <li class="template-layout-column-center-left">
-          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/images/org-supporters/supporters-dreamspace-melani.jpg" alt="DreamSpace Academy" />
-            <div>
-              <h6>Melani Jayamanna</h6>
-              </br>
-              </br>
-              <span>Business Development</span>
-              <span>Germany | Italy</span>
-            </div>
-            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
-              <ul>
-                <li><a target="_blank" href="https://www.linkedin.com/in/melanijayamanna/" class="template-component-social-icon-linkedin"></a></li>
-              </ul>
-            </div>
-          </div>
-        </li> -->
-        <!-- <li class="template-layout-column-center-left">
-          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/images/org-supporters/supporters-dreamspace-soniya.jpg" alt="DreamSpace Academy" />
-            <div>
-              <h6>Soniya Siva</h6>
-              </br>
-              </br>
-              <span>Business Development</span>
-              <span>Canada | China</span>
-            </div>
-            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
-              <ul>
-                <li><a target="_blank" href="https://www.linkedin.com/in/soniyasiva/" class="template-component-social-icon-linkedin"></a></li>
-              </ul>
-            </div>
-          </div>
-        </li> -->
       </ul>
     </div>
   </div>

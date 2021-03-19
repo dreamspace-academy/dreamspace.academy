@@ -17,16 +17,16 @@
 			<div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix template-margin-bottom-2 template-margin-top-2">
 				<ul>
 					<li><a target="_blank" href="https://www.linkedin.com/company/dreamspace-academy">
-							<div style="font-size:xx-large; color: White"><i class="fab fa-linkedin-in"></i></div>
+							<i class="fab fa-linkedin-in fa-2x" style="color: white; padding-top: 10px;"></i>
 						</a></li>
 					<li><a target="_blank" href="https://github.com/dreamspace-academy">
-							<div style="font-size:xx-large; color: White"><i class="fab fa-github"></i></div>
+							<i class="fab fa-github fa-2x" style="color: white; padding-top: 10px;"></i>
 						</a></li>
 					<li><a target="_blank" href="https://www.facebook.com/dreamspace.academy">
-							<div style="font-size:xx-large; color: White"><i class="fab fa-facebook"></i></div>
+							<i class="fab fa-facebook fa-2x" style="color: white; padding-top: 10px;"></i>
 						</a></li>
 					<li><a target="_blank" href="https://twitter.com/DreamSpaceAcad">
-							<div style="font-size:xx-large; color: White"><i class="fab fa-twitter"></i></div>
+							<i class="fab fa-twitter fa-2x" style="color: white; padding-top: 10px;"></i>
 						</a></li>
 				</ul>
 			</div>
@@ -36,7 +36,7 @@
 				<a href="http://dreamspace.academy"><b>DreamSpace Academy</b></a>.
 				All rights reserved. </br> Co-created by <a target="_blank" href="http://aravinth.info"><b>Aravinth</b></a> + <a target="_blank" href="https://www.linkedin.com/in/nviththiyakaran/"><b>Viththiyakaran</b></a>
 				+ <a target="_blank" href="https://www.linkedin.com/in/jayanthan-amalanathan/"><b>Jayanthan</b></a>
-			</br> <a id="change_cookies" href="#"><b>Cookies Consent</b></a> | <a href="9-2-imprint.php"><b>Imprint</b></a>
+				</br> <a id="change_cookies" href="#"><b>Cookies Consent</b></a> | <a href="9-2-imprint.php"><b>Imprint</b></a>
 			</div>
 		</div>
 	</div>

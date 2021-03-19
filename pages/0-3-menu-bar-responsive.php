@@ -21,8 +21,8 @@
 								<li><a href="2-0-about.php#story">Our Story</a></li>
 								<li><a href="2-0-about.php#team">Our Team</a></li>
 								<li><a href="2-0-about.php#team">Our Infrastructure</a></li>
-								<li><a href="2-0-about.php#awards">Our Achievements</a></li>
-								<li><a href="2-0-about.php#supporters">Our Mentors</a></li>
+								<li><a href="2-0-about.php#achievements">Our Achievements</a></li>
+								<li><a href="2-0-about.php#mentors">Our Mentors</a></li>
 								<li><a href="2-0-about.php#partners">Our Partners</a></li>
 							</ul>
 						</li>

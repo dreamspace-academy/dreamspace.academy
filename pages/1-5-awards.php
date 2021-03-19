@@ -21,7 +21,7 @@
 
 					<!-- Header -->
 					<h6>Earth Company - Impact Heroes</br>2021 - Indonesia</h6>
-					<a href="2-0-about.php#awards" class="template-component-button template-component-button-style-1">More<i></i></a>
+					<a href="2-0-about.php#achievements" class="template-component-button template-component-button-style-1">More<i></i></a>
 				</li>
 				<li class="template-layout-column-left">
 					<!-- Counter -->
@@ -32,7 +32,7 @@
 					<!-- Header -->
 					<h6>Peace Direct - Peacebuilding</br>2020 - USA</h6>
 					</br>
-					<a href="2-0-about.php#awards" class="template-component-button template-component-button-style-1">More<i></i></a>
+					<a href="2-0-about.php#achievements" class="template-component-button template-component-button-style-1">More<i></i></a>
 				</li>
 				<li class="template-layout-column-left">
 					<!-- Counter -->
@@ -42,7 +42,7 @@
 
 					<!-- Header -->
 					<h6>Global Community Bio Fellowship</br>2020 - USA</h6>
-					<a href="2-0-about.php#awards" class="template-component-button template-component-button-style-1">More<i></i></a>
+					<a href="2-0-about.php#achievements" class="template-component-button template-component-button-style-1">More<i></i></a>
 				</li>
 				<li class="template-layout-column-left">
 					<!-- Counter -->
@@ -52,7 +52,7 @@
 
 					<!-- Header -->
 					<h6>Generation Unlimited - Youth Challenge</br>2020 - Sri Lanka</h6>
-					<a href="2-0-about.php#awards" class="template-component-button template-component-button-style-1">More<i></i></a>
+					<a href="2-0-about.php#achievements" class="template-component-button template-component-button-style-1">More<i></i></a>
 				</li>
 				<li class="template-layout-column-left">
 					<!-- Counter -->
@@ -63,7 +63,7 @@
 					<!-- Header -->
 					<h6>Stockholm Junior Water Prize</br>2020 - Sweden</h6>
 					</br>
-					<a href="2-0-about.php#awards" class="template-component-button template-component-button-style-1">More<i></i></a>
+					<a href="2-0-about.php#achievements" class="template-component-button template-component-button-style-1">More<i></i></a>
 				</li>
 				<li class="template-layout-column-left">
 					<!-- Counter -->
@@ -73,7 +73,7 @@
 
 					<!-- Header -->
 					<h6>Hackdev - Social Innovation Challenge</br>2019 - Sri Lanka</h6>
-					<a href="2-0-about.php#awards" class="template-component-button template-component-button-style-1">More<i></i></a>
+					<a href="2-0-about.php#achievements" class="template-component-button template-component-button-style-1">More<i></i></a>
 				</li>
 				<li class="template-layout-column-left">
 					<!-- Counter -->
@@ -83,7 +83,7 @@
 
 					<!-- Header -->
 					<h6>Falling walls - Sciece Engagement</br>2019 - Germany</h6>
-					<a href="2-0-about.php#awards" class="template-component-button template-component-button-style-1">More<i></i></a>
+					<a href="2-0-about.php#achievements" class="template-component-button template-component-button-style-1">More<i></i></a>
 				</li>
 			</ul>
 
