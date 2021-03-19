@@ -2,7 +2,7 @@
 	<!-- Header and subheader -->
 	<div class="template-component-header-subheader">
 		<h2>Our Story</h2>
-		<h6>On a mission to protect underprivileged communities and environmental ecosystems</h6>
+		<h6>On a mission to empower underprivileged communities and environmental ecosystems</h6>
 		<div></div>
 	</div>
 

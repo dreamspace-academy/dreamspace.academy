@@ -22,7 +22,7 @@
 								<div class="template-layout-column-left">
 									<span class="sf-mega-header">About</span>
 									<ul>
-										<li><a href="2-0-about.php#story">Our Story</a></li>
+										<li><a href="2-0-about.php">Our Story</a></li>
 										<li><a href="2-0-about.php#team">Our Team</a></li>
 										<li><a href="2-0-about.php#team">Our Infrastructure</a></li>
 										<li><a href="2-0-about.php#achievements">Our Achievements</a></li>
