@@ -24,7 +24,7 @@
 		<p>
 			<b>Geschäftsführer</b>: Aravinth Panch </br>
 			<b>Registergericht</b>: Amtsgericht Berlin-Charlottenburg HRB 208423 B </br>
-			<b>Umsatzsteuer-Identifikationsnummer</b>: 37/210/50683 </br>
+			<b>Umsatzsteuer-Identifikationsnummer</b>: DE32 96 24 244 </br>
 			<b>E-Mail</b>: ask@araCreate.com
 		</p>
 
