@@ -28,6 +28,7 @@
 										<li><a href="2-0-about.php#achievements">Our Achievements</a></li>
 										<li><a href="2-0-about.php#mentors">Our Mentors</a></li>
 										<li><a href="2-0-about.php#partners">Our Partners</a></li>
+										<li><a href="2-0-about.php#advicers">Our Advisers</a></li>
 									</ul>
 								</div>
 								<div class="template-layout-column-center-left">
@@ -58,6 +59,13 @@
 										<li><a href="3-1-0-maker-education.php#art-lab">Art Lab</a></li>
 										<li><a href="3-1-0-maker-education.php#bio-lab">Bio Lab</a></li>
 										<li><a href="3-1-0-maker-education.php#story-lab">Story Lab</a></li>
+										<li><a href="3-1-0-maker-education.php#space-lab">Space Lab</a></li>
+										<li><a href="3-1-0-maker-education.php#policy-lab">Policy Lab</a></li>
+										<li><a href="3-1-0-maker-education.php#nano-lab">Nano Lab</a></li>
+										<li><a href="3-1-0-maker-education.php#fabrics-lab">Fabrics Lab</a></li>
+										<li><a href="3-1-0-maker-education.php#edible-lab">Edible Lab</a></li>
+										<li><a href="3-1-0-maker-education.php#mind-lab">Mind Lab</a></li>
+										<li><a href="3-1-0-maker-education.php#language-lab">Language Lab</a></li>
 									</ul>
 								</div>
 
@@ -68,6 +76,9 @@
 										<li><a href="3-2-2-circular-plastic.php">Circular Plastic</a></li>
 										<li><a href="3-2-3-open-covid.php">Open Covid</a></li>
 										<li><a href="3-2-4-corona-hunter.php">Corona Hunter</a></li>
+										<li><a href="#">Agaram</a></li>
+										<li><a href="#">Towards Green Energy</a></li>
+										<li><a href="#">Dream Bot</a></li>
 									</ul>
 								</div>
 
@@ -76,6 +87,9 @@
 									<ul>
 										<li><a href="3-3-0-international-collaboration.php#design-thinking-maite">Design Thinking</a></li>
 										<li><a href="3-3-0-international-collaboration.php#story-telling-nico">Storytelling</a></li>
+										<li><a href="3-3-0-international-collaboration.php#travelpreneur">Travelpreneur</a></li>
+										<li><a href="3-3-0-international-collaboration.php#business-modeling">Business Modeling</a></li>
+										<li><a href="3-3-0-international-collaboration.php#digital-literacy-and-marketing">Digital Literacy & Marketing</a></li>
 									</ul>
 								</div>
 
@@ -85,6 +99,7 @@
 										<li><a href="3-4-0-social-enterprise.php#terrace">DreamSpace Terrace</a></li>
 										<li><a href="3-4-0-social-enterprise.php#trash-for-trade">Trash For Trade</a></li>
 										<li><a href="3-4-0-social-enterprise.php#oceanbiome">OceanBiome</a></li>
+										<li><a href="3-4-0-social-enterprise.php#benzyme-ventures">Benzyme Ventures</a></li>
 									</ul>
 								</div>
 
@@ -110,6 +125,9 @@
 										<li><a href="4-2-2-visual-content-makers.php">Visual Content Makers</a></li>
 										<li><a href="4-2-0-communities.php#chess">Chess</a></li>
 										<li><a href="4-2-0-communities.php#urban-farming">Urban Farming</a></li>
+										<li><a href="4-2-0-communities.php#artificial-intelligence">Artificial Intelligence</a></li>
+										<li><a href="4-2-0-communities.php#plastic-upcyclers">Plastic Upcyclers</a></li>
+										<li><a href="4-2-0-communities.php#ocean">Ocean</a></li>
 									</ul>
 								</div>
 
@@ -128,7 +146,10 @@
 										<li><a target=_blank href="https://aracreate.com">araCreate (360° Consulting)</a></li>
 										<li><a target=_blank href="https://zerosec.in">ZeroSec Solutions (Data Moderation)</a></li>
 										<li><a href="3-4-0-social-enterprise.php#j-matrix">J Matrix (3D Printing)</a></li>
-										<li><a target=_blank href="">GR-Technologies (Software Development)</a></li>
+										<li><href="#">GR-Technologies (Software Development)</a></li>
+										<li><href="#">EMD Lab (Prototype & Product Development)</a></li>
+										<li><href="#">Dude Style Studio (Photography & Documentary Making)</a></li>
+										<li><href="#">Curve Matrics</a></li>
 									</ul>
 								</div>
 
