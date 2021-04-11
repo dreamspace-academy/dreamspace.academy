@@ -28,7 +28,7 @@
 										<li><a href="2-0-about.php#achievements">Our Achievements</a></li>
 										<li><a href="2-0-about.php#mentors">Our Mentors</a></li>
 										<li><a href="2-0-about.php#partners">Our Partners</a></li>
-										<li><a href="2-0-about.php#advicers">Our Advisers</a></li>
+										<li><a href="#">Our Advisers</a></li>
 									</ul>
 								</div>
 								<div class="template-layout-column-center-left">
@@ -58,14 +58,14 @@
 										<li><a href="3-1-0-maker-education.php#business-lab">Business Lab</a></li>
 										<li><a href="3-1-0-maker-education.php#art-lab">Art Lab</a></li>
 										<li><a href="3-1-0-maker-education.php#bio-lab">Bio Lab</a></li>
-										<li><a href="3-1-0-maker-education.php#story-lab">Story Lab</a></li>
-										<li><a href="3-1-0-maker-education.php#space-lab">Space Lab</a></li>
-										<li><a href="3-1-0-maker-education.php#policy-lab">Policy Lab</a></li>
-										<li><a href="3-1-0-maker-education.php#nano-lab">Nano Lab</a></li>
-										<li><a href="3-1-0-maker-education.php#fabrics-lab">Fabrics Lab</a></li>
-										<li><a href="3-1-0-maker-education.php#edible-lab">Edible Lab</a></li>
-										<li><a href="3-1-0-maker-education.php#mind-lab">Mind Lab</a></li>
-										<li><a href="3-1-0-maker-education.php#language-lab">Language Lab</a></li>
+										<li><a href="#">Story Lab</a></li>
+										<li><a href="#">Space Lab</a></li>
+										<li><a href="#">Policy Lab</a></li>
+										<li><a href="#">Nano Lab</a></li>
+										<li><a href="#">Fabrics Lab</a></li>
+										<li><a href="#">Edible Lab</a></li>
+										<li><a href="#">Mind Lab</a></li>
+										<li><a href="#">Language Lab</a></li>
 									</ul>
 								</div>
 
@@ -87,9 +87,9 @@
 									<ul>
 										<li><a href="3-3-0-international-collaboration.php#design-thinking-maite">Design Thinking</a></li>
 										<li><a href="3-3-0-international-collaboration.php#story-telling-nico">Storytelling</a></li>
-										<li><a href="3-3-0-international-collaboration.php#travelpreneur">Travelpreneur</a></li>
-										<li><a href="3-3-0-international-collaboration.php#business-modeling">Business Modeling</a></li>
-										<li><a href="3-3-0-international-collaboration.php#digital-literacy-and-marketing">Digital Literacy & Marketing</a></li>
+										<li><a href="#">Travelpreneur</a></li>
+										<li><a href="#">Business Modeling</a></li>
+										<li><a href="#">Digital Literacy & Marketing</a></li>
 									</ul>
 								</div>
 
@@ -99,7 +99,7 @@
 										<li><a href="3-4-0-social-enterprise.php#terrace">DreamSpace Terrace</a></li>
 										<li><a href="3-4-0-social-enterprise.php#trash-for-trade">Trash For Trade</a></li>
 										<li><a href="3-4-0-social-enterprise.php#oceanbiome">OceanBiome</a></li>
-										<li><a href="3-4-0-social-enterprise.php#benzyme-ventures">Benzyme Ventures</a></li>
+										<li><a href="#">Benzyme Ventures</a></li>
 									</ul>
 								</div>
 
@@ -125,9 +125,9 @@
 										<li><a href="4-2-2-visual-content-makers.php">Visual Content Makers</a></li>
 										<li><a href="4-2-0-communities.php#chess">Chess</a></li>
 										<li><a href="4-2-0-communities.php#urban-farming">Urban Farming</a></li>
-										<li><a href="4-2-0-communities.php#artificial-intelligence">Artificial Intelligence</a></li>
-										<li><a href="4-2-0-communities.php#plastic-upcyclers">Plastic Upcyclers</a></li>
-										<li><a href="4-2-0-communities.php#ocean">Ocean</a></li>
+										<li><a href="#">Artificial Intelligence</a></li>
+										<li><a href="#">Plastic Upcyclers</a></li>
+										<li><a href="#">Ocean</a></li>
 									</ul>
 								</div>
 
@@ -146,10 +146,10 @@
 										<li><a target=_blank href="https://aracreate.com">araCreate (360° Consulting)</a></li>
 										<li><a target=_blank href="https://zerosec.in">ZeroSec Solutions (Data Moderation)</a></li>
 										<li><a href="3-4-0-social-enterprise.php#j-matrix">J Matrix (3D Printing)</a></li>
-										<li><href="#">GR-Technologies (Software Development)</a></li>
-										<li><href="#">EMD Lab (Prototype & Product Development)</a></li>
-										<li><href="#">Dude Style Studio (Photography & Documentary Making)</a></li>
-										<li><href="#">Curve Matrics</a></li>
+										<li><a href="#">GR-Technologies (Software Development)</a></li>
+										<li><a href="#">EMD Lab (Prototype & Product Development)</a></li>
+										<li><a href="#">Dude Style Studio (Photography & Documentary Making)</a></li>
+										<li><a href="#">Curve Matrics</a></li>
 									</ul>
 								</div>
 
