@@ -24,6 +24,7 @@
 								<li><a href="2-0-about.php#achievements">Our Achievements</a></li>
 								<li><a href="2-0-about.php#mentors">Our Mentors</a></li>
 								<li><a href="2-0-about.php#partners">Our Partners</a></li>
+								<li><a href="2-0-about.php#advisors">Our Advisors</a></li>
 							</ul>
 						</li>
 
@@ -60,6 +61,14 @@
 								<li><a href="3-1-0-maker-education.php#design-lab">Design Lab</a></li>
 								<li><a href="3-1-0-maker-education.php#art-lab">Art Lab</a></li>
 								<li><a href="3-1-0-maker-education.php#bio-lab">Bio Lab</a></li>
+								<li><a href="#">Story Lab</a></li>
+								<li><a href="#">Space Lab</a></li>
+								<li><a href="#">Policy Lab</a></li>
+								<li><a href="#">Nano Lab</a></li>
+								<li><a href="#">Fabrics Lab</a></li>
+								<li><a href="#">Edible Lab</a></li>
+								<li><a href="#">Mind Lab</a></li>
+								<li><a href="#">Language Lab</a></li>
 							</ul>
 						</li>
 
@@ -71,6 +80,9 @@
 								<li><a href="3-2-2-circular-plastic.php">Circular Plastic</a></li>
 								<li><a href="3-2-3-open-covid.php">Open Covid</a></li>
 								<li><a href="3-2-4-corona-hunter.php">Corona Hunter</a></li>
+								<li><a href="#">Agaram</a></li>
+								<li><a href="#">Towards Green Energy</a></li>
+								<li><a href="#">Dream Bot</a></li>
 							</ul>
 						</li>
 
@@ -80,6 +92,9 @@
 							<ul>
 								<li><a href="3-3-0-international-collaboration.php#design-thinking-maite">Design Thinking</a></li>
 								<li><a href="3-3-0-international-collaboration.php#story-telling-nico">Storytelling</a></li>
+								<li><a href="#">Travelpreneur</a></li>
+								<li><a href="#">Business Modeling</a></li>
+								<li><a href="#">Digital Literacy & Marketing</a></li>
 							</ul>
 						</li>
 
@@ -90,6 +105,7 @@
 								<li><a href="3-4-0-social-enterprise.php#terrace">DreamSpace Terrace</a></li>
 								<li><a href="3-4-0-social-enterprise.php#trash-for-trade">Trash For Trade</a></li>
 								<li><a href="3-4-0-social-enterprise.php#oceanbiome">OceanBiome</a></li>
+								<li><a href="#">Benzyme Ventures</a></li>
 							</ul>
 						</li>
 
@@ -117,6 +133,9 @@
 								<li><a href="4-2-2-visual-content-makers.php">Visual Content Makers</a></li>
 								<li><a href="4-2-0-communities.php#chess">Chess</a></li>
 								<li><a href="4-2-0-communities.php#urban-farming">Urban Farming</a></li>
+								<li><a href="#">Artificial Intelligence</a></li>
+								<li><a href="#">Plastic Upcyclers</a></li>
+								<li><a href="#">Ocean</a></li>
 							</ul>
 						</li>
 
@@ -137,7 +156,10 @@
 								<li><a target=_blank href="https://aracreate.com">araCreate (360° Consulting)</a></li>
 								<li><a target=_blank href="https://zerosec.in">ZeroSec Solutions (Data Moderation)</a></li>
 								<li><a href="3-4-0-social-enterprise.php#j-matrix">J Matrix (3D Printing)</a></li>
-								<li><a target=_blank href="">GR-Technologies (Software Development)</a></li>
+								<li><a href="#">GR-Technologies (Software Development)</a></li>
+								<li><a href="#">EMD Lab (Prototype & Product Development)</a></li>
+								<li><a href="#">Dude Style Studio (Photography & Documentary Making)</a></li>
+								<li><a href="#">Curve Matrics</a></li>
 							</ul>
 						</li>
 

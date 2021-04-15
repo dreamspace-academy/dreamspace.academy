@@ -20,13 +20,14 @@
             <div>
               <h6>Peter Glasser</h6>
               </br>
+              </br>
               <span>Finance Consultant</span>
               <span>Switzerland</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
                 <li><a target="_blank" href="https://www.facebook.com/peter.glaser.353">
-                    <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
+                    <i class="fab fa-facebook fa-lg" style="color: white; padding-top: 17px;"></i>
                   </a></li>
               </ul>
             </div>
