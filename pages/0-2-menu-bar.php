@@ -28,7 +28,7 @@
 										<li><a href="2-0-about.php#achievements">Our Achievements</a></li>
 										<li><a href="2-0-about.php#mentors">Our Mentors</a></li>
 										<li><a href="2-0-about.php#partners">Our Partners</a></li>
-										<li><a href="#">Our Advisers</a></li>
+										<li><a href="2-0-about.php#advisors">Our Advisors</a></li>
 									</ul>
 								</div>
 								<div class="template-layout-column-center-left">
