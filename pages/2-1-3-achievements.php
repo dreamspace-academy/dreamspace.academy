@@ -13,14 +13,81 @@
     <!-- Gallery -->
     <div class="template-component-gallery">
       <ul class="template-layout-25x25x25x25 template-clear-fix">
+
+        <li class="template-layout-column-left">
+          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+            <img src="../media/images/org-partners/partners-dreamspace-nestle.jpg" alt="DreamSpace Academy" />
+            <div>
+              <h6>Nestle Business Challenge</h6>
+              </br>
+              <span>2021</span>
+            </div>
+            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+              <ul>
+                <li><a target="_blank" href="https://www.nestle.com/">
+                    <i class="fas fa-link fa-lg" style="color: white; padding-top: 17px;"></i>
+                  </a></li>
+              </ul>
+            </div>
+          </div>
+        </li>
+        <li class="template-layout-column-center-left">
+          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+            <img src="../media/images/org-partners/partners-dreamspace-ubl.jpg" alt="DreamSpace Academy" />
+            <div>
+              <h6>UBL</h6>
+              </br>
+              <span>2021</span>
+            </div>
+            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+              <ul>
+                <li><a target="_blank" href="http://www.uwu.ac.lk/ans/facilities-detail-ubl.html">
+                    <i class="fas fa-link fa-lg" style="color: white; padding-top: 17px;"></i>
+                  </a></li>
+              </ul>
+            </div>
+          </div>
+        </li>
+        <li class="template-layout-column-center-right">
+          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+            <img src="../media/images/org-partners/partners-dreamspace-hackx.jpg" alt="DreamSpace Academy" />
+            <div>
+              <h6>Hackx</h6>
+              </br>
+              <span>2020</span>
+            </div>
+            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+              <ul>
+                <li><a target="_blank" href="https://hackx.lk/">
+                    <i class="fas fa-link fa-lg" style="color: white; padding-top: 17px;"></i>
+                  </a></li>
+              </ul>
+            </div>
+          </div>
+        </li>
+        <li class="template-layout-column-right">
+          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+            <img src="../media/images/org-partners/partners-dreamspace-climathon.jpg" alt="DreamSpace Academy" />
+            <div>
+              <h6>Climathon</h6>
+              </br>
+              <span>2020</span>
+            </div>
+            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+              <ul>
+                <li><a target="_blank" href="https://climathon.climate-kic.org/en/">
+                    <i class="fas fa-link fa-lg" style="color: white; padding-top: 17px;"></i>
+                  </a></li>
+              </ul>
+            </div>
+          </div>
+        </li>
         <li class="template-layout-column-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
             <img src="../media/images/org-partners/partners-dreamspace-sjwp.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Stockholm Junior Water Prize</h6>
               </br>
-
-              <span>SJWP</span>
               <span>2020</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
@@ -38,8 +105,6 @@
             <div>
               <h6>Global Community Bio Fellowship</h6>
               </br>
-
-              <span>Global Bio Summit 4.0</span>
               <span>2020</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
@@ -57,7 +122,6 @@
             <div>
               <h6>Generation Unlimited Youth Challenge</h6>
               </br>
-              <span>Gen U</span>
               <span>2020</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
@@ -75,7 +139,6 @@
             <div>
               <h6>Falling walls Sciece Engagement</h6>
               </br>
-              <span>Falling Walls Engage</span>
               <span>2019</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
@@ -93,8 +156,6 @@
             <div>
               <h6>Hackdev Social Innovation Challenge</h6>
               </br>
-
-              <span>Hackdev</span>
               <span>2019</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
