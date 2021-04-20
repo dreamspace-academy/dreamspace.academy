@@ -28,7 +28,6 @@
 										<li><a href="2-0-about.php#achievements">Our Achievements</a></li>
 										<li><a href="2-0-about.php#mentors">Our Mentors</a></li>
 										<li><a href="2-0-about.php#partners">Our Partners</a></li>
-										<li><a href="2-0-about.php#advisors">Our Advisors</a></li>
 									</ul>
 								</div>
 								<div class="template-layout-column-center-left">
@@ -58,14 +57,6 @@
 										<li><a href="3-1-0-maker-education.php#business-lab">Business Lab</a></li>
 										<li><a href="3-1-0-maker-education.php#art-lab">Art Lab</a></li>
 										<li><a href="3-1-0-maker-education.php#bio-lab">Bio Lab</a></li>
-										<li><a href="#">Story Lab</a></li>
-										<li><a href="#">Space Lab</a></li>
-										<li><a href="#">Policy Lab</a></li>
-										<li><a href="#">Nano Lab</a></li>
-										<li><a href="#">Fabrics Lab</a></li>
-										<li><a href="#">Edible Lab</a></li>
-										<li><a href="#">Mind Lab</a></li>
-										<li><a href="#">Language Lab</a></li>
 									</ul>
 								</div>
 
