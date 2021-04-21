@@ -16,6 +16,47 @@
 				<li class="template-layout-column-left">
 					<!-- Counter -->
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
+						<img src="../media/images/org-partners/partners-dreamspace-nestle.jpg" alt="DreamSpace Academy" />
+					</div>
+
+					<!-- Header -->
+					<h6>Nestle Business Challenge</br>2021 - Sri Lanka</h6>
+					<a href="2-0-about.php#achievements" class="template-component-button template-component-button-style-1">More<i></i></a>
+				</li>
+				<li class="template-layout-column-left">
+					<!-- Counter -->
+					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
+						<img src="../media/images/org-partners/partners-dreamspace-ubl.jpg" alt="DreamSpace Academy" />
+					</div>
+
+					<!-- Header -->
+					<h6>UBL</br>2021 - Sri Lanka</h6>
+					<a href="2-0-about.php#achievements" class="template-component-button template-component-button-style-1">More<i></i></a>
+				</li>
+				<li class="template-layout-column-left">
+					<!-- Counter -->
+					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
+						<img src="../media/images/org-partners/partners-dreamspace-hackx.jpg" alt="DreamSpace Academy" />
+					</div>
+
+					<!-- Header -->
+					<h6>HackX</br>2020 - Sri Lanka</h6>
+					<a href="2-0-about.php#achievements" class="template-component-button template-component-button-style-1">More<i></i></a>
+				</li>
+				<li class="template-layout-column-left">
+					<!-- Counter -->
+					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
+						<img src="../media/images/org-partners/partners-dreamspace-climathon.jpg" alt="DreamSpace Academy" />
+					</div>
+
+					<!-- Header -->
+					<h6>Climathon</br>2020 - Sri Lanka</h6>
+					<a href="2-0-about.php#achievements" class="template-component-button template-component-button-style-1">More<i></i></a>
+				</li>
+
+				<li class="template-layout-column-left">
+					<!-- Counter -->
+					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
 						<img src="../media/images/org-partners/partners-dreamspace-earth-company.jpg" alt="DreamSpace Academy" />
 					</div>
 
@@ -75,6 +116,7 @@
 					<h6>Hackdev - Social Innovation Challenge</br>2019 - Sri Lanka</h6>
 					<a href="2-0-about.php#achievements" class="template-component-button template-component-button-style-1">More<i></i></a>
 				</li>
+
 				<li class="template-layout-column-left">
 					<!-- Counter -->
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
