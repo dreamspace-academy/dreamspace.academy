@@ -170,7 +170,6 @@
             <div>
               <h6>Peter Glasser</h6>
               </br>
-              </br>
               <span>Finance Consultant</span>
               <span>Switzerland</span>
             </div>
@@ -188,7 +187,6 @@
             <img src="../media\images\org-advisors\supporters-dreamspace-gabriella.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Dr. Gabriella Dezsö</h6>
-              </br>
               </br>
               <span>Startup Business Mentor</span>
               <span>Switzerland</span>
@@ -208,7 +206,6 @@
             <div>
               <h6>Philipp Klink</h6>
               </br>
-              </br>
               <span>Aerospace Engineer</span>
               <span>Australia</span>
             </div>
@@ -226,7 +223,6 @@
             <img src="../media\images\org-advisors\supporters-dreamspace-noelene.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Noelene Palmer</h6>
-              </br>
               </br>
               <span>Business Development</span>
               <span>Australia</span>
@@ -246,7 +242,6 @@
             <div>
               <h6>Alessandro Volpato</h6>
               </br>
-              </br>
               <span>Biotech</span>
               <span>Germany</span>
             </div>
@@ -264,7 +259,6 @@
             <img src="../media\images\org-supporters\supporters-dreamspace-malte.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Malte Larson</h6>
-              </br>
               </br>
               <span>Mycology</span>
               <span>Berlin</span>
@@ -284,7 +278,6 @@
             <div>
               <h6>Mike Richardson</h6>
               </br>
-              </br>
               <span>Photonics | IOT</span>
               <span>Germany</span>
             </div>
@@ -302,7 +295,6 @@
             <img src="../media\images\org-supporters\supporters-dreamspace-johanna.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Johanna Havemann</h6>
-              </br>
               </br>
               <span>Open Science</span>
               <span>Germany</span>
@@ -322,7 +314,6 @@
             <div>
               <h6>Bhargav Kalisar Ramachandra</h6>
               </br>
-              </br>
               <span>Manufacturing</span>
               <span>India</span>
             </div>
@@ -341,7 +332,6 @@
             <div>
               <h6>M. A. Karthik</h6>
               </br>
-              </br>
               <span>Policy Making</span>
               <span>India</span>
             </div>
@@ -359,7 +349,6 @@
             <img src="../media\images\org-supporters\supporters-dreamspace-sakshi.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Sakshi Sharma</h6>
-              </br>
               </br>
               <span>Content Writing</span>
               <span>India</span>
