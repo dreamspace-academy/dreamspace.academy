@@ -17,6 +17,18 @@
 				<li class="template-layout-column-left">
 					<!-- Counter -->
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
+						<img src="media\images\org-partners\partners-dreamspace-bbc.jpg" alt="DreamSpace Academy" />
+					</div>
+
+					<!-- Header -->
+					<h6>BBC News</br>2021 - London</h6>
+					</br>
+					<a target=_blank href="https://www.bbc.com/news/uk-56734327" class="template-component-button template-component-button-style-1">More<i></i></a>
+				</li>
+
+				<li class="template-layout-column-left">
+					<!-- Counter -->
+					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
 						<img src="../media/images/org-partners/partners-dreamspace-les-echos.jpg" alt="DreamSpace Academy" />
 					</div>
 
