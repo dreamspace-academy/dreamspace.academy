@@ -122,8 +122,8 @@
             <div>
               <h6>Charuni Indrajith</h6>
               </br>
-              <span>Guardian of Operations</span>
-              </br>
+              <span>Guardian of</span>
+              <span>Operations</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
@@ -143,8 +143,8 @@
             <div>
               <h6>Suhail Mohammed</h6>
               </br>
-              <span>Guardian of Bio Lab</span>
-              </br>
+              <span>Guardian of</span>
+              <span>Bio Lab</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
@@ -315,7 +315,6 @@
             <img src="../media\images\community-visual-content-makers\visual-content-makers-dreamspace-kajenthirappirapa-rishanthini.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Rishanthini Kajenthirapirpa</h6>
-              </br>
               <span>Guardian of</span>
               <span>Finance</span>
             </div>
@@ -338,8 +337,8 @@
             <div>
               <h6>Abitharani Jeyachandran</h6>
               </br>
-              <span>Maker - Software Lab</span>
-              </br>
+              <span>Maker</span>
+              <span>Software Lab</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
@@ -360,8 +359,8 @@
             <div>
               <h6>Faahim Ismail</h6>
               </br>
-              <span>Maker - Electronics Lab</span>
-              </br>
+              <span>Maker</span>
+              <span>Electronics Lab</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
@@ -382,8 +381,8 @@
             <div>
               <h6>Thanushkar Srikaran</h6>
               </br>
-              <span>Maker - Space Lab</span>
-              </br>
+              <span>Maker</span>
+              <span>Space Lab</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
@@ -404,8 +403,8 @@
             <div>
               <h6>Pavithran Manisegaran</h6>
               </br>
-              <span>Maker - Mechanical Lab</span>
-              </br>
+              <span>Maker</span>
+              <span>Mechanical Lab</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>

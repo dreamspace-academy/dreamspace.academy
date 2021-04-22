@@ -240,6 +240,196 @@
             </div>
           </div>
         </li>
+        <li class="template-layout-column-left">
+          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+            <img src="../media\images\org-supporters\supporters-dreamspace-alessandro.jpg" alt="DreamSpace Academy" />
+            <div>
+              <h6>Alessandro Volpato</h6>
+              </br>
+              </br>
+              <span>Biotech</span>
+              <span>Germany</span>
+            </div>
+            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+              <ul>
+                <li><a target="_blank" href="https://www.linkedin.com/in/alessandro-volpato-150725141/">
+                    <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
+                  </a></li>
+              </ul>
+            </div>
+          </div>
+        </li>
+        <li class="template-layout-column-center-left">
+          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+            <img src="../media\images\org-supporters\supporters-dreamspace-malte.jpg" alt="DreamSpace Academy" />
+            <div>
+              <h6>Malte Larson</h6>
+              </br>
+              </br>
+              <span>Mycology</span>
+              <span>Berlin</span>
+            </div>
+            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+              <ul>
+                <li><a target="_blank" href="https://www.linkedin.com/in/malte-larsen-9a898b172/">
+                    <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
+                  </a></li>
+              </ul>
+            </div>
+          </div>
+        </li>
+        <li class="template-layout-column-center-right">
+          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+            <img src="../media\images\org-supporters\supporters-dreamspace-mike.jpg" alt="DreamSpace Academy" />
+            <div>
+              <h6>Mike Richardson</h6>
+              </br>
+              </br>
+              <span>Photonics | IOT</span>
+              <span>Germany</span>
+            </div>
+            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+              <ul>
+                <li><a target="_blank" href="https://www.linkedin.com/in/mike4tech/">
+                    <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
+                  </a></li>
+              </ul>
+            </div>
+          </div>
+        </li>
+        <li class="template-layout-column-right">
+          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+            <img src="../media\images\org-supporters\supporters-dreamspace-johanna.jpg" alt="DreamSpace Academy" />
+            <div>
+              <h6>Johanna Havemann</h6>
+              </br>
+              </br>
+              <span>Open Science</span>
+              <span>Germany</span>
+            </div>
+            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+              <ul>
+                <li><a target="_blank" href="https://www.linkedin.com/in/johavemann/">
+                    <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
+                  </a></li>
+              </ul>
+            </div>
+          </div>
+        </li>
+        <li class="template-layout-column-left">
+          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+            <img src="../media\images\org-supporters\supporters-dreamspace-bhargav.jpg" alt="DreamSpace Academy" />
+            <div>
+              <h6>Bhargav Kalisar Ramachandra</h6>
+              </br>
+              </br>
+              <span>Manufacturing</span>
+              <span>India</span>
+            </div>
+            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+              <ul>
+                <li><a target="_blank" href="https://www.linkedin.com/in/bhargav-kalisar-ramachandra-ab625a1b/">
+                    <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
+                  </a></li>
+              </ul>
+            </div>
+          </div>
+        </li>
+        <li class="template-layout-column-center-left">
+          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+            <img src="../media\images\org-supporters\supporters-dreamspace-karthik.jpg" alt="DreamSpace Academy" />
+            <div>
+              <h6>M. A. Karthik</h6>
+              </br>
+              </br>
+              <span>Policy Making</span>
+              <span>India</span>
+            </div>
+            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+              <ul>
+                <li><a target="_blank" href="https://www.linkedin.com/in/ma-karthik/">
+                    <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
+                  </a></li>
+              </ul>
+            </div>
+          </div>
+        </li>
+        <li class="template-layout-column-center-right">
+          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+            <img src="../media\images\org-supporters\supporters-dreamspace-sakshi.jpg" alt="DreamSpace Academy" />
+            <div>
+              <h6>Sakshi Sharma</h6>
+              </br>
+              </br>
+              <span>Content Writing</span>
+              <span>India</span>
+            </div>
+            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+              <ul>
+                <li><a target="_blank" href="https://www.linkedin.com/in/sakshi-sharma-345415109/">
+                    <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
+                  </a></li>
+              </ul>
+            </div>
+          </div>
+        </li>
+        <li class="template-layout-column-right">
+          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+            <img src="../media\images\org-supporters\supporters-dreamspace-raymond.jpg" alt="DreamSpace Academy" />
+            <div>
+              <h6>Raymond Miranda</h6>
+              </br>
+              </br>
+              <span>Storytelling</span>
+              <span>Malasiya</span>
+            </div>
+            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+              <ul>
+                <li><a target="_blank" href="https://www.linkedin.com/in/breaktheritual/">
+                    <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
+                  </a></li>
+              </ul>
+            </div>
+          </div>
+        </li>
+        <li class="template-layout-column-left">
+          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+            <img src="../media\images\org-supporters\supporters-dreamspace-farshad.jpg" alt="DreamSpace Academy" />
+            <div>
+              <h6>Farshad Fahimi</h6>
+              </br>
+              </br>
+              <span>Data Science</span>
+              <span>Berlin</span>
+            </div>
+            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+              <ul>
+                <li><a target="_blank" href="https://www.linkedin.com/in/fafaimi/">
+                    <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
+                  </a></li>
+              </ul>
+            </div>
+          </div>
+        </li>
+        <li class="template-layout-column-center-left">
+          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+            <img src="../media\images\org-supporters\supporters-dreamspace-amiththan.jpg" alt="DreamSpace Academy" />
+            <div>
+              <h6>Amiththan Sebarajah</h6>
+              </br>
+              </br>
+              <span>Endurance</span>
+              <span>Canada</span>
+            </div>
+            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+              <ul>
+                <li><a target="_blank" href="https://www.linkedin.com/in/amiththan-sebarajah-76291985/">
+                    <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
+                  </a></li>
+              </ul>
+            </div>
+          </div>
+        </li>
       </ul>
     </div>
   </div>
