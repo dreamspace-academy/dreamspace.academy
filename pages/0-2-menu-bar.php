@@ -106,6 +106,7 @@
 									<ul>
 										<li><a target=_blank href="https://sylcsl.org">Sagacious Youth Lead Consortium (SYLC)</a></li>
 										<li><a target=_blank href="https://srilankaunites.org">Sri Lanka Unites</a></li>
+										<li><a target=_blank href="https://www.facebook.com/hersrilanka">HER</a></li>
 									</ul>
 								</div>
 
@@ -118,7 +119,8 @@
 										<li><a href="4-2-0-communities.php#urban-farming">Urban Farming</a></li>
 										<li><a href="#">Artificial Intelligence</a></li>
 										<li><a href="#">Plastic Upcyclers</a></li>
-										<li><a href="#">Ocean</a></li>
+										<li><a href="#">Ocean Community</a></li>
+										<li><a href="#">Plastic Community</a></li>
 									</ul>
 								</div>
 
@@ -134,13 +136,12 @@
 								<div class="template-layout-column-right">
 									<span class="sf-mega-header">Service Providing</span>
 									<ul>
-										<li><a target=_blank href="https://aracreate.com">araCreate (360° Consulting)</a></li>
-										<li><a target=_blank href="https://zerosec.in">ZeroSec Solutions (Data Moderation)</a></li>
-										<li><a href="3-4-0-social-enterprise.php#j-matrix">J Matrix (3D Printing)</a></li>
-										<li><a href="#">GR-Technologies (Software Development)</a></li>
-										<li><a href="#">EMD Lab (Prototype & Product Development)</a></li>
-										<li><a href="#">Dude Style Studio (Photography & Documentary Making)</a></li>
-										<li><a href="#">Curve Matrics</a></li>
+										<li><a target=_blank href="https://aracreate.com">360° Consulting</a></li>
+										<li><a target=_blank href="https://zerosec.in">Data Moderation</a></li>
+										<li><a href="3-4-0-social-enterprise.php#j-matrix">Prototype & Product Development</a></li>
+										<li><a href="#">Software Development</a></li>
+										<li><a href="#">Photography & Documentary Making</a></li>
+										<li><a href="#">Gift Shop</a></li>
 									</ul>
 								</div>
 
