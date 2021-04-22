@@ -272,6 +272,7 @@
             <div>
               <h6>Gunarakulan Gunaretnam</h6>
               </br>
+              </br>
               <span>Guardian of</span>
               <span>Software Lab</span>
             </div>
@@ -294,6 +295,7 @@
             <div>
               <h6>Abilajini Seeralan</h6>
               </br>
+              </br>
               <span>Guardian of</span>
               <span>Operations</span>
             </div>
@@ -315,6 +317,7 @@
             <img src="../media\images\community-visual-content-makers\visual-content-makers-dreamspace-kajenthirappirapa-rishanthini.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Rishanthini Kajenthirapirpa</h6>
+              </br>
               <span>Guardian of</span>
               <span>Finance</span>
             </div>
@@ -336,6 +339,7 @@
             <img src="../media\images\org-team\team-dreamspace-abitharani.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Abitharani Jeyachandran</h6>
+              </br>
               </br>
               <span>Maker</span>
               <span>Software Lab</span>

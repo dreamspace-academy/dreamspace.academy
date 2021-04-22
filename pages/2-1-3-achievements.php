@@ -20,6 +20,7 @@
             <div>
               <h6>Nestle Business Challenge</h6>
               </br>
+              </br>
               <span>2021 - Sri Lanka</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
@@ -36,6 +37,7 @@
             <img src="../media/images/org-partners/partners-dreamspace-ubl.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>UBL</h6>
+              </br>
               </br>
               <span>2021 - Sri Lanka</span>
             </div>
@@ -71,6 +73,7 @@
             <div>
               <h6>Hackx</h6>
               </br>
+              </br>
               <span>2020 - Sri Lanka</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
@@ -87,6 +90,7 @@
             <img src="../media/images/org-partners/partners-dreamspace-climathon.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Climathon</h6>
+              </br>
               </br>
               <span>2020 - Sri Lanka</span>
             </div>

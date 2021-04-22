@@ -332,6 +332,7 @@
             <div>
               <h6>M. A. Karthik</h6>
               </br>
+              </br>
               <span>Policy Making</span>
               <span>India</span>
             </div>
@@ -349,6 +350,7 @@
             <img src="../media\images\org-supporters\supporters-dreamspace-sakshi.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Sakshi Sharma</h6>
+              </br>
               </br>
               <span>Content Writing</span>
               <span>India</span>
@@ -387,7 +389,6 @@
             <div>
               <h6>Farshad Fahimi</h6>
               </br>
-              </br>
               <span>Data Science</span>
               <span>Berlin</span>
             </div>
@@ -405,7 +406,6 @@
             <img src="../media\images\org-supporters\supporters-dreamspace-amiththan.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Amiththan Sebarajah</h6>
-              </br>
               </br>
               <span>Endurance</span>
               <span>Canada</span>
