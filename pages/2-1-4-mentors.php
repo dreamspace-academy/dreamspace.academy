@@ -261,7 +261,7 @@
               <h6>Malte Larson</h6>
               </br>
               <span>Mycology</span>
-              <span>Berlin</span>
+              <span>Germany</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
@@ -390,7 +390,7 @@
               <h6>Farshad Fahimi</h6>
               </br>
               <span>Data Science</span>
-              <span>Berlin</span>
+              <span>Germany</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>

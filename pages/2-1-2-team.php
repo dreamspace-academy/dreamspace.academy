@@ -341,8 +341,8 @@
               <h6>Abitharani Jeyachandran</h6>
               </br>
               </br>
-              <span>Maker</span>
-              <span>Software Lab</span>
+              <span>Guardian of</span>
+              <span>IT Infrastructure</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
@@ -363,8 +363,7 @@
             <div>
               <h6>Faahim Ismail</h6>
               </br>
-              <span>Maker</span>
-              <span>Electronics Lab</span>
+              <span>Community Innovator</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
@@ -385,8 +384,7 @@
             <div>
               <h6>Thanushkar Srikaran</h6>
               </br>
-              <span>Maker</span>
-              <span>Space Lab</span>
+              <span>Community Innovator</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
@@ -407,8 +405,7 @@
             <div>
               <h6>Pavithran Manisegaran</h6>
               </br>
-              <span>Maker</span>
-              <span>Mechanical Lab</span>
+              <span>Community Innovator</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
