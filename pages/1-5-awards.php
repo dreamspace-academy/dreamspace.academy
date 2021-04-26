@@ -16,7 +16,7 @@
 				<li class="template-layout-column-left">
 					<!-- Counter -->
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
-						<img src="../media/images/org-partners/partners-dreamspace-nestle.jpg" alt="DreamSpace Academy" />
+						<img src="../media\logos\achievements-dreamspace-nestle.jpg" alt="DreamSpace Academy" />
 					</div>
 
 					<!-- Header -->
@@ -26,7 +26,7 @@
 				<li class="template-layout-column-left">
 					<!-- Counter -->
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
-						<img src="../media/images/org-partners/partners-dreamspace-ubl.jpg" alt="DreamSpace Academy" />
+						<img src="../media\logos\achievements-dreamspace-ubl.jpg" alt="DreamSpace Academy" />
 					</div>
 
 					<!-- Header -->
@@ -36,7 +36,7 @@
 				<li class="template-layout-column-left">
 					<!-- Counter -->
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
-						<img src="../media/images/org-partners/partners-dreamspace-hackx.jpg" alt="DreamSpace Academy" />
+						<img src="../media\logos\achievements-dreamspace-hackx.jpg" alt="DreamSpace Academy" />
 					</div>
 
 					<!-- Header -->
@@ -46,7 +46,7 @@
 				<li class="template-layout-column-left">
 					<!-- Counter -->
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
-						<img src="../media/images/org-partners/partners-dreamspace-climathon.jpg" alt="DreamSpace Academy" />
+						<img src="../media\logos\achievements-dreamspace-climathon.jpg" alt="DreamSpace Academy" />
 					</div>
 
 					<!-- Header -->
@@ -57,7 +57,7 @@
 				<li class="template-layout-column-left">
 					<!-- Counter -->
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
-						<img src="../media/images/org-partners/partners-dreamspace-earth-company.jpg" alt="DreamSpace Academy" />
+						<img src="../media\logos\achievements-dreamspace-earth-company.jpg" alt="DreamSpace Academy" />
 					</div>
 
 					<!-- Header -->
@@ -67,7 +67,7 @@
 				<li class="template-layout-column-left">
 					<!-- Counter -->
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
-						<img src="../media/images/org-partners/partners-dreamspace-peace-direct.jpg" alt="DreamSpace Academy" />
+						<img src="../media\logos\achievements-dreamspace-peace-direct.jpg" alt="DreamSpace Academy" />
 					</div>
 
 					<!-- Header -->
@@ -78,7 +78,7 @@
 				<li class="template-layout-column-left">
 					<!-- Counter -->
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
-						<img src="../media/images/org-partners/partners-dreamspace-global-community-bio-fellowship.jpg" alt="DreamSpace Academy" />
+						<img src="../media\logos\achievements-dreamspace-global-community-bio-fellowship.jpg" alt="DreamSpace Academy" />
 					</div>
 
 					<!-- Header -->
@@ -88,7 +88,7 @@
 				<li class="template-layout-column-left">
 					<!-- Counter -->
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
-						<img src="../media/images/org-partners/partners-dreamspace-genu.jpg" alt="DreamSpace Academy" />
+						<img src="../media\logos\achievements-dreamspace-genu.jpg" alt="DreamSpace Academy" />
 					</div>
 
 					<!-- Header -->
@@ -98,7 +98,7 @@
 				<li class="template-layout-column-left">
 					<!-- Counter -->
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
-						<img src="../media/images/org-partners/partners-dreamspace-sjwp.jpg" alt="DreamSpace Academy" />
+						<img src="../media\logos\achievements-dreamspace-sjwp.jpg" alt="DreamSpace Academy" />
 					</div>
 
 					<!-- Header -->
@@ -109,7 +109,7 @@
 				<li class="template-layout-column-left">
 					<!-- Counter -->
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
-						<img src="../media/images/org-partners/partners-dreamspace-hackdev.jpg" alt="DreamSpace Academy" />
+						<img src="../media\logos\achievements-dreamspace-hackdev.jpg" alt="DreamSpace Academy" />
 					</div>
 
 					<!-- Header -->
@@ -120,7 +120,7 @@
 				<li class="template-layout-column-left">
 					<!-- Counter -->
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
-						<img src="../media/images/org-partners/partners-dreamspace-falling-walls.jpg" alt="DreamSpace Academy" />
+						<img src="../media\logos\achievements-dreamspace-falling-walls.jpg" alt="DreamSpace Academy" />
 					</div>
 
 					<!-- Header -->

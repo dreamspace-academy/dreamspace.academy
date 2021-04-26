@@ -17,7 +17,7 @@
 				<li class="template-layout-column-left">
 					<!-- Counter -->
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
-						<img src="../media\images\org-partners\partners-dreamspace-bbc.jpg" alt="DreamSpace Academy" />
+						<img src="../media\logos\press-dreamspace-bbc.jpg" alt="DreamSpace Academy" />
 					</div>
 
 					<!-- Header -->
@@ -29,7 +29,7 @@
 				<li class="template-layout-column-left">
 					<!-- Counter -->
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
-						<img src="../media/images/org-partners/partners-dreamspace-les-echos.jpg" alt="DreamSpace Academy" />
+						<img src="../media\logos\press-dreamspace-les-echos.jpg" alt="DreamSpace Academy" />
 					</div>
 
 					<!-- Header -->
@@ -41,7 +41,7 @@
 				<li class="template-layout-column-left">
 					<!-- Counter -->
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
-						<img src="../media/images/org-partners/partners-dreamspace-bertelsmann-stiftung-change.jpg" alt="DreamSpace Academy" />
+						<img src="../media\logos\press-dreamspace-bertelsmann-stiftung-change.jpg" alt="DreamSpace Academy" />
 					</div>
 
 					<!-- Header -->
@@ -52,7 +52,7 @@
 				<li class="template-layout-column-left">
 					<!-- Counter -->
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
-						<img src="../media/images/org-partners/partners-dreamspace-daily-ft.jpg" alt="DreamSpace Academy" />
+						<img src="../media\logos\press-dreamspace-daily-ft.jpg" alt="DreamSpace Academy" />
 					</div>
 
 					<!-- Header -->
@@ -65,7 +65,7 @@
 				<li class="template-layout-column-left">
 					<!-- Counter -->
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
-						<img src="../media/images/org-partners/partners-dreamspace-zeit-wissen.jpg" alt="DreamSpace Academy" />
+						<img src="../media\logos\press-dreamspace-zeit-wissen.jpg" alt="DreamSpace Academy" />
 					</div>
 
 					<!-- Header -->
@@ -77,7 +77,7 @@
 				<li class="template-layout-column-left">
 					<!-- Counter -->
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
-						<img src="../media/images/org-partners/partners-dreamspace-robert-bosch-stiftung.jpg" alt="DreamSpace Academy" />
+						<img src="../media\logos\press-dreamspace-robert-bosch-stiftung.jpg" alt="DreamSpace Academy" />
 					</div>
 
 					<!-- Header -->
@@ -89,7 +89,7 @@
 				<li class="template-layout-column-left">
 					<!-- Counter -->
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
-						<img src="../media/images/org-partners/partners-dreamspace-idw.jpg" alt="DreamSpace Academy" />
+						<img src="../media\logos\press-dreamspace-idw.jpg" alt="DreamSpace Academy" />
 					</div>
 
 					<!-- Header -->
