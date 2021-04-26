@@ -291,7 +291,7 @@
         <li class="template-layout-column-center-left">
 
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media\people\visual-content-makers-dreamspace-abilajini-seeralan.jpg" alt="DreamSpace Academy" />
+            <img src="../media\people\team-dreamspace-abilajini-seeralan.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Abilajini Seeralan</h6>
               </br>
@@ -314,7 +314,7 @@
         <li class="template-layout-column-center-right">
 
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media\people\visual-content-makers-dreamspace-kajenthirappirapa-rishanthini.jpg" alt="DreamSpace Academy" />
+            <img src="../media\people\team-dreamspace-kajenthirappirapa-rishanthini.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Rishanthini Kajenthirapirpa</h6>
               </br>
@@ -359,7 +359,7 @@
         <li class="template-layout-column-left">
 
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media\people\visual-content-makers-dreamspace-mohamed-ismail-mohamed-fahim.jpg" alt="DreamSpace Academy" />
+            <img src="../media\people\team-dreamspace-mohamed-ismail-mohamed-fahim.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Faahim Ismail</h6>
               </br>
@@ -380,7 +380,7 @@
         <li class="template-layout-column-center-left">
 
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media\people\makers-dreamspace-thanushkar.jpg" alt="DreamSpace Academy" />
+            <img src="../media\people\team-dreamspace-thanushkar.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Thanushkar Srikaran</h6>
               </br>
@@ -401,7 +401,7 @@
         <li class="template-layout-column-center-right">
 
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media\people\makers-dreamspace-pavithran.jpg" alt="DreamSpace Academy" />
+            <img src="../media\people\team-dreamspace-pavithran.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Pavithran Manisegaran</h6>
               </br>
