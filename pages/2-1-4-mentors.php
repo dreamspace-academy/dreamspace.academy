@@ -457,7 +457,7 @@
         </li>
         <li class="template-layout-column-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media\people\mentors-dreamspace-ted.jpg" alt="DreamSpace Academy" />
+            <img src="../media\people\mentors-dreamspace-nicholus.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Nicholas Crudele</h6>
               </br>
