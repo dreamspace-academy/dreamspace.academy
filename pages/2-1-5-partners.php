@@ -99,6 +99,23 @@
             </div>
           </div>
         </li>
+        <li class="template-layout-column-center-left">
+          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+            <img src="../media\logos\partners-dreamspace-mirchandani-foundation.jpg" alt="DreamSpace Academy" />
+            <div>
+              <h6>Mirchandani Foundation</h6>
+              </br>
+              <span>Sri Lanka</span>
+            </div>
+            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+              <ul>
+                <li><a target="_blank" href="#">
+                    <i class="fas fa-link fa-lg" style="color: white; padding-top: 17px;"></i>
+                  </a></li>
+              </ul>
+            </div>
+          </div>
+        </li>
       </ul>
     </div>
   </div>
@@ -449,7 +466,6 @@
             </div>
           </div>
         </li>
-
       </ul>
     </div>
   </div>

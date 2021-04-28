@@ -118,9 +118,8 @@
 										<li><a href="4-2-0-communities.php#chess">Chess</a></li>
 										<li><a href="4-2-0-communities.php#urban-farming">Urban Farming</a></li>
 										<li><a href="#">Artificial Intelligence</a></li>
-										<li><a href="#">Plastic Upcyclers</a></li>
 										<li><a href="#">Ocean Community</a></li>
-										<li><a href="#">Plastic Community</a></li>
+										<li><a href="4-2-5-plastic-community.php">Plastic Community</a></li>
 									</ul>
 								</div>
 
