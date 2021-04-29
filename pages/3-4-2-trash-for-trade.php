@@ -23,10 +23,10 @@
 			<div class="template-layout-column-right template-margin-bottom-reset">
 				<div class="template-component-nivo-slider template-component-nivo-slider-style-1 template-preloader">
 					<div>
-						<img src="../media/images/enterprise-trash-for-trade/trash-for-trade-dreamspace-1.jpg" data-thumb="../media/images/enterprise-trash-for-trade/trash-for-trade-dreamspace-1.jpg" alt="DreamSpace Academy" />
-						<img src="../media/images/enterprise-trash-for-trade/trash-for-trade-dreamspace-2.jpg" data-thumb="../media/images/enterprise-trash-for-trade/trash-for-trade-dreamspace-2.jpg" alt="DreamSpace Academy" />
-						<img src="../media/images/enterprise-trash-for-trade/trash-for-trade-dreamspace-3.jpg" data-thumb="../media/images/enterprise-trash-for-trade/trash-for-trade-dreamspace-3.jpg" alt="DreamSpace Academy" />
-						<img src="../media/images/enterprise-trash-for-trade/trash-for-trade-dreamspace-4.jpg" data-thumb="../media/images/enterprise-trash-for-trade/trash-for-trade-dreamspace-4.jpg" alt="DreamSpace Academy" />
+						<img src="../media/gallery/enterprise-trash-for-trade-dreamspace-1.jpg" data-thumb="../media/gallery/enterprise-trash-for-trade-dreamspace-1.jpg" alt="DreamSpace Academy" />
+						<img src="../media/gallery/enterprise-trash-for-trade-dreamspace-2.jpg" data-thumb="../media/gallery/enterprise-trash-for-trade-dreamspace-2.jpg" alt="DreamSpace Academy" />
+						<img src="../media/gallery/enterprise-trash-for-trade-dreamspace-3.jpg" data-thumb="../media/gallery/enterprise-trash-for-trade-dreamspace-3.jpg" alt="DreamSpace Academy" />
+						<img src="../media/gallery/enterprise-trash-for-trade-dreamspace-4.jpg" data-thumb="../media/gallery/enterprise-trash-for-trade-dreamspace-4.jpg" alt="DreamSpace Academy" />
 					</div>
 				</div>
 			</div>

@@ -20,7 +20,7 @@
     <!-- Image -->
     <div class="template-post-section-preambule">
       <div class="template-component-image template-preloader">
-        <img src="../media/images/org-labs/lab-art-dreamspace-7.jpg" alt="DreamSpace Academy" />
+        <img src="../media/gallery/lab-art-dreamspace-7.jpg" alt="DreamSpace Academy" />
       </div>
     </div>
 
