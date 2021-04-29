@@ -14,11 +14,11 @@
       <div class="template-post-section-preambule">
         <div class="template-component-nivo-slider template-component-nivo-slider-style-2 template-preloader">
           <div>
-            <img src="../media/images/innovation-underwater-glider/underwater-glider-dreamspace-1.jpg" data-thumb="../media/images/innovation-underwater-glider/underwater-glider-dreamspace-1.jpg" alt="DreamSpace Academy" />
-            <img src="../media/images/innovation-underwater-glider/underwater-glider-dreamspace-2.jpg" data-thumb="../media/images/innovation-underwater-glider/underwater-glider-dreamspace-2.jpg" alt="DreamSpace Academy" />
-            <img src="../media/images/innovation-underwater-glider/underwater-glider-dreamspace-3.jpg" data-thumb="../media/images/innovation-underwater-glider/underwater-glider-dreamspace-3.jpg" alt="DreamSpace Academy" />
-            <img src="../media/images/innovation-underwater-glider/underwater-glider-dreamspace-4.jpg" data-thumb="../media/images/innovation-underwater-glider/underwater-glider-dreamspace-4.jpg" alt="DreamSpace Academy" />
-            <img src="../media/images/innovation-underwater-glider/underwater-glider-dreamspace-5.jpg" data-thumb="../media/images/innovation-underwater-glider/underwater-glider-dreamspace-5.jpg" alt="DreamSpace Academy" />
+            <img src="../media/gallery/innovation-underwater-glider-dreamspace-1.jpg" data-thumb="../media/images/innovation-underwater-glider/underwater-glider-dreamspace-1.jpg" alt="DreamSpace Academy" />
+            <img src="../media/gallery/innovation-underwater-glider-dreamspace-2.jpg" data-thumb="../media/images/innovation-underwater-glider/underwater-glider-dreamspace-2.jpg" alt="DreamSpace Academy" />
+            <img src="../media/gallery/innovation-underwater-glider-dreamspace-3.jpg" data-thumb="../media/images/innovation-underwater-glider/underwater-glider-dreamspace-3.jpg" alt="DreamSpace Academy" />
+            <img src="../media/gallery/innovation-underwater-glider-dreamspace-4.jpg" data-thumb="../media/images/innovation-underwater-glider/underwater-glider-dreamspace-4.jpg" alt="DreamSpace Academy" />
+            <img src="../media/gallery/innovation-underwater-glider-dreamspace-5.jpg" data-thumb="../media/images/innovation-underwater-glider/underwater-glider-dreamspace-5.jpg" alt="DreamSpace Academy" />
           </div>
         </div>
         <div class="template-component-divider template-component-divider-style-1"></div>
@@ -121,21 +121,21 @@
           <div class="template-component-feature template-component-feature-style-1 template-component-feature-position-left template-component-feature-size-medium">
             <ul class="template-layout-33x33x33 template-clear-fix">
               <li class="template-layout-column-left">
-                <div class="template-icon-feature"><img src="../media/images/logos-sdg/un-sdg-dreamspace-14.png" alt="DreamSpace Academy" /></div>
+                <div class="template-icon-feature"><img src="../media/logos/un-sdg-dreamspace-14.png" alt="DreamSpace Academy" /></div>
                 <h5>Life Below Water</br></br></h5>
                 <p><b>UN SDG 14</b></p>
                 <p>Conserve and sustainably use the oceans, seas and marine resources for sustainable development</p>
               </li>
 
               <li class="template-layout-column-center">
-                <div class="template-icon-feature"><img src="../media/images/logos-sdg/un-sdg-dreamspace-6.png" alt="DreamSpace Academy" /></div>
+                <div class="template-icon-feature"><img src="../media/logos/un-sdg-dreamspace-6.png" alt="DreamSpace Academy" /></div>
                 <h5>Clean Water and Sanitation</h5>
                 <p><b>UN SDG 6</b></p>
                 <p>Ensure availability and sustainable management of water and sanitation for all</p>
               </li>
 
               <li class="template-layout-column-right">
-                <div class="template-icon-feature"><img src="../media/images/logos-sdg/un-sdg-dreamspace-13.png" alt="DreamSpace Academy" /></div>
+                <div class="template-icon-feature"><img src="../media/logos/un-sdg-dreamspace-13.png" alt="DreamSpace Academy" /></div>
                 <h5>Climate Action</br></br></h5>
                 <p><b>UN SDG 13</b></p>
                 <p>Take urgent action to combat climate change and its impacts</p>
