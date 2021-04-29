@@ -1,3 +1,4 @@
+<?php include('0-0-header.php') ?>
 <div class="template-content" id="plastic-community">
 
   <!-- Header and subheader -->
@@ -120,3 +121,4 @@
     </div>
   </div>
 </div>
+<?php include('9-0-footer.php') ?>
