@@ -10,7 +10,7 @@
 
 			<div class="template-header-top-logo">
 				<a href="1-0-index.php">
-					<center><img src="../media/images/logos/logo-4148x2074-dreamspace.png" width="40%" /> </center>
+					<center><img src="../media/logos/logo-4148x2074-dreamspace.png" width="40%" /> </center>
 				</a>
 			</div>
 

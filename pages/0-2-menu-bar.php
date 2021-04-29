@@ -3,7 +3,7 @@
 		<div class="template-main template-clear-fix">
 			<div class="template-header-top-logo">
 				<a href="1-0-index.php">
-					<img src="../media\logos\logo-4148x2074-dreamspace.png" />
+					<img src="../media/logos/logo-4148x2074-dreamspace.png" />
 				</a>
 			</div>
 			<div class="template-header-top-menu template-clear-fix">
