@@ -24,7 +24,7 @@
 							<div class="template-layout-flex-50x50">
 							</div>
 						</div>
-						<div style="background-image:url('../media/images/org-labs/lab-electronics-dreamspace-1.jpg')">
+						<div style="background-image:url('../media/gallery/lab-electronics-dreamspace-1.jpg')">
 							<a href="3-1-0-maker-education.php#electronics-lab" class="template-component-button template-component-button-style-1">More<i></i></a>
 						</div>
 					</div>
@@ -40,7 +40,7 @@
 							<div class="template-layout-flex-50x50">
 							</div>
 						</div>
-						<div style="background-image:url('../media/images/org-labs/lab-software-dreamspace-1.jpg')">
+						<div style="background-image:url('../media/gallery/lab-software-dreamspace-1.jpg')">
 							<a href="3-1-0-maker-education.php#software-lab" class="template-component-button template-component-button-style-1">More<i></i></a>
 						</div>
 					</div>
@@ -55,7 +55,7 @@
 							<div class="template-layout-flex-50x50">
 							</div>
 						</div>
-						<div style="background-image:url('../media/images/org-labs/lab-mechanics-dreamspace-7.jpg')">
+						<div style="background-image:url('../media/gallery/lab-mechanics-dreamspace-7.jpg')">
 							<a href="3-1-0-maker-education.php#mechanics-lab" class="template-component-button template-component-button-style-1">More<i></i></a>
 						</div>
 					</div>
@@ -71,7 +71,7 @@
 							<div class="template-layout-flex-50x50">
 							</div>
 						</div>
-						<div style="background-image:url('../media/images/org-labs/lab-business-dreamspace-1.jpg')">
+						<div style="background-image:url('../media/gallery/lab-business-dreamspace-1.jpg')">
 							<a href="3-1-0-maker-education.php#business-lab" class="template-component-button template-component-button-style-1">More<i></i></a>
 						</div>
 					</div>
@@ -89,7 +89,7 @@
 							<div class="template-layout-flex-50x50">
 							</div>
 						</div>
-						<div style="background-image:url('../media/images/org-labs/lab-art-dreamspace-1.jpg')">
+						<div style="background-image:url('../media/gallery/lab-art-dreamspace-1.jpg')">
 							<a href="3-1-0-maker-education.php#art-lab" class="template-component-button template-component-button-style-1">More<i></i></a>
 						</div>
 					</div>
@@ -105,7 +105,7 @@
 							<div class="template-layout-flex-50x50">
 							</div>
 						</div>
-						<div style="background-image:url('../media/images/org-labs/lab-bio-dreamspace-1.jpg')">
+						<div style="background-image:url('../media/gallery/lab-bio-dreamspace-1.jpg')">
 							<a href="3-1-0-maker-education.php#bio-lab" class="template-component-button template-component-button-style-1">More<i></i></a>
 						</div>
 					</div>
@@ -120,7 +120,7 @@
 							<div class="template-layout-flex-50x50">
 							</div>
 						</div>
-						<div style="background-image:url('../media/images/org-labs/lab-design-dreamspace-1.jpg')">
+						<div style="background-image:url('../media/gallery/lab-design-dreamspace-1.jpg')">
 							<a href="3-1-0-maker-education.php#story-lab" class="template-component-button template-component-button-style-1">More<i></i></a>
 						</div>
 					</div>
@@ -136,7 +136,7 @@
 							<div class="template-layout-flex-50x50">
 							</div>
 						</div>
-						<div style="background-image:url('../media/images/org-labs/lab-space-dreamspace-2.jpg')">
+						<div style="background-image:url('../media/gallery/lab-space-dreamspace-2.jpg')">
 							<a href="3-1-0-maker-education.php" class="template-component-button template-component-button-style-1">More<i></i></a>
 						</div>
 					</div>
@@ -151,7 +151,7 @@
 							<div class="template-layout-flex-50x50">
 							</div>
 						</div>
-						<div style="background-image:url('../media/images/org-labs/lab-policy-dreamspace-1.jpg')">
+						<div style="background-image:url('../media/gallery/lab-policy-dreamspace-1.jpg')">
 							<a href="3-1-0-maker-education.php" class="template-component-button template-component-button-style-1">More<i></i></a>
 						</div>
 					</div>
@@ -167,7 +167,7 @@
 							<div class="template-layout-flex-50x50">
 							</div>
 						</div>
-						<div style="background-image:url('../media/images/org-labs/lab-nano-dreamspace-1.jpg')">
+						<div style="background-image:url('../media/gallery/lab-nano-dreamspace-1.jpg')">
 							<a href="3-1-0-maker-education.php" class="template-component-button template-component-button-style-1">More<i></i></a>
 						</div>
 					</div>
@@ -182,7 +182,7 @@
 							<div class="template-layout-flex-50x50">
 							</div>
 						</div>
-						<div style="background-image:url('../media/images/org-labs/lab-fabrics-dreamspace-1.jpg')">
+						<div style="background-image:url('../media/gallery/lab-fabrics-dreamspace-1.jpg')">
 							<a href="3-1-0-maker-education.php" class="template-component-button template-component-button-style-1">More<i></i></a>
 						</div>
 					</div>
@@ -197,7 +197,7 @@
 							<div class="template-layout-flex-50x50">
 							</div>
 						</div>
-						<div style="background-image:url('../media/images/org-labs/lab-edible-dreamspace-1.jpg')">
+						<div style="background-image:url('../media/gallery/lab-edible-dreamspace-1.jpg')">
 							<a href="3-1-0-maker-education.php" class="template-component-button template-component-button-style-1">More<i></i></a>
 						</div>
 					</div>
@@ -213,7 +213,7 @@
 							<div class="template-layout-flex-50x50">
 							</div>
 						</div>
-						<div style="background-image:url('../media/images/org-labs/lab-mind-dreamspace-1.jpg')">
+						<div style="background-image:url('../media/gallery/lab-mind-dreamspace-1.jpg')">
 							<a href="3-1-0-maker-education.php" class="template-component-button template-component-button-style-1">More<i></i></a>
 						</div>
 					</div>
@@ -228,7 +228,7 @@
 							<div class="template-layout-flex-50x50">
 							</div>
 						</div>
-						<div style="background-image:url('../media/images/org-labs/lab-language-dreamspace-1.jpg')">
+						<div style="background-image:url('../media/gallery/lab-language-dreamspace-1.jpg')">
 							<a href="3-1-0-maker-education.php" class="template-component-button template-component-button-style-1">More<i></i></a>
 						</div>
 					</div>

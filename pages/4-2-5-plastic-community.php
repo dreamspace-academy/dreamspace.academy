@@ -105,7 +105,6 @@
             <img src="../media\people\community-trash-for-trade-vicky.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Vickneshwarasarma Yogeswaraiyer</h6>
-              </br>
               <span>Jaffna</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
