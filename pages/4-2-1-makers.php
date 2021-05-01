@@ -353,7 +353,7 @@
             <img src="../media/people/community-makers-dreamspace-thanajayan.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Thananjayan</h6>
-              </br><span>Innovator</span>
+              </br></br><span>Innovator</span>
               <span>Batticaloa</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
@@ -402,6 +402,66 @@
                     <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
                   </a></li>
                 <li><a target="_blank" href="https://www.facebook.com/pathma.priyan.7">
+                    <i class="fas fa-link fa-lg" style="color: white; padding-top: 17px;"></i>
+                  </a></li>
+              </ul>
+            </div>
+          </div>
+        </li>
+        <li class="template-layout-column-right">
+          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+            <img src="../media/people/community-makers-dreamspace-suhail.jpg" alt="DreamSpace Academy" />
+            <div>
+              <h6>Suhail Mohammad</h6>
+              </br></br><span>Innovator</span>
+              <span>Batticaloa</span>
+            </div>
+            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+              <ul>
+                <li><a target="_blank" href="#">
+                    <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
+                  </a></li>
+                <li><a target="_blank" href="https://www.facebook.com/shl.suhail">
+                    <i class="fas fa-link fa-lg" style="color: white; padding-top: 17px;"></i>
+                  </a></li>
+              </ul>
+            </div>
+          </div>
+        </li>
+        <li class="template-layout-column-left">
+          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+            <img src="../media/people/community-makers-dreamspace-anuradha.jpg" alt="DreamSpace Academy" />
+            <div>
+              <h6>Anuradha Abeykoon</h6>
+              </br><span>Innovator</span>
+              <span>Batticaloa</span>
+            </div>
+            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+              <ul>
+                <li><a target="_blank" href="https://www.linkedin.com/in/anuradha-abeykoon/">
+                    <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
+                  </a></li>
+                <li><a target="_blank" href="https://www.facebook.com/anuradha.gayanath.3">
+                    <i class="fas fa-link fa-lg" style="color: white; padding-top: 17px;"></i>
+                  </a></li>
+              </ul>
+            </div>
+          </div>
+        </li>
+        <li class="template-layout-column-center-left">
+          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+            <img src="../media/people/community-makers-dreamspace-ahaliya.jpg" alt="DreamSpace Academy" />
+            <div>
+              <h6>Ahaliya David</h6>
+            </br><span>Photography</span>
+              <span>Batticaloa</span>
+            </div>
+            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+              <ul>
+                <li><a target="_blank" href="#">
+                    <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
+                  </a></li>
+                <li><a target="_blank" href="#">
                     <i class="fas fa-link fa-lg" style="color: white; padding-top: 17px;"></i>
                   </a></li>
               </ul>

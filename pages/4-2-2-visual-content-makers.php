@@ -329,7 +329,6 @@
             <div>
               <h6>Mohamed Hashim Hameem</h6>
               </br>
-              </br>
               <span>Visual Content Makers</span>
               <span>Trincomalee</span>
               </br>

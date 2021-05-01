@@ -16,11 +16,11 @@
         <!-- Supporters -->
         <li class="template-layout-column-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media\people\mentors-dreamspace-maite.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/mentors-dreamspace-maite.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Maite Hernandez Zubeldia</h6>
               </br>
-              <span>Design Thinking Trainer</span>
+              <span>Design Thinking</span>
               <span>Germany | Cuba</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
@@ -34,12 +34,12 @@
         </li>
         <li class="template-layout-column-center-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media\people\mentors-dreamspace-darina.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/mentors-dreamspace-darina.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Darina Onoprienko</h6>
               </br>
               </br>
-              <span>Entrepreneurship Trainer</span>
+              <span>Entrepreneurship</span>
               <span>Germany | Russia</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
@@ -53,12 +53,12 @@
         </li>
         <li class="template-layout-column-center-right">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media\people\mentors-dreamspace-nico.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/mentors-dreamspace-nico.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Dr. Nico Meißner</h6>
               </br>
               </br>
-              <span>Storytelling Trainer</span>
+              <span>Storytelling</span>
               <span>Australia | Malaysia</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
@@ -72,12 +72,12 @@
         </li>
         <li class="template-layout-column-right">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media\people\mentors-dreamspace-luise.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/mentors-dreamspace-luise.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Luise Kröning</h6>
               </br>
               </br>
-              <span>Innovation Consultant</span>
+              <span>Innovation</span>
               <span>Germany</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
@@ -91,12 +91,12 @@
         </li>
         <li class="template-layout-column-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media\people\mentors-dreamspace-zoe.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/mentors-dreamspace-zoe.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Zoë Harman Conlon</h6>
               </br>
               </br>
-              <span>Event Manager</span>
+              <span>Event</span>
               <span>Germany | Ireland</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
@@ -110,7 +110,7 @@
         </li>
         <li class="template-layout-column-center-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media\people\mentors-dreamspace-johnny.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/mentors-dreamspace-johnny.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Johnny FD</h6>
               </br>
@@ -129,11 +129,11 @@
         </li>
         <li class="template-layout-column-center-right">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media\people\mentors-dreamspace-kamalanathan.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/mentors-dreamspace-kamalanathan.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Kamalanathan Pakkiyaraja</h6>
               </br>
-              <span>Finance Consultant</span>
+              <span>Finance</span>
               <span>Canada</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
@@ -147,12 +147,12 @@
         </li>
         <li class="template-layout-column-right">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media\people\mentors-dreamspace-stephen.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/mentors-dreamspace-stephen.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Stephen Byam</h6>
               </br>
               </br>
-              <span>Finance Consultant</span>
+              <span>Finance</span>
               <span>USA</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
@@ -166,11 +166,11 @@
         </li>
         <li class="template-layout-column-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media\people\mentors-dreamspace-peter.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/mentors-dreamspace-peter.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Peter Glasser</h6>
               </br>
-              <span>Finance Consultant</span>
+              <span>Finance</span>
               <span>Switzerland</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
@@ -184,11 +184,11 @@
         </li>
         <li class="template-layout-column-center-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media\people\mentors-dreamspace-gabriella.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/mentors-dreamspace-gabriella.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Dr. Gabriella Dezsö</h6>
               </br>
-              <span>Startup Business Mentor</span>
+              <span>Startup Business</span>
               <span>Switzerland</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
@@ -202,11 +202,11 @@
         </li>
         <li class="template-layout-column-center-right">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media\people\mentors-dreamspace-philipp.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/mentors-dreamspace-philipp.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Philipp Klink</h6>
               </br>
-              <span>Aerospace Engineer</span>
+              <span>Aerospace</span>
               <span>Australia</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
@@ -220,7 +220,7 @@
         </li>
         <li class="template-layout-column-right">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media\people\mentors-dreamspace-noelene.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/mentors-dreamspace-noelene.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Noelene Palmer</h6>
               </br>
@@ -238,7 +238,7 @@
         </li>
         <li class="template-layout-column-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media\people\mentors-dreamspace-alessandro.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/mentors-dreamspace-alessandro.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Alessandro Volpato</h6>
               </br>
@@ -256,7 +256,7 @@
         </li>
         <li class="template-layout-column-center-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media\people\mentors-dreamspace-malte.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/mentors-dreamspace-malte.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Malte Larson</h6>
               </br>
@@ -274,7 +274,7 @@
         </li>
         <li class="template-layout-column-center-right">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media\people\mentors-dreamspace-mike.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/mentors-dreamspace-mike.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Mike Richardson</h6>
               </br>
@@ -292,7 +292,7 @@
         </li>
         <li class="template-layout-column-right">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media\people\mentors-dreamspace-johanna.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/mentors-dreamspace-johanna.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Johanna Havemann</h6>
               </br>
@@ -310,7 +310,7 @@
         </li>
         <li class="template-layout-column-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media\people\mentors-dreamspace-bhargav.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/mentors-dreamspace-bhargav.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Bhargav Kalisar Ramachandra</h6>
               </br>
@@ -328,7 +328,7 @@
         </li>
         <li class="template-layout-column-center-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media\people\mentors-dreamspace-karthik.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/mentors-dreamspace-karthik.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>M.A. Karthik</h6>
             </br>
@@ -347,7 +347,7 @@
         </li>
         <li class="template-layout-column-center-right">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media\people\mentors-dreamspace-sakshi.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/mentors-dreamspace-sakshi.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Sakshi Sharma</h6>
               </br>
@@ -366,7 +366,7 @@
         </li>
         <li class="template-layout-column-right">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media\people\mentors-dreamspace-raymond.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/mentors-dreamspace-raymond.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Raymond Miranda</h6>
               </br>
@@ -385,7 +385,7 @@
         </li>
         <li class="template-layout-column-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media\people\mentors-dreamspace-farshad.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/mentors-dreamspace-farshad.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Farshad Fahimi</h6>
               </br>
@@ -403,11 +403,11 @@
         </li>
         <li class="template-layout-column-center-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media\people\mentors-dreamspace-amiththan.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/mentors-dreamspace-amiththan.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Amiththan Sebarajah</h6>
               </br>
-              <span>Endurance</span>
+              <span>Endurance Training</span>
               <span>Canada</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
@@ -421,7 +421,7 @@
         </li>
         <li class="template-layout-column-center-right">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media\people\mentors-dreamspace-ted.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/mentors-dreamspace-ted.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Ted Tagami</h6>
               </br>
@@ -439,7 +439,7 @@
         </li>
         <li class="template-layout-column-right">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media\people\mentors-dreamspace-ivana.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/mentors-dreamspace-ivana.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Ivana Maurovic</h6>
               </br>
@@ -457,7 +457,7 @@
         </li>
         <li class="template-layout-column-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media\people\mentors-dreamspace-nicholus.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/mentors-dreamspace-nicholus.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Nicholas Crudele</h6>
               </br>

@@ -40,7 +40,7 @@
 					<div></div>
 				</div>
 				<center>
-					<img src="../media\others\org-about-social-mission-business-venture.svg" height="400" width="800" />
+					<img src="../media/others/org-about-social-mission-business-venture.svg" height="400" width="800" />
 				</center>
 
 				<div class="template-component-header-subheader">
@@ -49,7 +49,7 @@
 					<div></div>
 				</div>
 				<center>
-					<img src="../media\others\org-about-personalised-empowerment.svg" height="375" width="1000" />
+					<img src="../media/others/org-about-personalised-empowerment.svg" height="375" width="1000" />
 				</center>
 
 			</h3>
