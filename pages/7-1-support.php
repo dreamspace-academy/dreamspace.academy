@@ -11,6 +11,25 @@
 			<div></div>
 		</div>
 
+		<div class="template-component-divider template-component-divider-style-1"></div>
+
+		<!-- Opencollective Donation -->
+		<iframe src="https://opencollective.com/embed/dreamspace-academy/donate" style="width: 95%; min-height: 110vh;"></iframe>
+
+		<!-- Header and subheader -->
+		<div class="template-component-header-subheader">
+			<h2></h2>
+			<h6>Check our support deck to know more about our needs and how you can support us !!! </br>
+				<a href="http://supportdeck.dreamspace.academy">http://supportdeck.dreamspace.academy</a>
+			</h6>
+			<div></div>
+		</div>
+
+		<!-- Support deck -->
+		<div class="template-content-section template-padding-top-reset">
+			<iframe src="https://files.aravinth.info/decks/dreamspace-academy-support-deck.pdf#page=3&view=fit&toolbar=0" type="application/pdf" height=500px width="100%" class="responsive"></iframe>
+		</div>
+
 		<div class="template-component-feature template-component-feature-style-1 template-component-feature-position-left template-component-feature-size-medium">
 			<!-- Layout 33x33x33 -->
 			<ul class="template-layout-33x33x33 template-clear-fix">
