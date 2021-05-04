@@ -415,7 +415,7 @@
                 <li><a target="_blank" href="https://www.linkedin.com/in/nafha-musthafa-61257a1a7">
                     <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
                   </a></li>
-                <li><a target="_blank" href="#">
+                <li><a target="_blank" href="https://www.facebook.com/zam.zath">
                     <i class="fas fa-link fa-lg" style="color: white; padding-top: 17px;"></i>
                   </a></li>
               </ul>
@@ -437,7 +437,7 @@
                 <li><a target="_blank" href="#">
                     <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
                   </a></li>
-                <li><a target="_blank" href="#">
+                <li><a target="_blank" href="https://www.facebook.com/Zeena-Nazeer-Photography-104496434700277/">
                     <i class="fas fa-link fa-lg" style="color: white; padding-top: 17px;"></i>
                   </a></li>
               </ul>

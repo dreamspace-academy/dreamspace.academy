@@ -27,7 +27,7 @@
                 <li><a target="_blank" href="https://www.linkedin.com/in/shanjeevan-amalanathan">
                     <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
                   </a></li>
-                <li><a target="_blank" href="">
+                <li><a target="_blank" href="https://shanjeevan.oceanbio.me/pages/1-0-index.php">
                     <i class="fas fa-link fa-lg" style="color: white; padding-top: 17px;"></i>
                   </a></li>
               </ul>
@@ -66,7 +66,7 @@
                 <li><a target="_blank" href="https://www.linkedin.com/in/rakesh-jegan-44b961203">
                     <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
                   </a></li>
-                <li><a target="_blank" href="">
+                <li><a target="_blank" href="https://www.instagram.com/sayeetharson_thankavadivel/?hl=en">
                     <i class="fas fa-link fa-lg" style="color: white; padding-top: 17px;"></i>
                   </a></li>
               </ul>
@@ -85,7 +85,7 @@
                 <li><a target="_blank" href="https://www.linkedin.com/in/abinayan-arun-abi-3947771a4">
                     <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
                   </a></li>
-                <li><a target="_blank" href="">
+                <li><a target="_blank" href="https://www.facebook.com/profile.php?id=100007519997024">
                     <i class="fas fa-link fa-lg" style="color: white; padding-top: 17px;"></i>
                   </a></li>
               </ul>
@@ -124,7 +124,7 @@
                 <li><a target="_blank" href="https://www.linkedin.com/in/rakesh-jegan-44b961203">
                     <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
                   </a></li>
-                <li><a target="_blank" href="">
+                <li><a target="_blank" href="https://www.facebook.com/rakesh.dq.10">
                     <i class="fas fa-link fa-lg" style="color: white; padding-top: 17px;"></i>
                   </a></li>
               </ul>
@@ -144,7 +144,7 @@
                 <li><a target="_blank" href="https://www.linkedin.com/in/nithusan-ravindran-6553b71bb">
                     <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
                   </a></li>
-                <li><a target="_blank" href="">
+                <li><a target="_blank" href="https://www.facebook.com/nithu.nithisan">
                     <i class="fas fa-link fa-lg" style="color: white; padding-top: 17px;"></i>
                   </a></li>
               </ul>
@@ -184,7 +184,7 @@
                 <li><a target="_blank" href="https://www.linkedin.com/mwlite/in/saarukesan-premkumar-7a5a92195">
                     <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
                   </a></li>
-                <li><a target="_blank" href="">
+                <li><a target="_blank" href="https://www.instagram.com/saarukesan.p.27/?hl=en">
                     <i class="fas fa-link fa-lg" style="color: white; padding-top: 17px;"></i>
                   </a></li>
               </ul>
@@ -224,7 +224,7 @@
                 <li><a target="_blank" href="https://www.linkedin.com/in/arudpirajith-arulanandem-a8b749204">
                     <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
                   </a></li>
-                <li><a target="_blank" href="">
+                <li><a target="_blank" href="https://www.instagram.com/arudpirajith70/?hl=en">
                     <i class="fas fa-link fa-lg" style="color: white; padding-top: 17px;"></i>
                   </a></li>
               </ul>
@@ -244,7 +244,7 @@
                 <li><a target="_blank" href="https://www.linkedin.com/in/vickneswaran-harijithan-2537b1201">
                     <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
                   </a></li>
-                <li><a target="_blank" href="">
+                <li><a target="_blank" href="#">
                     <i class="fas fa-link fa-lg" style="color: white; padding-top: 17px;"></i>
                   </a></li>
               </ul>
@@ -264,7 +264,7 @@
                 <li><a target="_blank" href="http://linkedin.com/in/janarthan-raveendran-4a6828202">
                     <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
                   </a></li>
-                <li><a target="_blank" href="">
+                <li><a target="_blank" href="https://www.facebook.com/Swaggtamizhan">
                     <i class="fas fa-link fa-lg" style="color: white; padding-top: 17px;"></i>
                   </a></li>
               </ul>
@@ -383,7 +383,7 @@
                 <li><a target="_blank" href="https://www.linkedin.com/in/thanujayan-rasanayagam-6a8a88203">
                     <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
                   </a></li>
-                <li><a target="_blank" href="">
+                <li><a target="_blank" href="#">
                     <i class="fas fa-link fa-lg" style="color: white; padding-top: 17px;"></i>
                   </a></li>
               </ul>
@@ -403,7 +403,7 @@
                 <li><a target="_blank" href="https://www.linkedin.com/in/vishaan-mariyathas-aabb45200">
                     <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
                   </a></li>
-                <li><a target="_blank" href="">
+                <li><a target="_blank" href="#">
                     <i class="fas fa-link fa-lg" style="color: white; padding-top: 17px;"></i>
                   </a></li>
               </ul>
