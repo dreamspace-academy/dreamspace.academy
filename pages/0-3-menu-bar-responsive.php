@@ -121,13 +121,10 @@
 						<li>
 							<a href="#">Community Building<span></span></a>
 							<ul>
-								<li><a href="4-2-1-makers.php">Makers</a></li>
-								<li><a href="4-2-2-visual-content-makers.php">Visual Content Makers</a></li>
-								<li><a href="4-2-0-communities.php#chess">Chess</a></li>
-								<li><a href="4-2-0-communities.php#urban-farming">Urban Farming</a></li>
-								<li><a href="#">Artificial Intelligence</a></li>
-								<li><a href="4-2-6-ocean-community.php">Ocean Community</a></li>
-								<li><a href="4-2-5-plastic-community.php">Plastic Community</a></li>
+								<li><a href="4-2-0-communities.php#makers">Makers</a></li>
+								<li><a href="4-2-0-communities.php#visual-content-makers">Visual Content Makers</a></li>
+								<li><a href="4-2-0-communities.php#trashfortrade-community">Trash for Trade Community</a></li>
+								<li><a href="4-2-0-communities.php#oceanbiome-community">OceanBiome Community</a></li>
 							</ul>
 						</li>
 

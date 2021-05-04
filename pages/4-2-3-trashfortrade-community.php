@@ -1,9 +1,8 @@
-<?php include('0-0-header.php') ?>
-<div class="template-content" id="plastic-community">
+<div class="template-content" id="trashfortrade-community">
 
   <!-- Header and subheader -->
   <div class="template-component-header-subheader">
-    <h2>Plastic Community</h2>
+    <h2>Trash For Trade Community</h2>
     <h6></h6>
     <div></div>
   </div>
@@ -28,6 +27,9 @@
                 <li><a target="_blank" href="https://www.linkedin.com/in/jayanthan-amalanathan-1020a4183/">
                     <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
                   </a></li>
+                <li><a target="_blank" href="">
+                    <i class="fas fa-link fa-lg" style="color: white; padding-top: 17px;"></i>
+                  </a></li>
               </ul>
             </div>
           </div>
@@ -44,6 +46,9 @@
               <ul>
                 <li><a target="_blank" href="https://www.linkedin.com/in/shanjeevan-amalanathan-1231081a3/">
                     <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
+                  </a></li>
+                <li><a target="_blank" href="">
+                    <i class="fas fa-link fa-lg" style="color: white; padding-top: 17px;"></i>
                   </a></li>
               </ul>
             </div>
@@ -62,6 +67,9 @@
                 <li><a target="_blank" href="https://www.linkedin.com/in/abitharani-jeyachandran-8372b6199">
                     <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
                   </a></li>
+                <li><a target="_blank" href="">
+                    <i class="fas fa-link fa-lg" style="color: white; padding-top: 17px;"></i>
+                  </a></li>
               </ul>
             </div>
           </div>
@@ -78,6 +86,9 @@
               <ul>
                 <li><a target="_blank" href="https://www.linkedin.com/in/jerushan-sritharan-9017011b4/">
                     <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
+                  </a></li>
+                <li><a target="_blank" href="">
+                    <i class="fas fa-link fa-lg" style="color: white; padding-top: 17px;"></i>
                   </a></li>
               </ul>
             </div>
@@ -96,6 +107,9 @@
                 <li><a target="_blank" href="https://www.linkedin.com/in/ielamathy-manivannan-80b4901a5/">
                     <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
                   </a></li>
+                <li><a target="_blank" href="">
+                    <i class="fas fa-link fa-lg" style="color: white; padding-top: 17px;"></i>
+                  </a></li>
               </ul>
             </div>
           </div>
@@ -112,6 +126,9 @@
                 <li><a target="_blank" href="https://www.linkedin.com/in/vickneshwarasarma-yogeswaraiyer-5b48a81a5/">
                     <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
                   </a></li>
+                <li><a target="_blank" href="">
+                    <i class="fas fa-link fa-lg" style="color: white; padding-top: 17px;"></i>
+                  </a></li>
               </ul>
             </div>
           </div>
@@ -120,4 +137,3 @@
     </div>
   </div>
 </div>
-<?php include('9-0-footer.php') ?>

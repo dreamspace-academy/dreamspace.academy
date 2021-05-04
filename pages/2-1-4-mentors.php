@@ -613,7 +613,7 @@
             <div>
               <h6>Shay Lynch</h6>
               </br>
-              <span>S&Strategy</span>
+              <span>Strategy</span>
               <span>Ireland</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">

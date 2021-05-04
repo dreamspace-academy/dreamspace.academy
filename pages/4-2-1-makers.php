@@ -1,5 +1,4 @@
-<?php include('0-0-header.php') ?>
-<div class="template-content">
+<div class="template-content" id="makers">
   <div class="template-component-header-subheader">
     <h2>Our Maker Community</h2>
     <h6></h6>
@@ -472,4 +471,3 @@
     </div>
   </div>
 </div>
-<?php include('9-0-footer.php') ?>
