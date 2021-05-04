@@ -96,7 +96,7 @@
               <h6>Zoë Harman Conlon</h6>
               </br>
               </br>
-              <span>Event</span>
+              <span>Digital Literacy</span>
               <span>Germany | Ireland</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
@@ -115,7 +115,7 @@
               <h6>Johnny FD</h6>
               </br>
               </br>
-              <span>Travelpreneur</span>
+              <span>Travelpreneurship</span>
               <span>United States</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
@@ -278,7 +278,7 @@
             <div>
               <h6>Mike Richardson</h6>
               </br>
-              <span>Photonics | IOT</span>
+              <span>Photonics | IoT</span>
               <span>Germany</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
@@ -467,6 +467,386 @@
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
                 <li><a target="_blank" href="https://www.linkedin.com/in/nicholas-nico-crudele-07b3239a/">
+                    <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
+                  </a></li>
+              </ul>
+            </div>
+          </div>
+        </li>
+
+        <li class="template-layout-column-center-left">
+          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+            <img src="../media/people/mentors-dreamspace-sivasambu.jpg" alt="DreamSpace Academy" />
+            <div>
+              <h6>Sivasambu Bohm</h6>
+              </br>
+              <span>Nanotech</span>
+              <span>UK</span>
+            </div>
+            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+              <ul>
+                <li><a target="_blank" href="https://www.linkedin.com/in/dr-siva-bohm/">
+                    <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
+                  </a></li>
+              </ul>
+            </div>
+          </div>
+        </li>
+
+        <li class="template-layout-column-center-right">
+          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+            <img src="../media/people/mentors-dreamspace-eesan.jpg" alt="DreamSpace Academy" />
+            <div>
+              <h6>Easan Sivaniah</h6>
+              </br>
+              <span>Nanotech</span>
+              <span>Japan</span>
+            </div>
+            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+              <ul>
+                <li><a target="_blank" href="https://www.linkedin.com/in/easan-sivaniah-0a7b51129/">
+                    <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
+                  </a></li>
+              </ul>
+            </div>
+          </div>
+        </li>
+
+        <li class="template-layout-column-right">
+          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+            <img src="../media/people/mentors-dreamspace-hansika.jpg" alt="DreamSpace Academy" />
+            <div>
+              <h6>Hansika Singh</h6>
+              </br>
+              <span>Fabrics</span>
+              <span>India</span>
+            </div>
+            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+              <ul>
+                <li><a target="_blank" href="https://www.linkedin.com/in/hansikasingh/">
+                    <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
+                  </a></li>
+              </ul>
+            </div>
+          </div>
+        </li>
+
+        <li class="template-layout-column-left">
+          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+            <img src="../media/people/mentors-dreamspace-virginie.jpg" alt="DreamSpace Academy" />
+            <div>
+              <h6>Virginie Coulloudon</h6>
+              </br>
+              <span>Leadership</span>
+              <span>Germany</span>
+            </div>
+            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+              <ul>
+                <li><a target="_blank" href="https://www.linkedin.com/in/virginiecoulloudon/">
+                    <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
+                  </a></li>
+              </ul>
+            </div>
+          </div>
+        </li>
+
+        <li class="template-layout-column-center-left">
+          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+            <img src="../media/people/mentors-dreamspace-nay.jpg" alt="DreamSpace Academy" />
+            <div>
+              <h6>Nay Aoun</h6>
+              </br>
+              <span>Film Making</span>
+              <span>Germany</span>
+            </div>
+            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+              <ul>
+                <li><a target="_blank" href="https://www.linkedin.com/in/nay-aoun-682044145/">
+                    <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
+                  </a></li>
+              </ul>
+            </div>
+          </div>
+        </li>
+
+        <li class="template-layout-column-center-right">
+          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+            <img src="../media/people/mentors-dreamspace-ahmed.jpg" alt="DreamSpace Academy" />
+            <div>
+              <h6>Ahmed El Hamamsy</h6>
+              </br>
+              <span>Supply Chain</span>
+              <span>UAE</span>
+            </div>
+            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+              <ul>
+                <li><a target="_blank" href="https://www.linkedin.com/in/ahmedhamamsy-supplychainprofessional/">
+                    <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
+                  </a></li>
+              </ul>
+            </div>
+          </div>
+        </li>
+
+        <li class="template-layout-column-right">
+          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+            <img src="../media/people/mentors-dreamspace-ahmed-khaled.jpg" alt="DreamSpace Academy" />
+            <div>
+              <h6>Ahmed Khaled</h6>
+              </br>
+              <span>S&OP</span>
+              <span>Saudi Arabia</span>
+            </div>
+            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+              <ul>
+                <li><a target="_blank" href="https://www.linkedin.com/in/ahmed-khaled-21998956/">
+                    <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
+                  </a></li>
+              </ul>
+            </div>
+          </div>
+        </li>
+
+        <li class="template-layout-column-left">
+          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+            <img src="../media/people/mentors-dreamspace-shay.jpg" alt="DreamSpace Academy" />
+            <div>
+              <h6>Shay Lynch</h6>
+              </br>
+              <span>S&Strategy</span>
+              <span>Ireland</span>
+            </div>
+            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+              <ul>
+                <li><a target="_blank" href="https://www.linkedin.com/in/shaylynch/">
+                    <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
+                  </a></li>
+              </ul>
+            </div>
+          </div>
+        </li>
+
+        <li class="template-layout-column-center-left">
+          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+            <img src="../media/people/mentors-dreamspace-izabela.jpg" alt="DreamSpace Academy" />
+            <div>
+              <h6>Izabela Lundberg</h6>
+              </br>
+              <span>Leadership</span>
+              <span>United States</span>
+            </div>
+            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+              <ul>
+                <li><a target="_blank" href="https://www.linkedin.com/in/izabelalundberg/">
+                    <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
+                  </a></li>
+              </ul>
+            </div>
+          </div>
+        </li>
+
+        <li class="template-layout-column-center-right">
+          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+            <img src="../media/people/mentors-dreamspace-giulia.jpg" alt="DreamSpace Academy" />
+            <div>
+              <h6>Giulia de Mauro</h6>
+              </br>
+              <span>Architecture</span>
+              <span>United States</span>
+            </div>
+            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+              <ul>
+                <li><a target="_blank" href="https://www.linkedin.com/in/business-development-architecture/">
+                    <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
+                  </a></li>
+              </ul>
+            </div>
+          </div>
+        </li>
+
+        <li class="template-layout-column-right">
+          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+            <img src="../media/people/mentors-dreamspace-magni.jpg" alt="DreamSpace Academy" />
+            <div>
+              <h6>Magni Johannsson</h6>
+              </br>
+              <span>Aerospace</span>
+              <span>Germany</span>
+            </div>
+            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+              <ul>
+                <li><a target="_blank" href="https://www.linkedin.com/in/magnij/">
+                    <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
+                  </a></li>
+              </ul>
+            </div>
+          </div>
+        </li>
+
+        <li class="template-layout-column-left">
+          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+            <img src="../media/people/mentors-dreamspace-izan.jpg" alt="DreamSpace Academy" />
+            <div>
+              <h6>Izan Peris</h6>
+              </br>
+              <span>Aerospace</span>
+              <span>Spain</span>
+            </div>
+            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+              <ul>
+                <li><a target="_blank" href="https://www.linkedin.com/in/izanperis/">
+                    <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
+                  </a></li>
+              </ul>
+            </div>
+          </div>
+        </li>
+
+        <li class="template-layout-column-center-left">
+          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+            <img src="../media/people/mentors-dreamspace-luis.jpg" alt="DreamSpace Academy" />
+            <div>
+              <h6>Luis Ferreira</h6>
+              </br>
+              <span>Aerospace</span>
+              <span>Germany</span>
+            </div>
+            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+              <ul>
+                <li><a target="_blank" href="https://www.linkedin.com/in/luisfilipeferreira/">
+                    <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
+                  </a></li>
+              </ul>
+            </div>
+          </div>
+        </li>
+
+        <li class="template-layout-column-center-right">
+          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+            <img src="../media/people/mentors-dreamspace-scott.jpg" alt="DreamSpace Academy" />
+            <div>
+              <h6>Scott Pownall</h6>
+              </br>
+              <span>Biotech</span>
+              <span>Canada</span>
+            </div>
+            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+              <ul>
+                <li><a target="_blank" href="https://www.linkedin.com/in/spownall/">
+                    <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
+                  </a></li>
+              </ul>
+            </div>
+          </div>
+        </li>
+
+        <li class="template-layout-column-right">
+          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+            <img src="../media/people/mentors-dreamspace-kathrin.jpg" alt="DreamSpace Academy" />
+            <div>
+              <h6>Kathrin Hadasch</h6>
+              </br>
+              <span>Bioinformatics</span>
+              <span>Germany</span>
+            </div>
+            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+              <ul>
+                <li><a target="_blank" href="https://www.linkedin.com/in/kathrin-hadasch/">
+                    <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
+                  </a></li>
+              </ul>
+            </div>
+          </div>
+        </li>
+
+        <li class="template-layout-column-left">
+          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+            <img src="../media/people/mentors-dreamspace-sarah.jpg" alt="DreamSpace Academy" />
+            <div>
+              <h6>Sarah Blossom Ware</h6>
+              </br>
+              <span>Biotech</span>
+              <span>United States</span>
+            </div>
+            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+              <ul>
+                <li><a target="_blank" href="https://www.linkedin.com/in/sarahblossomware/">
+                    <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
+                  </a></li>
+              </ul>
+            </div>
+          </div>
+        </li>
+
+        <li class="template-layout-column-center-left">
+          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+            <img src="../media/people/mentors-dreamspace-guy.jpg" alt="DreamSpace Academy" />
+            <div>
+              <h6>Guy Aidelberg</h6>
+              </br>
+              <span>Biotech</span>
+              <span>United States</span>
+            </div>
+            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+              <ul>
+                <li><a target="_blank" href="https://www.biosummit.org/guy-aidelberg-2018">
+                    <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
+                  </a></li>
+              </ul>
+            </div>
+          </div>
+        </li>
+
+        <li class="template-layout-column-center-right">
+          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+            <img src="../media/people/mentors-dreamspace-ellen.jpg" alt="DreamSpace Academy" />
+            <div>
+              <h6>Ellen Jorgensen</h6>
+              </br>
+              <span>Biotech</span>
+              <span>United States</span>
+            </div>
+            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+              <ul>
+                <li><a target="_blank" href="https://www.linkedin.com/in/ellenjorgensen/">
+                    <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
+                  </a></li>
+              </ul>
+            </div>
+          </div>
+        </li>
+
+        <li class="template-layout-column-right">
+          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+            <img src="../media/people/mentors-dreamspace-rachel.jpg" alt="DreamSpace Academy" />
+            <div>
+              <h6>Rachel Aronoff</h6>
+              </br>
+              <span>Biotech</span>
+              <span>Switzerland</span>
+            </div>
+            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+              <ul>
+                <li><a target="_blank" href="https://www.linkedin.com/in/rachelaronoff/">
+                    <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
+                  </a></li>
+              </ul>
+            </div>
+          </div>
+        </li>
+
+        <li class="template-layout-column-left">
+          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+            <img src="../media/people/mentors-dreamspace-tiffany.jpg" alt="DreamSpace Academy" />
+            <div>
+              <h6>Tiffany Harnsongkram</h6>
+              </br>
+              <span>Impact Tech</span>
+              <span>France</span>
+            </div>
+            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+              <ul>
+                <li><a target="_blank" href="https://www.linkedin.com/in/tiffany-harnsongkram-59502181/">
                     <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
                   </a></li>
               </ul>

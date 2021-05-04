@@ -21,7 +21,7 @@
 					</div>
 
 					<!-- Header -->
-					<h6>BBC News</br>2021 - London</h6>
+					<h6>BBC News</br>2021 - UK</h6>
 					</br>
 					<a target=_blank href="https://www.bbc.com/news/uk-56734327" class="template-component-button template-component-button-style-1">More<i></i></a>
 				</li>
