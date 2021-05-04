@@ -81,22 +81,6 @@
 			</ul>
 		</div>
 
-		<!-- Feature -->
-		<div class="template-content-section template-padding-top-reset">
-			<p>
-				<center>
-					Check our support deck below to know more about our needs and how you can support us !!!
-				</center>
-			</p>
-			<embed src="https://files.aravinth.info/decks/dreamspace-academy-support-deck.pdf#page=3&view=fit&toolbar=0" type="application/pdf" height=500px width="100%" class="responsive">
-		</div>
-
-		<div class="template-content-section template-padding-top-reset">
-			<center>
-				<iframe src="https://opencollective.com/embed/dreamspace-academy/donate?useTheme=false" style="width: 95%; min-height: 150vh;" />
-			</center>
-		</div>
-
 	</div>
 </div>
 
