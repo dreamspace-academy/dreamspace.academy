@@ -20,7 +20,7 @@
 					</div>
 
 					<!-- Header -->
-					<h6>Nestle Idea Hackathon</br>2021 - Sri Lanka</h6>
+					<h6>Nestle Idea Hackathon</br></br>2021 - Sri Lanka</h6>
 					<a href="2-0-about.php#achievements" class="template-component-button template-component-button-style-1">More<i></i></a>
 				</li>
 				<li class="template-layout-column-left">
@@ -40,7 +40,7 @@
 					</div>
 
 					<!-- Header -->
-					<h6>HackX</br>2020 - Sri Lanka</h6>
+					<h6>HackX</br></br>2020 - Sri Lanka</h6>
 					<a href="2-0-about.php#achievements" class="template-component-button template-component-button-style-1">More<i></i></a>
 				</li>
 				<li class="template-layout-column-left">
@@ -50,7 +50,7 @@
 					</div>
 
 					<!-- Header -->
-					<h6>Climathon</br>2020 - Sri Lanka</h6>
+					<h6>Climathon</br></br>2020 - Sri Lanka</h6>
 					<a href="2-0-about.php#achievements" class="template-component-button template-component-button-style-1">More<i></i></a>
 				</li>
 

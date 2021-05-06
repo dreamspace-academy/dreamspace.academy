@@ -91,9 +91,9 @@
 										<li><a href="3-4-0-social-enterprise.php#terrace">DreamSpace Terrace</a></li>
 										<li><a href="3-4-0-social-enterprise.php#trash-for-trade">Trash For Trade</a></li>
 										<li><a href="3-4-0-social-enterprise.php#oceanbiome">OceanBiome</a></li>
-										<li><a target=_blank href="https://benzymeventures.netlify.app/">Benzyme Ventures</a></li>
+										<li><a target=_blank href="https://benzymeventures.netlify.app/">BenzymeVentures</a></li>
 										<li><a target=_blank href="https://www.facebook.com/DiGiAdvocates">DiGi Advocates</a></li>
-										<li><a target=_blank href="http://ireactsrilanka.org/">I React</a></li>
+										<li><a target=_blank href="http://ireactsrilanka.org/">I REACT</a></li>
 									</ul>
 								</div>
 
@@ -135,12 +135,11 @@
 								<div class="template-layout-column-right">
 									<span class="sf-mega-header">Service Providing</span>
 									<ul>
-										<li><a target=_blank href="https://aracreate.com">360° Consulting</a></li>
-										<li><a target=_blank href="https://zerosec.in">Data Moderation</a></li>
-										<li><a href="#">Prototype & Product Development</a></li>
-										<li><a href="#">Software Development</a></li>
-										<li><a href="#">Photography & Documentary Making</a></li>
-										<li><a href="#">Gift Shop</a></li>
+										<li><a href="4-4-0-service-providing.php#360-consulting">360° Consulting</a></li>
+										<li><a href="4-4-0-service-providing.php#data-moderation">Data Moderation</a></li>
+										<li><a href="4-4-0-service-providing.php#prototype">Prototype & Product Development</a></li>
+										<li><a href="4-4-0-service-providing.php#software-development">Software Development</a></li>
+										<li><a href="4-4-0-service-providing.php#photography">Photography & Documentary Making</a></li>
 									</ul>
 								</div>
 

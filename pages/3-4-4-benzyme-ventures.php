@@ -4,10 +4,10 @@
 
 			<div class="template-layout-column-left template-margin-bottom-reset">
 				<div class="template-align-center">
-					<h2>Benzyme Ventures</h2>
+					<h2>BenzymeVentures</h2>
 					<div class="template-component-divider template-component-divider-style-2"></div>
 					<div class="template-component-italic template-margin-top-3">
-						A Future free from plastic pollution
+						Empower next-generation scientists and biotech entrepreneurs.
 					</div>
 					<p class="template-margin-top-3">
 						Trash for Trade is a Plastic Upcycling Social Business. It is a Social innovation idea developed from an Open Source community called Precious Plastic with the support of DreamSpace Academy. We develop our own machinaries for the upcycling

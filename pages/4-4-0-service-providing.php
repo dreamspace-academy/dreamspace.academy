@@ -11,6 +11,5 @@
   <?php include('4-4-3-prototype.php'); ?>
   <?php include('4-4-4-software-development.php'); ?>
   <?php include('4-4-5-photography.php'); ?>
-  <?php include('4-4-6-gift-shop.php'); ?>
 </div>
 <?php include('9-0-footer.php') ?>
