@@ -97,6 +97,8 @@
 								<li><a href="3-4-0-social-enterprise.php#terrace">DreamSpace Terrace</a></li>
 								<li><a href="3-4-0-social-enterprise.php#trash-for-trade">Trash For Trade</a></li>
 								<li><a href="3-4-0-social-enterprise.php#oceanbiome">OceanBiome</a></li>
+								<li><a href="3-4-0-social-enterprise.php#curve-matrics">Curve Matrics</a></li>
+								<li><a href="3-4-0-social-enterprise.php#ai4life">AI4Life</a></li>
 								<li><a target=_blank href="https://benzymeventures.netlify.app/">BenzymeVentures</a></li>
 								<li><a target=_blank href="https://www.facebook.com/DiGiAdvocates">DiGi Advocates</a></li>
 								<li><a target=_blank href="http://ireactsrilanka.org/">I REACT</a></li>

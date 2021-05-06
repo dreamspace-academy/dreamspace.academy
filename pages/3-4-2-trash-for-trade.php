@@ -7,7 +7,7 @@
 					<h2>Trash For Trade</h2>
 					<div class="template-component-divider template-component-divider-style-2"></div>
 					<div class="template-component-italic template-margin-top-3">
-						A Future free from plastic pollution
+						A future free from plastic pollution
 					</div>
 					<p class="template-margin-top-3">
 						Trash For Trade is a Plastic Upcycling Social Business. It is a Social innovation idea developed from an Open Source community called Precious Plastic with the support of DreamSpace Academy. We develop our own machinaries for the upcycling

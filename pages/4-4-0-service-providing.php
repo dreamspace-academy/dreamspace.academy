@@ -2,7 +2,7 @@
 <div class="template-content">
   <div class="template-component-header-subheader">
     <h2>Service Providing</h2>
-    <p>The candidate’s solution is graduated as a startup for socio-economic & environmental development.</p>
+    <p>We balance our social mission with our services for the sustainability.</p>
     <div></div>
   </div>
 

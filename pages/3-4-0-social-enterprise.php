@@ -12,5 +12,8 @@
   <!--<?php include('3-4-4-benzyme-ventures.php'); ?>
   <?php include('3-4-5-digi-advocates.php'); ?>
   <?php include('3-4-6-ireact.php'); ?>-->
+  <?php include('3-4-8-curve-matrics.php'); ?>
+  <?php include('3-4-7-ai4life.php'); ?>
+
 </div>
 <?php include('9-0-footer.php') ?>

@@ -4,7 +4,7 @@
 
 		<div class="template-component-header-subheader">
 			<h3>What are our initiatives?</h3>
-			<h6>Social initiatives are our outcome from our community</h6>
+			<h6>The candidate’s solution is graduated as a startup for socio-economic & environmental development.</h6>
 			<div></div>
 		</div>
 
@@ -154,7 +154,7 @@
 					</br>
 					</div>
 
-					<a target="_blank" href="http://ireactsrilanka.org/" class="template-component-button template-component-button-style-1">More<i></i></a>
+					<a href="3-4-0-social-enterprise.php#ai4life" class="template-component-button template-component-button-style-1">More<i></i></a>
 
 				</li>
 
@@ -175,7 +175,7 @@
 					</br>
 					</div>
 
-					<a target="_blank" href="http://ireactsrilanka.org/" class="template-component-button template-component-button-style-1">More<i></i></a>
+					<a href="3-4-0-social-enterprise.php#curve-matrics" class="template-component-button template-component-button-style-1">More<i></i></a>
 
 				</li>
 
