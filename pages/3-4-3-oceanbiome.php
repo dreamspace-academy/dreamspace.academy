@@ -21,7 +21,9 @@
 						Ocean is for all
 					</div>
 					<p class="template-margin-top-3">
-						We are a group of young people who are captivated by oceanic research and we want to construct an environment for our next generation to involve,learn and engage in the study of the ocean. </br>
+						We are a group of young people who are captivated by oceanic research and we want to construct an environment for our next generation to involve,learn and engage in the study of the ocean.
+					</p>
+				    </br>
 						</br>
 						<div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
 							<a target="_blank" href="https://oceanbio.me/" class="template-component-button template-component-button-style-1">More<i></i></a>

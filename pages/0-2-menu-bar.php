@@ -124,9 +124,9 @@
 								<div class="template-layout-column-center-right">
 									<span class="sf-mega-header">International Aid Projects</span>
 									<ul>
-										<li><a target=_blank href="https://www.facebook.com/dreamspace.academy/photos/?tab=album&album_id=2427450264198969">The Duke of Edinburgh's Award (UK)</a></li>
-										<li><a target=_blank href="https://www.facebook.com/dreamspace.academy/posts/2550019751942019">Stockholm Junior Water Prize (Sweden)</a></li>
-										<li><a target=_blank href="https://inclusivegrowth.com.lk">Skills For Inclusive Growth (Australia)</a></li>
+										<li><a href="4-3-0-international-aid-projects.php#dofe">The Duke of Edinburgh's Award (UK)</a></li>
+										<li><a href="4-3-0-international-aid-projects.php#sjwp">Stockholm Junior Water Prize (Sweden)</a></li>
+										<li><a href="4-3-0-international-aid-projects.php#s4ig">Skills For Inclusive Growth (Australia)</a></li>
 									</ul>
 								</div>
 
