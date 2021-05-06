@@ -91,7 +91,9 @@
 										<li><a href="3-4-0-social-enterprise.php#terrace">DreamSpace Terrace</a></li>
 										<li><a href="3-4-0-social-enterprise.php#trash-for-trade">Trash For Trade</a></li>
 										<li><a href="3-4-0-social-enterprise.php#oceanbiome">OceanBiome</a></li>
-										<li><a href="#">Benzyme Ventures</a></li>
+										<li><a target=_blank href="https://benzymeventures.netlify.app/">Benzyme Ventures</a></li>
+										<li><a target=_blank href="https://www.facebook.com/DiGiAdvocates">DiGi Advocates</a></li>
+										<li><a target=_blank href="http://ireactsrilanka.org/">I React</a></li>
 									</ul>
 								</div>
 
@@ -135,7 +137,7 @@
 									<ul>
 										<li><a target=_blank href="https://aracreate.com">360° Consulting</a></li>
 										<li><a target=_blank href="https://zerosec.in">Data Moderation</a></li>
-										<li><a href="3-4-0-social-enterprise.php#j-matrix">Prototype & Product Development</a></li>
+										<li><a href="#">Prototype & Product Development</a></li>
 										<li><a href="#">Software Development</a></li>
 										<li><a href="#">Photography & Documentary Making</a></li>
 										<li><a href="#">Gift Shop</a></li>

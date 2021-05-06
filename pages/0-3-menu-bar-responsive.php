@@ -97,7 +97,9 @@
 								<li><a href="3-4-0-social-enterprise.php#terrace">DreamSpace Terrace</a></li>
 								<li><a href="3-4-0-social-enterprise.php#trash-for-trade">Trash For Trade</a></li>
 								<li><a href="3-4-0-social-enterprise.php#oceanbiome">OceanBiome</a></li>
-								<li><a href="#">Benzyme Ventures</a></li>
+								<li><a target=_blank href="https://benzymeventures.netlify.app/">Benzyme Ventures</a></li>
+								<li><a target=_blank href="https://www.facebook.com/DiGiAdvocates">DiGi Advocates</a></li>
+								<li><a target=_blank href="http://ireactsrilanka.org/">I React</a></li>
 							</ul>
 						</li>
 
@@ -133,9 +135,9 @@
 						<li>
 							<a href="#">International Aid Projects<span></span></a>
 							<ul>
-								<li><a target=_blank href="https://www.facebook.com/dreamspace.academy/photos/?tab=album&album_id=2427450264198969">The Duke of Edinburgh's Award (UK)</a></li>
-								<li><a target=_blank href="https://www.facebook.com/dreamspace.academy/posts/2550019751942019">Stockholm Junior Water Prize (Sweden)</a></li>
-								<li><a target=_blank href="https://inclusivegrowth.com.lk">Skills For Inclusive Growth (Australia)</a></li>
+								<li><a href="4-3-0-international-aid-projects.php#dofe">The Duke of Edinburgh's Award (UK)</a></li>
+								<li><a href="4-3-0-international-aid-projects.php#sjwp">Stockholm Junior Water Prize (Sweden)</a></li>
+								<li><a href="4-3-0-international-aid-projects.php#s4ig">Skills For Inclusive Growth (Australia)</a></li>
 							</ul>
 						</li>
 
@@ -145,7 +147,7 @@
 							<ul>
 								<li><a target=_blank href="https://aracreate.com">360° Consulting</a></li>
 								<li><a target=_blank href="https://zerosec.in">Data Moderation</a></li>
-								<li><a href="3-4-0-social-enterprise.php#j-matrix">Prototype & Product Development</a></li>
+								<li><a href="#">Prototype & Product Development</a></li>
 								<li><a href="#">Software Development</a></li>
 								<li><a href="#">Photography & Documentary Making</a></li>
 								<li><a href="#">Gift Shop</a></li>
