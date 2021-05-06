@@ -83,7 +83,7 @@
 
 
 					<!-- Header -->
-					<h5>Benzyme Ventures</h5>
+					<h5>BenzymeVentures</h5>
 
 					<!-- Description -->
 					<div>
@@ -125,11 +125,53 @@
 
 
 					<!-- Header -->
-					<h5>I React</h5>
+					<h5>I REACT</h5>
 
 					<!-- Description -->
 					<div>
 						<p>It is a community of story tellers and mappers who react to hate speech, and false information.</p>
+					</br>
+					</div>
+
+					<a target="_blank" href="http://ireactsrilanka.org/" class="template-component-button template-component-button-style-1">More<i></i></a>
+
+				</li>
+
+				<li class="template-layout-column-left">
+
+					<!-- Counter -->
+					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
+						<img src="../media/logos/service-providing-dreamspace-ai4life.jpg" alt="DreamSpace Academy" />
+					</div>
+
+
+					<!-- Header -->
+					<h5>AI4Life</h5>
+
+					<!-- Description -->
+					<div>
+						<p>It is a non profit social enterprise that benefits the underprivileged communities.</p>
+					</br>
+					</div>
+
+					<a target="_blank" href="http://ireactsrilanka.org/" class="template-component-button template-component-button-style-1">More<i></i></a>
+
+				</li>
+
+				<li class="template-layout-column-left">
+
+					<!-- Counter -->
+					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
+						<img src="../media/logos/service-providing-dreamspace-curve-matrics.png" alt="DreamSpace Academy" />
+					</div>
+
+
+					<!-- Header -->
+					<h5>Curve Matrics</h5>
+
+					<!-- Description -->
+					<div>
+						<p>It is a craft marketing enterprise focuses in empowering women and disable people.</p>
 					</br>
 					</div>
 
