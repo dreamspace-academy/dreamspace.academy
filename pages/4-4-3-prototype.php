@@ -1,4 +1,4 @@
-<div class="template-content-section template-padding-bottom-5 template-background-color-2" id="terrace">
+<div class="template-content-section template-padding-bottom-5 template-background-color-2" id="prototype">
 	<div class="template-main">
 		<div class="template-layout-50x50 template-clear-fix">
 			<div class="template-layout-column-left template-margin-bottom-reset">
@@ -16,10 +16,10 @@
 					<h2>EMD Lab</h2>
 					<div class="template-component-divider template-component-divider-style-2"></div>
 					<div class="template-component-italic template-margin-top-3">
-            J Matrix is a 3D modelling and designing enterprise
+            Prototype & Product Development Service
 					</div>
 					<p class="template-margin-top-3">
-            We develop different 3D models for social experments and interractions. We provide educational materials for person with desabilities and kids.
+            It is a elctronic mechanical digital prototype and product development company. It provide services from 3D modeling, PCB designing, machine building to mentoring and facilitation.
 					</p>
 					</br>
 					</br>
