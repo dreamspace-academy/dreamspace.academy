@@ -21,7 +21,7 @@
 						Digital solutions through AI & ML
 					</div>
 					<p class="template-margin-top-3">
-						Artificial Intelligence for Life [AI4Life] is a not-for-profit social enterprise that focuses on 3 key areas that benefits the underprivileged and privileged communities which are AI Education, AI Social Innovations to solve complex challenges and AI & ML consultancy for social enterprises, and companies.</br>
+						Artificial Intelligence for Life [AI4Life] is a non-profit social enterprise that focuses on 3 key areas that benefits the underprivileged and privileged communities which are AI education, AI social innovations to solve complex challenges and AI & ML consultancy for social enterprises, and companies.</br>
 						</br>
 						<div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
 							<a target="_blank" href="https://www.facebook.com/kuna.rakulan" class="template-component-button template-component-button-style-1">More<i></i></a>

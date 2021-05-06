@@ -7,7 +7,7 @@
 					<h2>Curve Matrics</h2>
 					<div class="template-component-divider template-component-divider-style-2"></div>
 					<div class="template-component-italic template-margin-top-3">
-						A gift shop
+						Arts and craft shop
 					</div>
 					<p class="template-margin-top-3">
 						Curve Matrics is a craft marketing enterprise. It's core business is retail of all kind of craft using our e-commerce site. It focuses in empowering women and disable people in the community.</p>
