@@ -18,7 +18,7 @@
 
 					<!-- Counter -->
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
-						<img src="../media/logos/social-enterprise-dreamspace-terrace.jpg" alt="DreamSpace Academy" />
+						<img src="../media/logos/terrace-dreamspace.jpg" alt="DreamSpace Academy" />
 					</div>
 
 
@@ -38,7 +38,7 @@
 
 					<!-- Counter -->
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
-						<img src="../media/logos/social-enterprise-dreamspace-trashfortrade.jpg" alt="DreamSpace Academy" />
+						<img src="../media/logos/trashfortrade-dreamspace.jpg" alt="DreamSpace Academy" />
 					</div>
 
 
@@ -58,7 +58,7 @@
 
 					<!-- Counter -->
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
-						<img src="../media/logos/social-enterprise-dreamspace-oceanbiome.jpg" alt="DreamSpace Academy" />
+						<img src="../media/logos/oceanbiome-dreamspace.jpg" alt="DreamSpace Academy" />
 					</div>
 
 
@@ -78,7 +78,7 @@
 
 					<!-- Counter -->
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
-						<img src="../media/logos/social-enterprise-dreamspace-benzyme-ventures.jpg" alt="DreamSpace Academy" />
+						<img src="../media/logos/benzyme-ventures-dreamspace.jpg" alt="DreamSpace Academy" />
 					</div>
 
 
@@ -99,7 +99,7 @@
 
 					<!-- Counter -->
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
-						<img src="../media\logos\social-enterprise-dreamspace-digi.jpg" alt="DreamSpace Academy" />
+						<img src="../media\logos\digi-advocates-dreamspace.jpg" alt="DreamSpace Academy" />
 					</div>
 
 
@@ -120,7 +120,7 @@
 
 					<!-- Counter -->
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
-						<img src="../media/logos/social-enterprise-dreamspace-ireact.jpg" alt="DreamSpace Academy" />
+						<img src="../media/logos/ireact-dreamspace.jpg" alt="DreamSpace Academy" />
 					</div>
 
 
@@ -141,7 +141,7 @@
 
 					<!-- Counter -->
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
-						<img src="../media/logos/service-providing-dreamspace-ai4life.jpg" alt="DreamSpace Academy" />
+						<img src="../media/logos/ai4life-dreamspace.jpg" alt="DreamSpace Academy" />
 					</div>
 
 
@@ -162,7 +162,7 @@
 
 					<!-- Counter -->
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
-						<img src="../media/logos/service-providing-dreamspace-curve-matrics.png" alt="DreamSpace Academy" />
+						<img src="../media/logos/curve-matrics-dreamspace.png" alt="DreamSpace Academy" />
 					</div>
 
 
@@ -176,6 +176,28 @@
 					</div>
 
 					<a href="3-4-0-social-enterprise.php#curve-matrics" class="template-component-button template-component-button-style-1">More<i></i></a>
+
+				</li>
+
+				<li class="template-layout-column-left">
+
+					<!-- Counter -->
+					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
+						<img src="../media/logos/curve-matrics-dreamspace.png" alt="DreamSpace Academy" />
+					</div>
+
+
+					<!-- Header -->
+					<h5>HER</h5>
+
+					<!-- Description -->
+					<div>
+						<p>It is a community helping, empowering women who are in need.
+						</p>
+					</br>
+					</div>
+
+					<a href="3-4-0-social-enterprise.php#her" class="template-component-button template-component-button-style-1">More<i></i></a>
 
 				</li>
 

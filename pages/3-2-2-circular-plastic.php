@@ -102,19 +102,19 @@
           <div class="template-component-feature template-component-feature-style-1 template-component-feature-position-left template-component-feature-size-medium">
             <ul class="template-layout-33x33x33 template-clear-fix">
               <li class="template-layout-column-left">
-                <div class="template-icon-feature"><img src="../media/logos/sdg-dreamspace-12.png" alt="DreamSpace Academy" /></div>
+                <div class="template-icon-feature"><img src="../media/logos/logo-sdg-12.png" alt="DreamSpace Academy" /></div>
                 <h5>Sustainable Consumption and Production</br></h5>
                 <p><b>UN SDG 12</b></p>
                 <p>Reduce waste generation through prevention, reduction, recycling and reuse</p>
               </li>
               <li class="template-layout-column-center">
-                <div class="template-icon-feature"><img src="../media/logos/sdg-dreamspace-14.png" alt="DreamSpace Academy" /></div>
+                <div class="template-icon-feature"><img src="../media/logos/logo-sdg-14.png" alt="DreamSpace Academy" /></div>
                 <h5>Life Below Water</br></br></br></h5>
                 <p><b>UN SDG 14</b></p>
                 <p>Prevent and significantly reduce marine pollution of all kinds.</p>
               </li>
               <li class="template-layout-column-right">
-                <div class="template-icon-feature"><img src="../media/logos/sdg-dreamspace-11.png" alt="DreamSpace Academy" /></div>
+                <div class="template-icon-feature"><img src="../media/logos/logo-sdg-11.png" alt="DreamSpace Academy" /></div>
                 <h5>Sustainable Cities and Communities</br></br></h5>
                 <p><b>UN SDG 11</b></p>
                 <p>Paying special attention to municipal and other waste management</p>

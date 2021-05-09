@@ -18,7 +18,7 @@
 
 					<!-- Counter -->
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
-						<img src="../media/logos/service-providing-dreamspace-aracreate.jpg" alt="DreamSpace Academy" />
+						<img src="../media/logos/aracreate-dreamspace.jpg" alt="DreamSpace Academy" />
 					</div>
 
 
@@ -38,7 +38,7 @@
 
 					<!-- Counter -->
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
-						<img src="../media/logos/service-providing-dreamspace-zerosec.jpg" alt="DreamSpace Academy" />
+						<img src="../media/logos/zerosec-dreamspace.jpg" alt="DreamSpace Academy" />
 					</div>
 
 
@@ -58,7 +58,7 @@
 
 					<!-- Counter -->
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
-						<img src="../media/logos/service-providing-dreamspace-emdlab.jpg" alt="DreamSpace Academy" />
+						<img src="../media/logos/emdlab-dreamspace.jpg" alt="DreamSpace Academy" />
 					</div>
 
 
@@ -78,7 +78,7 @@
 
 					<!-- Counter -->
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
-						<img src="../media/logos/service-providing-dreamspace-grtechnologies.jpg" alt="DreamSpace Academy" />
+						<img src="../media/logos/grtechnologies-dreamspace.jpg" alt="DreamSpace Academy" />
 					</div>
 
 
@@ -99,7 +99,7 @@
 
 					<!-- Counter -->
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
-						<img src="../media/logos/service-providing-dreamspace-dudestylestudio.jpg" alt="DreamSpace Academy" />
+						<img src="../media/logos/dudestylestudio-dreamspace.jpg" alt="DreamSpace Academy" />
 					</div>
 
 
