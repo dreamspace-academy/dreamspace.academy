@@ -116,7 +116,7 @@
               </br>
               </br>
               <span>Travelpreneurship</span>
-              <span>United States</span>
+              <span>USA</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
@@ -242,8 +242,8 @@
             <div>
               <h6>Alessandro Volpato</h6>
               </br>
-              <span>Biotech</span>
-              <span>Germany</span>
+              <span>BioTech</span>
+              <span>Germany | Italy</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
@@ -279,7 +279,7 @@
               <h6>Mike Richardson</h6>
               </br>
               <span>Photonics | IoT</span>
-              <span>Germany</span>
+              <span>Germany | USA</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
@@ -312,9 +312,9 @@
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
             <img src="../media/people/bhargav-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
-              <h6>Bhargav Kalisar Ramachandra</h6>
+              <h6>Bhargav Ramachandra</h6>
               </br>
-              <span>Manufacturing</span>
+              <span>Mechanics | Manufacturing</span>
               <span>India</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
@@ -330,7 +330,7 @@
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
             <img src="../media/people/karthik-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
-              <h6>M.A. Karthik</h6>
+              <h6>Karthik</h6>
             </br>
               </br>
               <span>Policy Making</span>
@@ -426,7 +426,7 @@
               <h6>Ted Tagami</h6>
               </br>
               <span>Aerospace</span>
-              <span>United States</span>
+              <span>USA</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
@@ -461,7 +461,7 @@
             <div>
               <h6>Nicholas Crudele</h6>
               </br>
-              <span>Biotech</span>
+              <span>BioTech</span>
               <span>Canada</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
@@ -480,8 +480,8 @@
             <div>
               <h6>Sivasambu Bohm</h6>
               </br>
-              <span>Nanotech</span>
-              <span>UK</span>
+              <span>NanoTech</span>
+              <span>UK | Germany</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
@@ -499,8 +499,8 @@
             <div>
               <h6>Easan Sivaniah</h6>
               </br>
-              <span>Nanotech</span>
-              <span>Japan</span>
+              <span>NanoTech</span>
+              <span>Japan | UK</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
@@ -538,7 +538,7 @@
               <h6>Virginie Coulloudon</h6>
               </br>
               <span>Leadership</span>
-              <span>Germany</span>
+              <span>Germany | France</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
@@ -557,7 +557,7 @@
               <h6>Nay Aoun</h6>
               </br>
               <span>Film Making</span>
-              <span>Germany</span>
+              <span>Germany | Lebanon</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
@@ -613,7 +613,7 @@
             <div>
               <h6>Shay Lynch</h6>
               </br>
-              <span>Strategy</span>
+              <span>Systems Thinking | Strategy</span>
               <span>Ireland</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
@@ -633,7 +633,7 @@
               <h6>Izabela Lundberg</h6>
               </br>
               <span>Leadership</span>
-              <span>United States</span>
+              <span>USA</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
@@ -652,7 +652,7 @@
               <h6>Giulia de Mauro</h6>
               </br>
               <span>Architecture</span>
-              <span>United States</span>
+              <span>Netherlands</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
@@ -671,7 +671,7 @@
               <h6>Magni Johannsson</h6>
               </br>
               <span>Aerospace</span>
-              <span>Germany</span>
+              <span>Germany | Sweden</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
@@ -709,7 +709,7 @@
               <h6>Luis Ferreira</h6>
               </br>
               <span>Aerospace</span>
-              <span>Germany</span>
+              <span>Germany | Portugal</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
@@ -727,7 +727,7 @@
             <div>
               <h6>Scott Pownall</h6>
               </br>
-              <span>Biotech</span>
+              <span>BioTech</span>
               <span>Canada</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
@@ -765,8 +765,8 @@
             <div>
               <h6>Sarah Blossom Ware</h6>
               </br>
-              <span>Biotech</span>
-              <span>United States</span>
+              <span>BioTech</span>
+              <span>USA</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
@@ -784,8 +784,8 @@
             <div>
               <h6>Guy Aidelberg</h6>
               </br>
-              <span>Biotech</span>
-              <span>United States</span>
+              <span>BioTech</span>
+              <span>France | Israel</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
@@ -803,8 +803,8 @@
             <div>
               <h6>Ellen Jorgensen</h6>
               </br>
-              <span>Biotech</span>
-              <span>United States</span>
+              <span>BioTech</span>
+              <span>USA</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
@@ -822,8 +822,8 @@
             <div>
               <h6>Rachel Aronoff</h6>
               </br>
-              <span>Biotech</span>
-              <span>Switzerland</span>
+              <span>BioTech</span>
+              <span>Switzerland | USA</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
@@ -842,7 +842,7 @@
               <h6>Tiffany Harnsongkram</h6>
               </br>
               <span>Impact Tech</span>
-              <span>France</span>
+              <span>France | Thailand</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
