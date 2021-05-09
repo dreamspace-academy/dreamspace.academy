@@ -16,7 +16,7 @@
         <!-- Supporters -->
         <li class="template-layout-column-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/people/community-oceanbiome-dreamspace-shanjeevan.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/shanjeevan-amalanathan-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Shanjeevan Amalanathan</h6>
               </br>
@@ -36,7 +36,7 @@
         </li>
         <li class="template-layout-column-center-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/people/community-oceanbiome-dreamspace-jayanthan.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/jayanthan-amalanathan-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Jayanthan Amalanathan</h6>
               </br>
@@ -56,7 +56,7 @@
         </li>
         <li class="template-layout-column-center-right">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/people/community-oceanbiome-dreamspace-sayeetharson.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/sayeetharson-thankavadivel-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Sayeetharson Thankavadivel</h6>
               <span>Batticaloa</span>
@@ -75,7 +75,7 @@
         </li>
         <li class="template-layout-column-right">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/people/community-oceanbiome-dreamspace-abinayan.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/abinayan-balasubramaniyam-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Abinayan Balasubramaniyam</h6>
               <span>Batticaloa</span>
@@ -94,7 +94,7 @@
         </li>
         <li class="template-layout-column-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/people/community-oceanbiome-dreamspace-nafha.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/nafha-fathima-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Mohamed Musthafa Fathima Nafha</h6>
               <span>Batticaloa</span>
@@ -113,7 +113,7 @@
         </li>
         <li class="template-layout-column-center-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/people/community-oceanbiome-dreamspace-jegan.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/rakesh-jegan-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Rakesh Jegan</h6>
               </br>
@@ -133,7 +133,7 @@
         </li>
         <li class="template-layout-column-center-right">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/people/community-oceanbiome-dreamspace-Nithusian.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/nithusian-ravindran-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Nithusan Ravindran</h6>
               </br>
@@ -153,7 +153,7 @@
         </li>
         <li class="template-layout-column-right">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/people/community-oceanbiome-dreamspace-anamigan.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/anamigan-kumarasingam-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Anamigan Kumarasingam</h6>
               </br>
@@ -173,7 +173,7 @@
         </li>
         <li class="template-layout-column-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/people/community-oceanbiome-dreamspace-charukeshan.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/saarukeshan-premkumar-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Saarukesan Premkumar</h6>
             </br>
@@ -193,7 +193,7 @@
         </li>
         <li class="template-layout-column-center-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/people/community-oceanbiome-dreamspace-abishethvarman.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/abishethvarman-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Abisheth Varman</h6>
               </br>
@@ -213,7 +213,7 @@
         </li>
         <li class="template-layout-column-center-right">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/people/community-oceanbiome-dreamspace-arudprajith.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/arudprajith-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Arudpirajith Arulanandem</h6>
               </br>
@@ -233,7 +233,7 @@
         </li>
         <li class="template-layout-column-right">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/people/community-oceanbiome-dreamspace-harijithan.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/harijithan-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Harijithan Vickneswaran</h6>
               </br>
@@ -253,7 +253,7 @@
         </li>
         <li class="template-layout-column-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/people/community-oceanbiome-dreamspace-jana.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/jana-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Janarthan Raveendran</h6>
               </br>
@@ -273,7 +273,7 @@
         </li>
         <li class="template-layout-column-center-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/people/community-oceanbiome-dreamspace-jerushan.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/jerushan-sritharan-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Jerushan Sritharan</h6>
             </br>
@@ -293,7 +293,7 @@
         </li>
         <li class="template-layout-column-center-right">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/people/community-oceanbiome-dreamspace-merujan.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/merujan-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Merujan Sivanathan</h6>
               </br>
@@ -313,9 +313,9 @@
         </li>
         <li class="template-layout-column-right">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/people/community-oceanbiome-dreamspace-rishanthini.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/rishanthini-kajenthirappirapa-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
-              <h6>Rishanthini Kajenthirapirpa</h6>
+              <h6>Rishanthini Kajenthirappirapa</h6>
               <span>Batticaloa</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
@@ -332,7 +332,7 @@
         </li>
         <li class="template-layout-column-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/people/community-oceanbiome-dreamspace-serujan.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/serujan-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Serujan Satkunanathan</h6>
             </br>
@@ -352,7 +352,7 @@
         </li>
         <li class="template-layout-column-center-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/people/community-oceanbiome-dreamspace-thanushkar.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/thanushkar-srikaran-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Thanushkar Srikaran</h6>
               </br>
@@ -372,7 +372,7 @@
         </li>
         <li class="template-layout-column-center-right">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/people/community-oceanbiome-dreamspace-thenujeyan.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/thenujeyan-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Thanujayan Rasanayagam</h6>
               </br>
@@ -392,7 +392,7 @@
         </li>
         <li class="template-layout-column-right">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/people/community-oceanbiome-dreamspace-vishan.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/vishan-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Vishan Helman</h6>
               </br>
@@ -412,7 +412,7 @@
         </li>
         <li class="template-layout-column-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/people/community-oceanbiome-dreamspace-abitharani.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/abitharani-jeyachandran-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Abitharani Jeyachandran</h6>
             </br>
@@ -432,7 +432,7 @@
         </li>
         <li class="template-layout-column-center-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/people/community-oceanbiome-dreamspace-sherun.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/sherun-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Sherun Sivanesan</h6>
               </br>
@@ -452,9 +452,9 @@
         </li>
         <li class="template-layout-column-center-right">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/people/community-oceanbiome-dreamspace-gunarahulan.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/gunarakulan-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
-              <h6>Guna Rakulan</h6>
+              <h6>Gunarakulan Gunaratnam</h6>
               </br>
               <span>Batticaloa</span>
             </div>

@@ -16,7 +16,7 @@
         <!-- Supporters -->
         <li class="template-layout-column-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/people/community-trashfortrade-dreamspace-jayanthan.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/jayanthan-amalanathan-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Jayanthan Amalanathan</h6>
               </br>
@@ -36,7 +36,7 @@
         </li>
         <li class="template-layout-column-center-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/people/community-trashfortrade-dreamspace-shanjeevan.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/shanjeevan-amalanathan-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Shanjeevan Amalanathan</h6>
               </br>
@@ -56,7 +56,7 @@
         </li>
         <li class="template-layout-column-center-right">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/people/community-trashfortrade-dreamspace-abi.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/abitharani-jeyachandran-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Abitharani Jeyachandran</h6>
               </br>
@@ -76,7 +76,7 @@
         </li>
         <li class="template-layout-column-right">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/people/community-trashfortrade-dreamspace-jerushan.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/jerushan-sritharan-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Jerushan Sritharan</h6>
               </br>
@@ -96,7 +96,7 @@
         </li>
         <li class="template-layout-column-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/people/community-trashfortrade-dreamspace-mathy.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/ielamathy-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Ielamathy Manivannan</h6>
               </br>
@@ -116,7 +116,7 @@
         </li>
         <li class="template-layout-column-center-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/people/community-trashfortrade-dreamspace-vicky.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/vickneshwarasarma-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Vickneshwarasarma Yogeswaraiyer</h6>
               <span>Jaffna</span>
