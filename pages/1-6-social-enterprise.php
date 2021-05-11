@@ -192,7 +192,7 @@
 
 					<!-- Description -->
 					<div>
-						<p>It is a community helping, empowering women who are in need.
+						<p>It is a community of women helping, empowering women who are in need.
 						</p>
 					</br>
 					</div>
