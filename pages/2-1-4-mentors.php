@@ -666,16 +666,16 @@
 
         <li class="template-layout-column-right">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/people/magni-dreamspace.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/tiffany-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
-              <h6>Magni Johannsson</h6>
+              <h6>Tiffany Harnsongkram</h6>
               </br>
-              <span>Aerospace</span>
-              <span>Germany | Sweden</span>
+              <span>Impact Tech</span>
+              <span>France | Thailand</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
-                <li><a target="_blank" href="https://www.linkedin.com/in/magnij/">
+                <li><a target="_blank" href="https://www.linkedin.com/in/tiffany-harnsongkram-59502181/">
                     <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
                   </a></li>
               </ul>
@@ -821,8 +821,7 @@
             <img src="../media/people/rachel-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Rachel Aronoff</h6>
-              </br>
-              <span>BioTech</span>
+              <span>Genetics | Participatory Research | BioTech</span>
               <span>Switzerland | USA</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
@@ -835,24 +834,6 @@
           </div>
         </li>
 
-        <li class="template-layout-column-left">
-          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/people/tiffany-dreamspace.jpg" alt="DreamSpace Academy" />
-            <div>
-              <h6>Tiffany Harnsongkram</h6>
-              </br>
-              <span>Impact Tech</span>
-              <span>France | Thailand</span>
-            </div>
-            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
-              <ul>
-                <li><a target="_blank" href="https://www.linkedin.com/in/tiffany-harnsongkram-59502181/">
-                    <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
-                  </a></li>
-              </ul>
-            </div>
-          </div>
-        </li>
       </ul>
     </div>
   </div>
