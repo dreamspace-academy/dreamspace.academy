@@ -91,7 +91,7 @@
 					</br>
 					</div>
 
-					<a target="_blank" href="https://benzymeventures.netlify.app/" class="template-component-button template-component-button-style-1">More<i></i></a>
+					<a href="3-4-0-social-enterprise.php#benzyme-ventures" class="template-component-button template-component-button-style-1">More<i></i></a>
 
 				</li>
 
@@ -162,7 +162,7 @@
 
 					<!-- Counter -->
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
-						<img src="../media/logos/curve-matrics-dreamspace.png" alt="DreamSpace Academy" />
+						<img src="../media/logos/curve-matrics-dreamspace.jpg" alt="DreamSpace Academy" />
 					</div>
 
 
@@ -183,7 +183,7 @@
 
 					<!-- Counter -->
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
-						<img src="../media/logos/curve-matrics-dreamspace.png" alt="DreamSpace Academy" />
+						<img src="../media/logos/her-dreamspace.jpg" alt="DreamSpace Academy" />
 					</div>
 
 
