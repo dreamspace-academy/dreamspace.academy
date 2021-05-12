@@ -31,7 +31,7 @@
 						</br>
 					</div>
 
-					<a href="3-4-0-social-enterprise.php#terrace" class="template-component-button template-component-button-style-1">More<i></i></a>
+					<a href="3-4-0-social-enterprise.php" class="template-component-button template-component-button-style-1">More<i></i></a>
 
 				</li>
 				<li class="template-layout-column-left">
@@ -112,7 +112,7 @@
 					</br>
 					</div>
 
-					<a target="_blank" href="https://www.facebook.com/DiGiAdvocates" class="template-component-button template-component-button-style-1">More<i></i></a>
+					<a href="4-1-0-Peacebuilding.php#digi-advocates" class="template-component-button template-component-button-style-1">More<i></i></a>
 
 				</li>
 
@@ -125,7 +125,7 @@
 
 
 					<!-- Header -->
-					<h5>I REACT</h5>
+					<h5>i REACT</h5>
 
 					<!-- Description -->
 					<div>
@@ -133,7 +133,7 @@
 					</br>
 					</div>
 
-					<a target="_blank" href="http://ireactsrilanka.org/" class="template-component-button template-component-button-style-1">More<i></i></a>
+					<a href="4-1-0-Peacebuilding.php#ireact" class="template-component-button template-component-button-style-1">More<i></i></a>
 
 				</li>
 
@@ -154,7 +154,7 @@
 					</br>
 					</div>
 
-					<a href="3-4-0-social-enterprise.php#ai4life" class="template-component-button template-component-button-style-1">More<i></i></a>
+					<a href="4-1-0-Peacebuilding.php#ai4life" class="template-component-button template-component-button-style-1">More<i></i></a>
 
 				</li>
 
@@ -175,7 +175,7 @@
 					</br>
 					</div>
 
-					<a href="3-4-0-social-enterprise.php#curve-matrics" class="template-component-button template-component-button-style-1">More<i></i></a>
+					<a href="3-4-0-social-enterprise.php" class="template-component-button template-component-button-style-1">More<i></i></a>
 
 				</li>
 
@@ -197,7 +197,7 @@
 					</br>
 					</div>
 
-					<a href="3-4-0-social-enterprise.php#her" class="template-component-button template-component-button-style-1">More<i></i></a>
+					<a href="4-1-0-Peacebuilding.php#her" class="template-component-button template-component-button-style-1">More<i></i></a>
 
 				</li>
 

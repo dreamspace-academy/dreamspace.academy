@@ -88,13 +88,9 @@
 								<div class="template-layout-column-right">
 									<span class="sf-mega-header">Social Enterprise</span>
 									<ul>
-										<li><a href="3-4-0-social-enterprise.php#terrace">DreamSpace Terrace</a></li>
 										<li><a href="3-4-0-social-enterprise.php#trash-for-trade">Trash For Trade</a></li>
 										<li><a href="3-4-0-social-enterprise.php#oceanbiome">OceanBiome</a></li>
                     <li><a href="3-4-0-social-enterprise.php#benzyme-ventures">BenzymeVentures</a></li>
-										<li><a href="3-4-0-social-enterprise.php#ai4life">AI4Life</a></li>
-										<li><a href="3-4-0-social-enterprise.php#curve-matrics">Curve Matrics</a></li>
-
 									</ul>
 								</div>
 
@@ -106,11 +102,13 @@
 							<a href="#"><span class="template-icon-menu" style="font-size:xx-large;"><i class="fas fa-people-arrows"></i></span>Activities</a>
 							<div class="sf-mega template-layout-25x25x25x25 template-clear-fix">
 								<div class="template-layout-column-left">
-									<span class="sf-mega-header">Peacebuilding</span>
+									<span class="sf-mega-header">Peacebuilding & Reconciliation</span>
 									<ul>
-										<li><a target=_blank href="https://sylcsl.org">Sagacious Youth Lead Consortium (SYLC)</a></li>
-										<li><a target=_blank href="https://srilankaunites.org">Sri Lanka Unites</a></li>
-										<li><a target=_blank href="https://www.facebook.com/hersrilanka">HER</a></li>
+										<li><a href="4-1-0-peacebuilding.php#sylc">Sagacious Youth Lead Consortium (SYLC)</a></li>
+										<li><a href="4-1-0-peacebuilding.php#ireact">i REACT</a></li>
+										<li><a href="4-1-0-peacebuilding.php#digi-advocates">DiGi Advocates</a></li>
+										<li><a href="4-1-0-peacebuilding.php#her">HER</a></li>
+										<li><a href="4-1-0-peacebuilding.php#ai4life">AI4Life</a></li>
 									</ul>
 								</div>
 

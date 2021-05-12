@@ -1,6 +1,6 @@
-#<div class="template-content" id="makers">
+<div class="template-content" id="makers">
   <div class="template-component-header-subheader">
-    <h2>Our Maker Community</h2>
+    <h2>Maker Community</h2>
     <h6></h6>
     <div></div>
   </div>

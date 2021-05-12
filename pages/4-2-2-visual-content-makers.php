@@ -1,6 +1,6 @@
 <div class="template-content" id="visual-content-makers">
   <div class="template-component-header-subheader">
-    <h2>Our Visual Content Makers</h2>
+    <h2>Visual Content Makers</h2>
     <h6></h6>
     <div></div>
   </div>
