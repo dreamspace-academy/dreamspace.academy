@@ -4,7 +4,7 @@
 
 			<div class="template-layout-column-left template-margin-bottom-reset">
 				<div class="template-align-center">
-					<h2>i REACT</h2>
+					<h2>iREACT</h2>
 					<div class="template-component-divider template-component-divider-style-2"></div>
 					<div class="template-component-italic template-margin-top-3">
 						Fight against hate speech through story telling

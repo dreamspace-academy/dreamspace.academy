@@ -90,7 +90,7 @@
 									<ul>
 										<li><a href="3-4-0-social-enterprise.php#trash-for-trade">Trash For Trade</a></li>
 										<li><a href="3-4-0-social-enterprise.php#oceanbiome">OceanBiome</a></li>
-                    <li><a href="3-4-0-social-enterprise.php#benzyme-ventures">BenzymeVentures</a></li>
+                    <li><a href="3-4-0-social-enterprise.php#benzyme-ventures">Benzyme Ventures</a></li>
 									</ul>
 								</div>
 
@@ -105,7 +105,7 @@
 									<span class="sf-mega-header">Peacebuilding & Reconciliation</span>
 									<ul>
 										<li><a href="4-1-0-peacebuilding.php#sylc">Sagacious Youth Lead Consortium (SYLC)</a></li>
-										<li><a href="4-1-0-peacebuilding.php#ireact">i REACT</a></li>
+										<li><a href="4-1-0-peacebuilding.php#ireact">iREACT</a></li>
 										<li><a href="4-1-0-peacebuilding.php#digi-advocates">DiGi Advocates</a></li>
 										<li><a href="4-1-0-peacebuilding.php#her">HER</a></li>
 										<li><a href="4-1-0-peacebuilding.php#ai4life">AI4Life</a></li>

@@ -15,7 +15,7 @@
 
 			<div class="template-layout-column-right template-margin-bottom-reset">
 				<div class="template-align-center">
-					<h2>BenzymeVentures</h2>
+					<h2>Benzyme Ventures</h2>
 					<div class="template-component-divider template-component-divider-style-2"></div>
 					<div class="template-component-italic template-margin-top-3">
 						Empower next-generation scientists and biotech entrepreneurs.

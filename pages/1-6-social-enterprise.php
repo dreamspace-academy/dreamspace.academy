@@ -83,7 +83,7 @@
 
 
 					<!-- Header -->
-					<h5>BenzymeVentures</h5>
+					<h5>Benzyme Ventures</h5>
 
 					<!-- Description -->
 					<div>
@@ -125,7 +125,7 @@
 
 
 					<!-- Header -->
-					<h5>i REACT</h5>
+					<h5>iREACT</h5>
 
 					<!-- Description -->
 					<div>
