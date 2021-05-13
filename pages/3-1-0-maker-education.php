@@ -12,6 +12,7 @@
 	<?php include('3-1-7-story-lab.php'); ?>
 	<?php include('3-1-5-art-lab.php'); ?>
 	<?php include('3-1-6-bio-lab.php'); ?>
+	<?php include('3-1-8-space-lab.php'); ?>
 	<?php include('3-1-0-enroll.php'); ?>
 </div>
 <?php include('9-0-footer.php') ?>
