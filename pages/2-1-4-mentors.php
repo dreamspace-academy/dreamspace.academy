@@ -625,7 +625,6 @@
             </div>
           </div>
         </li>
-
         <li class="template-layout-column-center-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
             <img src="../media/people/izabela-dreamspace.jpg" alt="DreamSpace Academy" />
@@ -682,26 +681,24 @@
             </div>
           </div>
         </li>
-
         <li class="template-layout-column-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/people/izan-dreamspace.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/rachel-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
-              <h6>Izan Peris</h6>
-              </br>
-              <span>Aerospace</span>
-              <span>Spain</span>
+              <h6>Rachel Aronoff</h6>
+            </br>
+              <span>Genetics | BioTech</span>
+              <span>Switzerland | USA</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
-                <li><a target="_blank" href="https://www.linkedin.com/in/izanperis/">
+                <li><a target="_blank" href="https://www.linkedin.com/in/rachelaronoff/">
                     <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
                   </a></li>
               </ul>
             </div>
           </div>
         </li>
-
         <li class="template-layout-column-center-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
             <img src="../media/people/luis-dreamspace.jpg" alt="DreamSpace Academy" />
@@ -765,7 +762,7 @@
             <div>
               <h6>Sarah Blossom Ware</h6>
               </br>
-              <span>BioTech</span>
+              <span>BioEthics | BioTech</span>
               <span>USA</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
@@ -803,7 +800,7 @@
             <div>
               <h6>Ellen Jorgensen</h6>
               </br>
-              <span>BioTech</span>
+              <span>BioEthics | BioTech</span>
               <span>USA</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
@@ -815,25 +812,24 @@
             </div>
           </div>
         </li>
-
-        <li class="template-layout-column-right">
+        <!-- <li class="template-layout-column-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/people/rachel-dreamspace.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/izan-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
-              <h6>Rachel Aronoff</h6>
-              <span>Genetics | Participatory Research | BioTech</span>
-              <span>Switzerland | USA</span>
+              <h6>Izan Peris</h6>
+              </br>
+              <span>Aerospace</span>
+              <span>Spain</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
-                <li><a target="_blank" href="https://www.linkedin.com/in/rachelaronoff/">
+                <li><a target="_blank" href="https://www.linkedin.com/in/izanperis/">
                     <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
                   </a></li>
               </ul>
             </div>
           </div>
-        </li>
-
+        </li> -->
       </ul>
     </div>
   </div>
