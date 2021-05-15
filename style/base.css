@@ -1077,7 +1077,12 @@ textarea,
 .template-layout-75x25>.template-layout-column-left,
 .template-layout-75x25>.template-layout-column-right,
 .template-layout-25x75>.template-layout-column-left,
-.template-layout-25x75>.template-layout-column-right
+.template-layout-25x75>.template-layout-column-right,
+.template-layout-20x20x20x20x20>.template-layout-column-left,
+.template-layout-20x20x20x20x20>.template-layout-column-center-left,
+.template-layout-20x20x20x20x20>.template-layout-column-center,
+.template-layout-20x20x20x20x20>.template-layout-column-center-right,
+.template-layout-20x20x20x20x20>.template-layout-column-right
 {
 	display:block;
 	visibility:visible;
@@ -1221,6 +1226,51 @@ textarea,
 		width:25%;
 		margin:0px !important;
 	}
+
+	/**************************************************************************/
+	/* Layout / 20x20x20x20x20												  */
+	/**************************************************************************/
+
+	.template-layout-20x20x20x20x20 {}
+
+	.template-layout-20x20x20x20x20>.template-layout-column-left
+	{
+		clear:both;
+	}
+
+	.template-layout-20x20x20x20x20>.template-layout-column-left,
+	.template-layout-20x20x20x20x20>.template-layout-column-center-left,
+	.template-layout-20x20x20x20x20>.template-layout-column-center,
+	.template-layout-20x20x20x20x20>.template-layout-column-center-right
+	{
+		float:left;
+		margin-right:3.125%;
+	}
+
+	.template-layout-20x20x20x20x20>.template-layout-column-right
+	{
+		float:right;
+	}
+
+	.template-layout-20x20x20x20x20>.template-layout-column-left,
+	.template-layout-20x20x20x20x20>.template-layout-column-center-left,
+	.template-layout-20x20x20x20x20>.template-layout-column-center,
+	.template-layout-20x20x20x20x20>.template-layout-column-center-right,
+	.template-layout-20x20x20x20x20>.template-layout-column-right
+	{
+		width:17.5%;
+	}
+
+	.template-layout-20x20x20x20x20.template-layout-margin-reset>.template-layout-column-left,
+	.template-layout-20x20x20x20x20.template-layout-margin-reset>.template-layout-column-center-left,
+	.template-layout-20x20x20x20x20.template-layout-margin-reset>.template-layout-column-center,
+	.template-layout-20x20x20x20x20.template-layout-margin-reset>.template-layout-column-center-right,
+	.template-layout-20x20x20x20x20.template-layout-margin-reset>.template-layout-column-right
+	{
+		width:20%;
+		margin:0px !important;
+	}
+
 
 	/**************************************************************************/
 	/* Layout / 66x33														  */

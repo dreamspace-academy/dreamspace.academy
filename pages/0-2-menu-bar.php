@@ -100,7 +100,7 @@
 						<!-- Activities Menu -->
 						<li class="sf-mega-enable-1">
 							<a href="#"><span class="template-icon-menu" style="font-size:xx-large;"><i class="fas fa-people-arrows"></i></span>Activities</a>
-							<div class="sf-mega template-layout-25x25x25x25 template-clear-fix">
+							<div class="sf-mega template-layout-20x20x20x20x20 template-clear-fix">
 								<div class="template-layout-column-left">
 									<span class="sf-mega-header">Peacebuilding & Reconciliation</span>
 									<ul>
@@ -122,7 +122,7 @@
 									</ul>
 								</div>
 
-								<div class="template-layout-column-center-right">
+								<div class="template-layout-column-center">
 									<span class="sf-mega-header">International Aid Projects</span>
 									<ul>
 										<li><a href="4-3-0-international-aid-projects.php#dofe">The Duke of Edinburgh's Award (UK)</a></li>
@@ -131,7 +131,7 @@
 									</ul>
 								</div>
 
-								<div class="template-layout-column-right">
+								<div class="template-layout-column-center-right">
 									<span class="sf-mega-header">Service Providing</span>
 									<ul>
 										<li><a href="4-4-0-service-providing.php#360-consulting">360° Consulting</a></li>
@@ -139,6 +139,14 @@
 										<li><a href="4-4-0-service-providing.php#prototype">Prototype & Product Development</a></li>
 										<li><a href="4-4-0-service-providing.php#software-development">Software Development</a></li>
 										<li><a href="4-4-0-service-providing.php#photography">Photography & Documentary Making</a></li>
+									</ul>
+								</div>
+
+								<div class="template-layout-column-right">
+									<span class="sf-mega-header">Initiatives</span>
+									<ul>
+										<li><a href="3-5-0-initiatives.php#terrace">DreamSpace Terrace</a></li>
+										<li><a href="3-5-0-initiatives.php#curve-matrics">Curve Matrics</a></li>
 									</ul>
 								</div>
 
