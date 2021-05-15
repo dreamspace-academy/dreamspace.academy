@@ -238,7 +238,7 @@
         </li>
         <li class="template-layout-column-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/people/alessandro-dreamspace.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/alessandro-volpato-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Alessandro Volpato</h6>
               </br>
@@ -310,7 +310,7 @@
         </li>
         <li class="template-layout-column-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/people/bhargav-dreamspace.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/bhargav-ramachandra-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Bhargav Ramachandra</h6>
               </br>
@@ -403,7 +403,7 @@
         </li>
         <li class="template-layout-column-center-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/people/amiththan-dreamspace.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/amiththan-sebarajah-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Amiththan Sebarajah</h6>
               </br>
@@ -495,7 +495,7 @@
 
         <li class="template-layout-column-center-right">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/people/eesan-dreamspace.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/eesan-sivaniah-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Easan Sivaniah</h6>
               </br>
@@ -571,7 +571,7 @@
 
         <li class="template-layout-column-center-right">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/people/ahmed-dreamspace.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/ahmed-el-hamamsy-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Ahmed El Hamamsy</h6>
               </br>

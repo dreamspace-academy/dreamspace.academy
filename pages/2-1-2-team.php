@@ -163,7 +163,7 @@
         <li class="template-layout-column-right">
 
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/people/basith-dreamspace.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/abdul-basith-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Abdul Basith</h6>
               </br>
@@ -206,7 +206,7 @@
         </li>
         <li class="template-layout-column-center-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/people/gunarakulan-dreamspace.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/gunarakulan-gunaratnam-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Gunarakulan Gunaretnam</h6>
               </br>
@@ -295,7 +295,7 @@
         </li>
         <li class="template-layout-column-center-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/people/abishethvarman-dreamspace.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/abisheth-varman-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Abisheth Varman</h6>
               </br>
