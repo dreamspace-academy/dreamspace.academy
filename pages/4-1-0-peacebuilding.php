@@ -6,7 +6,7 @@
     <div></div>
   </div>
 
-  <!--<?php include('4-1-1-sylc.php'); ?>-->
+  <?php include('4-1-1-sylc.php'); ?>
   <?php include('4-1-2-ireact.php'); ?>
   <?php include('4-1-3-digi-advocates.php'); ?>
   <?php include('4-1-4-her.php'); ?>
