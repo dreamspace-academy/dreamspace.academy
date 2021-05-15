@@ -127,6 +127,7 @@
 								<li><a href="4-2-0-communities.php#visual-content-makers">Visual Content Makers</a></li>
 								<li><a href="4-2-0-communities.php#trashfortrade-community">Trash For Trade Community</a></li>
 								<li><a href="4-2-0-communities.php#oceanbiome-community">OceanBiome Community</a></li>
+								<li><a href="4-2-0-communities.php#ai-community">AI Community</a></li>
 							</ul>
 						</li>
 

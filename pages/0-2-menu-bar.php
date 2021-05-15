@@ -115,10 +115,12 @@
 								<div class="template-layout-column-center-left">
 									<span class="sf-mega-header">Community Building</span>
 									<ul>
+										</br>
 										<li><a href="4-2-0-communities.php#makers">Makers</a></li>
 										<li><a href="4-2-0-communities.php#visual-content-makers">Visual Content Makers</a></li>
 										<li><a href="4-2-0-communities.php#trashfortrade-community">Trash For Trade Community</a></li>
 										<li><a href="4-2-0-communities.php#oceanbiome-community">OceanBiome Community</a></li>
+										<li><a href="4-2-0-communities.php#ai-community">AI Community</a></li>
 									</ul>
 								</div>
 
@@ -134,6 +136,7 @@
 								<div class="template-layout-column-center-right">
 									<span class="sf-mega-header">Service Providing</span>
 									<ul>
+										</br>
 										<li><a href="4-4-0-service-providing.php#360-consulting">360° Consulting</a></li>
 										<li><a href="4-4-0-service-providing.php#data-moderation">Data Moderation</a></li>
 										<li><a href="4-4-0-service-providing.php#prototype">Prototype & Product Development</a></li>
@@ -145,6 +148,7 @@
 								<div class="template-layout-column-right">
 									<span class="sf-mega-header">Initiatives</span>
 									<ul>
+									</br>
 										<li><a href="3-5-0-initiatives.php#terrace">DreamSpace Terrace</a></li>
 										<li><a href="3-5-0-initiatives.php#curve-matrics">Curve Matrics</a></li>
 									</ul>
