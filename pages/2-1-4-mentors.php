@@ -110,7 +110,7 @@
         </li>
         <li class="template-layout-column-center-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/people/johnny-dreamspace.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/johnny-fd-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Johnny FD</h6>
               </br>
@@ -147,7 +147,7 @@
         </li>
         <li class="template-layout-column-right">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/people/stephen-dreamspace.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/stephen-byam-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Stephen Byam</h6>
               </br>
@@ -166,7 +166,7 @@
         </li>
         <li class="template-layout-column-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/people/peter-dreamspace.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/peter-glasser-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Peter Glasser</h6>
               </br>
@@ -184,7 +184,7 @@
         </li>
         <li class="template-layout-column-center-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/people/gabriella-dreamspace.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/gabriella-dezso-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Dr. Gabriella Dezsö</h6>
               </br>
@@ -202,7 +202,7 @@
         </li>
         <li class="template-layout-column-center-right">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/people/philipp-dreamspace.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/philipp-klink-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Philipp Klink</h6>
               </br>
@@ -220,7 +220,7 @@
         </li>
         <li class="template-layout-column-right">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/people/noelene-dreamspace.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/noelene-palmer-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Noelene Palmer</h6>
               </br>
@@ -256,7 +256,7 @@
         </li>
         <li class="template-layout-column-center-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/people/malte-dreamspace.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/malte-larson-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Malte Larson</h6>
               </br>
@@ -274,7 +274,7 @@
         </li>
         <li class="template-layout-column-center-right">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/people/mike-dreamspace.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/mike-richardson-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Mike Richardson</h6>
               </br>
@@ -292,7 +292,7 @@
         </li>
         <li class="template-layout-column-right">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/people/johanna-dreamspace.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/johanna-havemann-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Johanna Havemann</h6>
               </br>
@@ -347,7 +347,7 @@
         </li>
         <li class="template-layout-column-center-right">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/people/sakshi-dreamspace.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/sakshi-sharma-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Sakshi Sharma</h6>
               </br>
@@ -366,7 +366,7 @@
         </li>
         <li class="template-layout-column-right">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/people/raymond-dreamspace.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/raymond-miranda-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Raymond Miranda</h6>
               </br>
@@ -385,7 +385,7 @@
         </li>
         <li class="template-layout-column-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/people/farshad-dreamspace.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/farshad-fahimi-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Farshad Fahimi</h6>
               </br>
@@ -421,7 +421,7 @@
         </li>
         <li class="template-layout-column-center-right">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/people/ted-dreamspace.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/ted-tagami-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Ted Tagami</h6>
               </br>
@@ -439,7 +439,7 @@
         </li>
         <li class="template-layout-column-right">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/people/ivana-dreamspace.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/ivana-maurovic-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Ivana Maurovic</h6>
               </br>
@@ -457,7 +457,7 @@
         </li>
         <li class="template-layout-column-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/people/nicholus-dreamspace.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/nicholus-crudele-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Nicholas Crudele</h6>
               </br>
@@ -476,7 +476,7 @@
 
         <li class="template-layout-column-center-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/people/sivasambu-dreamspace.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/sivasambu-bohm-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Sivasambu Bohm</h6>
               </br>
@@ -514,7 +514,7 @@
 
         <li class="template-layout-column-right">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/people/hansika-dreamspace.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/hansika-singh-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Hansika Singh</h6>
               </br>
@@ -533,7 +533,7 @@
 
         <li class="template-layout-column-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/people/virginie-dreamspace.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/virginie-coulloudon-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Virginie Coulloudon</h6>
               </br>
@@ -552,7 +552,7 @@
 
         <li class="template-layout-column-center-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/people/nay-dreamspace.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/nay-aoun-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Nay Aoun</h6>
               </br>
@@ -609,7 +609,7 @@
 
         <li class="template-layout-column-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/people/shay-dreamspace.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/shay-lynch-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Shay Lynch</h6>
               </br>
@@ -627,7 +627,7 @@
         </li>
         <li class="template-layout-column-center-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/people/izabela-dreamspace.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/izabela-lundberg-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Izabela Lundberg</h6>
               </br>
@@ -646,7 +646,7 @@
 
         <li class="template-layout-column-center-right">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/people/giulia-dreamspace.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/giulia-de-mauro-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Giulia de Mauro</h6>
               </br>
@@ -665,7 +665,7 @@
 
         <li class="template-layout-column-right">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/people/tiffany-dreamspace.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/tiffany-harnsongkram-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Tiffany Harnsongkram</h6>
               </br>
@@ -683,7 +683,7 @@
         </li>
         <li class="template-layout-column-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/people/rachel-dreamspace.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/rachel-aronoff-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Rachel Aronoff</h6>
             </br>
@@ -701,7 +701,7 @@
         </li>
         <li class="template-layout-column-center-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/people/luis-dreamspace.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/luis-ferreira-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Luis Ferreira</h6>
               </br>
@@ -720,7 +720,7 @@
 
         <li class="template-layout-column-center-right">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/people/scott-dreamspace.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/scott-pownall-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Scott Pownall</h6>
               </br>
@@ -739,7 +739,7 @@
 
         <li class="template-layout-column-right">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/people/kathrin-dreamspace.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/kathrin-hadasch-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Kathrin Hadasch</h6>
               </br>
@@ -758,7 +758,7 @@
 
         <li class="template-layout-column-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/people/sarah-dreamspace.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/sarah-blossom-ware-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Sarah Blossom Ware</h6>
               </br>
@@ -777,7 +777,7 @@
 
         <li class="template-layout-column-center-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/people/guy-dreamspace.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/guy-aidelberg-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Guy Aidelberg</h6>
               </br>
@@ -796,7 +796,7 @@
 
         <li class="template-layout-column-center-right">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/people/ellen-dreamspace.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/ellen-jorgensen-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Ellen Jorgensen</h6>
               </br>
@@ -814,7 +814,7 @@
         </li>
         <!-- <li class="template-layout-column-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/people/izan-dreamspace.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/izan-peris-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Izan Peris</h6>
               </br>

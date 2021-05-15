@@ -96,9 +96,10 @@
         </li>
         <li class="template-layout-column-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/people/ielamathy-dreamspace.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/ielamathy-manivannan-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Ielamathy Manivannan</h6>
+              </br>
               </br>
               <span>Jaffna</span>
             </div>
@@ -119,6 +120,7 @@
             <img src="../media/people/vickneshwarasarma-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Vickneshwarasarma Yogeswaraiyer</h6>
+              </br>
               <span>Jaffna</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">

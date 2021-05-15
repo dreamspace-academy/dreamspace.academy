@@ -97,7 +97,7 @@
         </li>
         <li class="template-layout-column-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/people/basith-dreamspace.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/abdul-basith-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Rafeekin Abdul Basith</h6>
               </br>
