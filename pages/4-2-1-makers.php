@@ -128,7 +128,7 @@
                 <li><a target="_blank" href="https://www.linkedin.com/in/prasath-thevapalan-953731184/">
                     <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
                   </a></li>
-                <li><a target="_blank" href="http://team.dreamspace.academy/prashath/">
+                <li><a target="_blank" href="#">
                     <i class="fas fa-link fa-lg" style="color: white; padding-top: 17px;"></i>
                   </a></li>
               </ul>
@@ -150,7 +150,7 @@
                 <li><a target="_blank" href="https://www.linkedin.com/in/thanushkar-srikaran-203285178">
                     <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
                   </a></li>
-                <li><a target="_blank" href="http://team.dreamspace.academy/kishoth/">
+                <li><a target="_blank" href="#">
                     <i class="fas fa-link fa-lg" style="color: white; padding-top: 17px;"></i>
                   </a></li>
               </ul>
@@ -172,7 +172,7 @@
                 <li><a target="_blank" href="https://www.linkedin.com/in/manisegaran-pavithran-a85464129/">
                     <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
                   </a></li>
-                <li><a target="_blank" href="http://team.dreamspace.academy/pavi/">
+                <li><a target="_blank" href="https://www.facebook.com/shanthirasegaran.manisegaran">
                     <i class="fas fa-link fa-lg" style="color: white; padding-top: 17px;"></i>
                   </a></li>
               </ul>
