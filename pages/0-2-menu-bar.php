@@ -33,11 +33,11 @@
 								<div class="template-layout-column-center-left">
 									<span class="sf-mega-header">More</span>
 									<ul>
-										<li><a href="#">Press</a></li>
-										<li><a href="#">Gallery</a></li>
-										<li><a href="#">Co-Governance</a></li>
-										<li><a href="#">Guidelines</a></li>
-										<li><a href="#">Tools</a></li>
+										<li><a href="10-0-under-construction.php">Press</a></li>
+										<li><a href="10-0-under-construction.php">Gallery</a></li>
+										<li><a href="10-0-under-construction.php">Co-Governance</a></li>
+										<li><a href="10-0-under-construction.php">Guidelines</a></li>
+										<li><a href="10-0-under-construction.php">Tools</a></li>
 										<li><a href="http://storydeck.dreamspace.academy/">Story Deck</a></li>
 										<li><a href="2-2-1-calendar.php">Calendar</a></li>
 									</ul>
@@ -68,9 +68,8 @@
 										<li><a href="3-2-2-circular-plastic.php">Circular Plastic</a></li>
 										<li><a href="3-2-3-open-covid.php">Open Covid</a></li>
 										<li><a href="3-2-4-corona-hunter.php">Corona Hunter</a></li>
-										<li><a href="#">Agaram</a></li>
-										<li><a href="#">Towards Green Energy</a></li>
-										<li><a href="#">DreamBot</a></li>
+										<li><a href="10-0-under-construction.php">Towards Green Energy</a></li>
+										<li><a href="10-0-under-construction.php">DreamBot</a></li>
 									</ul>
 								</div>
 
