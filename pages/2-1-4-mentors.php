@@ -13,7 +13,6 @@
     <!-- Gallery -->
     <div class="template-component-gallery">
       <ul class="template-layout-25x25x25x25 template-clear-fix">
-        <!-- Supporters -->
         <li class="template-layout-column-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
             <img src="../media/people/maite-hernandez-dreamspace.jpg" alt="DreamSpace Academy" />
@@ -473,7 +472,6 @@
             </div>
           </div>
         </li>
-
         <li class="template-layout-column-center-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
             <img src="../media/people/sivasambu-bohm-dreamspace.jpg" alt="DreamSpace Academy" />
@@ -492,7 +490,6 @@
             </div>
           </div>
         </li>
-
         <li class="template-layout-column-center-right">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
             <img src="../media/people/eesan-sivaniah-dreamspace.jpg" alt="DreamSpace Academy" />
@@ -511,7 +508,6 @@
             </div>
           </div>
         </li>
-
         <li class="template-layout-column-right">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
             <img src="../media/people/hansika-singh-dreamspace.jpg" alt="DreamSpace Academy" />
@@ -530,7 +526,6 @@
             </div>
           </div>
         </li>
-
         <li class="template-layout-column-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
             <img src="../media/people/virginie-coulloudon-dreamspace.jpg" alt="DreamSpace Academy" />
@@ -549,7 +544,6 @@
             </div>
           </div>
         </li>
-
         <li class="template-layout-column-center-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
             <img src="../media/people/nay-aoun-dreamspace.jpg" alt="DreamSpace Academy" />
@@ -568,7 +562,6 @@
             </div>
           </div>
         </li>
-
         <li class="template-layout-column-center-right">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
             <img src="../media/people/ahmed-el-hamamsy-dreamspace.jpg" alt="DreamSpace Academy" />
@@ -587,7 +580,6 @@
             </div>
           </div>
         </li>
-
         <li class="template-layout-column-right">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
             <img src="../media/people/ahmed-khaled-dreamspace.jpg" alt="DreamSpace Academy" />
@@ -606,7 +598,6 @@
             </div>
           </div>
         </li>
-
         <li class="template-layout-column-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
             <img src="../media/people/shay-lynch-dreamspace.jpg" alt="DreamSpace Academy" />
@@ -643,26 +634,24 @@
             </div>
           </div>
         </li>
-
         <li class="template-layout-column-center-right">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/people/giulia-de-mauro-dreamspace.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/ellen-jorgensen-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
-              <h6>Giulia de Mauro</h6>
+              <h6>Ellen Jorgensen</h6>
               </br>
-              <span>Architecture</span>
-              <span>Netherland</span>
+              <span>BioEthics | BioTech</span>
+              <span>USA</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
-                <li><a target="_blank" href="https://www.linkedin.com/in/business-development-architecture/">
+                <li><a target="_blank" href="https://www.linkedin.com/in/ellenjorgensen/">
                     <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
                   </a></li>
               </ul>
             </div>
           </div>
         </li>
-
         <li class="template-layout-column-right">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
             <img src="../media/people/tiffany-harnsongkram-dreamspace.jpg" alt="DreamSpace Academy" />
@@ -717,7 +706,6 @@
             </div>
           </div>
         </li>
-
         <li class="template-layout-column-center-right">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
             <img src="../media/people/scott-pownall-dreamspace.jpg" alt="DreamSpace Academy" />
@@ -736,7 +724,6 @@
             </div>
           </div>
         </li>
-
         <li class="template-layout-column-right">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
             <img src="../media/people/kathrin-hadasch-dreamspace.jpg" alt="DreamSpace Academy" />
@@ -755,7 +742,6 @@
             </div>
           </div>
         </li>
-
         <li class="template-layout-column-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
             <img src="../media/people/sarah-blossom-ware-dreamspace.jpg" alt="DreamSpace Academy" />
@@ -774,7 +760,6 @@
             </div>
           </div>
         </li>
-
         <li class="template-layout-column-center-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
             <img src="../media/people/guy-aidelberg-dreamspace.jpg" alt="DreamSpace Academy" />
@@ -793,43 +778,6 @@
             </div>
           </div>
         </li>
-
-        <li class="template-layout-column-center-right">
-          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/people/ellen-jorgensen-dreamspace.jpg" alt="DreamSpace Academy" />
-            <div>
-              <h6>Ellen Jorgensen</h6>
-              </br>
-              <span>BioEthics | BioTech</span>
-              <span>USA</span>
-            </div>
-            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
-              <ul>
-                <li><a target="_blank" href="https://www.linkedin.com/in/ellenjorgensen/">
-                    <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
-                  </a></li>
-              </ul>
-            </div>
-          </div>
-        </li>
-        <!-- <li class="template-layout-column-left">
-          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/people/izan-peris-dreamspace.jpg" alt="DreamSpace Academy" />
-            <div>
-              <h6>Izan Peris</h6>
-              </br>
-              <span>Aerospace</span>
-              <span>Spain</span>
-            </div>
-            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
-              <ul>
-                <li><a target="_blank" href="https://www.linkedin.com/in/izanperis/">
-                    <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
-                  </a></li>
-              </ul>
-            </div>
-          </div>
-        </li> -->
       </ul>
     </div>
   </div>
