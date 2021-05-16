@@ -3,8 +3,8 @@
 	<div class="template-main">
 
 		<div class="template-component-header-subheader">
-			<h3>What are our initiatives?</h3>
-			<h6>The candidate’s solution is graduated as a startup for socio-economic & environmental development.</h6>
+			<h3>What are our enterprises and initiatives?</h3>
+			<h6>Our incubated organisations to tackle social, economic and environmental challenges</h6>
 			<div></div>
 		</div>
 
@@ -18,26 +18,6 @@
 
 					<!-- Counter -->
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
-						<img src="../media/logos/terrace-dreamspace.jpg" alt="DreamSpace Academy" />
-					</div>
-
-
-					<!-- Header -->
-					<h5>DreamSpace Terrace</h5>
-
-					<!-- Description -->
-					<div>
-						<p>It is a community space for social gathering activities along with cafe.</p>
-						</br>
-					</div>
-
-					<a href="3-4-0-social-enterprise.php" class="template-component-button template-component-button-style-1">More<i></i></a>
-
-				</li>
-				<li class="template-layout-column-left">
-
-					<!-- Counter -->
-					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
 						<img src="../media/logos/trashfortrade-dreamspace.jpg" alt="DreamSpace Academy" />
 					</div>
 
@@ -47,7 +27,7 @@
 
 					<!-- Description -->
 					<div>
-						<p>It is a social enterprise with the vision of a future free from plastic pollution.</p>
+						<p>A social enterprise to tackle plastic polutions by co-creating circular economy</p>
 					</br>
 					</div>
 
@@ -67,7 +47,7 @@
 
 					<!-- Description -->
 					<div>
-						<p>It is a social organization to engage next generation youth towards ocean.</p>
+						<p>A social enterprise to tackle pressing challenges of marine ecosystems</p>
 					</br>
 					</div>
 
@@ -87,35 +67,13 @@
 
 					<!-- Description -->
 					<div>
-						<p>It is an non-profit organization that support and guide bioscience enthusiasts.</p>
+						<p>A social enterprise to provide an open access to life science research & innovations</p>
 					</br>
 					</div>
 
 					<a href="3-4-0-social-enterprise.php#benzyme-ventures" class="template-component-button template-component-button-style-1">More<i></i></a>
 
 				</li>
-
-        <li class="template-layout-column-left">
-
-					<!-- Counter -->
-					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
-						<img src="../media\logos\digi-advocates-dreamspace.jpg" alt="DreamSpace Academy" />
-					</div>
-
-
-					<!-- Header -->
-					<h5>DiGi Advocates</h5>
-
-					<!-- Description -->
-					<div>
-						<p>It is a young community that advocate to reduce hate speech on social media.</p>
-					</br>
-					</div>
-
-					<a href="4-1-0-Peacebuilding.php#digi-advocates" class="template-component-button template-component-button-style-1">More<i></i></a>
-
-				</li>
-
         <li class="template-layout-column-left">
 
 					<!-- Counter -->
@@ -129,14 +87,33 @@
 
 					<!-- Description -->
 					<div>
-						<p>It is a community of story tellers and mappers who react to hate speech, and false information.</p>
+						<p>An initiative of peacebuilders and storytellers to mititgate hate speech and fake news</p>
 					</br>
 					</div>
 
 					<a href="4-1-0-Peacebuilding.php#ireact" class="template-component-button template-component-button-style-1">More<i></i></a>
 
 				</li>
+				<li class="template-layout-column-left">
 
+					<!-- Counter -->
+					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
+						<img src="../media\logos\digi-advocates-dreamspace.jpg" alt="DreamSpace Academy" />
+					</div>
+
+
+					<!-- Header -->
+					<h5>DiGi Advocates</h5>
+
+					<!-- Description -->
+					<div>
+						<p>An initiative of peacebuilders to build digital literacy among local communities</p>
+					</br>
+					</div>
+
+					<a href="4-1-0-Peacebuilding.php#digi-advocates" class="template-component-button template-component-button-style-1">More<i></i></a>
+
+				</li>
 				<li class="template-layout-column-left">
 
 					<!-- Counter -->
@@ -157,7 +134,6 @@
 					<a href="4-1-0-Peacebuilding.php#ai4life" class="template-component-button template-component-button-style-1">More<i></i></a>
 
 				</li>
-
 				<li class="template-layout-column-left">
 
 					<!-- Counter -->
@@ -178,7 +154,6 @@
 					<a href="3-4-0-social-enterprise.php" class="template-component-button template-component-button-style-1">More<i></i></a>
 
 				</li>
-
 				<li class="template-layout-column-left">
 
 					<!-- Counter -->
@@ -200,7 +175,26 @@
 					<a href="4-1-0-Peacebuilding.php#her" class="template-component-button template-component-button-style-1">More<i></i></a>
 
 				</li>
+				<li class="template-layout-column-left">
 
+					<!-- Counter -->
+					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
+						<img src="../media/logos/terrace-dreamspace.jpg" alt="DreamSpace Academy" />
+					</div>
+
+
+					<!-- Header -->
+					<h5>DreamSpace Terrace</h5>
+
+					<!-- Description -->
+					<div>
+						<p>It is a community space for social gathering activities along with cafe.</p>
+						</br>
+					</div>
+
+					<a href="3-4-0-social-enterprise.php" class="template-component-button template-component-button-style-1">More<i></i></a>
+
+				</li>
 			</ul>
 
 			<!-- Pagination -->

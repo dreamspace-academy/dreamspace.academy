@@ -3,8 +3,8 @@
 	<div class="template-main">
 
 		<div class="template-component-header-subheader">
-			<h3>What are the awards under our belt?</h3>
-			<h6>Our achievements at international to national competitions & recognitions</h6>
+			<h3>What are our achievements?</h3>
+			<h6>Our achievements & recognitions at international & national stages </h6>
 			<div></div>
 		</div>
 
@@ -20,7 +20,7 @@
 					</div>
 
 					<!-- Header -->
-					<h6>Nestle Idea Hackathon</br></br>2021 - Sri Lanka</h6>
+					<h6>Nestle Idea Hackathon</br>2021 - Sri Lanka</h6></br>
 					<a href="2-0-about.php#achievements" class="template-component-button template-component-button-style-1">More<i></i></a>
 				</li>
 				<li class="template-layout-column-left">
@@ -30,7 +30,7 @@
 					</div>
 
 					<!-- Header -->
-					<h6>UBL - Business Plan competition</br>2021 - Sri Lanka</h6>
+					<h6>UBL - Business Plan Competition</br>2021 - Sri Lanka</h6>
 					<a href="2-0-about.php#achievements" class="template-component-button template-component-button-style-1">More<i></i></a>
 				</li>
 				<li class="template-layout-column-left">
@@ -40,7 +40,7 @@
 					</div>
 
 					<!-- Header -->
-					<h6>HackX</br></br>2020 - Sri Lanka</h6>
+					<h6>HackX</br>2020 - Sri Lanka</h6></br>
 					<a href="2-0-about.php#achievements" class="template-component-button template-component-button-style-1">More<i></i></a>
 				</li>
 				<li class="template-layout-column-left">
@@ -50,7 +50,7 @@
 					</div>
 
 					<!-- Header -->
-					<h6>Climathon</br></br>2020 - Sri Lanka</h6>
+					<h6>Climathon</br>2020 - Sri Lanka</h6></br>
 					<a href="2-0-about.php#achievements" class="template-component-button template-component-button-style-1">More<i></i></a>
 				</li>
 

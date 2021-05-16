@@ -3,8 +3,8 @@
 	<div class="template-main">
 
 		<div class="template-component-header-subheader">
-			<h3>What are the services we provide?</h3>
-			<h6>We balance our social mission with our services for the sustainability.</h6>
+			<h3>What services do we provide?</h3>
+			<h6>Our services via independent organisations that contribute to sustain our social mission</h6>
 			<div></div>
 		</div>
 
