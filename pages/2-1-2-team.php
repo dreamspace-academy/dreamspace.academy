@@ -425,7 +425,7 @@
         <li class="template-layout-column-right">
 
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/people/zeena-dreamspace.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/nazeer-fathima-zeena-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Nazeer Fathima Zeena</h6>
               </br>

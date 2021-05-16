@@ -70,7 +70,7 @@
 										<li><a href="3-2-4-corona-hunter.php">Corona Hunter</a></li>
 										<li><a href="#">Agaram</a></li>
 										<li><a href="#">Towards Green Energy</a></li>
-										<li><a href="#">Dream Bot</a></li>
+										<li><a href="#">DreamBot</a></li>
 									</ul>
 								</div>
 
@@ -81,7 +81,6 @@
 										<li><a href="3-3-0-international-collaboration.php#story-telling-nico">Storytelling</a></li>
 										<li><a href="#">Travelpreneur</a></li>
 										<li><a href="#">Business Modeling</a></li>
-										<li><a href="#">Digital Literacy & Marketing</a></li>
 									</ul>
 								</div>
 
