@@ -36,20 +36,20 @@
 
 				<div class="template-component-header-subheader">
 					<h3>What are our activities?</h3>
-					<h6>Small business ventures help us to financially sustain our social mission</h6>
+					<h6>Our business ventures help us to sustain our social mission</h6>
 					<div></div>
 				</div>
 				<center>
-					<img src="../media/images/org-about/social-mission-business-venture.svg" height="400" width="800" />
+					<img src="../media/others/org-about-social-mission-business-venture.svg" height="400" width="800" />
 				</center>
 
 				<div class="template-component-header-subheader">
 					<h3>How do we empower?</h3>
-					<h6>Our core activity is the personalised empowerment, also called as DreamSpace Lifecycle</h6>
+					<h6>Our core activity is personalised empowerment, also called as DreamSpace Lifecycle</h6>
 					<div></div>
 				</div>
 				<center>
-					<img src="../media/images/org-about/personalised-empowerment.svg" height="375" width="1000" />
+					<img src="../media/others/org-about-personalised-empowerment.svg" height="375" width="1000" />
 				</center>
 
 			</h3>

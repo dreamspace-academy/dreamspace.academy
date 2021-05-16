@@ -3,7 +3,7 @@
 		<div class="template-main template-clear-fix">
 			<div class="template-header-top-logo">
 				<a href="1-0-index.php">
-					<img src="../media/images/logos/logo-4148x2074-dreamspace.png" />
+					<img src="../media/logos/logo-4148x2074-dreamspace.png" />
 				</a>
 			</div>
 			<div class="template-header-top-menu template-clear-fix">
@@ -31,15 +31,22 @@
 									</ul>
 								</div>
 								<div class="template-layout-column-center-left">
+									<span class="sf-mega-header">Links</span>
+									<ul>
+										<li><a href="http://storydeck.dreamspace.academy/">Story Deck</a></li>
+										<li><a href="http://supportdeck.dreamspace.academy/">Support Deck</a></li>
+										<li><a href="https://opencollective.com/dreamspace-academy/">Opencollective</a></li>
+										<li><a href="2-2-1-calendar.php">Calendar</a></li>
+									</ul>
+								</div>
+								<div class="template-layout-column-center-right">
 									<span class="sf-mega-header">More</span>
 									<ul>
-										<li><a href="#">Press</a></li>
-										<li><a href="#">Gallery</a></li>
-										<li><a href="#">Co-Governance</a></li>
-										<li><a href="#">Guidelines</a></li>
-										<li><a href="#">Tools</a></li>
-										<li><a href="http://storydeck.dreamspace.academy/">Story Deck</a></li>
-										<li><a href="2-2-1-calendar.php">Calendar</a></li>
+										<li><a href="10-0-under-construction.php">Press</a></li>
+										<li><a href="10-0-under-construction.php">Gallery</a></li>
+										<li><a href="10-0-under-construction.php">Co-Governance</a></li>
+										<li><a href="10-0-under-construction.php">Guidelines</a></li>
+										<li><a href="10-0-under-construction.php">Tools</a></li>
 									</ul>
 								</div>
 						</li>
@@ -57,6 +64,7 @@
 										<li><a href="3-1-0-maker-education.php#business-lab">Business Lab</a></li>
 										<li><a href="3-1-0-maker-education.php#art-lab">Art Lab</a></li>
 										<li><a href="3-1-0-maker-education.php#bio-lab">Bio Lab</a></li>
+										<li><a href="3-1-0-maker-education.php#space-lab">Space Lab</a></li>
 									</ul>
 								</div>
 
@@ -67,9 +75,8 @@
 										<li><a href="3-2-2-circular-plastic.php">Circular Plastic</a></li>
 										<li><a href="3-2-3-open-covid.php">Open Covid</a></li>
 										<li><a href="3-2-4-corona-hunter.php">Corona Hunter</a></li>
-										<li><a href="#">Agaram</a></li>
-										<li><a href="#">Towards Green Energy</a></li>
-										<li><a href="#">Dream Bot</a></li>
+										<li><a href="10-0-under-construction.php">Towards Green Energy</a></li>
+										<li><a href="10-0-under-construction.php">DreamBot</a></li>
 									</ul>
 								</div>
 
@@ -78,19 +85,17 @@
 									<ul>
 										<li><a href="3-3-0-international-collaboration.php#design-thinking-maite">Design Thinking</a></li>
 										<li><a href="3-3-0-international-collaboration.php#story-telling-nico">Storytelling</a></li>
-										<li><a href="#">Travelpreneur</a></li>
-										<li><a href="#">Business Modeling</a></li>
-										<li><a href="#">Digital Literacy & Marketing</a></li>
+										<li><a href="3-3-0-international-collaboration.php">Travelpreneur</a></li>
+										<li><a href="3-3-0-international-collaboration.php">Business Modeling</a></li>
 									</ul>
 								</div>
 
 								<div class="template-layout-column-right">
 									<span class="sf-mega-header">Social Enterprise</span>
 									<ul>
-										<li><a href="3-4-0-social-enterprise.php#terrace">DreamSpace Terrace</a></li>
 										<li><a href="3-4-0-social-enterprise.php#trash-for-trade">Trash For Trade</a></li>
 										<li><a href="3-4-0-social-enterprise.php#oceanbiome">OceanBiome</a></li>
-										<li><a href="#">Benzyme Ventures</a></li>
+										<li><a href="3-4-0-social-enterprise.php#benzyme-ventures">Benzyme Ventures</a></li>
 									</ul>
 								</div>
 
@@ -100,48 +105,57 @@
 						<!-- Activities Menu -->
 						<li class="sf-mega-enable-1">
 							<a href="#"><span class="template-icon-menu" style="font-size:xx-large;"><i class="fas fa-people-arrows"></i></span>Activities</a>
-							<div class="sf-mega template-layout-25x25x25x25 template-clear-fix">
+							<div class="sf-mega template-layout-20x20x20x20x20 template-clear-fix">
 								<div class="template-layout-column-left">
-									<span class="sf-mega-header">Peacebuilding</span>
+									<span class="sf-mega-header">Peacebuilding & Reconciliation</span>
 									<ul>
-										<li><a target=_blank href="https://sylcsl.org">Sagacious Youth Lead Consortium (SYLC)</a></li>
-										<li><a target=_blank href="https://srilankaunites.org">Sri Lanka Unites</a></li>
-										<li><a target=_blank href="https://www.facebook.com/hersrilanka">HER</a></li>
+										<li><a href="4-1-0-peacebuilding.php#sylc">Sagacious Youth Lead Consortium (SYLC)</a></li>
+										<li><a href="4-1-0-peacebuilding.php#ireact">iREACT</a></li>
+										<li><a href="4-1-0-peacebuilding.php#digi-advocates">DiGi Advocates</a></li>
+										<li><a href="4-1-0-peacebuilding.php#her">HER</a></li>
+										<li><a href="4-1-0-peacebuilding.php#ai4life">AI4Life</a></li>
 									</ul>
 								</div>
 
 								<div class="template-layout-column-center-left">
 									<span class="sf-mega-header">Community Building</span>
 									<ul>
-										<li><a href="4-2-1-makers.php">Makers</a></li>
-										<li><a href="4-2-2-visual-content-makers.php">Visual Content Makers</a></li>
-										<li><a href="4-2-0-communities.php#chess">Chess</a></li>
-										<li><a href="4-2-0-communities.php#urban-farming">Urban Farming</a></li>
-										<li><a href="#">Artificial Intelligence</a></li>
-										<li><a href="#">Plastic Upcyclers</a></li>
-										<li><a href="#">Ocean Community</a></li>
-										<li><a href="#">Plastic Community</a></li>
+										</br>
+										<li><a href="4-2-0-communities.php#makers">Makers</a></li>
+										<li><a href="4-2-0-communities.php#visual-content-makers">Visual Content Makers</a></li>
+										<li><a href="4-2-0-communities.php#trashfortrade-community">Trash For Trade Community</a></li>
+										<li><a href="4-2-0-communities.php#oceanbiome-community">OceanBiome Community</a></li>
+										<li><a href="4-2-0-communities.php#ai-community">AI Community</a></li>
+									</ul>
+								</div>
+
+								<div class="template-layout-column-center">
+									<span class="sf-mega-header">International Aid Projects</span>
+									<ul>
+										<li><a href="4-3-0-international-aid-projects.php#dofe">The Duke of Edinburgh's Award (UK)</a></li>
+										<li><a href="4-3-0-international-aid-projects.php#sjwp">Stockholm Junior Water Prize (Sweden)</a></li>
+										<li><a href="4-3-0-international-aid-projects.php#s4ig">Skills For Inclusive Growth (Australia)</a></li>
 									</ul>
 								</div>
 
 								<div class="template-layout-column-center-right">
-									<span class="sf-mega-header">International Aid Projects</span>
+									<span class="sf-mega-header">Service Providing</span>
 									<ul>
-										<li><a target=_blank href="https://www.facebook.com/dreamspace.academy/photos/?tab=album&album_id=2427450264198969">The Duke of Edinburgh's Award (UK)</a></li>
-										<li><a target=_blank href="https://www.facebook.com/dreamspace.academy/posts/2550019751942019">Stockholm Junior Water Prize (Sweden)</a></li>
-										<li><a target=_blank href="https://inclusivegrowth.com.lk">Skills For Inclusive Growth (Australia)</a></li>
+										</br>
+										<li><a href="4-4-0-service-providing.php#360-consulting">360° Consulting</a></li>
+										<li><a href="4-4-0-service-providing.php#data-moderation">Data Moderation</a></li>
+										<li><a href="4-4-0-service-providing.php#prototype">Prototype & Product Development</a></li>
+										<li><a href="4-4-0-service-providing.php#software-development">Software Development</a></li>
+										<li><a href="4-4-0-service-providing.php#photography">Photography & Documentary Making</a></li>
 									</ul>
 								</div>
 
 								<div class="template-layout-column-right">
-									<span class="sf-mega-header">Service Providing</span>
+									<span class="sf-mega-header">Initiatives</span>
 									<ul>
-										<li><a target=_blank href="https://aracreate.com">360° Consulting</a></li>
-										<li><a target=_blank href="https://zerosec.in">Data Moderation</a></li>
-										<li><a href="3-4-0-social-enterprise.php#j-matrix">Prototype & Product Development</a></li>
-										<li><a href="#">Software Development</a></li>
-										<li><a href="#">Photography & Documentary Making</a></li>
-										<li><a href="#">Gift Shop</a></li>
+										</br>
+										<li><a href="3-5-0-initiatives.php#terrace">DreamSpace Terrace</a></li>
+										<li><a href="3-5-0-initiatives.php#curve-matrics">Curve Matrics</a></li>
 									</ul>
 								</div>
 

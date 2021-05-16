@@ -24,7 +24,7 @@
 							<div class="template-layout-flex-50x50">
 							</div>
 						</div>
-						<div style="background-image:url('../media/images/org-labs/lab-electronics-dreamspace-1.jpg')">
+						<div style="background-image:url('../media/gallery/lab-electronics-dreamspace-1.jpg')">
 							<a href="3-1-0-maker-education.php#electronics-lab" class="template-component-button template-component-button-style-1">More<i></i></a>
 						</div>
 					</div>
@@ -35,12 +35,12 @@
 					<div class="template-layout-flex-50x50">
 						<div>
 							<h5>Software Lab</h5>
-							<span>For those who crave for digital adrenaline, to gain practical experience on coding anything from apps to cloud computing</span>
+							<span>For those who crave digital adrenaline, to gain practical experience in coding anything from apps to cloud computing</span>
 							</br></br>
 							<div class="template-layout-flex-50x50">
 							</div>
 						</div>
-						<div style="background-image:url('../media/images/org-labs/lab-software-dreamspace-1.jpg')">
+						<div style="background-image:url('../media/gallery/lab-software-dreamspace-1.jpg')">
 							<a href="3-1-0-maker-education.php#software-lab" class="template-component-button template-component-button-style-1">More<i></i></a>
 						</div>
 					</div>
@@ -51,11 +51,11 @@
 					<div class="template-layout-flex-50x50">
 						<div>
 							<h5>Mechanics Lab</h5>
-							<span>For those who shift their brain gears, to gather practical skills for anything mechanical design to digital fabrication</br></br></span>
+							<span>For those who shift their brain gears to gather practical skills for anything from mechanical design to digital fabrication</br></br></span>
 							<div class="template-layout-flex-50x50">
 							</div>
 						</div>
-						<div style="background-image:url('../media/images/org-labs/lab-mechanics-dreamspace-7.jpg')">
+						<div style="background-image:url('../media/gallery/lab-mechanics-dreamspace-7.jpg')">
 							<a href="3-1-0-maker-education.php#mechanics-lab" class="template-component-button template-component-button-style-1">More<i></i></a>
 						</div>
 					</div>
@@ -66,12 +66,12 @@
 					<div class="template-layout-flex-50x50">
 						<div>
 							<h5>Business Lab</h5>
-							<span>For those with entrepreneurial mindset, to acquire practical knowledge for maximizing the growth of business ventures</span>
+							<span>For those with an entrepreneurial mindset, to acquire practical knowledge for maximising the growth of business ventures</span>
 							</br></br>
 							<div class="template-layout-flex-50x50">
 							</div>
 						</div>
-						<div style="background-image:url('../media/images/org-labs/lab-business-dreamspace-1.jpg')">
+						<div style="background-image:url('../media/gallery/lab-business-dreamspace-1.jpg')">
 							<a href="3-1-0-maker-education.php#business-lab" class="template-component-button template-component-button-style-1">More<i></i></a>
 						</div>
 					</div>
@@ -84,12 +84,12 @@
 					<div class="template-layout-flex-50x50">
 						<div>
 							<h5>Art Lab</h5>
-							<span>For those with genuine creative imagination, to build practical skill set for composing anything from photographs to rhythms</span>
+							<span>For those with genuine creative imagination, to build practical skillsets for composing anything from photographs to rhythms</span>
 							</br></br>
 							<div class="template-layout-flex-50x50">
 							</div>
 						</div>
-						<div style="background-image:url('../media/images/org-labs/lab-art-dreamspace-1.jpg')">
+						<div style="background-image:url('../media/gallery/lab-art-dreamspace-1.jpg')">
 							<a href="3-1-0-maker-education.php#art-lab" class="template-component-button template-component-button-style-1">More<i></i></a>
 						</div>
 					</div>
@@ -105,7 +105,7 @@
 							<div class="template-layout-flex-50x50">
 							</div>
 						</div>
-						<div style="background-image:url('../media/images/org-labs/lab-bio-dreamspace-1.jpg')">
+						<div style="background-image:url('../media/gallery/lab-bio-dreamspace-1.jpg')">
 							<a href="3-1-0-maker-education.php#bio-lab" class="template-component-button template-component-button-style-1">More<i></i></a>
 						</div>
 					</div>
@@ -116,11 +116,11 @@
 					<div class="template-layout-flex-50x50">
 						<div>
 							<h5>Story Lab</h5>
-							<span>For those who are fascinated by immersive narratives, to gain storytelling skillset for communicating complex details to common audience</span>
+							<span>For those who are fascinated by immersive narratives, to gain storytelling skillsets for communicating complex details to the common audience</span>
 							<div class="template-layout-flex-50x50">
 							</div>
 						</div>
-						<div style="background-image:url('../media/images/org-labs/lab-design-dreamspace-1.jpg')">
+						<div style="background-image:url('../media/gallery/lab-design-dreamspace-1.jpg')">
 							<a href="3-1-0-maker-education.php#story-lab" class="template-component-button template-component-button-style-1">More<i></i></a>
 						</div>
 					</div>
@@ -136,7 +136,7 @@
 							<div class="template-layout-flex-50x50">
 							</div>
 						</div>
-						<div style="background-image:url('../media/images/org-labs/lab-space-dreamspace-2.jpg')">
+						<div style="background-image:url('../media/gallery/lab-space-dreamspace-2.jpg')">
 							<a href="3-1-0-maker-education.php" class="template-component-button template-component-button-style-1">More<i></i></a>
 						</div>
 					</div>
@@ -147,11 +147,11 @@
 					<div class="template-layout-flex-50x50">
 						<div>
 							<h5>Policy Lab</h5>
-							<span>For those who are driven by systems change, to gain hands-on knowledge on co-creation of national and regional policies reforms</span>
+							<span>For those who are driven by systems change, to gain hands-on knowledge on the co-creation of national and regional policies reforms</span>
 							<div class="template-layout-flex-50x50">
 							</div>
 						</div>
-						<div style="background-image:url('../media/images/org-labs/lab-policy-dreamspace-1.jpg')">
+						<div style="background-image:url('../media/gallery/lab-policy-dreamspace-1.jpg')">
 							<a href="3-1-0-maker-education.php" class="template-component-button template-component-button-style-1">More<i></i></a>
 						</div>
 					</div>
@@ -167,7 +167,7 @@
 							<div class="template-layout-flex-50x50">
 							</div>
 						</div>
-						<div style="background-image:url('../media/images/org-labs/lab-nano-dreamspace-1.jpg')">
+						<div style="background-image:url('../media/gallery/lab-nano-dreamspace-1.jpg')">
 							<a href="3-1-0-maker-education.php" class="template-component-button template-component-button-style-1">More<i></i></a>
 						</div>
 					</div>
@@ -182,7 +182,7 @@
 							<div class="template-layout-flex-50x50">
 							</div>
 						</div>
-						<div style="background-image:url('../media/images/org-labs/lab-fabrics-dreamspace-1.jpg')">
+						<div style="background-image:url('../media/gallery/lab-fabrics-dreamspace-1.jpg')">
 							<a href="3-1-0-maker-education.php" class="template-component-button template-component-button-style-1">More<i></i></a>
 						</div>
 					</div>
@@ -197,7 +197,7 @@
 							<div class="template-layout-flex-50x50">
 							</div>
 						</div>
-						<div style="background-image:url('../media/images/org-labs/lab-edible-dreamspace-1.jpg')">
+						<div style="background-image:url('../media/gallery/lab-edible-dreamspace-1.jpg')">
 							<a href="3-1-0-maker-education.php" class="template-component-button template-component-button-style-1">More<i></i></a>
 						</div>
 					</div>
@@ -213,7 +213,7 @@
 							<div class="template-layout-flex-50x50">
 							</div>
 						</div>
-						<div style="background-image:url('../media/images/org-labs/lab-mind-dreamspace-1.jpg')">
+						<div style="background-image:url('../media/gallery/lab-mind-dreamspace-1.jpg')">
 							<a href="3-1-0-maker-education.php" class="template-component-button template-component-button-style-1">More<i></i></a>
 						</div>
 					</div>
@@ -228,7 +228,7 @@
 							<div class="template-layout-flex-50x50">
 							</div>
 						</div>
-						<div style="background-image:url('../media/images/org-labs/lab-language-dreamspace-1.jpg')">
+						<div style="background-image:url('../media/gallery/lab-language-dreamspace-1.jpg')">
 							<a href="3-1-0-maker-education.php" class="template-component-button template-component-button-style-1">More<i></i></a>
 						</div>
 					</div>

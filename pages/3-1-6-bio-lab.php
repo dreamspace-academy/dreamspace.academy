@@ -12,7 +12,7 @@
 		<!-- Left column -->
 		<div class="template-layout-column-left">
 			<!-- Header -->
-			<h4>Bio Lab <span style="width:200px;margin-left:20px;padding:10px;text-align:center;background-color:#FE6500;color:#FFF; font-size:18px;">Coming Soon</span></h4>
+			<h4>Bio Lab</h4>
 			<p>For those who want to get their hands wet with BioHacking, to build practical dexterity on BioTechnology</p>
 
 			<!-- List -->
@@ -37,14 +37,16 @@
 			<!-- Nivo slider -->
 			<div class="template-component-nivo-slider template-component-nivo-slider-style-1 template-preloader">
 				<div>
-					<img src="../media/images/org-labs/lab-bio-dreamspace-2.jpg" data-thumb="../media/images/org-labs/lab-bio-dreamspace-2.jpg" alt="DreamSpace Academy" />
-					<img src="../media/images/org-labs/lab-bio-dreamspace-3.jpg" data-thumb="../media/images/org-labs/lab-bio-dreamspace-3.jpg" alt="DreamSpace Academy" />
-					<img src="../media/images/org-labs/lab-bio-dreamspace-4.jpg" data-thumb="../media/images/org-labs/lab-bio-dreamspace-4.jpg" alt="DreamSpace Academy" />
-					<img src="../media/images/org-labs/lab-bio-dreamspace-5.jpg" data-thumb="../media/images/org-labs/lab-bio-dreamspace-5.jpg" alt="DreamSpace Academy" />
-					<img src="../media/images/org-labs/lab-bio-dreamspace-6.jpg" data-thumb="../media/images/org-labs/lab-bio-dreamspace-6.jpg" alt="DreamSpace Academy" />
+					<img src="../media/gallery/lab-bio-dreamspace-2.jpg" data-thumb="../media/gallery/lab-bio-dreamspace-2.jpg" alt="DreamSpace Academy" />
+					<img src="../media/gallery/lab-bio-dreamspace-3.jpg" data-thumb="../media/gallery/lab-bio-dreamspace-3.jpg" alt="DreamSpace Academy" />
+					<img src="../media/gallery/lab-bio-dreamspace-4.jpg" data-thumb="../media/gallery/lab-bio-dreamspace-4.jpg" alt="DreamSpace Academy" />
+					<img src="../media/gallery/lab-bio-dreamspace-5.jpg" data-thumb="../media/gallery/lab-bio-dreamspace-5.jpg" alt="DreamSpace Academy" />
+					<img src="../media/gallery/lab-bio-dreamspace-6.jpg" data-thumb="../media/gallery/lab-bio-dreamspace-6.jpg" alt="DreamSpace Academy" />
 				</div>
 			</div>
 		</div>
 
 	</div>
 </div>
+
+<!-- <span style="width:200px;margin-left:20px;padding:10px;text-align:center;background-color:#FE6500;color:#FFF; font-size:18px;">Coming Soon</span> -->

@@ -3,8 +3,8 @@
 	<div class="template-main">
 
 		<div class="template-component-header-subheader">
-			<h3>What are the awards under our belt?</h3>
-			<h6>Our achievements at international to national competitions & recognitions</h6>
+			<h3>What are our achievements?</h3>
+			<h6>Our achievements & recognitions at international & national stages</h6>
 			<div></div>
 		</div>
 
@@ -16,48 +16,48 @@
 				<li class="template-layout-column-left">
 					<!-- Counter -->
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
-						<img src="../media/images/org-partners/partners-dreamspace-nestle.jpg" alt="DreamSpace Academy" />
+						<img src="../media/logos/nestle-dreamspace.jpg" alt="DreamSpace Academy" />
 					</div>
 
 					<!-- Header -->
-					<h6>Nestle Business Challenge</br>2021 - Sri Lanka</h6>
+					<h6>Nestle Idea Hackathon</br>2021 - Sri Lanka</h6></br>
 					<a href="2-0-about.php#achievements" class="template-component-button template-component-button-style-1">More<i></i></a>
 				</li>
 				<li class="template-layout-column-left">
 					<!-- Counter -->
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
-						<img src="../media/images/org-partners/partners-dreamspace-ubl.jpg" alt="DreamSpace Academy" />
+						<img src="../media/logos/ubl-dreamspace.jpg" alt="DreamSpace Academy" />
 					</div>
 
 					<!-- Header -->
-					<h6>UBL</br>2021 - Sri Lanka</h6>
+					<h6>UBL - Business Plan Competition</br>2021 - Sri Lanka</h6>
 					<a href="2-0-about.php#achievements" class="template-component-button template-component-button-style-1">More<i></i></a>
 				</li>
 				<li class="template-layout-column-left">
 					<!-- Counter -->
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
-						<img src="../media/images/org-partners/partners-dreamspace-hackx.jpg" alt="DreamSpace Academy" />
+						<img src="../media/logos/hackx-dreamspace.jpg" alt="DreamSpace Academy" />
 					</div>
 
 					<!-- Header -->
-					<h6>HackX</br>2020 - Sri Lanka</h6>
+					<h6>HackX</br>2020 - Sri Lanka</h6></br>
 					<a href="2-0-about.php#achievements" class="template-component-button template-component-button-style-1">More<i></i></a>
 				</li>
 				<li class="template-layout-column-left">
 					<!-- Counter -->
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
-						<img src="../media/images/org-partners/partners-dreamspace-climathon.jpg" alt="DreamSpace Academy" />
+						<img src="../media/logos/climathon-dreamspace.jpg" alt="DreamSpace Academy" />
 					</div>
 
 					<!-- Header -->
-					<h6>Climathon</br>2020 - Sri Lanka</h6>
+					<h6>Climathon</br>2020 - Sri Lanka</h6></br>
 					<a href="2-0-about.php#achievements" class="template-component-button template-component-button-style-1">More<i></i></a>
 				</li>
 
 				<li class="template-layout-column-left">
 					<!-- Counter -->
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
-						<img src="../media/images/org-partners/partners-dreamspace-earth-company.jpg" alt="DreamSpace Academy" />
+						<img src="../media/logos/earth-company-dreamspace.jpg" alt="DreamSpace Academy" />
 					</div>
 
 					<!-- Header -->
@@ -67,7 +67,7 @@
 				<li class="template-layout-column-left">
 					<!-- Counter -->
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
-						<img src="../media/images/org-partners/partners-dreamspace-peace-direct.jpg" alt="DreamSpace Academy" />
+						<img src="../media/logos/peace-direct-dreamspace.jpg" alt="DreamSpace Academy" />
 					</div>
 
 					<!-- Header -->
@@ -78,7 +78,7 @@
 				<li class="template-layout-column-left">
 					<!-- Counter -->
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
-						<img src="../media/images/org-partners/partners-dreamspace-global-community-bio-fellowship.jpg" alt="DreamSpace Academy" />
+						<img src="../media/logos/global-community-bio-fellowship-dreamspace.jpg" alt="DreamSpace Academy" />
 					</div>
 
 					<!-- Header -->
@@ -88,7 +88,7 @@
 				<li class="template-layout-column-left">
 					<!-- Counter -->
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
-						<img src="../media/images/org-partners/partners-dreamspace-genu.jpg" alt="DreamSpace Academy" />
+						<img src="../media/logos/genu-dreamspace.jpg" alt="DreamSpace Academy" />
 					</div>
 
 					<!-- Header -->
@@ -98,7 +98,7 @@
 				<li class="template-layout-column-left">
 					<!-- Counter -->
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
-						<img src="../media/images/org-partners/partners-dreamspace-sjwp.jpg" alt="DreamSpace Academy" />
+						<img src="../media/logos/sjwp-dreamspace.jpg" alt="DreamSpace Academy" />
 					</div>
 
 					<!-- Header -->
@@ -109,7 +109,7 @@
 				<li class="template-layout-column-left">
 					<!-- Counter -->
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
-						<img src="../media/images/org-partners/partners-dreamspace-hackdev.jpg" alt="DreamSpace Academy" />
+						<img src="../media/logos/hackdev-dreamspace.jpg" alt="DreamSpace Academy" />
 					</div>
 
 					<!-- Header -->
@@ -120,11 +120,11 @@
 				<li class="template-layout-column-left">
 					<!-- Counter -->
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
-						<img src="../media/images/org-partners/partners-dreamspace-falling-walls.jpg" alt="DreamSpace Academy" />
+						<img src="../media/logos/falling-walls-dreamspace.jpg" alt="DreamSpace Academy" />
 					</div>
 
 					<!-- Header -->
-					<h6>Falling walls - Sciece Engagement</br>2019 - Germany</h6>
+					<h6>Falling walls - Science Engagement</br>2019 - Germany</h6>
 					<a href="2-0-about.php#achievements" class="template-component-button template-component-button-style-1">More<i></i></a>
 				</li>
 			</ul>

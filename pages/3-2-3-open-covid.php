@@ -14,11 +14,11 @@
       <div class="template-post-section-preambule">
         <div class="template-component-nivo-slider template-component-nivo-slider-style-2 template-preloader">
           <div>
-            <img src="../media/images/innovation-open-covid/open-covid-dreamspace-1.jpg" data-thumb="../media/images/innovation-open-covid/open-covid-dreamspace-1.jpg" alt="DreamSpace Academy" />
-            <img src="../media/images/innovation-open-covid/open-covid-dreamspace-2.jpg" data-thumb="../media/images/innovation-open-covid/open-covid-dreamspace-2.jpg" alt="DreamSpace Academy" />
-            <img src="../media/images/innovation-open-covid/open-covid-dreamspace-3.jpg" data-thumb="../media/images/innovation-open-covid/open-covid-dreamspace-3.jpg" alt="DreamSpace Academy" />
-            <img src="../media/images/innovation-open-covid/open-covid-dreamspace-4.jpg" data-thumb="../media/images/innovation-open-covid/open-covid-dreamspace-4.jpg" alt="DreamSpace Academy" />
-            <img src="../media/images/innovation-open-covid/open-covid-dreamspace-5.jpg" data-thumb="../media/images/innovation-open-covid/open-covid-dreamspace-5.jpg" alt="DreamSpace Academy" />
+            <img src="../media/gallery/innovation-open-covid-dreamspace-1.jpg" data-thumb="../media/images/innovation-open-covid/open-covid-dreamspace-1.jpg" alt="DreamSpace Academy" />
+            <img src="../media/gallery/innovation-open-covid-dreamspace-2.jpg" data-thumb="../media/images/innovation-open-covid/open-covid-dreamspace-2.jpg" alt="DreamSpace Academy" />
+            <img src="../media/gallery/innovation-open-covid-dreamspace-3.jpg" data-thumb="../media/images/innovation-open-covid/open-covid-dreamspace-3.jpg" alt="DreamSpace Academy" />
+            <img src="../media/gallery/innovation-open-covid-dreamspace-4.jpg" data-thumb="../media/images/innovation-open-covid/open-covid-dreamspace-4.jpg" alt="DreamSpace Academy" />
+            <img src="../media/gallery/innovation-open-covid-dreamspace-5.jpg" data-thumb="../media/images/innovation-open-covid/open-covid-dreamspace-5.jpg" alt="DreamSpace Academy" />
           </div>
         </div>
         <div class="template-component-divider template-component-divider-style-1"></div>
@@ -103,21 +103,21 @@
           <div class="template-component-feature template-component-feature-style-1 template-component-feature-position-left template-component-feature-size-medium">
             <ul class="template-layout-33x33x33 template-clear-fix">
               <li class="template-layout-column-left">
-                <div class="template-icon-feature"><img src="../media/images/logos-sdg/un-sdg-dreamspace-3.png" alt="DreamSpace Academy" /></div>
+                <div class="template-icon-feature"><img src="../media/logos/logo-sdg-3.png" alt="DreamSpace Academy" /></div>
                 <h5>Good Health and wellbeing</br></h5>
                 <p><b>UN SDG 03</b></p>
                 <p>Ensuring healthy lives and promoting the well-being for all at all ages is essential to sustainable development.</p>
               </li>
 
               <li class="template-layout-column-center">
-                <div class="template-icon-feature"><img src="../media/images/logos-sdg/un-sdg-dreamspace-9.png" alt="DreamSpace Academy" /></div>
+                <div class="template-icon-feature"><img src="../media/logos/logo-sdg-9.png" alt="DreamSpace Academy" /></div>
                 <h5>Industry, Innovation and Infrastructure</h5>
                 <p><b>UN SDG 9</b></p>
                 <p>Encouraging innovation and substantially increasing the number of research and development</p>
               </li>
 
               <li class="template-layout-column-right">
-                <div class="template-icon-feature"><img src="../media/images/logos-sdg/un-sdg-dreamspace-17.png" alt="DreamSpace Academy" /></div>
+                <div class="template-icon-feature"><img src="../media/logos/logo-sdg-17.png" alt="DreamSpace Academy" /></div>
                 <h5>Partnership</br></br></h5>
                 <p><b>UN SDG 17</b></p>
                 <p>Revitalize the global partnership for sustainable development.</p>

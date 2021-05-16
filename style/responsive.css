@@ -17,7 +17,7 @@
 
 @media only screen and (min-width:0px) and (max-width:979px)
 {
-	
+
 /******************************************************************************/
 /* Base																		  */
 /******************************************************************************/
@@ -30,7 +30,7 @@ textarea,
 .fancybox-title.fancybox-title-inside-wrap
 {
 	font-size:14px;
-}	
+}
 
 /******************************************************************************/
 /* Post																		  */
@@ -45,11 +45,11 @@ textarea,
 	{
 		margin-left:0px;
 	}
-	
+
 /******************************************************************************/
 /* Component																  */
 /******************************************************************************/
-	
+
 	/**************************************************************************/
 	/* Component / Counter box												  */
 	/**************************************************************************/
@@ -60,48 +60,48 @@ textarea,
 		height:150px;
 		line-height:150px;
 	}
-	
+
 	/**************************************************************************/
 	/* Component / Feature													  */
 	/**************************************************************************/
-		
+
 				/**************************************************************/
 				/* Component / Feature / Icon								  */
 				/**************************************************************/
-		
+
 					/**********************************************************/
 					/* Component / Feature / Icon / Size					  */
 					/**********************************************************/
-					
+
 					.template-component-feature.template-component-feature-size-large ul>li>.template-icon-feature
 					{
 						width:150px;
 						height:150px;
 					}
-					
+
 					/**********************************************************/
 					/* Component / Feature / Header	/ Position				  */
 					/**********************************************************/
-					
+
 					.template-component-feature.template-component-feature-size-large.template-component-feature-position-right ul>li>h5
 					{
 						margin-right:170px;
 					}
-					
+
 					.template-component-feature.template-component-feature-size-large.template-component-feature-position-left ul>li>h5
 					{
 						margin-left:170px;
 					}
-					
+
 					/**********************************************************/
 					/* Component / Feature / Text / Position				  */
 					/**********************************************************/
-					
+
 					.template-component-feature.template-component-feature-size-large.template-component-feature-position-right ul>li>p
 					{
 						margin-right:170px;
 					}
-					
+
 					.template-component-feature.template-component-feature-size-large.template-component-feature-position-left ul>li>p
 					{
 						margin-left:170px;
@@ -119,7 +119,7 @@ textarea,
 
 @media only screen and (min-width:0px) and (max-width:787px)
 {
-	
+
 /******************************************************************************/
 /* Template layout															  */
 /******************************************************************************/
@@ -134,12 +134,12 @@ textarea,
 .template-content-layout .template-content-layout-column-left
 {
 	margin-bottom:60px;
-}	
+}
 
 /******************************************************************************/
 /* Headers																	  */
-/******************************************************************************/	
-	
+/******************************************************************************/
+
 h3,h3 a,
 .template-component-testimonial ul>li>p,
 .template-component-twitter-user-timeline ul>li>p
@@ -154,7 +154,7 @@ h4,h4 a
 
 h5,h5 a
 {
-	font-size:20px;	
+	font-size:20px;
 }
 
 h6,h6 a,
@@ -163,7 +163,7 @@ h6,h6 a,
 {
 	font-size:16px;
 }
-	
+
 /******************************************************************************/
 /* Template																	  */
 /******************************************************************************/
@@ -174,25 +174,25 @@ h6,h6 a,
 
 	.template-header
 	{
-		
+
 	}
-	
+
 		.template-header .template-main
 		{
 			display:block;
 		}
-	
+
 		/**********************************************************************/
 		/* Template / Header / Top											  */
-		/**********************************************************************/		
-		
+		/**********************************************************************/
+
 				.template-header .template-header-top .template-header-top-logo,
 				.template-header .template-header-top .template-header-top-menu
 				{
 					width:100%;
 					display:block;
 				}
-				
+
 				.template-header .template-header-top .template-header-top-logo
 				{
 					float:none;
@@ -203,19 +203,19 @@ h6,h6 a,
 					{
 
 					}
-					
+
 						.template-header .template-header-top .template-header-top-logo a img
 						{
 							max-width:150px;
 							margin-left:auto;
 							margin-right:auto;
 						}
-						
+
 				.template-header .template-header-top .template-header-top-menu
 				{
 					margin-bottom:20px;
 				}
-				
+
 /******************************************************************************/
 /* Form																		  */
 /******************************************************************************/
@@ -227,7 +227,7 @@ h6,h6 a,
 	width:100%;
 	display:block;
 }
-	
+
 /******************************************************************************/
 /* Component																  */
 /******************************************************************************/
@@ -239,21 +239,21 @@ h6,h6 a,
 		/**********************************************************************/
 		/* Component / Menu / Default										  */
 		/**********************************************************************/
-		
+
 		.template-component-menu-default
 		{
 			display:none;
 		}
-		
+
 		/**********************************************************************/
 		/* Component / Menu / Responsive									  */
 		/**********************************************************************/
-		
+
 		.template-component-menu-responsive
 		{
 			display:block;
 		}
-		
+
 }
 
 
@@ -279,7 +279,7 @@ h6,h6 a,
 
 @media only screen and (min-width:960px) and (max-width:1069px)
 {
-	
+
 /******************************************************************************/
 /* Default																	  */
 /******************************************************************************/
@@ -317,7 +317,7 @@ h6,h6 a,
 		/**********************************************************************/
 		/* Component / Menu / Default										  */
 		/**********************************************************************/
-		
+
 					.template-component-menu-default ul.sf-menu>li>a
 					{
 						min-width:100px;
@@ -378,7 +378,7 @@ h6,h6 a,
 				{
 					display:none;
 				}
-				
+
 				.template-footer .template-footer-top .template-widget-most-commented.template-widget-most-commented-style-1>ul>li>h6,
 				.template-footer .template-footer-top .template-widget-most-commented.template-widget-most-commented-style-1>ul>li>span,
 				.template-footer .template-footer-top .template-widget-recent-post.template-widget-recent-post-style-1>ul>li>h6,
@@ -388,7 +388,7 @@ h6,h6 a,
 				{
 					margin-left:0px;
 				}
-	
+
 /******************************************************************************/
 /*	Component																  */
 /******************************************************************************/
@@ -400,7 +400,7 @@ h6,h6 a,
 		/**********************************************************************/
 		/* Component / Menu / Default										  */
 		/**********************************************************************/
-		
+
 					.template-component-menu-default ul.sf-menu>li>a
 					{
 						min-width:75px;
@@ -420,18 +420,18 @@ h6,h6 a,
 
 @media only screen and (min-width:480px) and (max-width:787px)
 {
-	
+
 /******************************************************************************/
 /* Headers																	  */
 /******************************************************************************/
-	
+
 h2,h2 a,
 .template-component-counter-box ul>li>.template-component-counter-box-counter,
 .template-component-pricing-plan>ul>li .template-component-pricing-plan-price>span:first-child
 {
 	font-size:48px;
 }
-	
+
 /******************************************************************************/
 /* Default																	  */
 /******************************************************************************/
@@ -465,12 +465,12 @@ h2,h2 a,
 /******************************************************************************/
 
 @media only screen and (min-width:0px) and (max-width:499px)
-{	
-	
+{
+
 /******************************************************************************/
 /* Headers																	  */
 /******************************************************************************/
-	
+
 h1,h1 a
 {
 	font-size:48px;
@@ -482,7 +482,7 @@ h2,h2 a,
 {
 	font-size:40px;
 }
-	
+
 /******************************************************************************/
 /* Default																	  */
 /******************************************************************************/
@@ -518,7 +518,7 @@ h2,h2 a,
 	{
 		margin-left:0px;
 	}
-	
+
 		/**********************************************************************/
 		/*	Post / Comments list / Comment									  */
 		/**********************************************************************
@@ -526,19 +526,19 @@ h2,h2 a,
 			/******************************************************************/
 			/*	Post / Comments list / Comment / Avatar						  */
 			/******************************************************************/
-		
+
 			.template-post .template-post-comment-list>ul>li .template-comment-avatar
 			{
 				display:none;
 			}
-			
+
 			/******************************************************************/
 			/*	Post / Comments list / Comment / Content					  */
 			/******************************************************************/
-			
+
 			.template-post .template-post-comment-list>ul>li .template-comment-content
 			{
 				margin-top:10px;
 			}
-			
+
 }
