@@ -12,7 +12,7 @@
 		<!-- Left column -->
 		<div class="template-layout-column-left">
 			<!-- Header -->
-			<h4>Bio Lab <span style="width:200px;margin-left:20px;padding:10px;text-align:center;background-color:#FE6500;color:#FFF; font-size:18px;">Coming Soon</span></h4>
+			<h4>Bio Lab</h4>
 			<p>For those who want to get their hands wet with BioHacking, to build practical dexterity on BioTechnology</p>
 
 			<!-- List -->
@@ -48,3 +48,5 @@
 
 	</div>
 </div>
+
+<!-- <span style="width:200px;margin-left:20px;padding:10px;text-align:center;background-color:#FE6500;color:#FFF; font-size:18px;">Coming Soon</span> -->
