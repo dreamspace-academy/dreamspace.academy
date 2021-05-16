@@ -78,8 +78,8 @@
 									<ul>
 										<li><a href="3-3-0-international-collaboration.php#design-thinking-maite">Design Thinking</a></li>
 										<li><a href="3-3-0-international-collaboration.php#story-telling-nico">Storytelling</a></li>
-										<li><a href="#">Travelpreneur</a></li>
-										<li><a href="#">Business Modeling</a></li>
+										<li><a href="3-3-0-international-collaboration.php">Travelpreneur</a></li>
+										<li><a href="3-3-0-international-collaboration.php">Business Modeling</a></li>
 									</ul>
 								</div>
 
