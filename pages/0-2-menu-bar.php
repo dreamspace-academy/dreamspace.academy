@@ -31,6 +31,15 @@
 									</ul>
 								</div>
 								<div class="template-layout-column-center-left">
+									<span class="sf-mega-header">Links</span>
+									<ul>
+										<li><a href="http://storydeck.dreamspace.academy/">Story Deck</a></li>
+										<li><a href="http://supportdeck.dreamspace.academy/">Support Deck</a></li>
+										<li><a href="https://opencollective.com/dreamspace-academy/">Opencollective</a></li>
+										<li><a href="2-2-1-calendar.php">Calendar</a></li>
+									</ul>
+								</div>
+								<div class="template-layout-column-center-right">
 									<span class="sf-mega-header">More</span>
 									<ul>
 										<li><a href="10-0-under-construction.php">Press</a></li>
@@ -38,8 +47,6 @@
 										<li><a href="10-0-under-construction.php">Co-Governance</a></li>
 										<li><a href="10-0-under-construction.php">Guidelines</a></li>
 										<li><a href="10-0-under-construction.php">Tools</a></li>
-										<li><a href="http://storydeck.dreamspace.academy/">Story Deck</a></li>
-										<li><a href="2-2-1-calendar.php">Calendar</a></li>
 									</ul>
 								</div>
 						</li>
@@ -88,7 +95,7 @@
 									<ul>
 										<li><a href="3-4-0-social-enterprise.php#trash-for-trade">Trash For Trade</a></li>
 										<li><a href="3-4-0-social-enterprise.php#oceanbiome">OceanBiome</a></li>
-                    <li><a href="3-4-0-social-enterprise.php#benzyme-ventures">Benzyme Ventures</a></li>
+										<li><a href="3-4-0-social-enterprise.php#benzyme-ventures">Benzyme Ventures</a></li>
 									</ul>
 								</div>
 
@@ -146,7 +153,7 @@
 								<div class="template-layout-column-right">
 									<span class="sf-mega-header">Initiatives</span>
 									<ul>
-									</br>
+										</br>
 										<li><a href="3-5-0-initiatives.php#terrace">DreamSpace Terrace</a></li>
 										<li><a href="3-5-0-initiatives.php#curve-matrics">Curve Matrics</a></li>
 									</ul>

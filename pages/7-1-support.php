@@ -14,7 +14,7 @@
 		<div class="template-component-divider template-component-divider-style-1"></div>
 
 		<!-- Opencollective Donation -->
-		<iframe src="https://opencollective.com/embed/dreamspace-academy/donate" style="width: 95%; min-height: 110vh;"></iframe>
+		<iframe src="https://opencollective.com/embed/dreamspace-academy/donate" style="width: 95%; min-height: 140vh;"></iframe>
 
 		<!-- Header and subheader -->
 		<div class="template-component-header-subheader">
