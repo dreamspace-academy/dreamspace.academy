@@ -35,7 +35,7 @@
 					<div class="template-layout-flex-50x50">
 						<div>
 							<h5>Software Lab</h5>
-							<span>For those who crave for digital adrenaline, to gain practical experience on coding anything from apps to cloud computing</span>
+							<span>For those who crave digital adrenaline, to gain practical experience in coding anything from apps to cloud computing</span>
 							</br></br>
 							<div class="template-layout-flex-50x50">
 							</div>
@@ -51,7 +51,7 @@
 					<div class="template-layout-flex-50x50">
 						<div>
 							<h5>Mechanics Lab</h5>
-							<span>For those who shift their brain gears, to gather practical skills for anything mechanical design to digital fabrication</br></br></span>
+							<span>For those who shift their brain gears to gather practical skills for anything from mechanical design to digital fabrication</br></br></span>
 							<div class="template-layout-flex-50x50">
 							</div>
 						</div>
@@ -66,7 +66,7 @@
 					<div class="template-layout-flex-50x50">
 						<div>
 							<h5>Business Lab</h5>
-							<span>For those with entrepreneurial mindset, to acquire practical knowledge for maximizing the growth of business ventures</span>
+							<span>For those with an entrepreneurial mindset, to acquire practical knowledge for maximising the growth of business ventures</span>
 							</br></br>
 							<div class="template-layout-flex-50x50">
 							</div>
@@ -84,7 +84,7 @@
 					<div class="template-layout-flex-50x50">
 						<div>
 							<h5>Art Lab</h5>
-							<span>For those with genuine creative imagination, to build practical skill set for composing anything from photographs to rhythms</span>
+							<span>For those with genuine creative imagination, to build practical skillsets for composing anything from photographs to rhythms</span>
 							</br></br>
 							<div class="template-layout-flex-50x50">
 							</div>
@@ -116,7 +116,7 @@
 					<div class="template-layout-flex-50x50">
 						<div>
 							<h5>Story Lab</h5>
-							<span>For those who are fascinated by immersive narratives, to gain storytelling skillset for communicating complex details to common audience</span>
+							<span>For those who are fascinated by immersive narratives, to gain storytelling skillsets for communicating complex details to the common audience</span>
 							<div class="template-layout-flex-50x50">
 							</div>
 						</div>
@@ -147,7 +147,7 @@
 					<div class="template-layout-flex-50x50">
 						<div>
 							<h5>Policy Lab</h5>
-							<span>For those who are driven by systems change, to gain hands-on knowledge on co-creation of national and regional policies reforms</span>
+							<span>For those who are driven by systems change, to gain hands-on knowledge on the co-creation of national and regional policies reforms</span>
 							<div class="template-layout-flex-50x50">
 							</div>
 						</div>

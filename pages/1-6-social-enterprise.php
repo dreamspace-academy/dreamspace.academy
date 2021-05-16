@@ -4,7 +4,7 @@
 
 		<div class="template-component-header-subheader">
 			<h3>What are our enterprises and initiatives?</h3>
-			<h6>Our incubated organisations to tackle social, economic and environmental challenges</h6>
+			<h6>Our incubated organisations tackling social, economic and environmental challenges</h6>
 			<div></div>
 		</div>
 
@@ -27,7 +27,7 @@
 
 					<!-- Description -->
 					<div>
-						<p>A social enterprise to tackle plastic polutions by co-creating circular economy</p>
+						<p>A social enterprise to tackle plastic pollutions by co-creating a circular economy</p>
 					</br>
 					</div>
 
@@ -67,7 +67,7 @@
 
 					<!-- Description -->
 					<div>
-						<p>A social enterprise to provide an open access to life science research & innovations</p>
+						<p>A social enterprise to provide open access to life science research & innovations</p>
 					</br>
 					</div>
 
@@ -87,7 +87,7 @@
 
 					<!-- Description -->
 					<div>
-						<p>An initiative of peacebuilders and storytellers to mititgate hate speech and fake news</p>
+						<p>An initiative of peacebuilders and storytellers to mitigate hate speech and fake news</p>
 					</br>
 					</div>
 
@@ -127,7 +127,7 @@
 
 					<!-- Description -->
 					<div>
-						<p>It is a non profit social enterprise that benefits the underprivileged communities.</p>
+						<p>An initiative using Machine Learning and Artificial Intelligence to empower underserved communities</p>
 					</br>
 					</div>
 
@@ -147,7 +147,8 @@
 
 					<!-- Description -->
 					<div>
-						<p>It is a craft marketing enterprise focuses in empowering women and disable people.</p>
+						<p>A social enterprise that focuses on empowering women and disabled people by craft making</p>
+					</br>
 					</br>
 					</div>
 
@@ -167,7 +168,7 @@
 
 					<!-- Description -->
 					<div>
-						<p>It is a community of women helping, empowering women who are in need.
+						<p>An initiative to build a local women community to empower underserved women
 						</p>
 					</br>
 					</div>
@@ -188,7 +189,7 @@
 
 					<!-- Description -->
 					<div>
-						<p>It is a community space for social gathering activities along with cafe.</p>
+						<p>An initiative to provide community space for social gathering activities along</p>
 						</br>
 					</div>
 

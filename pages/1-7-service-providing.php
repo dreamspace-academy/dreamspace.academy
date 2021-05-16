@@ -4,7 +4,7 @@
 
 		<div class="template-component-header-subheader">
 			<h3>What services do we provide?</h3>
-			<h6>Our services via independent organisations that contribute to sustain our social mission</h6>
+			<h6>Our services via independent organisations that contribute to sustaining our social mission</h6>
 			<div></div>
 		</div>
 
@@ -23,11 +23,11 @@
 
 
 					<!-- Header -->
-					<h5>360 Consulting</h5>
+					<h5>360° Consulting</h5>
 
 					<!-- Description -->
 					<div>
-						<p></br>araCreate provides consultancy from prototype to product manufacturing.</p>
+						<p></br>Product developing, Manufacturing, Mentoring, Investment, Partnerships</p>
 						</br>
 					</div>
 
@@ -47,7 +47,7 @@
 
 					<!-- Description -->
 					<div>
-						<p></br>Zerosec provides support in content moderation, android & web application.</p>
+						<p></br>Content moderation, Data labelling, Data entry, Data classification</p>
 					</br>
 					</div>
 
@@ -67,7 +67,7 @@
 
 					<!-- Description -->
 					<div>
-						<p>EMD Lab develops elctronic mechanical digital prototype and product.</p>
+						<p>Electro-Mechanical & Embedded Systems prototyping, Local fabrication</p>
 					</br>
 					</div>
 
@@ -87,7 +87,7 @@
 
 					<!-- Description -->
 					<div>
-						<p>GR Technologies provides advanced technology implementation & education.</p>
+						<p>Machine learning, AI, Web application, Mobile apps, Cloud computing, DevOps</p>
 					</br>
 					</div>
 
@@ -104,11 +104,11 @@
 
 
 					<!-- Header -->
-					<h5>Photography & Documentary Making</h5>
+					<h5>Visual Content Making</h5>
 
 					<!-- Description -->
 					<div>
-						<p>Dude Style provides a full range of professional photography, documentary making.</p>
+						<p>Photography, Film making, Audio-video post-production, Digital marketing</p>
 					</br>
 					</div>
 

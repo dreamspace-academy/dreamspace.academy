@@ -124,7 +124,7 @@
 					</div>
 
 					<!-- Header -->
-					<h6>Falling walls - Sciece Engagement</br>2019 - Germany</h6>
+					<h6>Falling walls - Science Engagement</br>2019 - Germany</h6>
 					<a href="2-0-about.php#achievements" class="template-component-button template-component-button-style-1">More<i></i></a>
 				</li>
 			</ul>
