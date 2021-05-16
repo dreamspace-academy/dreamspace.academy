@@ -651,7 +651,7 @@
               <h6>Giulia de Mauro</h6>
               </br>
               <span>Architecture</span>
-              <span>Netherlands</span>
+              <span>Netherland</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
