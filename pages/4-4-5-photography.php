@@ -16,7 +16,7 @@
 					<h2>Dude Style Studio</h2>
 					<div class="template-component-divider template-component-divider-style-2"></div>
 					<div class="template-component-italic template-margin-top-3">
-						Photography & Documentary Making Service
+						Visual Content Making
 					</div>
 					<p class="template-margin-top-3">
 						It provides a full range of professional photography, documentary making and cinematography to our clients across the country. Our aim is to professionally capture the best and most loved moments, without losing their originality and natural content.

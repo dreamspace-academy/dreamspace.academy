@@ -16,7 +16,7 @@
 					<h2>EMD Lab</h2>
 					<div class="template-component-divider template-component-divider-style-2"></div>
 					<div class="template-component-italic template-margin-top-3">
-            Prototype & Product Development Service
+            Prototype & Product Development
 					</div>
 					<p class="template-margin-top-3">
             It is a elctronic mechanical digital prototype and product development company. It provide services from 3D modeling, PCB designing, machine building to mentoring and facilitation.

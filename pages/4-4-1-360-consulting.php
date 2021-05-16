@@ -16,7 +16,7 @@
 					<h2>araCreate</h2>
 					<div class="template-component-divider template-component-divider-style-2"></div>
 					<div class="template-component-italic template-margin-top-3">
-						360 Consultancy Service
+						360° Consultancy
 					</div>
 					<p class="template-margin-top-3">
 						It support you to connect to investors, accelelrators, incubators, talents, manufacturers, research institutions, suppliers, etc.

@@ -2,7 +2,7 @@
 <div class="template-content">
   <div class="template-component-header-subheader">
     <h2>International Aid Projects</h2>
-    <p>The collaboration between international expert and organization.</p>
+    <p></p>
     <div></div>
   </div>
 

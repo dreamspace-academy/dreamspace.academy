@@ -2,7 +2,7 @@
 <div class="template-content">
   <div class="template-component-header-subheader">
     <h2>Social Enterprise</h2>
-    <p>The candidate’s solution is graduated as a startup for socio-economic & environmental development.</p>
+    <p>Our incubated organisations tackling social, economic and environmental challenges</p>
     <div></div>
   </div>
 

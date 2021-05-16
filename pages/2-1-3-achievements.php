@@ -3,7 +3,7 @@
   <!-- Header and subheader -->
   <div class="template-component-header-subheader">
     <h2>Our Achievements</h2>
-    <h6>Our achievements at international to national competitions & recognitions</h6>
+    <h6>Our achievements & recognitions at international & national stages</h6>
     <div></div>
   </div>
 

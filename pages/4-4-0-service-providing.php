@@ -2,7 +2,7 @@
 <div class="template-content">
   <div class="template-component-header-subheader">
     <h2>Service Providing</h2>
-    <p>We balance our social mission with our services for the sustainability.</p>
+    <p>Our services via independent organisations that contribute to sustaining our social mission</p>
     <div></div>
   </div>
 

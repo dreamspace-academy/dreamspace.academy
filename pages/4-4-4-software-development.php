@@ -7,7 +7,7 @@
 					<h2>GR Technologies</h2>
 					<div class="template-component-divider template-component-divider-style-2"></div>
 					<div class="template-component-italic template-margin-top-3">
-						Software Development Service
+						Software Development
 					</div>
 					<p class="template-margin-top-3">
 						GR Technologies provides technological educations to students as well as spread advanced technology’s implementations throughout the Sri Lanka.</p>

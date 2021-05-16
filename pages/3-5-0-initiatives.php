@@ -2,7 +2,7 @@
 <div class="template-content">
   <div class="template-component-header-subheader">
     <h2>Initiatives</h2>
-    <p>Sub heading...</p>
+    <p></p>
     <div></div>
   </div>
 

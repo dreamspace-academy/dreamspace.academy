@@ -7,7 +7,7 @@
 					<h2>Zerosec Solutions</h2>
 					<div class="template-component-divider template-component-divider-style-2"></div>
 					<div class="template-component-italic template-margin-top-3">
-						Data Moderation Service
+						Data Moderation
 					</div>
 					<p class="template-margin-top-3">
 						It is a digital solutions provider for your content moderation, Android and Web development requirements. It provide solutions enable you to focus on your core business without having to worry about the nitty gritties.

@@ -4,7 +4,7 @@
 
 		<div class="template-component-header-subheader">
 			<h3>What are our achievements?</h3>
-			<h6>Our achievements & recognitions at international & national stages </h6>
+			<h6>Our achievements & recognitions at international & national stages</h6>
 			<div></div>
 		</div>
 
