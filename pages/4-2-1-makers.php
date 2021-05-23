@@ -137,17 +137,15 @@
         </li>
         <li class="template-layout-column-center-right">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/people/thanushkar-srikaran-dreamspace.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/ahaliya-david-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
-              <h6>Thanushkar Srikaran</h6>
-              </br>
-              <span>Electronics</span>
+              <h6>Ahaliya David</h6>
+            </br><span>Photography</span>
               <span>Batticaloa</span>
-              </br>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
-                <li><a target="_blank" href="https://www.linkedin.com/in/thanushkar-srikaran-203285178">
+                <li><a target="_blank" href="#">
                     <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
                   </a></li>
                 <li><a target="_blank" href="#">
@@ -159,20 +157,18 @@
         </li>
         <li class="template-layout-column-right">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/people/pavithran-manisegaran-dreamspace.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/grason-prasanth-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
-              <h6>Pavithran Manisegraram</h6>
-              </br>
-              <span>Electronics</span>
+              <h6>Grason Prasanth</h6>
+            </br><span>Music</span>
               <span>Batticaloa</span>
-              </br>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
-                <li><a target="_blank" href="https://www.linkedin.com/in/manisegaran-pavithran-a85464129/">
+                <li><a target="_blank" href="#">
                     <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
                   </a></li>
-                <li><a target="_blank" href="https://www.facebook.com/shanthirasegaran.manisegaran">
+                <li><a target="_blank" href="#">
                     <i class="fas fa-link fa-lg" style="color: white; padding-top: 17px;"></i>
                   </a></li>
               </ul>
@@ -441,46 +437,6 @@
                     <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
                   </a></li>
                 <li><a target="_blank" href="https://www.facebook.com/anuradha.gayanath.3">
-                    <i class="fas fa-link fa-lg" style="color: white; padding-top: 17px;"></i>
-                  </a></li>
-              </ul>
-            </div>
-          </div>
-        </li>
-        <li class="template-layout-column-center-left">
-          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/people/ahaliya-david-dreamspace.jpg" alt="DreamSpace Academy" />
-            <div>
-              <h6>Ahaliya David</h6>
-            </br><span>Photography</span>
-              <span>Batticaloa</span>
-            </div>
-            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
-              <ul>
-                <li><a target="_blank" href="#">
-                    <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
-                  </a></li>
-                <li><a target="_blank" href="#">
-                    <i class="fas fa-link fa-lg" style="color: white; padding-top: 17px;"></i>
-                  </a></li>
-              </ul>
-            </div>
-          </div>
-        </li>
-        <li class="template-layout-column-center-left">
-          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/people/grason-prasanth-dreamspace.jpg" alt="DreamSpace Academy" />
-            <div>
-              <h6>Grason Prasanth</h6>
-            </br><span>Music</span>
-              <span>Batticaloa</span>
-            </div>
-            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
-              <ul>
-                <li><a target="_blank" href="#">
-                    <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
-                  </a></li>
-                <li><a target="_blank" href="#">
                     <i class="fas fa-link fa-lg" style="color: white; padding-top: 17px;"></i>
                   </a></li>
               </ul>
