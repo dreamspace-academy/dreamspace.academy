@@ -14,11 +14,11 @@
       <div class="template-post-section-preambule">
         <div class="template-component-nivo-slider template-component-nivo-slider-style-2 template-preloader">
           <div>
-            <img src="../media/gallery/innovation-open-covid-dreamspace-1.jpg" data-thumb="../media/images/innovation-open-covid/open-covid-dreamspace-1.jpg" alt="DreamSpace Academy" />
-            <img src="../media/gallery/innovation-open-covid-dreamspace-2.jpg" data-thumb="../media/images/innovation-open-covid/open-covid-dreamspace-2.jpg" alt="DreamSpace Academy" />
-            <img src="../media/gallery/innovation-open-covid-dreamspace-3.jpg" data-thumb="../media/images/innovation-open-covid/open-covid-dreamspace-3.jpg" alt="DreamSpace Academy" />
-            <img src="../media/gallery/innovation-open-covid-dreamspace-4.jpg" data-thumb="../media/images/innovation-open-covid/open-covid-dreamspace-4.jpg" alt="DreamSpace Academy" />
-            <img src="../media/gallery/innovation-open-covid-dreamspace-5.jpg" data-thumb="../media/images/innovation-open-covid/open-covid-dreamspace-5.jpg" alt="DreamSpace Academy" />
+            <img src="../media/gallery/innovation-open-covid-dreamspace-1.jpg" data-thumb="../media/gallery/innovation-open-covid-dreamspace-1.jpg" alt="DreamSpace Academy" />
+            <img src="../media/gallery/innovation-open-covid-dreamspace-2.jpg" data-thumb="../media/gallery/innovation-open-covid-dreamspace-2.jpg" alt="DreamSpace Academy" />
+            <img src="../media/gallery/innovation-open-covid-dreamspace-3.jpg" data-thumb="../media/gallery/innovation-open-covid-dreamspace-3.jpg" alt="DreamSpace Academy" />
+            <img src="../media/gallery/innovation-open-covid-dreamspace-4.jpg" data-thumb="../media/gallery/innovation-open-covid-dreamspace-4.jpg" alt="DreamSpace Academy" />
+            <img src="../media/gallery/innovation-open-covid-dreamspace-5.jpg" data-thumb="../media/gallery/innovation-open-covid-dreamspace-5.jpg" alt="DreamSpace Academy" />
           </div>
         </div>
         <div class="template-component-divider template-component-divider-style-1"></div>

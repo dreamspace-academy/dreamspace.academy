@@ -82,7 +82,7 @@
 								<li><a href="3-2-3-open-covid.php">Open Covid</a></li>
 								<li><a href="3-2-4-corona-hunter.php">Corona Hunter</a></li>
 								<li><a href="10-0-under-construction.php">Towards Green Energy</a></li>
-								<li><a href="10-0-under-construction.php">DreamBot</a></li>
+								<li><a href="3-2-5-dreambot.php">DreamBot</a></li>
 							</ul>
 						</li>
 
@@ -130,11 +130,11 @@
 						<li>
 							<a href="#">Community Building<span></span></a>
 							<ul>
-								<li><a href="4-2-0-communities.php#makers">Makers</a></li>
 								<li><a href="4-2-0-communities.php#visual-content-makers">Visual Content Makers</a></li>
 								<li><a href="4-2-0-communities.php#trashfortrade-community">Trash For Trade Community</a></li>
 								<li><a href="4-2-0-communities.php#oceanbiome-community">OceanBiome Community</a></li>
 								<li><a href="4-2-0-communities.php#ai-community">AI Community</a></li>
+								<li><a href="4-2-0-communities.php#makers">Makers</a></li>
 							</ul>
 						</li>
 

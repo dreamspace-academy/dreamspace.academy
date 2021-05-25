@@ -8,7 +8,6 @@
 						<img src="../media/gallery/enterprise-benzyme-ventures-dreamspace-1.jpg" data-thumb="../media/gallery/enterprise-benzyme-ventures-dreamspace-1.jpg" alt="DreamSpace Academy" />
 						<img src="../media/gallery/enterprise-benzyme-ventures-dreamspace-2.jpg" data-thumb="../media/gallery/enterprise-benzyme-ventures-dreamspace-2.jpg" alt="DreamSpace Academy" />
 						<img src="../media/gallery/enterprise-benzyme-ventures-dreamspace-3.jpg" data-thumb="../media/gallery/enterprise-benzyme-ventures-dreamspace-3.jpg" alt="DreamSpace Academy" />
-						<img src="../media/gallery/enterprise-benzyme-ventures-dreamspace-4.jpg" data-thumb="../media/gallery/enterprise-benzyme-ventures-dreamspace-4.jpg" alt="DreamSpace Academy" />
 					</div>
 				</div>
 			</div>
