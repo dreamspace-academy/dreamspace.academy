@@ -8,6 +8,6 @@
 	</div>
 
 	<div class="template-content-section template-padding-top-reset">
-		<iframe src="https://files.aravinth.info/decks/dreamspace-academy-story-deck.pdf#page=1&view=fit&toolbar=0" type="application/pdf" height=500px width="100%" class="responsive"></iframe>
+		<iframe src="../files/story/dreamspace-academy-story-deck.pdf#page=1&view=fit&toolbar=0" type="application/pdf" height=500px width="100%" class="responsive"></iframe>
 	</div>
 </div>
