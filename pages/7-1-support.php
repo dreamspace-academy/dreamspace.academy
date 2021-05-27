@@ -27,7 +27,7 @@
 
 		<!-- Support deck -->
 		<div class="template-content-section template-padding-top-reset">
-			<iframe src="https://files.aravinth.info/decks/dreamspace-academy-support-deck.pdf#page=3&view=fit&toolbar=0" type="application/pdf" height=500px width="100%" class="responsive"></iframe>
+			<iframe src="../files/support/dreamspace-academy-support-deck.pdf#page=3&view=fit&toolbar=0" type="application/pdf" height=500px width="100%" class="responsive"></iframe>
 		</div>
 
 		<div class="template-component-feature template-component-feature-style-1 template-component-feature-position-left template-component-feature-size-medium">
