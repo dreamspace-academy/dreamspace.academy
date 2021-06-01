@@ -16,10 +16,10 @@
 					<h2>Sagacious Youth Lead Consortium</h2>
 					<div class="template-component-divider template-component-divider-style-2"></div>
 					<div class="template-component-italic template-margin-top-3">
-						Peacebuilding youthled organization
+						Youth-led Peacebuilding
 					</div>
 					<p class="template-margin-top-3">
-						It is a public location where members of a community tend to gather for group activities, social support, public information, and other purposes.
+						A thriving community of youth activists, community builders, peace workers, social entrepreneurs, and tech-enthusiasts translates The Dreams for a reconciled Sri Lanka!
 					</p>
 					</br>
 					</br>
