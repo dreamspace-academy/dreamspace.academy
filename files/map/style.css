@@ -1,0 +1,54 @@
+body {
+ background-color:white;
+ text-align: center;
+}
+h1, h3, p{
+  text-align:center;
+}
+/* ------------------------------------------ */
+
+path {
+  stroke: black;          
+  stroke-width: 0.5px;  
+  fill: #30C7DA;        
+}
+
+.svg-container {
+  display: inline-block;
+  position: relative;
+  width: 100%;
+  padding-bottom: 100%; /* aspect ratio */
+  vertical-align: top;
+  overflow: hidden
+  
+}
+
+svg{
+	
+	border:1px solid black;
+}
+
+#tooltip {
+  text-align: left;
+  padding: 16px;
+  background-color: lightgreen;
+  border: 1px solid black;
+  width: auto;
+  opacity: 0;
+  color: black;
+  position: absolute;
+}
+
+/*
+ * Footer
+ */
+a:link    {color:orangered;  text-decoration:none}
+a:visited {color:orangered; text-decoration:none}
+a:hover   {color:red; text-decoration:underline}
+
+.tableFooter{
+  margin-top: 15px;
+}
+.footerSvg{
+  width: 32px;
+}
