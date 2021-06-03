@@ -27,7 +27,7 @@
     <!-- Meta -->
     <div class="template-post-section-meta">
       <div class="template-post-meta">
-        <h5>Design Thinking Expert | Hasso Plattner Institute | Berlin, Germany</h5>
+        <h5>Maite Zubeldia | Design Thinking Expert | Berlin, Germany</h5>
       </div>
     </div>
 
