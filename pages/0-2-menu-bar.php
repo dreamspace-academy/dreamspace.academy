@@ -45,7 +45,7 @@
 										<li><a href="10-0-under-construction.php">Press</a></li>
 										<li><a href="10-0-under-construction.php">Gallery</a></li>
 										<li><a href="10-0-under-construction.php">Co-Governance</a></li>
-										<li><a href="10-0-under-construction.php">Guidelines</a></li>
+										<li><a href="https://github.com/dreamspace-academy/dreamspace-guidelines">Guidelines</a></li>
 										<li><a href="10-0-under-construction.php">Tools</a></li>
 									</ul>
 								</div>
