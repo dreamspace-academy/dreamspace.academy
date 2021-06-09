@@ -45,7 +45,7 @@
 										<li><a href="10-0-under-construction.php">Press</a></li>
 										<li><a href="10-0-under-construction.php">Gallery</a></li>
 										<li><a href="10-0-under-construction.php">Co-Governance</a></li>
-										<li><a href="10-0-under-construction.php">Guidelines</a></li>
+										<li><a href="https://github.com/dreamspace-academy/dreamspace-guidelines">Guidelines</a></li>
 										<li><a href="10-0-under-construction.php">Tools</a></li>
 									</ul>
 								</div>
@@ -71,6 +71,7 @@
 								<div class="template-layout-column-center-left">
 									<span class="sf-mega-header">Community Innovation</span>
 									<ul>
+										<li><a href="3-2-6-dreamfungi.php">DreamFungi</a></li>
 										<li><a href="3-2-1-underwater-glider.php">Underwater Glider</a></li>
 										<li><a href="3-2-2-circular-plastic.php">Circular Plastic</a></li>
 										<li><a href="3-2-3-open-covid.php">Open Covid</a></li>

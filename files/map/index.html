@@ -1,0 +1,214 @@
+<html>
+<head>
+
+	<title>DreamSpace Partnership Map</title>
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta charset="utf-8">
+
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+	<link rel="stylesheet" href="openlayers/ol.css">
+	<link rel="stylesheet" href="style.css">
+
+	<link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700,800,900" rel="stylesheet">
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+	<link rel="stylesheet" href="css/style.css">
+
+	<style>
+
+		hr{
+			padding: 0px;
+			margin: 0px;
+			margin-bottom: 5px;
+		}
+
+		.tooltip-main {
+			background-color: rgba(0, 0, 0, 0.3);
+			border: none;
+			border-radius: 4px;
+			padding: 5px;
+			z-index: 10;
+			display: block;
+			width: 100%;
+			max-width: 200px;
+			top: 0;
+			left: 50%;
+
+		}
+	</style>
+
+</head>
+
+<body>
+
+	<div class="wrapper d-flex align-items-stretch">
+		<nav id="sidebar">
+
+			<!-- Page Content
+
+				<div class="custom-menu">
+					<button type="button" id="sidebarCollapse" class="btn btn-primary">
+					<i class="fa fa-bars"></i>
+					<span class="sr-only">Toggle Menu</span>
+					</button>
+      			</div>
+
+			-->
+
+			<h1><a href="index.html" class="logo">DreamSpace</a></h1>
+
+			<h4 style="text-align: center; color:white;">Search Options</h4>
+			<hr style="background-color:white;">
+
+			<form>
+
+				<div class="row">
+					<div class="col-md-12 col-sm-12">
+						<div class="input-group mb-3">
+							<div class="input-group-prepend">
+								<label class="input-group-text" for="inputGroupSelect01">Search By</label>
+							</div>
+							<select class="custom-select" id="inputGroupSelect01">
+								<option selected value="All">All</option>
+								<option value="Country">Country</option>
+								<option value="Company Name">Company Name</option>
+								<option value="Sector">Sector</option>
+							</select>
+						</div>
+					</div>
+
+					<div class="col-md-12 col-sm-12" style="display: none;" id="country_search">
+
+						<div class="input-group mb-3">
+							<div class="input-group-prepend">
+							  <span class="input-group-text" id="inputGroup-sizing-default">Country</span>
+							</div>
+							<input type="text" class="form-control" aria-label="Default" aria-describedby="inputGroup-sizing-default">
+						</div>
+
+					</div>
+
+
+					<div class="col-md-12 col-sm-12" style="display: none;" id="company_search">
+
+						<div class="input-group mb-3">
+							<div class="input-group-prepend">
+							  <span class="input-group-text" id="inputGroup-sizing-default">Company Name</span>
+							</div>
+							<input type="text" class="form-control" aria-label="Default" aria-describedby="inputGroup-sizing-default">
+						</div>
+
+					</div>
+
+					<div class="col-md-12 col-sm-12" style="display: none;" id="sector_search">
+						<div class="input-group mb-3">
+							<div class="input-group-prepend">
+								<label class="input-group-text" for="inputGroupSelect01">Sector</label>
+							</div>
+							<select class="custom-select" id="inputGroupSelect01">
+								<option selected value="Software">Software</option>
+								<option value="Hardware">Hardware</option>
+								<option value="Funding">Funding</option>
+								<option value="AI">AI</option>
+							</select>
+						</div>
+					</div>
+
+					<div class="col-md-12 col-sm-12" id='info_box' style="display: none; max-height: 400px; overflow: scroll;">
+						<div class="jumbotron">
+							<h5 style="text-align:center;" id="info_box_heading">Hello, world!</h5>
+							<hr class="my-4">
+							<img id="info_box_logo" style="width: 100px; height:100px;  display: block; margin-left: auto; margin-right: auto;" src="">
+
+							<p style="text-align:center;"><a id="info_box_link" target="_blank" href="kuna.com">guna.com</a></p>
+							<p style="color: black;" id="info_box_text">This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.</p>
+						</div>
+					</div>
+				</div>
+
+
+
+
+			</form>
+
+
+			<ul class="list-unstyled components mb-5">
+
+			<!-- Page Content
+				<li class="active">
+					<a href="#"><span class="fa fa-home mr-3"></span>Guna</a>
+				</li>
+			-->
+			</ul>
+
+		</nav>
+
+
+		<!-- Page Content  -->
+		<div id="content" class="p-4 p-md-5 pt-5">
+
+
+			<div class="tooltip-main" id="tooltip_1" style="display: none;">
+
+				<p id="tooltip_heading" style="color: #F7DB34; text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black; padding: 0%; margin:0%;">DreamSpace</p>
+
+				<hr style="background-color:white;">
+
+				<img id="tooltip_logo" src="logos/dreamspace-logo.png" style="width: 70px; height: 65px; border:1px solid black; display: block; margin-left: auto; margin-right: auto;">
+
+			</div>
+
+			<div id="js-map" class="map" style="border: 1px solid black;">
+
+		</div>
+
+  </div>
+
+	</div>
+
+
+
+<script src="js/jquery.min.js"></script>
+<script src="js/popper.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/main.js"></script>
+
+<script src="openlayers/ol.js"></script>
+<script src="script.js"></script>
+
+<script>
+
+	document.getElementById("inputGroupSelect01").onchange = function(){
+
+		if(this.value == "Country"){
+
+			document.getElementById("country_search").style.display = "block";
+			document.getElementById("company_search").style.display = "none";
+			document.getElementById("sector_search").style.display = "none";
+
+		}else if(this.value == "Company Name"){
+
+			document.getElementById("country_search").style.display = "none";
+			document.getElementById("company_search").style.display = "block";
+			document.getElementById("sector_search").style.display = "none";
+
+		}else if(this.value == "Sector"){
+
+			document.getElementById("country_search").style.display = "none";
+			document.getElementById("company_search").style.display = "none";
+			document.getElementById("sector_search").style.display = "block";
+
+		}else if(this.value == "All"){
+
+			document.getElementById("country_search").style.display = "none";
+			document.getElementById("company_search").style.display = "none";
+			document.getElementById("sector_search").style.display = "none";
+		}
+
+	}
+
+</script>
+
+</body>
+
+</html>
