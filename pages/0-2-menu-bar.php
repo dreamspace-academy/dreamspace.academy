@@ -71,6 +71,7 @@
 								<div class="template-layout-column-center-left">
 									<span class="sf-mega-header">Community Innovation</span>
 									<ul>
+										<li><a href="3-2-6-dreamfungi.php">DreamFungi</a></li>
 										<li><a href="3-2-1-underwater-glider.php">Underwater Glider</a></li>
 										<li><a href="3-2-2-circular-plastic.php">Circular Plastic</a></li>
 										<li><a href="3-2-3-open-covid.php">Open Covid</a></li>

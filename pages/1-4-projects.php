@@ -18,6 +18,26 @@
 
 					<!-- Counter -->
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
+						<img src="../media/gallery/innovation-dream-fungi-dreamspace-0.jpg" alt="DreamSpace Academy" />
+					</div>
+
+
+					<!-- Header -->
+					<h5>DreamFungi</h5>
+
+					<!-- Description -->
+					<div>
+						<p>A biocomposite material using mycelium as an alternative sustainable material</p>
+						</br>
+					</div>
+
+					<a href="3-2-6-dreamfungi.php" class="template-component-button template-component-button-style-1">More<i></i></a>
+
+				</li>
+				<li class="template-layout-column-left">
+
+					<!-- Counter -->
+					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
 						<img src="../media/gallery/innovation-corona-hunter-dreamspace-0.jpg" alt="DreamSpace Academy" />
 					</div>
 
