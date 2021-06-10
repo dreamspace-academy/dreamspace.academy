@@ -4386,9 +4386,10 @@ ul.template-widget-list
 					display:block;
 					margin-left:auto;
 					margin-right:auto;
-					line-height:180px;
+					line-height:200px;
 					/* border-radius:100%; */
 					margin-bottom:20px;
+					background-color: #56509F;
 				}
 
 				.template-section-white .template-component-counter-box ul>li>.template-component-counter-box-counter
