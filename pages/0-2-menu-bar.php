@@ -31,12 +31,13 @@
 									</ul>
 								</div>
 								<div class="template-layout-column-center-left">
-									<span class="sf-mega-header">Links</span>
+									<span class="sf-mega-header">About</span>
 									<ul>
-										<li><a href="http://storydeck.dreamspace.academy/">Story Deck</a></li>
-										<li><a href="http://supportdeck.dreamspace.academy/">Support Deck</a></li>
-										<li><a href="https://opencollective.com/dreamspace-academy/">Opencollective</a></li>
-										<li><a href="2-2-1-calendar.php">Calendar</a></li>
+										<li><a href="http://storydeck.dreamspace.academy/">Our Story Deck</a></li>
+										<li><a href="http://supportdeck.dreamspace.academy/">Our Support Deck</a></li>
+										<li><a href="https://opencollective.com/dreamspace-academy/">Our Crowdfunding</a></li>
+										<li><a href="https://github.com/dreamspace-academy/dreamspace-guidelines">Our Guidelines</a></li>
+										<li><a href="2-2-1-calendar.php">Our Calendar</a></li>
 									</ul>
 								</div>
 								<div class="template-layout-column-center-right">
@@ -45,7 +46,6 @@
 										<li><a href="10-0-under-construction.php">Press</a></li>
 										<li><a href="10-0-under-construction.php">Gallery</a></li>
 										<li><a href="10-0-under-construction.php">Co-Governance</a></li>
-										<li><a href="https://github.com/dreamspace-academy/dreamspace-guidelines">Guidelines</a></li>
 										<li><a href="10-0-under-construction.php">Tools</a></li>
 									</ul>
 								</div>

@@ -29,12 +29,13 @@
 
 						<!-- More Menu -->
 						<li>
-							<a href="#">Links<span></span></a>
+							<a href="#">About<span></span></a>
 							<ul>
-								<li><a href="http://storydeck.dreamspace.academy/">Story Deck</a></li>
-								<li><a href="http://supportdeck.dreamspace.academy/">Support Deck</a></li>
-								<li><a href="https://opencollective.com/dreamspace-academy/">Opencollective</a></li>
-								<li><a href="2-2-1-calendar.php">Calendar</a></li>
+								<li><a href="http://storydeck.dreamspace.academy/">Our Story Deck</a></li>
+								<li><a href="http://supportdeck.dreamspace.academy/">Our Support Deck</a></li>
+								<li><a href="https://opencollective.com/dreamspace-academy/">Our Crowdfunding</a></li>
+								<li><a href="https://github.com/dreamspace-academy/dreamspace-guidelines">Our Guidelines</a></li>
+								<li><a href="2-2-1-calendar.php">Our Calendar</a></li>
 							</ul>
 						</li>
 
@@ -45,7 +46,6 @@
 								<li><a href="10-0-under-construction.php">Press</a></li>
 								<li><a href="10-0-under-construction.php">Gallery</a></li>
 								<li><a href="10-0-under-construction.php">Co-Governance</a></li>
-								<li><a href="10-0-under-construction.php">Guidelines</a></li>
 								<li><a href="10-0-under-construction.php">Tools</a></li>
 							</ul>
 						</li>
