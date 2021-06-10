@@ -73,9 +73,9 @@
 							</ul>
 						</li>
 
-						<!-- Community Innovation Menu -->
+						<!-- Grassroots Innovation Menu -->
 						<li>
-							<a href="#">Community Innovation<span></span></a>
+							<a href="#">Grassroots Innovation<span></span></a>
 							<ul>
 								<li><a href="3-2-6-dreamfungi.php">DreamFungi</a></li>
 								<li><a href="3-2-1-underwater-glider.php">Underwater Glider</a></li>

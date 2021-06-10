@@ -108,7 +108,7 @@
             Jerushan Sritharan is a young innovator from Sri Lanka, who is very interested in CNC technology and in the pursuit of accessing a multidisciplinary scientific infrastructure that provides support for research, innovation and training, in the art of sculpting. By designing this we can reinvent our ancient art and enable access to technology knowledge through this. It could give a helping hand as creating career opportunities in the long run.
           </p>
           <p class="template-padding-reset" align="justify">
-            To reinforce his innovative thinking, He joined a community innovation center called DreamSpace Academy in Batticaloa, Sri Lanka and he have been gaining the necessary Maker skills to develop & produce electronics, mechanics and software.
+            To reinforce his innovative thinking, He joined a Grassroots Innovation center called DreamSpace Academy in Batticaloa, Sri Lanka and he have been gaining the necessary Maker skills to develop & produce electronics, mechanics and software.
           </p>
           <p class="template-padding-reset" align="justify">
             After finishing his higher secondary school in 2017, He was in search of completing his plan of building a CNC machine. But to develop his plan he was lacking financial support. Still he didn’t lose my hope and he have followed a course and completed it. Afterwards now he found the correct place, DreamSpace in Batticaloa, to develop his plan and his knowledge in this field.

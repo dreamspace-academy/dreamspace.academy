@@ -69,7 +69,7 @@
 								</div>
 
 								<div class="template-layout-column-center-left">
-									<span class="sf-mega-header">Community Innovation</span>
+									<span class="sf-mega-header">Grassroots Innovation</span>
 									<ul>
 										<li><a href="3-2-6-dreamfungi.php">DreamFungi</a></li>
 										<li><a href="3-2-1-underwater-glider.php">Underwater Glider</a></li>
