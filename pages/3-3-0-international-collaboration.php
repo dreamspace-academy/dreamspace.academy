@@ -1,7 +1,7 @@
 <?php include('0-0-header.php') ?>
 <div class="template-content">
   <div class="template-component-header-subheader">
-    <h2>International Collaboration</h2>
+    <h2>Domain Expertise</h2>
     <p>The candidate’s knowledge-base is amplified by collaborating with international experts and organisations</p>
   </div>
     <div class="template-component-divider template-component-divider-style-1"></div>

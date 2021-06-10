@@ -15,7 +15,7 @@
 					data-easein="default"
 					data-easeout="default"
 					data-masterspeed="300"
-					data-thumb="../media/gallery/org-life-cycle-dreamspace-academy.jpg"
+					data-thumb="../media/others/org-life-cycle-dreamspace-academy.jpg"
 				  data-rotate="0"
 					data-saveperformance="off"
 					class="fable_slide_1_class"
@@ -24,13 +24,13 @@
 					data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8=""
 				  data-param9="" data-param10="" data-description="">
 
-					<img src="../media/gallery/org-life-cycle-dreamspace-academy.jpg"
+					<img src="../media/others/org-slider-dreamspace-1.jpg"
 					alt="DreamSpace Academy"
 					width="100"
-					height="600"
+					height="100"
 					data-bgposition="center top"
 					data-bgfit="cover"
-					data-bgrepeat="repeat-x"
+					data-bgrepeat="no-repeat"
 					class="rev-slidebg"
 					data-no-retina>
 
@@ -59,11 +59,11 @@
 				  data-rotate="0" data-saveperformance="off" class="fable_slide_1_class" id="fable_slide_1_id" data-title="fable_slide_1" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8=""
 				  data-param9="" data-param10="" data-description="">
 
-					<img src="../media/gallery/org-life-cycle-maker-education-dreamspace.jpg" alt="DreamSpace Academy" width="100" height="600" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="repeat-x" class="rev-slidebg" data-no-retina>
+					<img src="../media/others/org-slider-dreamspace-2.jpg" alt="DreamSpace Academy" width="100" height="600" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
 
 					<!-- Layer nr. 4 -->
-					<div class="tp-caption tp-font-lato-black tp-resizeme" id="slide-2-layer-4" data-x="center" data-hoffset="0" data-y="center" data-voffset="-45" data-width="auto" data-height="auto" data-transform_idle="" data-transform_in="x:0;y:50;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:1000;e:Power3.easeInOut;"
-					  data-transform_out="x:0;y:50;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:300;s:300;" data-start="1600" data-splitin="words" data-splitout="words" data-responsive_offset="on" data-elementdelay="0.1" data-endelementdelay="0.1" style="z-index:8;white-space:nowrap;border-color:rgba(86,80,159,1.00);background-color: white; padding-right: 10px; padding-left: 10px;">Maker Education</div>
+					<div class="tp-caption tp-font-lato-black tp-resizeme" id="slide-2-layer-4" data-x="center" data-y="400" data-hoffset="0" data-y="center" data-voffset="-45" data-width="auto" data-height="auto" data-transform_idle="" data-transform_in="x:0;y:50;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:1000;e:Power3.easeInOut;"
+					  data-transform_out="x:0;y:50;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:300;s:300;" data-start="1600" data-splitin="words" data-splitout="words" data-responsive_offset="on" data-elementdelay="0.1" data-endelementdelay="0.1" style="z-index:8;white-space:nowrap;border-color:rgba(86,80,159,1.00);background-color: white; padding-right: 10px; padding-left: 10px;">Empowering Underserved Communities </div>
 				</li>
 
 				<!-- SLIDE -->
@@ -71,11 +71,11 @@
 				  data-rotate="0" data-saveperformance="off" class="fable_slide_2_class" id="fable_slide_2_id" data-title="fable_slide_2" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8=""
 				  data-param9="" data-param10="" data-description="">
 
-					<img src="../media/gallery/org-life-cycle-community-innovation-dreamspace.jpg" alt="DreamSpace Academy" width="100" height="600" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="repeat-x" class="rev-slidebg" data-no-retina>
+					<img src="../media/others/org-slider-dreamspace-3.jpg" alt="DreamSpace Academy" width="100" height="600" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="repeat-x" class="rev-slidebg" data-no-retina>
 
 					<!-- Layer nr. 4 -->
-					<div class="tp-caption tp-font-lato-black tp-resizeme" id="slide-3-layer-4" data-x="500" data-y="400" data-voffset="-45" data-width="auto" data-height="auto" data-transform_idle="" data-transform_in="x:0;y:50;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:1000;e:Power3.easeInOut;"
-					  data-transform_out="x:0;y:50;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:300;s:300;" data-start="1600" data-splitin="words" data-splitout="words" data-responsive_offset="on" data-elementdelay="0.1" data-endelementdelay="0.1" style="z-index:8;white-space:nowrap;border-color:rgba(86,80,159,1.00);background-color: white; padding-right: 10px; padding-left: 10px;">Community Innovation</div>
+					<div class="tp-caption tp-font-lato-black tp-resizeme" id="slide-3-layer-4" data-x="center" data-y="400" data-voffset="-45" data-width="auto" data-height="auto" data-transform_idle="" data-transform_in="x:0;y:50;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:1000;e:Power3.easeInOut;"
+					  data-transform_out="x:0;y:50;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:300;s:300;" data-start="1600" data-splitin="words" data-splitout="words" data-responsive_offset="on" data-elementdelay="0.1" data-endelementdelay="0.1" style="z-index:8;white-space:nowrap;border-color:rgba(86,80,159,1.00);background-color: white; padding-right: 10px; padding-left: 10px;">Protecting Environmental Ecosystems </div>
 				</li>
 
 				<!-- SLIDE -->
@@ -83,11 +83,11 @@
 				  data-rotate="0" data-saveperformance="off" class="fable_slide_3_class" id="fable_slide_3_id" data-title="fable_slide_3" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8=""
 				  data-param9="" data-param10="" data-description="">
 
-					<img src="../media/gallery/org-life-cycle-international-collaboration-dreamspace.jpg" alt="DreamSpace Academy" width="100" height="600" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="repeat-x" class="rev-slidebg" data-no-retina>
+					<img src="../media/others/org-slider-dreamspace-4.jpg" alt="DreamSpace Academy" width="100" height="600" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="repeat-x" class="rev-slidebg" data-no-retina>
 
 					<!-- Layer nr. 5 -->
-					<div class="tp-caption tp-font-lato-black tp-resizeme" id="slide-4-layer-5" data-x="right" data-y="center" data-voffset="-45" data-width="auto" data-height="auto" data-transform_idle="" data-transform_in="x:0;y:50;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:1000;e:Power3.easeInOut;"
-					  data-transform_out="x:0;y:50;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:300;s:300;" data-start="1600" data-splitin="words" data-splitout="words" data-responsive_offset="on" data-elementdelay="0.1" data-endelementdelay="0.1" style="z-index:9;white-space:nowrap;border-color:rgba(86,80,159,1.00);background-color: white; padding-right: 10px; padding-left: 10px;">International Collaboration  </div>
+					<div class="tp-caption tp-font-lato-black tp-resizeme" id="slide-4-layer-5" data-x="center" data-y="400" data-voffset="-45" data-width="auto" data-height="auto" data-transform_idle="" data-transform_in="x:0;y:50;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:1000;e:Power3.easeInOut;"
+					  data-transform_out="x:0;y:50;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:300;s:300;" data-start="1600" data-splitin="words" data-splitout="words" data-responsive_offset="on" data-elementdelay="0.1" data-endelementdelay="0.1" style="z-index:9;white-space:nowrap;border-color:rgba(86,80,159,1.00);background-color: white; padding-right: 10px; padding-left: 10px;">Facilitating Peacebuilding </div>
 				</li>
 
 				<!-- SLIDE -->
@@ -95,11 +95,11 @@
 				  data-rotate="0" data-saveperformance="off" class="fable_slide_3_class" id="fable_slide_3_id" data-title="fable_slide_3" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8=""
 				  data-param9="" data-param10="" data-description="">
 
-					<img src="../media/gallery/org-life-cycle-social-entrepreneurship-dreamspace.jpg" alt="DreamSpace Academy" width="100" height="600" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="repeat-x" class="rev-slidebg" data-no-retina>
+					<img src="../media/others/org-slider-dreamspace-5.jpg" alt="DreamSpace Academy" width="100" height="600" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="repeat-x" class="rev-slidebg" data-no-retina>
 
 					<!-- Layer nr. 5 -->
-					<div class="tp-caption tp-font-lato-black tp-resizeme" id="slide-5-layer-5" data-x="100" data-y="300" data-voffset="-45" data-width="auto" data-height="auto" data-transform_idle="" data-transform_in="x:0;y:50;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:1000;e:Power3.easeInOut;"
-					  data-transform_out="x:0;y:50;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:300;s:300;" data-start="1600" data-splitin="words" data-splitout="words" data-responsive_offset="on" data-elementdelay="0.1" data-endelementdelay="0.1" style="z-index:9;white-space:nowrap;border-color:rgba(86,80,159,1.00);background-color: white; padding-right: 10px; padding-left: 10px;">Social Enterprise</div>
+					<div class="tp-caption tp-font-lato-black tp-resizeme" id="slide-5-layer-5" data-x="center" data-y="400" data-voffset="-45" data-width="auto" data-height="auto" data-transform_idle="" data-transform_in="x:0;y:50;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:1000;e:Power3.easeInOut;"
+					  data-transform_out="x:0;y:50;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:300;s:300;" data-start="1600" data-splitin="words" data-splitout="words" data-responsive_offset="on" data-elementdelay="0.1" data-endelementdelay="0.1" style="z-index:9;white-space:nowrap;border-color:rgba(86,80,159,1.00);background-color: white; padding-right: 10px; padding-left: 10px;">Fostering Sustainable Startups</div>
 				</li>
 
 				<!-- SLIDE -->
@@ -107,11 +107,11 @@
 				  data-rotate="0" data-saveperformance="off" class="fable_slide_3_class" id="fable_slide_3_id" data-title="fable_slide_3" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8=""
 				  data-param9="" data-param10="" data-description="">
 
-					<img src="../media/gallery/org-life-cycle-co-creating-dreams-dreamspace.jpg" alt="DreamSpace Academy" width="100" height="600" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="repeat-x" class="rev-slidebg" data-no-retina>
+					<img src="../media/others/org-slider-dreamspace-6.jpg" alt="DreamSpace Academy" width="100" height="600" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="repeat-x" class="rev-slidebg" data-no-retina>
 
 					<!-- Layer nr. 5 -->
-					<div class="tp-caption tp-font-lato-black tp-resizeme" id="slide-6-layer-5" data-x="right" data-y="center" data-voffset="-45" data-width="auto" data-height="auto" data-transform_idle="" data-transform_in="x:0;y:50;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:1000;e:Power3.easeInOut;"
-					  data-transform_out="x:0;y:50;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:300;s:300;" data-start="1600" data-splitin="words" data-splitout="words" data-responsive_offset="on" data-elementdelay="0.1" data-endelementdelay="0.1" style="z-index:9;white-space:nowrap;border-color:rgba(86,80,159,1.00);background-color: white; padding-right: 10px; padding-left: 10px;">Co-creating The Dream</div>
+					<div class="tp-caption tp-font-lato-black tp-resizeme" id="slide-6-layer-5" data-x="center" data-y="400" data-voffset="-45" data-width="auto" data-height="auto" data-transform_idle="" data-transform_in="x:0;y:50;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:1000;e:Power3.easeInOut;"
+					  data-transform_out="x:0;y:50;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:300;s:300;" data-start="1600" data-splitin="words" data-splitout="words" data-responsive_offset="on" data-elementdelay="0.1" data-endelementdelay="0.1" style="z-index:9;white-space:nowrap;border-color:rgba(86,80,159,1.00);background-color: white; padding-right: 10px; padding-left: 10px;">Co-Creating The Dreams </div>
 				</li>
 
 			</ul>

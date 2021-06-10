@@ -31,12 +31,13 @@
 									</ul>
 								</div>
 								<div class="template-layout-column-center-left">
-									<span class="sf-mega-header">Links</span>
+									<span class="sf-mega-header">About</span>
 									<ul>
-										<li><a href="http://storydeck.dreamspace.academy/">Story Deck</a></li>
-										<li><a href="http://supportdeck.dreamspace.academy/">Support Deck</a></li>
-										<li><a href="https://opencollective.com/dreamspace-academy/">Opencollective</a></li>
-										<li><a href="2-2-1-calendar.php">Calendar</a></li>
+										<li><a href="http://storydeck.dreamspace.academy/">Our Story Deck</a></li>
+										<li><a href="http://supportdeck.dreamspace.academy/">Our Support Deck</a></li>
+										<li><a href="https://opencollective.com/dreamspace-academy/">Our Crowdfunding</a></li>
+										<li><a href="https://github.com/dreamspace-academy/dreamspace-guidelines">Our Guidelines</a></li>
+										<li><a href="2-2-1-calendar.php">Our Calendar</a></li>
 									</ul>
 								</div>
 								<div class="template-layout-column-center-right">
@@ -45,7 +46,6 @@
 										<li><a href="10-0-under-construction.php">Press</a></li>
 										<li><a href="10-0-under-construction.php">Gallery</a></li>
 										<li><a href="10-0-under-construction.php">Co-Governance</a></li>
-										<li><a href="https://github.com/dreamspace-academy/dreamspace-guidelines">Guidelines</a></li>
 										<li><a href="10-0-under-construction.php">Tools</a></li>
 									</ul>
 								</div>
@@ -69,7 +69,7 @@
 								</div>
 
 								<div class="template-layout-column-center-left">
-									<span class="sf-mega-header">Community Innovation</span>
+									<span class="sf-mega-header">Grassroots Innovation</span>
 									<ul>
 										<li><a href="3-2-6-dreamfungi.php">DreamFungi</a></li>
 										<li><a href="3-2-1-underwater-glider.php">Underwater Glider</a></li>
@@ -82,7 +82,7 @@
 								</div>
 
 								<div class="template-layout-column-center-right">
-									<span class="sf-mega-header">International Collaboration</span>
+									<span class="sf-mega-header">Domain Expertise</span>
 									<ul>
 										<li><a href="3-3-0-international-collaboration.php#design-thinking-maite">Design Thinking</a></li>
 										<li><a href="3-3-0-international-collaboration.php#story-telling-nico">Storytelling</a></li>
@@ -92,7 +92,7 @@
 								</div>
 
 								<div class="template-layout-column-right">
-									<span class="sf-mega-header">Social Enterprise</span>
+									<span class="sf-mega-header">Venture Building</span>
 									<ul>
 										<li><a href="3-4-0-social-enterprise.php#trash-for-trade">Trash For Trade</a></li>
 										<li><a href="3-4-0-social-enterprise.php#oceanbiome">OceanBiome</a></li>

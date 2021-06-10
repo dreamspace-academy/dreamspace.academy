@@ -393,6 +393,7 @@ textarea,
 .template-margin-top-6															{	margin-top:60px !important;		}
 
 .template-padding-bottom-5														{	padding-bottom:50px !important;	}
+.template-padding-bottom-reset												{	padding-bottom:0 !important;	}
 
 /******************************************************************************/
 /* Color																	  */
@@ -4386,9 +4387,15 @@ ul.template-widget-list
 					display:block;
 					margin-left:auto;
 					margin-right:auto;
-					line-height:180px;
+					line-height:200px;
 					/* border-radius:100%; */
 					margin-bottom:20px;
+					background-color: #56509F;
+				}
+
+				.template-component-counter-box-counter.counter-box-round
+				{
+					border-radius:100%;
 				}
 
 				.template-section-white .template-component-counter-box ul>li>.template-component-counter-box-counter

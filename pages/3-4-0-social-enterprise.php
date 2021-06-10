@@ -1,7 +1,7 @@
 <?php include('0-0-header.php') ?>
 <div class="template-content">
   <div class="template-component-header-subheader">
-    <h2>Social Enterprise</h2>
+    <h2>Venture Building</h2>
     <p>Our incubated organisations tackling social, economic and environmental challenges</p>
     <div></div>
   </div>

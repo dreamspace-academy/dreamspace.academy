@@ -24,7 +24,7 @@
 					<div class="template-component-divider template-component-divider-style-2"></div>
 
 					<div class="template-component-italic template-margin-top-3">
-						DreamSpace Academy is a Community Innovation Center to tackle authentic socio-economic and environmental challenges using Project Based Learning (PBL).
+						DreamSpace Academy is a Grassroots Innovation Center to tackle authentic socio-economic and environmental challenges using Project Based Learning (PBL).
 						Our mission is to empower creative minds through Maker Education, to create innovative solutions using Open Innovation, and ultimately leading them to become successful social entrepreneurs.
 
 					</div>

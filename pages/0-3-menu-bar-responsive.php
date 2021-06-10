@@ -29,12 +29,13 @@
 
 						<!-- More Menu -->
 						<li>
-							<a href="#">Links<span></span></a>
+							<a href="#">About<span></span></a>
 							<ul>
-								<li><a href="http://storydeck.dreamspace.academy/">Story Deck</a></li>
-								<li><a href="http://supportdeck.dreamspace.academy/">Support Deck</a></li>
-								<li><a href="https://opencollective.com/dreamspace-academy/">Opencollective</a></li>
-								<li><a href="2-2-1-calendar.php">Calendar</a></li>
+								<li><a href="http://storydeck.dreamspace.academy/">Our Story Deck</a></li>
+								<li><a href="http://supportdeck.dreamspace.academy/">Our Support Deck</a></li>
+								<li><a href="https://opencollective.com/dreamspace-academy/">Our Crowdfunding</a></li>
+								<li><a href="https://github.com/dreamspace-academy/dreamspace-guidelines">Our Guidelines</a></li>
+								<li><a href="2-2-1-calendar.php">Our Calendar</a></li>
 							</ul>
 						</li>
 
@@ -45,7 +46,6 @@
 								<li><a href="10-0-under-construction.php">Press</a></li>
 								<li><a href="10-0-under-construction.php">Gallery</a></li>
 								<li><a href="10-0-under-construction.php">Co-Governance</a></li>
-								<li><a href="10-0-under-construction.php">Guidelines</a></li>
 								<li><a href="10-0-under-construction.php">Tools</a></li>
 							</ul>
 						</li>
@@ -73,9 +73,9 @@
 							</ul>
 						</li>
 
-						<!-- Community Innovation Menu -->
+						<!-- Grassroots Innovation Menu -->
 						<li>
-							<a href="#">Community Innovation<span></span></a>
+							<a href="#">Grassroots Innovation<span></span></a>
 							<ul>
 								<li><a href="3-2-6-dreamfungi.php">DreamFungi</a></li>
 								<li><a href="3-2-1-underwater-glider.php">Underwater Glider</a></li>
@@ -87,9 +87,9 @@
 							</ul>
 						</li>
 
-						<!-- International Collaboration Menu -->
+						<!-- Domain Expertise Menu -->
 						<li>
-							<a href="#">International Collaboration<span></span></a>
+							<a href="#">Domain Expertise<span></span></a>
 							<ul>
 								<li><a href="3-3-0-international-collaboration.php#design-thinking-maite">Design Thinking</a></li>
 								<li><a href="3-3-0-international-collaboration.php#story-telling-nico">Storytelling</a></li>
@@ -98,9 +98,9 @@
 							</ul>
 						</li>
 
-						<!-- Social Enterprise Menu -->
+						<!-- Venture Building Menu -->
 						<li>
-							<a href="#">Social Enterprise<span></span></a>
+							<a href="#">Venture Building<span></span></a>
 							<ul>
 								<li><a href="3-4-0-social-enterprise.php#trash-for-trade">Trash For Trade</a></li>
 								<li><a href="3-4-0-social-enterprise.php#oceanbiome">OceanBiome</a></li>
