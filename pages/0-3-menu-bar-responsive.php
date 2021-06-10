@@ -98,9 +98,9 @@
 							</ul>
 						</li>
 
-						<!-- Social Enterprise Menu -->
+						<!-- Venture Building Menu -->
 						<li>
-							<a href="#">Social Enterprise<span></span></a>
+							<a href="#">Venture Building<span></span></a>
 							<ul>
 								<li><a href="3-4-0-social-enterprise.php#trash-for-trade">Trash For Trade</a></li>
 								<li><a href="3-4-0-social-enterprise.php#oceanbiome">OceanBiome</a></li>
