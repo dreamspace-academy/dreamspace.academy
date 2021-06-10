@@ -9,13 +9,15 @@
 					<div></div>
 				</div>
 				<p>
-				Three decades of <b style="color: #56509F">civil war</b> in Sri Lanka caused a massive impact on <b>socio-economics</b> and <b style="color: #56509F">environmental ecosystems</b>
+					Three decades of <b style="color: #56509F">civil war</b> in Sri Lanka caused a massive impact on <b>socio-economy</b> and <b style="color: #56509F">environmental ecosystems</b>
 				</p>
+				</br>
 				<p>
-				The international aids provided significant support, but <b style="color: #56509F">imported solutions</b> couldn't solve fundamental <b>socio-economics</b> and <b style="color: #56509F">local problems sustainably</b>
+					<b style="color: #56509F">International aid</b> provided significant support, but <b>imported solutions</b> couldn't solve fundamental <b style="color: #56509F">local problems sustainably</b>
 				</p>
+				</br>
 				<p>
-				We set out to <b>empower locals</b> to solve </br>complex <b style="color: #56509F">local challenges !!!</b>
+					We set out to <b>empower locals</b> to solve </br>complex <b style="color: #56509F">local challenges !!!</b>
 				</p>
 
 				<div class="template-component-header-subheader">
@@ -23,19 +25,22 @@
 					<h6></h6>
 					<div></div>
 				</div>
-				<b style="color: #56509F">DreamSpace Academy</b> is a <b>community innovation centre</b> to tackle complex local socio-economic and environmental challenges with <b style="color: #56509F">challenge-based learning</b>
+				<p>
+					<b style="color: #56509F">DreamSpace Academy</b> is a <b style="color: #56509F">non-profit social enterprise</b> tackling local <b>socio-economic</b> and <b style="color: #56509F">environmental</b> challenges through <b>challenge-based learning</b>, <b style="color: #56509F">grassroots innovation</b> and <b>impact venture building</b>
+				</p>
 
 				<div class="template-component-header-subheader">
 					<h3>What is our mission?</h3>
 					<h6></h6>
 					<div></div>
 				</div>
-				We are a <b style="color: #56509F">non-profit social enterprise</b> with a perfect balance between the <b>social mission</b> and the <b style="color: #56509F">business venture</b>, to achieve <b>sustainable development goals</b> by empowering
-				the <b style="color: #56509F">underprivileged communities</b> and protecting the <b>environmental ecosystems</b> in Sri Lanka
+				<p>
+					Our mission is to achieve <b style="color: #56509F">sustainable development goals</b> in Sri Lanka by empowering <b>underserved communities</b>, protecting <b style="color: #56509F">environmental ecosystems</b>, facilitating <b>peacebuilding</b> and fostering <b style="color: #56509F">sustainable startups</b>
+				</p>
 				</br>
 
 				<div class="template-component-header-subheader">
-					<h3>What are our activities?</h3>
+					<h3>What are our verticals and activities?</h3>
 					<h6>Our business ventures help us to sustain our social mission</h6>
 					<div></div>
 				</div>
@@ -44,8 +49,8 @@
 				</center>
 
 				<div class="template-component-header-subheader">
-					<h3>How do we empower?</h3>
-					<h6>Our core activity is personalised empowerment, also called as DreamSpace Lifecycle</h6>
+					<h3>How do we empower with DreamSpace Lifecycle?</h3>
+					<h6>Personalised empowerment of candidates from the underserved communities to become impact heroes</h6>
 					<div></div>
 				</div>
 				<center>

@@ -4,7 +4,7 @@
 
 		<div class="template-component-header-subheader">
 			<h3>What services do we provide?</h3>
-			<h6>Our services via independent organisations that contribute to sustaining our social mission</h6>
+			<h6>Services via independent organisations that contribute to sustaining our social mission</h6>
 			<div></div>
 		</div>
 
