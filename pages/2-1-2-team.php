@@ -335,7 +335,6 @@
             </div>
           </div>
         </li>
-
         <li class="template-layout-column-right">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
             <img src="../media/people/charuni-indrajith-dreamspace.jpg" alt="DreamSpace Academy" />

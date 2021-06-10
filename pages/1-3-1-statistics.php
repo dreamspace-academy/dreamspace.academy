@@ -2,13 +2,13 @@
 	<div class="template-main">
 		<div class="template-component-header-subheader">
 			<h3>What impact have we co-created?</h3>
-			<h6>Story from zero to hero</h6>
+			<h6></h6>
 			<div></div>
 		</div>
 			<div class="template-component-counter-box template-state-carousel-enable">
 				<ul class="template-layout-25x25x25x25 template-clear-fix">
 					<li class="template-layout-column-left">
-						<span class="template-component-counter-box-counter">
+						<span class="template-component-counter-box-counter counter-box-round">
 							<span class="template-component-counter-box-counter-value">528</span>
 							<span class="template-component-counter-box-counter-character">+</span>
 						</span>
@@ -19,17 +19,17 @@
 						</span>
 					</li>
 					<li class="template-layout-column-left">
-						<span class="template-component-counter-box-counter">
+						<span class="template-component-counter-box-counter counter-box-round">
 							<span class="template-component-counter-box-counter-value">14</span>
 						</span>
 						<h5>Labs</h5>
-						<p>built for interdisciplinary education and co-creation</p>
+						<p>being built for interdisciplinary education and co-creation</p>
 						<span class="template-component-counter-box-timeline template-state-hidden">
 							<span></span>
 						</span>
 					</li>
 					<li class="template-layout-column-left">
-						<span class="template-component-counter-box-counter">
+						<span class="template-component-counter-box-counter counter-box-round">
 							<span class="template-component-counter-box-counter-value">9</span>
 							<span class="template-component-counter-box-counter-character">+</span>
 						</span>
@@ -40,7 +40,7 @@
 						</span>
 					</li>
 					<li class="template-layout-column-left">
-						<span class="template-component-counter-box-counter">
+						<span class="template-component-counter-box-counter counter-box-round">
 							<span class="template-component-counter-box-counter-value">8</span>
 							<span class="template-component-counter-box-counter-character">+</span>
 						</span>
@@ -51,7 +51,7 @@
 						</span>
 					</li>
 					<li class="template-layout-column-left">
-						<span class="template-component-counter-box-counter">
+						<span class="template-component-counter-box-counter counter-box-round">
 							<span class="template-component-counter-box-counter-value">23</span>
 						</span>
 						<h5>Medals</h5>
@@ -61,7 +61,7 @@
 						</span>
 					</li>
 					<li class="template-layout-column-left">
-						<span class="template-component-counter-box-counter">
+						<span class="template-component-counter-box-counter counter-box-round">
 							<span class="template-component-counter-box-counter-value">11</span>
 							<span class="template-component-counter-box-counter-character">+</span>
 						</span>

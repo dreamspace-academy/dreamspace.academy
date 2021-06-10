@@ -4392,6 +4392,11 @@ ul.template-widget-list
 					background-color: #56509F;
 				}
 
+				.template-component-counter-box-counter.counter-box-round
+				{
+					border-radius:100%;
+				}
+
 				.template-section-white .template-component-counter-box ul>li>.template-component-counter-box-counter
 				{
 					border-width:2px;
