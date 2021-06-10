@@ -82,7 +82,7 @@
 								</div>
 
 								<div class="template-layout-column-center-right">
-									<span class="sf-mega-header">International Collaboration</span>
+									<span class="sf-mega-header">Domain Expertise</span>
 									<ul>
 										<li><a href="3-3-0-international-collaboration.php#design-thinking-maite">Design Thinking</a></li>
 										<li><a href="3-3-0-international-collaboration.php#story-telling-nico">Storytelling</a></li>

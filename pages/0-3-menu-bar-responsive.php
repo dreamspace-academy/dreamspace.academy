@@ -87,9 +87,9 @@
 							</ul>
 						</li>
 
-						<!-- International Collaboration Menu -->
+						<!-- Domain Expertise Menu -->
 						<li>
-							<a href="#">International Collaboration<span></span></a>
+							<a href="#">Domain Expertise<span></span></a>
 							<ul>
 								<li><a href="3-3-0-international-collaboration.php#design-thinking-maite">Design Thinking</a></li>
 								<li><a href="3-3-0-international-collaboration.php#story-telling-nico">Storytelling</a></li>
