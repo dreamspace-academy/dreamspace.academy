@@ -17,8 +17,6 @@
             <img src="../media/gallery/innovation-dreambot-dreamspace-1.jpg" data-thumb="../media/gallery/innovation-dreambot-dreamspace-1.jpg" alt="DreamSpace Academy" />
             <img src="../media/gallery/innovation-dreambot-dreamspace-2.jpg" data-thumb="../media/gallery/innovation-dreambot-dreamspace-2.jpg" alt="DreamSpace Academy" />
             <img src="../media/gallery/innovation-dreambot-dreamspace-3.jpg" data-thumb="../media/gallery/innovation-dreambot-dreamspace-3.jpg" alt="DreamSpace Academy" />
-            <img src="../media/gallery/innovation-dreambot-dreamspace-4.jpg" data-thumb="../media/gallery/innovation-dreambot-dreamspace-4.jpg" alt="DreamSpace Academy" />
-            <img src="../media/gallery/innovation-dreambot-dreamspace-5.jpg" data-thumb="../media/gallery/innovation-dreambot-dreamspace-5.jpg" alt="DreamSpace Academy" />
           </div>
         </div>
         <div class="template-component-divider template-component-divider-style-1"></div>
