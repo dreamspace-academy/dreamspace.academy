@@ -62,10 +62,7 @@ around the attitudes, values and principles associated with user-centered design
 
     <div class="template-component-blockquote">
       <p>
-        The DreamSpace Academy has a brilliant approach to empower local youth, to activate and
-encourage them to solve the challenges of their communities. I believe that they are carrying out an
-extremely important mission for Eastern Sri Lanka.</br>It was very impressive to see the team’s dedication and how they dream and work for a better
-future!
+        The DreamSpace Academy has a brilliant approach to empower, activate and encourage local youth, to solve the challenges of their communities.</br>It was very impressive to see the dedication of this young team and how they dream and work for a better future! I believe that they are carrying out an extremely important mission for Eastern Sri Lanka.
       </p>
       <span>Maite Hernandez Zubeldia</span>
     </div>
