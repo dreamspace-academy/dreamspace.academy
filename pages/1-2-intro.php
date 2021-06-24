@@ -55,7 +55,7 @@
 						<div></div>
 					</div>
 					<center>
-						<img src="../media/others/org-about-social-mission-business-venture.svg" height="400" width="800" />
+						<img src="../media/others/svgs/social-mission-business-venture.svg" height="400" width="800" />
 					</center>
 					</br>
 				</span>
@@ -67,7 +67,7 @@
 						<div></div>
 					</div>
 					<center>
-						<img src="../media/others/org-about-personalised-empowerment.svg" height="375" width="1000" />
+						<img src="../media/others/svgs/personalised-empowerment.svg" height="375" width="1000" />
 					</center>
 				</span>
 
