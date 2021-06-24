@@ -76,7 +76,7 @@
 										<li><a href="3-2-2-circular-plastic.php">Circular Plastic</a></li>
 										<li><a href="3-2-3-open-covid.php">Open Covid</a></li>
 										<li><a href="3-2-4-corona-hunter.php">Corona Hunter</a></li>
-										<li><a href="10-0-under-construction.php">Towards Green Energy</a></li>
+										<li><a href="3-2-7-bio-digester.php">Biodigester</a></li>
 										<li><a href="3-2-5-dreambot.php">DreamBot</a></li>
 									</ul>
 								</div>

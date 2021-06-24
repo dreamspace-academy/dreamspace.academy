@@ -38,6 +38,47 @@
 
 					<!-- Counter -->
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
+						<img src="../media/gallery/innovation-dreambot-dreamspace-0.jpg" alt="DreamSpace Academy" />
+					</div>
+
+
+					<!-- Header -->
+					<h5>DreamBot</h5>
+
+					<!-- Description -->
+					<div>
+						<p>A multipurpose digital fabrication machine to empower local manufacturing</p>
+						</br>
+					</div>
+
+					<a href="3-2-5-dreambot.php" class="template-component-button template-component-button-style-1">More<i></i></a>
+
+				</li>
+				<li class="template-layout-column-left">
+
+					<!-- Counter -->
+					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
+						<img src="../media/gallery/innovation-biodigester-dreamspace-0.jpg" alt="DreamSpace Academy" />
+					</div>
+
+
+					<!-- Header -->
+					<h5>Biodigester</h5>
+
+					<!-- Description -->
+					<div>
+						<p>Eliminate the causes of waste in Batticaloa by implementing an alternative energy</p>
+						</br>
+					</div>
+
+					<a href="3-2-7-bio-digester.php" class="template-component-button template-component-button-style-1">More<i></i></a>
+
+				</li>
+
+				<li class="template-layout-column-left">
+
+					<!-- Counter -->
+					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
 						<img src="../media/gallery/innovation-corona-hunter-dreamspace-0.jpg" alt="DreamSpace Academy" />
 					</div>
 
@@ -114,7 +155,6 @@
 					<a href="3-2-3-open-covid.php" class="template-component-button template-component-button-style-1">More<i></i></a>
 
 				</li>
-
 			</ul>
 
 			<!-- Pagination -->

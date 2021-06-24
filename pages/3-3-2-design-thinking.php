@@ -37,7 +37,7 @@
         <b style="color: #56509F">Expertise</b>
         <p>Maite is partner at The Morph Company, a Berlin-based consultancy for Innovation and
 Transformation. Her core experience is in impact-driven tech entrepreneurship, Design Thinking and
-agile product development.</br>While working in Europe, Canada, Cuba, Maite has experienced innovation approaches in different
+agile product development.</br></br>While working in Europe, Canada, Cuba, Maite has experienced innovation approaches in different
 regions of the world. Today she helps organisations, their leaders and teams to establish authentic
 relationships with their users and to innovate with purpose in our rapid changing digital age.</p>
 
@@ -52,7 +52,7 @@ qualitative user research, creative ideation, prototyping, testing and iteration
         <p>After framing and redefining the initial problems, the teams specifically worked on the strategic
 challenges of “How to gain trust from the parents of young boys and girls in Batticaloa for innovative
 and non-conventional projects of DreamSpace”? and “How to create meaningful partnerships with
-schools and other relevant institutions in Batticaloa?”</br>Besides developing concrete ideas for the application in future projects of the DreamSpace
+schools and other relevant institutions in Batticaloa?”</br></br>Besides developing concrete ideas for the application in future projects of the DreamSpace
 Academy, this training also allowed the team to sharpen its ability to develop innovative ideas and
 learn how to pass this spirit on to other members of the organization. The team also reflected
 around the attitudes, values and principles associated with user-centered design.</p>
@@ -62,10 +62,7 @@ around the attitudes, values and principles associated with user-centered design
 
     <div class="template-component-blockquote">
       <p>
-        The DreamSpace Academy has a brilliant approach to empower local youth, to activate and
-encourage them to solve the challenges of their communities. I believe that they are carrying out an
-extremely important mission for Eastern Sri Lanka.</br>It was very impressive to see the team’s dedication and how they dream and work for a better
-future!
+        The DreamSpace Academy has a brilliant approach to empower, activate and encourage local youth, to solve the challenges of their communities.</br>It was very impressive to see the dedication of this young team and how they dream and work for a better future! I believe that they are carrying out an extremely important mission for Eastern Sri Lanka.
       </p>
       <span>Maite Hernandez Zubeldia</span>
     </div>

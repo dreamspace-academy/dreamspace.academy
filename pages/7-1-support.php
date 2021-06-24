@@ -1,34 +1,34 @@
 <?php include('0-0-header.php'); ?>
 
-<!-- Content -->
 <div class="template-content">
-	<!-- Main -->
-	<div class="template-content-section template-main">
-		<!-- Header and subheader -->
+	<div class="template-main">
+
 		<div class="template-component-header-subheader">
-			<h2>Support Us</h2>
-			<h6>Join our mission to co-create a sustainable impact</h6>
-			<div></div>
-		</div>
-
-		<div class="template-component-divider template-component-divider-style-1"></div>
-
-		<!-- Opencollective Donation -->
-		<iframe src="https://opencollective.com/embed/dreamspace-academy/donate" style="width: 95%; min-height: 140vh;"></iframe>
-
-		<!-- Header and subheader -->
-		<div class="template-component-header-subheader">
-			<h2></h2>
-			<h6>Check our support deck to know more about our needs and how you can support us !!! </br>
-				<a href="http://supportdeck.dreamspace.academy">http://supportdeck.dreamspace.academy</a>
+			<h3>How can you support us?</h3>
+			<h6>Make donation at <a href="https://opencollective.com/dreamspace-academy">https://opencollective.com/dreamspace-academy</a></br>
+				Download support deck at <a href="../files/support/dreamspace-academy-support-deck.pdf">Support Deck</a></br>
 			</h6>
 			<div></div>
 		</div>
+		<center>
+			<img src="../media/others/svgs/support.svg" height="375" width="1000" />
+		</center>
+		<!-- Opencollective Donation -->
+		<iframe src="https://opencollective.com/embed/dreamspace-academy/donate" style="width: 95%; min-height: 125vh;"></iframe>
 
-		<!-- Support deck -->
-		<div class="template-content-section template-padding-top-reset">
-			<iframe src="../files/support/dreamspace-academy-support-deck.pdf#page=3&view=fit&toolbar=0" type="application/pdf" height=500px width="100%" class="responsive"></iframe>
+		<div class="template-component-header-subheader">
+			<h3>Want to support us now with your impact investment?</h3>
+			<h6>Make an impact investment at <a href="https://opencollective.com/dreamspace-academy">https://opencollective.com/dreamspace-academy</a></br>
+				Download pitch deck at <a href="../files/dreamfungi/dreamspace-academy-dreamfungi.pdf">DreamFungi</a></br>
+			</h6>
+			<div></div>
 		</div>
+		<center>
+			<img src="../media/others/svgs/support-dreamfungi.svg" height="375" width="1000" />
+		</center>
+		<iframe src="https://opencollective.com/embed/dreamfungi/contribute/impact-investment-28863" style="width: 95%; min-height: 125vh;"></iframe>
+
+		<div class="template-component-divider template-component-divider-style-1"></div>
 
 		<div class="template-component-feature template-component-feature-style-1 template-component-feature-position-left template-component-feature-size-medium">
 			<!-- Layout 33x33x33 -->
