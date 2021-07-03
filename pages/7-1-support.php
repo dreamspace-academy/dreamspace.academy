@@ -26,7 +26,7 @@
 		<center>
 			<img src="../media/others/svgs/support-dreamfungi.svg" height="375" width="1000" />
 		</center>
-		<iframe src="https://opencollective.com/embed/dreamfungi/contribute/impact-investment-28863" style="width: 95%; min-height: 125vh;"></iframe>
+		<iframe src="https://opencollective.com/embed/dreamfungi/contribute/impact-investment-30028" style="width: 95%; min-height: 125vh;"></iframe>
 
 		<div class="template-component-divider template-component-divider-style-1"></div>
 

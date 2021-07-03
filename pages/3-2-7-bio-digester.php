@@ -89,24 +89,24 @@
           <div class="template-component-feature template-component-feature-style-1 template-component-feature-position-left template-component-feature-size-medium">
             <ul class="template-layout-33x33x33 template-clear-fix">
               <li class="template-layout-column-left">
-                <div class="template-icon-feature"><img src="../media/logos/logo-sdg-4.png" alt="DreamSpace Academy" /></div>
-                <h5>Supporting Youth Education</br></br></h5>
-                <p><b>UN SDG 4</b></p>
-                <p>Technology gave birth to machine-based knowledge and its operation</p>
+                <div class="template-icon-feature"><img src="../media/logos/logo-sdg-7.png" alt="DreamSpace Academy" /></div>
+                <h5>Affordable And Clean Energy</br></h5>
+                <p><b>UN SDG 7</b></p>
+                <p>Ensure access to affordable, reliable, sustainable and modern energy for all</p>
               </li>
 
               <li class="template-layout-column-center">
                 <div class="template-icon-feature"><img src="../media/logos/logo-sdg-8.png" alt="DreamSpace Academy" /></div>
-                <h5>Economic Development</br></br></h5>
+                <h5>Decent Work And Economic Growth</br></h5>
                 <p><b>UN SDG 8</b></p>
-                <p>Carrying out commercial development through CNC technology</p>
+                <p>Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all</p>
               </li>
 
               <li class="template-layout-column-right">
-                <div class="template-icon-feature"><img src="../media/logos/logo-sdg-9.png" alt="DreamSpace Academy" /></div>
-                <h5>Environmental Preservation Technology</br></h5>
-                <p><b>UN SDG 9</b></p>
-                <p>Manufactured machinery related to environmental protection</p>
+                <div class="template-icon-feature"><img src="../media/logos/logo-sdg-13.png" alt="DreamSpace Academy" /></div>
+                <h5>Climate Action</br></br></h5>
+                <p><b>UN SDG 13</b></p>
+                <p>Take urgent action to combat climate change and its impacts</p>
               </li>
             </ul>
           </div>
