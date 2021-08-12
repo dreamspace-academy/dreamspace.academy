@@ -7,7 +7,7 @@
   </div>
 
   <?php include('3-5-1-terrace.php'); ?>
-  <?php include('3-5-2-curve-matrics.php'); ?>
+  <?php include('3-5-2-curve-metrics.php'); ?>
 
 </div>
 <?php include('9-0-footer.php') ?>

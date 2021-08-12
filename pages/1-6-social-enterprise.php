@@ -138,12 +138,12 @@
 
 					<!-- Counter -->
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
-						<img src="../media/logos/curve-matrics-dreamspace.jpg" alt="DreamSpace Academy" />
+						<img src="../media/logos/curve-metrics-dreamspace.jpg" alt="DreamSpace Academy" />
 					</div>
 
 
 					<!-- Header -->
-					<h5>Curve Matrics</h5>
+					<h5>Curve Metrics</h5>
 
 					<!-- Description -->
 					<div>

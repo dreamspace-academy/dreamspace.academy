@@ -307,10 +307,10 @@
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
-                <li><a target="_blank" href="https://www.linkedin.com/in/charuni-indrajith-b74008200/">
+                <li><a target="_blank" href="https://www.linkedin.com/in/kamini-v-3b3785182/">
                     <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
                   </a></li>
-                <li><a target="_blank" href="https://www.facebook.com/CharuniIndrajith">
+                <li><a target="_blank" href="">
                     <i class="fas fa-link fa-lg" style="color: white; padding-top: 17px;"></i>
                   </a></li>
               </ul>

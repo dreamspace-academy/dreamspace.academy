@@ -166,7 +166,7 @@
 							<a href="#">Initiatives<span></span></a>
 							<ul>
 								<li><a href="3-5-0-initiatives.php#terrace">DreamSpace Terrace</a></li>
-								<li><a href="3-5-0-initiatives.php#curve-matrics">Curve Matrics</a></li>
+								<li><a href="3-5-0-initiatives.php#curve-metrics">Curve Metrics</a></li>
 							</ul>
 						</li>
 
