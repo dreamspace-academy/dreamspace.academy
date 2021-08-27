@@ -47,6 +47,7 @@
 										<li><a href="10-0-under-construction.php">Gallery</a></li>
 										<li><a href="10-0-under-construction.php">Co-Governance</a></li>
 										<li><a href="10-0-under-construction.php">Tools</a></li>
+										<li><a href="bootcamp.php">Bootcamp</a></li>
 									</ul>
 								</div>
 						</li>
