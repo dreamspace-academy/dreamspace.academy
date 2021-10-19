@@ -37,10 +37,10 @@
 			<div class="template-component-nivo-slider template-component-nivo-slider-style-1 template-preloader">
 				<div>
 					<img src="../media/gallery/lab-mechanics-dreamspace-2.jpg" data-thumb="../media/gallery/lab-mechanics-dreamspace-2.jpg" alt="DreamSpace Academy" />
-					<img src="../media/gallery/lab-mechanics-dreamspace-3.jpg" data-thumb="../media/gallery/lab-mechanics-dreamspace-2.jpg" alt="DreamSpace Academy" />
-					<img src="../media/gallery/lab-mechanics-dreamspace-4.jpg" data-thumb="../media/gallery/lab-mechanics-dreamspace-2.jpg" alt="DreamSpace Academy" />
-					<img src="../media/gallery/lab-mechanics-dreamspace-5.jpg" data-thumb="../media/gallery/lab-mechanics-dreamspace-2.jpg" alt="DreamSpace Academy" />
-					<img src="../media/gallery/lab-mechanics-dreamspace-6.jpg" data-thumb="../media/gallery/lab-mechanics-dreamspace-2.jpg" alt="DreamSpace Academy" />
+					<img src="../media/gallery/lab-mechanics-dreamspace-3.jpg" data-thumb="../media/gallery/lab-mechanics-dreamspace-3.jpg" alt="DreamSpace Academy" />
+					<img src="../media/gallery/lab-mechanics-dreamspace-4.jpg" data-thumb="../media/gallery/lab-mechanics-dreamspace-4.jpg" alt="DreamSpace Academy" />
+					<img src="../media/gallery/lab-mechanics-dreamspace-5.jpg" data-thumb="../media/gallery/lab-mechanics-dreamspace-5.jpg" alt="DreamSpace Academy" />
+					<img src="../media/gallery/lab-mechanics-dreamspace-6.jpg" data-thumb="../media/gallery/lab-mechanics-dreamspace-6.jpg" alt="DreamSpace Academy" />
 				</div>
 			</div>
 		</div>

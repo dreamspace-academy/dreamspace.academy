@@ -98,7 +98,7 @@
 
 					<!-- Counter -->
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
-						<img src="../media\logos\digi-advocates-dreamspace.jpg" alt="DreamSpace Academy" />
+						<img src="../media/logos/digi-advocates-dreamspace.jpg" alt="DreamSpace Academy" />
 					</div>
 
 
