@@ -8,9 +8,9 @@ h1, h3, p{
 /* ------------------------------------------ */
 
 path {
-  stroke: black;          
-  stroke-width: 0.5px;  
-  fill: #30C7DA;        
+  stroke: black;
+  stroke-width: 0.5px;
+  fill: #30C7DA;
 }
 
 .svg-container {
@@ -20,11 +20,9 @@ path {
   padding-bottom: 100%; /* aspect ratio */
   vertical-align: top;
   overflow: hidden
-  
 }
 
 svg{
-	
 	border:1px solid black;
 }
 
