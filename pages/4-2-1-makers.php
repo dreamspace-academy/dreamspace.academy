@@ -14,7 +14,8 @@
             <div>
               <h6>Thangavel Sakthikumar</h6>
               </br>
-              <span>Innovator</span>
+              </br>
+              <span>Change Maker</span>
               <span>Batticaloa</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
@@ -34,6 +35,7 @@
             <img src="../media/people/muralitharan-paramasivam-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Muralitharan Paramasivam</h6>
+              </br>
               <span>Sculptor</span>
               <span>Batticaloa</span>
             </div>
@@ -55,6 +57,7 @@
             <div>
               <h6>Gowshan Nandakumar</h6>
               </br>
+              </br>
               <span>Animator</span>
               <span>Batticaloa</span>
             </div>
@@ -75,6 +78,7 @@
             <img src="../media/people/suthakaran-sivaprakasam-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Suthakaran Sivaprakasam</h6>
+              </br>
               </br>
               <span>Mechanics</span>
               <span>Batticaloa</span>
@@ -99,7 +103,6 @@
               </br>
               <span>Software</span>
               <span>Batticaloa</span>
-              </br>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
@@ -121,7 +124,6 @@
               </br>
               <span>Photography</span>
               <span>Batticaloa</span>
-              </br>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
@@ -183,7 +185,6 @@
               </br>
               <span>Software</span>
               <span>Batticaloa</span>
-              </br>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
@@ -205,7 +206,6 @@
               </br>
               <span>Urban Farming</span>
               <span>Batticaloa</span>
-              </br>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
@@ -227,7 +227,6 @@
               </br>
               <span>Graphic Design</span>
               <span>Batticaloa</span>
-              </br>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
@@ -249,7 +248,6 @@
               </br>
               <span>Mechanics</span>
               <span>Batticaloa</span>
-              </br>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
@@ -328,7 +326,7 @@
             <img src="../media/people/rajakumar-banujan-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Rajakumar Banujan</h6>
-              </br><span>Innovator</span>
+              </br><span>Change Maker</span>
               <span>Jaffna</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
@@ -348,7 +346,7 @@
             <img src="../media/people/thanajayan-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Thananjayan</h6>
-              </br></br><span>Innovator</span>
+              </br></br><span>Change Maker</span>
               <span>Batticaloa</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
@@ -368,7 +366,7 @@
             <img src="../media/people/amirkhan-imanuval-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Nazsar Imanuval Ameerkhan </h6>
-              </br><span>Innovator</span>
+              </br><span>Change Maker</span>
               <span>Batticaloa</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
@@ -388,7 +386,7 @@
             <img src="../media/people/pathmapriyan-murugupillai-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Murugupillai Pathmapriyan</h6>
-              </br><span>Innovator</span>
+              </br><span>Change Maker</span>
               <span>Batticaloa</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
@@ -408,7 +406,7 @@
             <img src="../media/people/suhail-mohammad-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Suhail Mohammad</h6>
-              </br></br><span>Innovator</span>
+              </br></br><span>Change Maker</span>
               <span>Batticaloa</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
@@ -428,7 +426,7 @@
             <img src="../media/people/anuradha-abeykoon-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Anuradha Abeykoon</h6>
-              </br><span>Innovator</span>
+              </br><span>Change Maker</span>
               <span>Batticaloa</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
