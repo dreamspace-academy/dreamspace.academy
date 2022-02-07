@@ -82,8 +82,8 @@
             <div>
               <h6>Jayanthan Amalanathan</h6>
               </br>
-              </br>
               <span>Guardian of Trash For Trade</span>
+            </br>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
@@ -103,8 +103,8 @@
             <div>
               <h6>Shanjeevan Amalanathan</h6>
               </br>
-              </br>
               <span>Guardian of OceanBiome</span>
+              </br>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
@@ -279,7 +279,6 @@
             <div>
               <h6>Cris Silva</h6>
               </br>
-              </br>
               <span>Guardian of</span>
               <span>Bio Lab</span>
             </div>
@@ -300,7 +299,6 @@
             <img src="../media/people/kamini-surendhar-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Kamini Surendhar</h6>
-              </br>
               </br>
               <span>Guardian of</span>
               <span>Business Development</span>
@@ -323,7 +321,6 @@
             <div>
               <h6>Cosmo Van Der Weerd</h6>
               </br>
-              </br>
               <span>Guardian of</span>
               <span>Partnerships</span>
             </div>
@@ -345,7 +342,6 @@
             <img src="../media/people/mohamed-ismail-mohamed-fahim-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Faahim Ismail</h6>
-              </br>
               </br>
               <span>Guardian of Helping Wings</span>
               </br>
@@ -370,7 +366,8 @@
               <h6>Nazeer Fathima Zeena</h6>
               </br>
               </br>
-              <span>Community Innovator</span>
+              <span>Change Maker</span>
+              </br>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
@@ -390,6 +387,7 @@
             <img src="../media/people/thanushkar-srikaran-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Thanushkar Srikaran</h6>
+              </br>
               </br>
               <span>Guardian of Rural Empowerment</span>
             </div>
@@ -414,6 +412,7 @@
               </br>
               </br>
               <span>Guardian of DiGi Advocates</span>
+              </br>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
@@ -434,7 +433,8 @@
             <div>
               <h6>Mohamed Musthafa Fathima Nafha</h6>
               </br>
-              <span>Community Innovator</span>
+              <span>Change Maker</span>
+              </br>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>

@@ -313,6 +313,7 @@
             <div>
               <h6>Bhargav Ramachandra</h6>
               </br>
+              </br>
               <span>Mechanics | Manufacturing</span>
               <span>India</span>
             </div>

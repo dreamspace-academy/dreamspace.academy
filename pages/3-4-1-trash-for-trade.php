@@ -21,7 +21,7 @@
 						A future free from plastic pollution
 					</div>
 					<p class="template-margin-top-3">
-						Trash For Trade is a Plastic Upcycling Social Business. It is a Social innovation idea developed from an Open Source community called Precious Plastic with the support of DreamSpace Academy. We develop our own machinaries for the upcycling
+						Trash For Trade is a Plastic Upcycling Social Business. It is a Social innovation idea developed from an Open Source community called Precious Plastic with the support of DreamSpace Academy. We develop our own machineries for the upcycling
 						process.
 					</p>
 				    </br>
