@@ -8,7 +8,6 @@
 
   <?php include('3-4-1-trash-for-trade.php'); ?>
   <?php include('3-4-2-oceanbiome.php'); ?>
-  <?php include('3-4-3-benzyme-ventures.php'); ?>
 
 </div>
 <?php include('9-0-footer.php') ?>

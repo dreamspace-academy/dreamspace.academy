@@ -53,27 +53,7 @@
 
 					<a href="3-4-0-social-enterprise.php#oceanbiome" class="template-component-button template-component-button-style-1">More<i></i></a>
 
-				</li>
-				<li class="template-layout-column-left">
-
-					<!-- Counter -->
-					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
-						<img src="../media/logos/benzyme-ventures-dreamspace.jpg" alt="DreamSpace Academy" />
-					</div>
-
-
-					<!-- Header -->
-					<h5>Benzyme Ventures</h5>
-
-					<!-- Description -->
-					<div>
-						<p>A social enterprise to provide open access to life science research & innovations</p>
-					</br>
-					</div>
-
-					<a href="3-4-0-social-enterprise.php#benzyme-ventures" class="template-component-button template-component-button-style-1">More<i></i></a>
-
-				</li>
+				</li>				
         <li class="template-layout-column-left">
 
 					<!-- Counter -->
