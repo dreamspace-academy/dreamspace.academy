@@ -287,7 +287,7 @@
                 <li><a target="_blank" href="https://www.linkedin.com/in/cris-silva1996/">
                     <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
                   </a></li>
-                <li><a target="_blank" href="https://benzymeventures.medium.com/">
+                <li><a target="_blank" href="">
                     <i class="fas fa-link fa-lg" style="color: white; padding-top: 17px;"></i>
                   </a></li>
               </ul>

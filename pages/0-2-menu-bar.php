@@ -97,7 +97,6 @@
 									<ul>
 										<li><a href="3-4-0-social-enterprise.php#trash-for-trade">Trash For Trade</a></li>
 										<li><a href="3-4-0-social-enterprise.php#oceanbiome">OceanBiome</a></li>
-										<li><a href="3-4-0-social-enterprise.php#benzyme-ventures">Benzyme Ventures</a></li>
 									</ul>
 								</div>
 
