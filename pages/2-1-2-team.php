@@ -339,7 +339,7 @@
         <li class="template-layout-column-right">
 
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/people/mohamed-ismail-mohamed-fahim-dreamspace.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/mohamed-fahim-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Faahim Ismail</h6>
               </br>
