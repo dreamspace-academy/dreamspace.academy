@@ -240,7 +240,7 @@
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
-                <li><a target="_blank" href="https://www.linkedin.com/in/gunarakulan-gunaratnam-161119156/">
+                <li><a target="_blank" href="https://www.linkedin.com/in/gunarakulan-gunaretnam-161119156/">
                     <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
                   </a></li>
                 <li><a target="_blank" href="https://www.facebook.com/kuna.rakulan">
@@ -361,12 +361,12 @@
         <li class="template-layout-column-left">
 
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/people/nazeer-fathima-zeena-dreamspace.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/aashiq-mohamed-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
-              <h6>Nazeer Fathima Zeena</h6>
+              <h6>Aasiq Mohamed</h6>
               </br>
               </br>
-              <span>Change Maker</span>
+              <span>-</span>
               </br>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
@@ -374,7 +374,7 @@
                 <li><a target="_blank" href="#">
                     <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
                   </a></li>
-                <li><a target="_blank" href="https://www.facebook.com/Zeena-Nazeer-Photography-104496434700277/">
+                <li><a target="_blank" href="#">
                     <i class="fas fa-link fa-lg" style="color: white; padding-top: 17px;"></i>
                   </a></li>
               </ul>
@@ -384,19 +384,19 @@
         <li class="template-layout-column-center-left">
 
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/people/thanushkar-srikaran-dreamspace.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/azath-mohamed-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
-              <h6>Thanushkar Srikaran</h6>
+              <h6>Azath Mohamed</h6>
               </br>
               </br>
-              <span>Guardian of Rural Empowerment</span>
+              <span>-</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
-                <li><a target="_blank" href="https://www.linkedin.com/in/thanushkar-srikaran-203285178">
+                <li><a target="_blank" href="#">
                     <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
                   </a></li>
-                <li><a target="_blank" href="https://www.facebook.com/thanushkar.thanuthanushkar">
+                <li><a target="_blank" href="#">
                     <i class="fas fa-link fa-lg" style="color: white; padding-top: 17px;"></i>
                   </a></li>
               </ul>
@@ -406,20 +406,20 @@
         <li class="template-layout-column-center-right">
 
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/people/pavithran-manisegaran-dreamspace.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/rathees-koneswaran-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
-              <h6>Pavithran Manisegaran</h6>
+              <h6>Rathees Koneswaran</h6>
               </br>
               </br>
-              <span>Guardian of DiGi Advocates</span>
+              <span>-</span>
               </br>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
-                <li><a target="_blank" href="https://www.linkedin.com/in/manisegaran-pavithran-a85464129">
+                <li><a target="_blank" href="#">
                     <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
                   </a></li>
-                <li><a target="_blank" href="https://www.facebook.com/shanthirasegaran.manisegaran">
+                <li><a target="_blank" href="#">
                     <i class="fas fa-link fa-lg" style="color: white; padding-top: 17px;"></i>
                   </a></li>
               </ul>
