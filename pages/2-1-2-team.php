@@ -111,7 +111,7 @@
                 <li><a target="_blank" href="https://www.linkedin.com/in/shanjeevan-amalanathan-1231081a3/">
                     <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
                   </a></li>
-                <li><a target="_blank" href="">
+                <li><a target="_blank" href="http://shanjeevan.oceanbio.me">
                     <i class="fas fa-link fa-lg" style="color: white; padding-top: 17px;"></i>
                   </a></li>
               </ul>
@@ -130,7 +130,7 @@
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
-                <li><a target="_blank" href="">
+                <li><a target="_blank" href="https://www.linkedin.com/in/anna-jeyaraj-moses-379258220">
                     <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
                   </a></li>
                 <li><a target="_blank" href="https://www.facebook.com/Annie.Moses.J">
@@ -287,7 +287,7 @@
                 <li><a target="_blank" href="https://www.linkedin.com/in/cris-silva1996/">
                     <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
                   </a></li>
-                <li><a target="_blank" href="">
+                <li><a target="_blank" href="https://cris-silva.com/">
                     <i class="fas fa-link fa-lg" style="color: white; padding-top: 17px;"></i>
                   </a></li>
               </ul>
@@ -308,7 +308,7 @@
                 <li><a target="_blank" href="https://www.linkedin.com/in/kamini-v-3b3785182/">
                     <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
                   </a></li>
-                <li><a target="_blank" href="">
+                <li><a target="_blank" href="https://www.linkedin.com/in/kamini-v-3b3785182/">
                     <i class="fas fa-link fa-lg" style="color: white; padding-top: 17px;"></i>
                   </a></li>
               </ul>
@@ -339,24 +339,25 @@
         <li class="template-layout-column-right">
 
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/people/mohamed-fahim-dreamspace.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/jathujan-mahendran-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
-              <h6>Faahim Ismail</h6>
+              <h6>Jathujan Mahendran</h6>
               </br>
-              <span>Guardian of Helping Wings</span>
               </br>
+              <span>-</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
-                <li><a target="_blank" href="https://www.linkedin.com/in/faahim-ismail-70a310147">
+                <li><a target="_blank" href="https://www.linkedin.com/in/jathujanmahendran">
                     <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
                   </a></li>
-                <li><a target="_blank" href="https://www.facebook.com/faahimshaaz">
+                <li><a target="_blank" href="https://www.facebook.com/mahe.jathu">
                     <i class="fas fa-link fa-lg" style="color: white; padding-top: 17px;"></i>
                   </a></li>
               </ul>
             </div>
           </div>
+
         </li>
         <li class="template-layout-column-left">
 
@@ -371,10 +372,10 @@
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
-                <li><a target="_blank" href="#">
+                <li><a target="_blank" href="https://www.linkedin.com/in/aashiqretro">
                     <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
                   </a></li>
-                <li><a target="_blank" href="#">
+                <li><a target="_blank" href="https://instagram.com/aashiq.inc?utm_medium=copy_link">
                     <i class="fas fa-link fa-lg" style="color: white; padding-top: 17px;"></i>
                   </a></li>
               </ul>
@@ -393,10 +394,10 @@
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
-                <li><a target="_blank" href="#">
+                <li><a target="_blank" href="https://www.linkedin.com/in/aabdeen-mohamed-azath-600579219">
                     <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
                   </a></li>
-                <li><a target="_blank" href="#">
+                <li><a target="_blank" href="https://www.facebook.com/Azathzad">
                     <i class="fas fa-link fa-lg" style="color: white; padding-top: 17px;"></i>
                   </a></li>
               </ul>
@@ -415,10 +416,10 @@
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
-                <li><a target="_blank" href="#">
+                <li><a target="_blank" href="https://www.linkedin.com/in/rathees-koneswaran-eng">
                     <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
                   </a></li>
-                <li><a target="_blank" href="#">
+                <li><a target="_blank" href="https://github.com/Rathees-Koneswarann">
                     <i class="fas fa-link fa-lg" style="color: white; padding-top: 17px;"></i>
                   </a></li>
               </ul>
@@ -437,10 +438,10 @@
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
-                <li><a target="_blank" href="#">
+                <li><a target="_blank" href="https://www.linkedin.com/in/govarthenan">
                     <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
                   </a></li>
-                <li><a target="_blank" href="#">
+                <li><a target="_blank" href="https://www.facebook.com/govarthenan">
                     <i class="fas fa-link fa-lg" style="color: white; padding-top: 17px;"></i>
                   </a></li>
               </ul>
@@ -459,10 +460,10 @@
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
-                <li><a target="_blank" href="#">
+                <li><a target="_blank" href="https://www.linkedin.com/in/sajeev-punithakaran-064b811b9">
                     <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
                   </a></li>
-                <li><a target="_blank" href="#">
+                <li><a target="_blank" href="https://sajeev-07.github.io/sajeevgithub.io/index.html">
                     <i class="fas fa-link fa-lg" style="color: white; padding-top: 17px;"></i>
                   </a></li>
               </ul>
@@ -470,29 +471,6 @@
           </div>
 
           </li>
-        <li class="template-layout-column-center-left">
-
-          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/people/jathujan-mahendran-dreamspace.jpg" alt="DreamSpace Academy" />
-            <div>
-              <h6>Jathujan Mahendran</h6>
-              </br>
-              </br>
-              <span>-</span>
-            </div>
-            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
-              <ul>
-                <li><a target="_blank" href="#">
-                    <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
-                  </a></li>
-                <li><a target="_blank" href="#">
-                    <i class="fas fa-link fa-lg" style="color: white; padding-top: 17px;"></i>
-                  </a></li>
-              </ul>
-            </div>
-          </div>
-        </li>
-
       </ul>
     </div>
   </div>
