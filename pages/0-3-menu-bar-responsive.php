@@ -63,9 +63,8 @@
 						<li>
 							<a href="#">Maker Education<span></span></a>
 							<ul>
-								<li><a href="3-1-0-maker-education.php#electronics-lab">Electronics Lab</a></li>
+								<li><a href="3-1-0-maker-education.php#electronics-lab">Electromechanics Lab</a></li>
 								<li><a href="3-1-0-maker-education.php#software-lab">Software Lab</a></li>
-								<li><a href="3-1-0-maker-education.php#mechanics-lab">Mechanics Lab</a></li>
 								<li><a href="3-1-0-maker-education.php#business-lab">Business Lab</a></li>
 								<li><a href="3-1-0-maker-education.php#design-lab">Design Lab</a></li>
 								<li><a href="3-1-0-maker-education.php#art-lab">Art Lab</a></li>

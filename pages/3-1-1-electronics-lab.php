@@ -19,9 +19,9 @@
 			<h5>Workshops</h5>
 			<div class="template-component-list template-component-list-style-8 template-margin-top-3">
 				<ul>
-					<li>How to design, prototype and manufacture digital & analog electronic circuit s (Circuits)</li>
+					<li>How to design, prototype and manufacture digital & analog electronic circuits (Circuits)</li>
 					<li>How to develop a firmware for embedded microcontrollers (Firmware)</li>
-					<li>How to design, build and program robotic system s (Robotics)</li>
+					<li>How to design, build and program robotic systems (Robotics)</li>
 					<li>How to design wired and wireless communication systems (Networks)</li>
 					<li>How to build automation systems with sensors and actuators (Automation)</li>
 				</ul>

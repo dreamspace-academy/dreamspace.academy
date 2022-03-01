@@ -147,7 +147,7 @@
             <div>
               <h6>Jerushan Sritharan</h6>
               </br>
-              <span>Guardian of Electronics & Mechanics Lab</span>
+              <span>Guardian of Electromechanics Lab</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>

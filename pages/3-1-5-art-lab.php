@@ -34,7 +34,7 @@
 			<h5>Workshops</h5>
 			<div class="template-component-list template-component-list-style-8 template-margin-top-3">
 				<ul>
-					<li>How to compose and play music with instruments (Music) </li>
+					<li>How to compose and play music with instruments (Music)</li>
 					<li>How to capture everlasting moments with photos (Photography)</li>
 					<li>How to map stories with narrative experiences (Storytelling)</li>
 					<li>How to present stories, ideas and facts with short films (Filmmaking)</li>
