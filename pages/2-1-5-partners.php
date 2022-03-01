@@ -52,8 +52,7 @@
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
             <img src="../media/logos/sylc-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
-              <h6>SYLC</h6>
-              </br>
+              <h6>Strengthening Youth Leadership Collective</h6>
               <span>Sri Lanka</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
