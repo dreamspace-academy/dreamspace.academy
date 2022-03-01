@@ -59,7 +59,7 @@
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
             <img src="../media/people/rinujan-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
-              <h6>Rinujan</h6>
+              <h6>Rinujan Kananesan</h6>
               </br>
               <span>-</span>
               </br>
