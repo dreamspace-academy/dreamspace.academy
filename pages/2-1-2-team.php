@@ -685,7 +685,7 @@
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
-                <li><a target="_blank" href="#">
+                <li><a target="_blank" href="https://www.linkedin.com/in/bavanishna-surendiran-241737186">
                     <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
                   </a></li>
                 <li><a target="_blank" href="#">
