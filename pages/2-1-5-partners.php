@@ -52,8 +52,7 @@
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
             <img src="../media/logos/sylc-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
-              <h6>SYLC</h6>
-              </br>
+              <h6>Strengthening Youth Leadership Collective</h6>
               <span>Sri Lanka</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
@@ -213,6 +212,59 @@
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
                 <li><a target="_blank" href="https://globaltalentmentoring.org/">
+                    <i class="fas fa-link fa-lg" style="color: white; padding-top: 17px;"></i>
+                  </a></li>
+              </ul>
+            </div>
+          </div>
+        </li>
+        <li class="template-layout-column-center-left">
+          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+            <img src="../media/logos/sarvodaya-dreamspace.jpg" alt="DreamSpace Academy" />
+            <div>
+              <h6>Sarvodaya Shanthi Sena Sansandaya</h6>
+              </br>
+              <span>Sri Lanka</span>
+            </div>
+            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+              <ul>
+                <li><a target="_blank" href="http://www.shanthisena.org/">
+                    <i class="fas fa-link fa-lg" style="color: white; padding-top: 17px;"></i>
+                  </a></li>
+              </ul>
+            </div>
+          </div>
+        </li>
+        <li class="template-layout-column-center-right">
+          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+            <img src="../media/logos/irex-dreamspace.jpg" alt="DreamSpace Academy" />
+            <div>
+              <h6>IREX</h6>
+              </br>
+              </br>
+              <span>Sri Lanka</span>
+            </div>
+            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+              <ul>
+                <li><a target="_blank" href="https://www.irex.org/">
+                    <i class="fas fa-link fa-lg" style="color: white; padding-top: 17px;"></i>
+                  </a></li>
+              </ul>
+            </div>
+          </div>
+        </li>
+        <li class="template-layout-column-right">
+          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+            <img src="../media/logos/upcycled-tech-dreamspace.jpg" alt="DreamSpace Academy" />
+            <div>
+              <h6>Upcycled Tech</h6>
+              </br>
+              </br>
+              <span>Sydney</span>
+            </div>
+            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+              <ul>
+                <li><a target="_blank" href="https://www.upcycledtech.com.au/">
                     <i class="fas fa-link fa-lg" style="color: white; padding-top: 17px;"></i>
                   </a></li>
               </ul>

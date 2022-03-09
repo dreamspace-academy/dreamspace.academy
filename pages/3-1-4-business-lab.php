@@ -34,9 +34,9 @@
 				<h5>Workshops</h5>
 				<div class="template-component-list template-component-list-style-8 template-margin-top-3">
 					<ul>
-						<li>How to design user centric solutions (Design Thinking )</li>
+						<li>How to design user centric solutions (Design Thinking)</li>
 						<li>How to develop sustainable financial and business modeling (Business)</li>
-						<li>How to develop B2B and B2C funnel  (Sales)</li>
+						<li>How to develop B2B and B2C funnel (Sales)</li>
 						<li>How to create startups from innovative ideas (Entrepreneurship)</li>
 						<li>How to raise funds or investments for a business venture (Investment)</li>
 					</ul>

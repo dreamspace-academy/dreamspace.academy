@@ -7,7 +7,6 @@
 	</div>
 	<?php include('3-1-1-electronics-lab.php'); ?>
 	<?php include('3-1-2-software-lab.php'); ?>
-	<?php include('3-1-3-mechanics-lab.php'); ?>
 	<?php include('3-1-4-business-lab.php'); ?>
 	<?php include('3-1-7-story-lab.php'); ?>
 	<?php include('3-1-5-art-lab.php'); ?>

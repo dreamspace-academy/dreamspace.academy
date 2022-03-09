@@ -19,7 +19,7 @@
 			<h5>Workshops</h5>
 			<div class="template-component-list template-component-list-style-8 template-margin-top-3">
 				<ul>
-					<li>How to learn astronomy with an inflatable planetarium  (Astronomy)</li>
+					<li>How to learn astronomy with an inflatable planetarium (Astronomy)</li>
 					<li>How to build and launch a high altitude balloon (Earth Observation)</li>
 					<li>How to make small rockets to reach low altitudes (Rocketry)</li>
 					<li>How to research plant growth under zero gravity (Astrobiology)</li>
