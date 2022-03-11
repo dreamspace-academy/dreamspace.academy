@@ -41,10 +41,6 @@
 					<li>How to develop machine learning & deep learning algorithms (Data Science)</li>
 				</ul>
 			</div>
-
-			<h5>Content</h5>
-			<p>HTML, Javascript, Java, Python, Application development, DMBS, CMS, DevOps, Data Science, Machine Learning, Deep Learning, Cloud computing, IDE, Version control, Web servers</p>
-
 		</div>
 	</div>
 </div>
@@ -331,6 +327,23 @@
       </ul>
     </div>
   </div>
+</div>
+
+<div class="template-content-section template-padding-reset template-background-image">
+	<!-- Main -->
+	<div class="template-main">
+		<!-- Call to action -->
+		<div class="template-component-call-to-action template-component-call-to-action-style-2 template-section-white">
+			<div class="template-component-call-to-action-content">
+				<div class="template-component-call-to-action-content-left">
+					<h3>If this is interesting for you and want to know more, please send us a message</h3>
+				</div>
+				<div class="template-component-call-to-action-content-right">
+					<a href="8-1-contact.php" class="template-component-button template-component-button-style-2 template-section-white">Contact Us<i></i></a>
+				</div>
+			</div>
+		</div>
+	</div>
 </div>
 
 <?php include('9-0-footer.php') ?>
