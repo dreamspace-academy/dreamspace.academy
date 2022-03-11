@@ -1,4 +1,54 @@
 <?php include('0-0-header.php') ?>
+
+<div class="template-content">
+	<div class="template-component-header-subheader">
+		<h2>Lab Name</h2>
+		<p>Sub Title</p>
+		<div></div>
+	</div>
+<!-- Section -->
+<div class="template-content-section template-padding-top-reset template-padding-bottom-5 template-main">
+
+	<!-- Layout 50x50 -->
+	<div class="template-layout-50x50 template-clear-fix">
+		<!-- Left column -->
+		<div class="template-layout-column-left">
+			<!-- Nivo slider -->
+			<div class="template-component-nivo-slider template-component-nivo-slider-style-1 template-preloader">
+				<div>
+					<img src="../media/gallery/lab-software-dreamspace-2.jpg" data-thumb="../media/gallery/lab-software-dreamspace-2.jpg" alt="DreamSpace Academy" />
+					<img src="../media/gallery/lab-software-dreamspace-3.jpg" data-thumb="../media/gallery/lab-software-dreamspace-3.jpg" alt="DreamSpace Academy" />
+					<img src="../media/gallery/lab-software-dreamspace-4.jpg" data-thumb="../media/gallery/lab-software-dreamspace-4.jpg" alt="DreamSpace Academy" />
+					<img src="../media/gallery/lab-software-dreamspace-5.jpg" data-thumb="../media/gallery/lab-software-dreamspace-5.jpg" alt="DreamSpace Academy" />
+				</div>
+			</div>
+		</div>
+
+		<!-- Right column -->
+		<div class="template-layout-column-right">
+			<!-- Header -->
+			<h4>Software Lab</h4>
+			<p>For those who crave for digital adrenaline, to gain practical experience on coding anything from apps to cloud computing</p>
+
+			<!-- List -->
+			<h5>Workshops</h5>
+			<div class="template-component-list template-component-list-style-8 template-margin-top-3">
+				<ul>
+					<li>How to code software applications for desktop, web and mobile (Apps)</li>
+					<li>How to design, integrate and maintain databases (DBMS)</li>
+					<li>How to build websites with content management system (CMS)</li>
+					<li>How to deploy and maintain web servers (DevOps)</li>
+					<li>How to develop machine learning & deep learning algorithms (Data Science)</li>
+				</ul>
+			</div>
+
+			<h5>Content</h5>
+			<p>HTML, Javascript, Java, Python, Application development, DMBS, CMS, DevOps, Data Science, Machine Learning, Deep Learning, Cloud computing, IDE, Version control, Web servers</p>
+
+		</div>
+	</div>
+</div>
+</div>
 <div class="template-main template-padding-bottom-5" id="infrastructure">
 	<!-- Header and subheader -->
 	<div class="template-component-header-subheader">
@@ -178,6 +228,101 @@
                   </a></li>
                 <li><a target="_blank" href="http://team.dreamspace.academy/jayanthan/">
                     <i class="fas fa-link fa-lg" style="color: white; padding-top: 17px;"></i>
+                  </a></li>
+              </ul>
+            </div>
+          </div>
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<div class="template-content" id="mentors">
+
+  <!-- Header and subheader -->
+  <div class="template-component-header-subheader">
+    <h2>Our Mentors</h2>
+    <h6></h6>
+    <div></div>
+  </div>
+
+  <!-- Section -->
+  <div class="template-content-section template-padding-bottom-5 template-main">
+
+    <!-- Gallery -->
+    <div class="template-component-gallery">
+      <ul class="template-layout-25x25x25x25 template-clear-fix">
+        <li class="template-layout-column-left">
+          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+            <img src="../media/people/maite-hernandez-dreamspace.jpg" alt="DreamSpace Academy" />
+            <div>
+              <h6>Maite Hernandez Zubeldia</h6>
+              </br>
+              <span>Design Thinking</span>
+              <span>Germany | Cuba</span>
+            </div>
+            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+              <ul>
+                <li><a target="_blank" href="https://www.linkedin.com/in/maitezubeldia/">
+                    <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
+                  </a></li>
+              </ul>
+            </div>
+          </div>
+        </li>
+        <li class="template-layout-column-center-left">
+          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+            <img src="../media/people/darina-onoprienko-dreamspace.jpg" alt="DreamSpace Academy" />
+            <div>
+              <h6>Darina Onoprienko</h6>
+              </br>
+              </br>
+              <span>Entrepreneurship</span>
+              <span>Germany | Russia</span>
+            </div>
+            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+              <ul>
+                <li><a target="_blank" href="https://www.linkedin.com/in/darina-onoprienko-6b5b8843/">
+                    <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
+                  </a></li>
+              </ul>
+            </div>
+          </div>
+        </li>
+        <li class="template-layout-column-center-right">
+          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+            <img src="../media/people/nico-meibner-dreamspace.jpg" alt="DreamSpace Academy" />
+            <div>
+              <h6>Dr. Nico Meißner</h6>
+              </br>
+              </br>
+              <span>Storytelling</span>
+              <span>Australia | Malaysia</span>
+            </div>
+            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+              <ul>
+                <li><a target="_blank" href="https://www.linkedin.com/in/nicomei%C3%9Fner/">
+                    <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
+                  </a></li>
+              </ul>
+            </div>
+          </div>
+        </li>
+        <li class="template-layout-column-right">
+          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+            <img src="../media/people/luise-kroning-dreamspace.jpg" alt="DreamSpace Academy" />
+            <div>
+              <h6>Luise Kröning</h6>
+              </br>
+              </br>
+              <span>Innovation</span>
+              <span>Germany</span>
+            </div>
+            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+              <ul>
+                <li><a target="_blank" href="https://www.linkedin.com/in/luise-the-creative-strategist/">
+                    <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
                   </a></li>
               </ul>
             </div>
