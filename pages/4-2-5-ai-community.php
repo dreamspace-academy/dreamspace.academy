@@ -39,7 +39,7 @@
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
             <img src="../media/people/gilbert-srithar-jackshan-venujan-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
-              <h6>Gilbert Srithar Jackshan venujan</h6>
+              <h6>Gilbert Srithar Jackshan Venujan</h6>
               </br>
               <span>Batticaloa</span>
             </div>
