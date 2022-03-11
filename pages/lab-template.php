@@ -143,7 +143,7 @@
   </div>
 
   <!-- Section -->
-  <div class="template-content-section template-padding-bottom-5 template-main">
+  <div class=" template-main">
 
     <!-- Gallery -->
     <div class="template-component-gallery">
@@ -244,7 +244,7 @@
   </div>
 
   <!-- Section -->
-  <div class="template-content-section template-padding-bottom-5 template-main">
+  <div class="template-main">
 
     <!-- Gallery -->
     <div class="template-component-gallery">
