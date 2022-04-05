@@ -12,7 +12,7 @@
 		<!-- Left column -->
 		<div class="template-layout-column-left">
 			<!-- Header -->
-			<h4>Bio Lab</h4>
+			<h4><a href="5-1-bio-lab.php">Bio Lab</a></h4>
 			<p>For those who want to get their hands wet with BioHacking, to build practical dexterity on BioTechnology</p>
 
 			<!-- List -->
