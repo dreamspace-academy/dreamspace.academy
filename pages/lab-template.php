@@ -33,6 +33,58 @@
 	</div>
 </div>
 </div>
+
+<div class="template-content-section template-padding-top-reset template-padding-bottom-reset">
+	<div class="template-main">
+		<div class="template-component-header-subheader">
+			<h3>Workshops</h3>
+			<h6></h6>
+			<div></div>
+		</div>
+		<div class="template-component-counter-box">
+			<ul class="template-layout-25x25x25x25 template-clear-fix">
+				<li class="template-layout-column-left">
+					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
+						<img src="../media/gallery/lab-electronics-dreamspace-1.jpg" alt="DreamSpace Academy" />
+					</div>
+					<h5>Electronics Lab</h5>
+					<div>
+					</div>
+					<a href="3-1-0-maker-education.php#electronics-lab" class="template-component-button template-component-button-style-1">More<i></i></a>
+				</li>
+				<li class="template-layout-column-center-left">
+					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
+						<img src="../media/gallery/lab-software-dreamspace-1.jpg" alt="DreamSpace Academy" />
+					</div>
+					<h5>Software Lab</h5>
+					<div>
+					</div>
+					<a href="3-1-0-maker-education.php#software-lab" class="template-component-button template-component-button-style-1">More<i></i></a>
+				</li>
+				<li class="template-layout-column-center-right">
+					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
+						<img src="../media/gallery/lab-mechanics-dreamspace-7.jpg" alt="DreamSpace Academy" />
+					</div>
+					<h5>Mechanics Lab</h5>
+					<div>
+					</div>
+					<a href="3-1-0-maker-education.php#mechanics-lab" class="template-component-button template-component-button-style-1">More<i></i></a>
+				</li>
+				<li class="template-layout-column-right">
+					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
+						<img src="../media/gallery/lab-business-dreamspace-1.jpg" alt="DreamSpace Academy" />
+					</div>
+					<h5>Business Lab</h5>
+					<div>
+					</div>
+					<a href="3-1-0-maker-education.php#business-lab" class="template-component-button template-component-button-style-1">More<i></i></a>
+				</li>
+			</ul>
+			<div class="template-pagination template-pagination-style-1"></div>
+		</div>
+	</div>
+</div>
+
 <div class="template-main template-padding-bottom-5" id="infrastructure">
 	<!-- Header and subheader -->
 	<div class="template-component-header-subheader">
