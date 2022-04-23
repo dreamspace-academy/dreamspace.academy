@@ -29,18 +29,6 @@
 			<!-- Header -->
 			<h4>Software Lab</h4>
 			<p>For those who crave for digital adrenaline, to gain practical experience on coding anything from apps to cloud computing</p>
-
-			<!-- List -->
-			<h5>Workshops</h5>
-			<div class="template-component-list template-component-list-style-8 template-margin-top-3">
-				<ul>
-					<li>How to code software applications for desktop, web and mobile (Apps)</li>
-					<li>How to design, integrate and maintain databases (DBMS)</li>
-					<li>How to build websites with content management system (CMS)</li>
-					<li>How to deploy and maintain web servers (DevOps)</li>
-					<li>How to develop machine learning & deep learning algorithms (Data Science)</li>
-				</ul>
-			</div>
 		</div>
 	</div>
 </div>
