@@ -317,6 +317,101 @@
   </div>
 </div>
 
+<div class="template-content" id="achievements">
+
+  <!-- Header and subheader -->
+  <div class="template-component-header-subheader">
+    <h2>Our Achievements</h2>
+    <h6>Our achievements & recognitions at international & national stages</h6>
+    <div></div>
+  </div>
+
+  <!-- Section -->
+  <div class="template-content-section template-padding-bottom-5 template-main">
+
+    <!-- Gallery -->
+    <div class="template-component-gallery">
+      <ul class="template-layout-25x25x25x25 template-clear-fix">
+
+        <li class="template-layout-column-left">
+          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+            <img src="../media/logos/nestle-dreamspace.jpg" alt="DreamSpace Academy" />
+            <div>
+              <h6>Nestle Business Challenge</h6>
+              </br>
+              </br>
+              <span>2021 - Sri Lanka</span>
+            </div>
+            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+              <ul>
+                <li><a target="_blank" href="https://www.nestle.com/">
+                    <i class="fas fa-link fa-lg" style="color: white; padding-top: 17px;"></i>
+                  </a></li>
+              </ul>
+            </div>
+          </div>
+        </li>
+        <li class="template-layout-column-center-left">
+          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+            <img src="../media/logos/ubl-dreamspace.jpg" alt="DreamSpace Academy" />
+            <div>
+              <h6>UBL</h6>
+              </br>
+              </br>
+              <span>2021 - Sri Lanka</span>
+            </div>
+            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+              <ul>
+                <li><a target="_blank" href="http://www.uwu.ac.lk/ans/facilities-detail-ubl.html">
+                    <i class="fas fa-link fa-lg" style="color: white; padding-top: 17px;"></i>
+                  </a></li>
+              </ul>
+            </div>
+          </div>
+        </li>
+        <li class="template-layout-column-center-right">
+          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+            <img src="../media/logos/earth-company-dreamspace.jpg" alt="DreamSpace Academy" />
+            <div>
+              <h6>Earth Company - Impact Heroes</h6>
+              </br>
+              <span>2021 - Indonesia</span>
+            </div>
+            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+              <ul>
+                <li><a target="_blank" href="https://www.siwi.org/prizes/stockholmjuniorwaterprize/">
+                    <i class="fas fa-link fa-lg" style="color: white; padding-top: 17px;"></i>
+                  </a></li>
+              </ul>
+            </div>
+          </div>
+        </li>
+        <li class="template-layout-column-right">
+          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+            <img src="../media/logos/hackx-dreamspace.jpg" alt="DreamSpace Academy" />
+            <div>
+              <h6>Hackx</h6>
+              </br>
+              </br>
+              <span>2020 - Sri Lanka</span>
+            </div>
+            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+              <ul>
+                <li><a target="_blank" href="https://hackx.lk/">
+                    <i class="fas fa-link fa-lg" style="color: white; padding-top: 17px;"></i>
+                  </a></li>
+              </ul>
+            </div>
+          </div>
+        </li>
+
+      </ul>
+    </div>
+  </div>
+  </li>
+  </ul>
+</div>
+
 <div class="template-content-section template-padding-reset template-background-image">
 	<!-- Main -->
 	<div class="template-main">
