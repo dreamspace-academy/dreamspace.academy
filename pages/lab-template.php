@@ -464,6 +464,79 @@
   </ul>
 </div>
 
+<!-- Content -->
+<div class="template-content">
+	<!-- Main -->
+	<div class="template-content-section template-main" style="padding-top: 0px">
+		<!-- Header and subheader -->
+		<div class="template-component-header-subheader">
+			<h2>Volunteer Form</h2>
+			<h6></h6>
+			<div></div>
+		</div>
+
+		<!-- Contact form -->
+		<div class="template-component-contact-form">
+
+			<form method="POST" action="https://docs.google.com/forms/d/e/1FAIpQLSeHlS5ahdvqTF9k2utdVqZ1gxTrABzQu1MLOZJKHhkN4B43Lg" onsubmit="return window.submitGoogleForm(this);">
+
+				<!-- Layout 50x50 -->
+				<div class="template-layout-50x50 template-clear-fix">
+
+					<!-- Left column -->
+					<div class="template-layout-column-left">
+
+						<!-- First Name -->
+						<div class="template-form-line template-state-block">
+							<input type="text" class="form-control" placeholder="First Name *" id="firstName" name="entry.426779947" required />
+						</div>
+
+						<!-- E-mail -->
+						<div class="template-form-line template-state-block">
+							<input type="text" class="form-control" placeholder="Email *" id="contactEmail" name="emailAddress" required />
+						</div>
+
+						<!-- Subject -->
+						<div class="template-form-line template-state-block">
+							<input type="text" class="form-control" placeholder="Parent or Guardian Name *" id="guardianName" name="entry.283178892" required />
+						</div>
+
+					</div>
+
+					<!-- Right column -->
+					<div class="template-layout-column-right">
+						<!-- Name -->
+            <div class="template-form-line template-state-block">
+							<input type="text" class="form-control" placeholder="Last Name *" id="lastName" name="entry.426779947" required />
+						</div>
+
+						<!-- E-mail -->
+						<div class="template-form-line template-state-block">
+							<input type="text" class="form-control" placeholder="Contact Number *" id="contactNumber" name="contactNumber" required />
+						</div>
+
+						<!-- Subject -->
+						<div class="template-form-line template-state-block">
+							<input type="text" class="form-control" placeholder="Relationship to The Person *" id="relationship" name="entry.283178892" required />
+						</div>
+					</div>
+
+				</div>
+
+				<!-- Button -->
+				<div class="template-form-line template-form-line-submit template-align-center">
+					<div class="template-state-block">
+						<!-- Submit button -->
+						<input class="template-component-button template-component-button-style-1" type="submit" value="Send message" name="contact-form-submit" id="contactBtn" />
+					</div>
+				</div>
+
+			</form>
+		</div>
+	</div>
+
+</div>
+
 <div class="template-content-section template-padding-reset template-background-image">
 	<!-- Main -->
 	<div class="template-main">
