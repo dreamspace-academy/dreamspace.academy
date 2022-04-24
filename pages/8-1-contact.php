@@ -22,9 +22,30 @@
 					<div class="template-icon-feature template-icon-feature-name-envelope-alt"></div>
 					<h5>Address</h5>
 					<p>
-						DreamSpace Academy<br />
-						7A, Saravana Road, Kallady<br />
-						Batticaloa, 30000<br />
+						DreamSpace Foundation</br>
+						7A, Saravana Road, Kallady,</br>
+						Batticaloa 30000,</br>
+						Sri Lanka
+					</p>
+				</br>
+					<p>
+						DreamSpace Academy</br>
+						7A, Saravana Road, Kallady,</br>
+						Batticaloa 30000,</br>
+						Sri Lanka
+					</p>
+				</br>
+					<p>
+						DreamSpace Collective</br>
+						Old Kalmunai Road, Kallady,</br>
+						Batticaloa 30000,</br>
+						Sri Lanka
+					</p>
+				</br>
+					<p>
+						DreamSpace Hive</br>
+						7th Cross, New Dutch Bar Road, Kallady,</br>
+						Batticaloa 30000,</br>
 						Sri Lanka
 					</p>
 				</li>
