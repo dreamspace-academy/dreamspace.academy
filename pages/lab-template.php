@@ -1,37 +1,31 @@
 <?php include('0-0-header.php') ?>
+<div class="template-content-section template-padding-top-reset template-padding-bottom-reset">
+	<div class="template-main">
+		<div class="template-component-header-subheader">
+			<h3>
 
-<div class="template-content">
-	<div class="template-component-header-subheader">
-		<h2>Lab Name</h2>
-		<p>Sub Title</p>
-		<div></div>
-	</div>
-<!-- Section -->
-<div class="template-content-section template-padding-top-reset template-padding-bottom-5 template-main">
+				<span>
+					<div class="template-component-header-subheader">
+						<h3>Why do we do what we do?</h3>
+						<h6></h6>
+						<div></div>
+					</div>
+					<p>
+						Three decades of <b style="color: #56509F">civil war</b> in Sri Lanka caused a massive impact on <b>socio-economy</b> and <b style="color: #56509F">environmental ecosystems</b>
+					</p>
+					<div class="template-margin-top-3"></div>
+					<p>
+						<b style="color: #56509F">International aid</b> provided significant support, but <b>imported solutions</b> couldn't solve fundamental <b style="color: #56509F">local problems sustainably</b>
+					</p>
+					<div class="template-margin-top-3"></div>
+					<p>
+						We set out to <b>empower locals</b> to solve </br>complex <b style="color: #56509F">local challenges !!!</b>
+					</p>
+				</span>
 
-	<!-- Layout 50x50 -->
-	<div class="template-layout-50x50 template-clear-fix">
-		<!-- Left column -->
-		<div class="template-layout-column-left">
-			<!-- Nivo slider -->
-			<div class="template-component-nivo-slider template-component-nivo-slider-style-1 template-preloader">
-				<div>
-					<img src="../media/gallery/lab-software-dreamspace-2.jpg" data-thumb="../media/gallery/lab-software-dreamspace-2.jpg" alt="DreamSpace Academy" />
-					<img src="../media/gallery/lab-software-dreamspace-3.jpg" data-thumb="../media/gallery/lab-software-dreamspace-3.jpg" alt="DreamSpace Academy" />
-					<img src="../media/gallery/lab-software-dreamspace-4.jpg" data-thumb="../media/gallery/lab-software-dreamspace-4.jpg" alt="DreamSpace Academy" />
-					<img src="../media/gallery/lab-software-dreamspace-5.jpg" data-thumb="../media/gallery/lab-software-dreamspace-5.jpg" alt="DreamSpace Academy" />
-				</div>
-			</div>
-		</div>
-
-		<!-- Right column -->
-		<div class="template-layout-column-right">
-			<!-- Header -->
-			<h4>Software Lab</h4>
-			<p>For those who crave for digital adrenaline, to gain practical experience on coding anything from apps to cloud computing</p>
+			</h3>
 		</div>
 	</div>
-</div>
 </div>
 
 <div class="template-content-section template-padding-top-reset template-padding-bottom-reset">
