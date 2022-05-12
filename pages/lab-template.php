@@ -1,43 +1,37 @@
 <?php include('0-0-header.php') ?>
+<div class="template-content-section template-padding-top-reset template-padding-bottom-reset">
+	<div class="template-main">
+		<div class="template-component-header-subheader">
+			<h3>
 
-<div class="template-content">
-	<div class="template-component-header-subheader">
-		<h2>Lab Name</h2>
-		<p>Sub Title</p>
-		<div></div>
-	</div>
-<!-- Section -->
-<div class="template-content-section template-padding-top-reset template-padding-bottom-5 template-main">
+				<span>
+					<div class="template-component-header-subheader">
+						<h2>Why do we do what we do?</h2>
+						<h6></h6>
+						<div></div>
+					</div>
+					<p>
+						Three decades of <b style="color: #56509F">civil war</b> in Sri Lanka caused a massive impact on <b>socio-economy</b> and <b style="color: #56509F">environmental ecosystems</b>
+					</p>
+					<div class="template-margin-top-3"></div>
+					<p>
+						<b style="color: #56509F">International aid</b> provided significant support, but <b>imported solutions</b> couldn't solve fundamental <b style="color: #56509F">local problems sustainably</b>
+					</p>
+					<div class="template-margin-top-3"></div>
+					<p>
+						We set out to <b>empower locals</b> to solve </br>complex <b style="color: #56509F">local challenges !!!</b>
+					</p>
+				</span>
 
-	<!-- Layout 50x50 -->
-	<div class="template-layout-50x50 template-clear-fix">
-		<!-- Left column -->
-		<div class="template-layout-column-left">
-			<!-- Nivo slider -->
-			<div class="template-component-nivo-slider template-component-nivo-slider-style-1 template-preloader">
-				<div>
-					<img src="../media/gallery/lab-software-dreamspace-2.jpg" data-thumb="../media/gallery/lab-software-dreamspace-2.jpg" alt="DreamSpace Academy" />
-					<img src="../media/gallery/lab-software-dreamspace-3.jpg" data-thumb="../media/gallery/lab-software-dreamspace-3.jpg" alt="DreamSpace Academy" />
-					<img src="../media/gallery/lab-software-dreamspace-4.jpg" data-thumb="../media/gallery/lab-software-dreamspace-4.jpg" alt="DreamSpace Academy" />
-					<img src="../media/gallery/lab-software-dreamspace-5.jpg" data-thumb="../media/gallery/lab-software-dreamspace-5.jpg" alt="DreamSpace Academy" />
-				</div>
-			</div>
-		</div>
-
-		<!-- Right column -->
-		<div class="template-layout-column-right">
-			<!-- Header -->
-			<h4>Software Lab</h4>
-			<p>For those who crave for digital adrenaline, to gain practical experience on coding anything from apps to cloud computing</p>
+			</h3>
 		</div>
 	</div>
-</div>
 </div>
 
 <div class="template-content-section template-padding-top-reset template-padding-bottom-reset">
 	<div class="template-main">
 		<div class="template-component-header-subheader">
-			<h3>Workshops</h3>
+			<h2>Workshops</h2>
 			<h6></h6>
 			<div></div>
 		</div>
@@ -88,7 +82,7 @@
 <div class="template-main template-padding-bottom-5" id="infrastructure">
 	<!-- Header and subheader -->
 	<div class="template-component-header-subheader">
-		<h2>Our Infrastructure</h2>
+		<h2>Infrastructure</h2>
 		<h6></h6>
 		<div></div>
 	</div>
@@ -114,7 +108,7 @@
 <div class="template-content-section template-padding-top-reset template-padding-bottom-reset">
 	<div class="template-main">
 		<div class="template-component-header-subheader">
-			<h3>Projects</h3>
+			<h2>Projects</h2>
 			<h6>Sub Title</h6>
 			<div></div>
 		</div>
@@ -278,7 +272,7 @@
 
   <!-- Header and subheader -->
   <div class="template-component-header-subheader">
-    <h2>Our Mentors</h2>
+    <h2>Mentors</h2>
     <h6></h6>
     <div></div>
   </div>
@@ -373,7 +367,7 @@
 
   <!-- Header and subheader -->
   <div class="template-component-header-subheader">
-    <h2>Our Achievements</h2>
+    <h2>Achievements</h2>
     <h6>Our achievements & recognitions at international & national stages</h6>
     <div></div>
   </div>
@@ -462,79 +456,6 @@
   </div>
   </li>
   </ul>
-</div>
-
-<!-- Content -->
-<div class="template-content">
-	<!-- Main -->
-	<div class="template-content-section template-main" style="padding-top: 0px">
-		<!-- Header and subheader -->
-		<div class="template-component-header-subheader">
-			<h2>Volunteer Form</h2>
-			<h6></h6>
-			<div></div>
-		</div>
-
-		<!-- Contact form -->
-		<div class="template-component-contact-form">
-
-			<form method="POST" action="https://docs.google.com/forms/d/e/1FAIpQLSeHlS5ahdvqTF9k2utdVqZ1gxTrABzQu1MLOZJKHhkN4B43Lg" onsubmit="return window.submitGoogleForm(this);">
-
-				<!-- Layout 50x50 -->
-				<div class="template-layout-50x50 template-clear-fix">
-
-					<!-- Left column -->
-					<div class="template-layout-column-left">
-
-						<!-- First Name -->
-						<div class="template-form-line template-state-block">
-							<input type="text" class="form-control" placeholder="First Name *" id="firstName" name="entry.426779947" required />
-						</div>
-
-						<!-- E-mail -->
-						<div class="template-form-line template-state-block">
-							<input type="text" class="form-control" placeholder="Email *" id="contactEmail" name="emailAddress" required />
-						</div>
-
-						<!-- Subject -->
-						<div class="template-form-line template-state-block">
-							<input type="text" class="form-control" placeholder="Parent or Guardian Name *" id="guardianName" name="entry.283178892" required />
-						</div>
-
-					</div>
-
-					<!-- Right column -->
-					<div class="template-layout-column-right">
-						<!-- Name -->
-            <div class="template-form-line template-state-block">
-							<input type="text" class="form-control" placeholder="Last Name *" id="lastName" name="entry.426779947" required />
-						</div>
-
-						<!-- E-mail -->
-						<div class="template-form-line template-state-block">
-							<input type="text" class="form-control" placeholder="Contact Number *" id="contactNumber" name="contactNumber" required />
-						</div>
-
-						<!-- Subject -->
-						<div class="template-form-line template-state-block">
-							<input type="text" class="form-control" placeholder="Relationship to The Person *" id="relationship" name="entry.283178892" required />
-						</div>
-					</div>
-
-				</div>
-
-				<!-- Button -->
-				<div class="template-form-line template-form-line-submit template-align-center">
-					<div class="template-state-block">
-						<!-- Submit button -->
-						<input class="template-component-button template-component-button-style-1" type="submit" value="Send message" name="contact-form-submit" id="contactBtn" />
-					</div>
-				</div>
-
-			</form>
-		</div>
-	</div>
-
 </div>
 
 <div class="template-content-section template-padding-reset template-background-image">
