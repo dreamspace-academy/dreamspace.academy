@@ -6,7 +6,7 @@
 
 				<span>
 					<div class="template-component-header-subheader">
-						<h3>Why do we do what we do?</h3>
+						<h2>Why do we do what we do?</h2>
 						<h6></h6>
 						<div></div>
 					</div>
@@ -31,7 +31,7 @@
 <div class="template-content-section template-padding-top-reset template-padding-bottom-reset">
 	<div class="template-main">
 		<div class="template-component-header-subheader">
-			<h3>Workshops</h3>
+			<h2>Workshops</h2>
 			<h6></h6>
 			<div></div>
 		</div>
@@ -108,7 +108,7 @@
 <div class="template-content-section template-padding-top-reset template-padding-bottom-reset">
 	<div class="template-main">
 		<div class="template-component-header-subheader">
-			<h3>Projects</h3>
+			<h2>Projects</h2>
 			<h6>Sub Title</h6>
 			<div></div>
 		</div>
