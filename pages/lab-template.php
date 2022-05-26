@@ -10,16 +10,8 @@
 						<h6></h6>
 						<div></div>
 					</div>
-					<p>
-						Three decades of <b style="color: #56509F">civil war</b> in Sri Lanka caused a massive impact on <b>socio-economy</b> and <b style="color: #56509F">environmental ecosystems</b>
-					</p>
-					<div class="template-margin-top-3"></div>
-					<p>
-						<b style="color: #56509F">International aid</b> provided significant support, but <b>imported solutions</b> couldn't solve fundamental <b style="color: #56509F">local problems sustainably</b>
-					</p>
-					<div class="template-margin-top-3"></div>
-					<p>
-						We set out to <b>empower locals</b> to solve </br>complex <b style="color: #56509F">local challenges !!!</b>
+					<p style="font-size:25px;">
+						Three decades of civil war in Sri Lanka caused a massive impact on socio-economy and environmental ecosystems. International aid provided significant support, but imported solutions couldn't solve fundamental local problems sustainably.
 					</p>
 				</span>
 
