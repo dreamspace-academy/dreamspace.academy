@@ -1,51 +1,34 @@
 <?php include('0-0-header.php') ?>
 
-<div class="template-content">
-	<div class="template-component-header-subheader">
-		<h2>Bio Lab</h2>
-		<p>Our complex mission is deep rooted in biology, to address fundamental biomedical and ecological challenges</p>
-		<div></div>
-	</div>
-<!-- Section -->
-<div class="template-content-section template-padding-top-reset template-padding-bottom-5 template-main">
+<div class="template-content-section template-padding-top-reset template-padding-bottom-reset">
+	<div class="template-main">
+		<div class="template-component-header-subheader">
+			<h3>
 
-	<!-- Layout 50x50 -->
-	<div class="template-layout-50x50 template-clear-fix">
-		<!-- Left column -->
-		<div class="template-layout-column-left">
-			<!-- Nivo slider -->
-			<div class="template-component-nivo-slider template-component-nivo-slider-style-1 template-preloader">
-				<div>
-					<img src="../media/gallery/lab-software-dreamspace-2.jpg" data-thumb="../media/gallery/lab-software-dreamspace-2.jpg" alt="DreamSpace Academy" />
-					<img src="../media/gallery/lab-software-dreamspace-3.jpg" data-thumb="../media/gallery/lab-software-dreamspace-3.jpg" alt="DreamSpace Academy" />
-					<img src="../media/gallery/lab-software-dreamspace-4.jpg" data-thumb="../media/gallery/lab-software-dreamspace-4.jpg" alt="DreamSpace Academy" />
-					<img src="../media/gallery/lab-software-dreamspace-5.jpg" data-thumb="../media/gallery/lab-software-dreamspace-5.jpg" alt="DreamSpace Academy" />
-				</div>
-			</div>
-		</div>
+				<span>
+					<div class="template-component-header-subheader">
+						<h2>Bio Lab</h2>
+						<h6>Our complex mission is deep rooted in biology, to address fundamental biomedical and ecological challenges</h6>
+						<div></div>
+					</div>
+					<p>
+						Three decades of <b style="color: #56509F">civil war</b> in Sri Lanka caused a massive impact on <b>socio-economy</b> and <b style="color: #56509F">environmental ecosystems</b>
+					</p>
+					<div class="template-margin-top-3"></div>
+					<p>
+						<b style="color: #56509F">International aid</b> provided significant support, but <b>imported solutions</b> couldn't solve fundamental <b style="color: #56509F">local problems sustainably</b>
+					</p>
+					<div class="template-margin-top-3"></div>
+					<p>
+						We set out to <b>empower locals</b> to solve </br>complex <b style="color: #56509F">local challenges !!!</b>
+					</p>
+				</span>
 
-		<!-- Right column -->
-		<div class="template-layout-column-right">
-			<!-- Header -->
-			<h4>Bio Lab</h4>
-			<p>
-            The Bio Lab currently consists of a shared space with common tools, a team of local and international experts with a passion for sharing knowledge with others and a dream to learn and understand local challenges while addressing them sustainably. To get our mission statement out into the world, the Bio Lab hosts ongoing community talks, workshops, training programs, community research projects, creating a global presence.
-            </p>
-			<!-- List -->
-			<h5>Workshops</h5>
-			<div class="template-component-list template-component-list-style-8 template-margin-top-3">
-				<ul>
-					<li>How to practice biology in a wet lab (Lab safety)</li>
-					<li>Grow organic vegetables and fruits</li>
-					<li>How to grow fungi and bacteria in a kitchen lab</li>
-					<li>Making biomaterials with Fungi</li>
-					<li>Protein modeling with python</li>
-				</ul>
-			</div>
+			</h3>
 		</div>
 	</div>
 </div>
-</div>
+
 <div class="template-main template-padding-bottom-5" id="infrastructure">
 	<!-- Header and subheader -->
 	<div class="template-component-header-subheader">
