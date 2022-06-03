@@ -64,7 +64,7 @@
 						</br>
 						</br>
 					</div>
-					<a href="3-1-0-maker-education.php#electronics-lab" class="template-component-button template-component-button-style-1">More<i></i></a>
+					<a href="https://www.facebook.com/dreamspace.academy/photos/a.2147257888884876/3182639782013343/" class="template-component-button template-component-button-style-1">More<i></i></a>
 				</li>
 			</ul>
 			<div class="template-pagination template-pagination-style-1"></div>
@@ -227,7 +227,7 @@
                     </h6>
 				</div>
 				<div class="template-component-call-to-action-content-right">
-					<a href="8-1-contact.php" class="template-component-button template-component-button-style-2 template-section-white">Contact Us<i></i></a>
+					<a target="_blank" href="https://forms.gle/pZ7TZmFVN9Aq2w3K9" class="template-component-button template-component-button-style-2 template-section-white">Contact Us<i></i></a>
 				</div>
 			</div>
 		</div>
