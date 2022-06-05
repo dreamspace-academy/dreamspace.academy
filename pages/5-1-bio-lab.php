@@ -1,6 +1,6 @@
 <?php include('0-0-header.php') ?>
 
-<div class="template-content-section template-padding-top-reset template-padding-bottom-reset" style="background-image: url(../media/gallery/bio-lab-cover.png); background-repeat:no-repeat;"> 
+<div class="template-content-section template-padding-top-reset template-padding-bottom-reset"> 
 	<div class="template-main">
 		<div class="template-component-header-subheader">
 			<h3>
@@ -12,7 +12,8 @@
 						<div></div>
 					</div>
 					<p style="font-size:25px; color:#707070;">
-          Our complex mission is deep rooted in biology, a fundamental knowledge to address biomedical and ecological challenges. The scientific community is constantly researching and pushing forward our understanding of medicine, agriculture, urban management, ecosystem protection and climate change. All of these initiatives are crucial to address local challenges.It is of fundamental importance to us to build an environment where individuals can bring their ideas to life through application of their scientific knowledge.
+          Our mission is deep-rooted in establishing a sustainable Bioeconomy in Sri Lanka to create local life-science and biotech innovations to address biomedical and ecological challenges.<br><br>
+          Bio Lab at DreamSpace academy provides an environment with unconditional access to education and research infrastructure for the global community of biologists, citizen scientists, biohackers, and changemakers to realise their ideas into knowledge, innovations and enterprises.
           </p>
 				</span>
 
@@ -114,7 +115,27 @@
     <!-- Gallery -->
     <div class="template-component-gallery">
       <ul class="template-layout-25x25x25x25 template-clear-fix">
-        <li class="template-layout-column-left">
+      <li class="template-layout-column-left">
+          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+            <img src="../media/people/aravinth-panch-dreamspace.jpg" alt="DreamSpace Academy" />
+            <div>
+              <h6>Aravinth</br>Panch</h6>
+              </br>
+              <span>Co-founder</br>Co-director</span>
+            </div>
+            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+              <ul>
+                <li><a target="_blank" href="https://www.linkedin.com/in/aravinthpanch/">
+                    <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
+                  </a></li>
+                <li><a target="_blank" href="http://aravinth.info/">
+                    <i class="fas fa-link fa-lg" style="color: white; padding-top: 17px;"></i>
+                  </a></li>
+              </ul>
+            </div>
+          </div>
+        </li>
+        <li class="template-layout-column-center-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
             <img src="../media/people/cris-silva-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
@@ -134,13 +155,13 @@
             </div>
           </div>
         </li>
-        <li class="template-layout-column-center-left">
+        <li class="template-layout-column-center-right">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
             <img src="../media/people/pramodaya-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Pramodya</br>Saumayamali</h6>
               </br>
-              <span>Assistant Guardian</br>Lab manager</span>
+              <span>Assistant</br>Bio Lab</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
@@ -222,9 +243,9 @@
 		<div class="template-component-call-to-action template-component-call-to-action-style-2 template-section-white">
 			<div class="template-component-call-to-action-content">
 				<div class="template-component-call-to-action-content-left">
-					<h6>The DreamSpace Academy BioLab is open to receive support in the forms of funding, services, knowledge/technology transfer, equipment, reagents and participants. Our support deck will provide a detailed explanation of impactful supporting opportunities.
-
-                    </h6>
+					<h6>
+            If you want to be part of Bio Lab at DreamSpace Academy as an impact investor, partner, donor, team member or trainee, please reach out to us !!!
+          </h6>
 				</div>
 				<div class="template-component-call-to-action-content-right">
 					<a target="_blank" href="https://forms.gle/pZ7TZmFVN9Aq2w3K9" class="template-component-button template-component-button-style-2 template-section-white">Contact Us<i></i></a>
