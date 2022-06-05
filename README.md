@@ -1,7 +1,7 @@
 # www.dreamspace.academy
 
 <p align="center">
-<img src="./media/images/others/web-screen.png">
+<img src="./media/others/web-screen.png">
 </p>
 
 ## AUTHOR
