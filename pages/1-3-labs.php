@@ -75,7 +75,7 @@
 						</br>
 						</br>
 					</div>
-					<a href="3-1-0-maker-education.php#bio-lab" class="template-component-button template-component-button-style-1">More<i></i></a>
+					<a href="5-1-bio-lab.php" class="template-component-button template-component-button-style-1">More<i></i></a>
 				</li>
 				<li class="template-layout-column-center-right">
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
