@@ -115,7 +115,27 @@
     <!-- Gallery -->
     <div class="template-component-gallery">
       <ul class="template-layout-25x25x25x25 template-clear-fix">
-        <li class="template-layout-column-left">
+      <li class="template-layout-column-left">
+          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+            <img src="../media/people/aravinth-panch-dreamspace.jpg" alt="DreamSpace Academy" />
+            <div>
+              <h6>Aravinth</br>Panch</h6>
+              </br>
+              <span>Co-founder</br>Co-director</span>
+            </div>
+            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+              <ul>
+                <li><a target="_blank" href="https://www.linkedin.com/in/aravinthpanch/">
+                    <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
+                  </a></li>
+                <li><a target="_blank" href="http://aravinth.info/">
+                    <i class="fas fa-link fa-lg" style="color: white; padding-top: 17px;"></i>
+                  </a></li>
+              </ul>
+            </div>
+          </div>
+        </li>
+        <li class="template-layout-column-center-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
             <img src="../media/people/cris-silva-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
@@ -135,13 +155,13 @@
             </div>
           </div>
         </li>
-        <li class="template-layout-column-center-left">
+        <li class="template-layout-column-center-right">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
             <img src="../media/people/pramodaya-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Pramodya</br>Saumayamali</h6>
               </br>
-              <span>Assistant Guardian</br>Lab manager</span>
+              <span>Assistant</br>Bio Lab</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
