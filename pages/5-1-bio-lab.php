@@ -1,6 +1,6 @@
 <?php include('0-0-header.php') ?>
 
-<div class="template-content-section template-padding-top-reset template-padding-bottom-reset" style="background-image: url(../media/gallery/bio-lab-cover.png); background-repeat:no-repeat;"> 
+<div class="template-content-section template-padding-top-reset template-padding-bottom-reset"> 
 	<div class="template-main">
 		<div class="template-component-header-subheader">
 			<h3>
@@ -12,7 +12,8 @@
 						<div></div>
 					</div>
 					<p style="font-size:25px; color:#707070;">
-          Our complex mission is deep rooted in biology, a fundamental knowledge to address biomedical and ecological challenges. The scientific community is constantly researching and pushing forward our understanding of medicine, agriculture, urban management, ecosystem protection and climate change. All of these initiatives are crucial to address local challenges.It is of fundamental importance to us to build an environment where individuals can bring their ideas to life through application of their scientific knowledge.
+          Our mission is deep-rooted in establishing a sustainable Bioeconomy in Sri Lanka to create local life-science and biotech innovations to address biomedical and ecological challenges.<br><br>
+          Bio Lab at DreamSpace academy provides an environment with unconditional access to education and research infrastructure for the global community of biologists, citizen scientists, biohackers, and changemakers to realise their ideas into knowledge, innovations and enterprises.
           </p>
 				</span>
 
