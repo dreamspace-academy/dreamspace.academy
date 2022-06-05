@@ -243,9 +243,9 @@
 		<div class="template-component-call-to-action template-component-call-to-action-style-2 template-section-white">
 			<div class="template-component-call-to-action-content">
 				<div class="template-component-call-to-action-content-left">
-					<h6>The DreamSpace Academy BioLab is open to receive support in the forms of funding, services, knowledge/technology transfer, equipment, reagents and participants. Our support deck will provide a detailed explanation of impactful supporting opportunities.
-
-                    </h6>
+					<h6>
+            If you want to be part of Bio Lab at DreamSpace Academy as an impact investor, partner, donor, team member or trainee, please reach out to us !!!
+          </h6>
 				</div>
 				<div class="template-component-call-to-action-content-right">
 					<a target="_blank" href="https://forms.gle/pZ7TZmFVN9Aq2w3K9" class="template-component-button template-component-button-style-2 template-section-white">Contact Us<i></i></a>
