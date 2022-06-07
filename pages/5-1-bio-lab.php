@@ -57,7 +57,7 @@
 			<ul class="template-layout-25x25x25x25 template-clear-fix">
 				<li class="template-layout-column-left">
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
-						<img src="../media/gallery/bio-lab-workshop-1.jpg" alt="DreamSpace Academy" />
+						<img src="../media/gallery/bio-lab-workshop-dreamspace-1.jpg" alt="DreamSpace Academy" />
 					</div>
 					<h5>Microscopy workshop</h5>
 					<div>
@@ -65,7 +65,19 @@
 						</br>
 						</br>
 					</div>
-					<a href="https://www.facebook.com/dreamspace.academy/photos/a.2147257888884876/3182639782013343/" class="template-component-button template-component-button-style-1">More<i></i></a>
+					<a target="_blank" href="https://www.linkedin.com/posts/dreamspace-academy_biotech-education-entrepreneurship-activity-6931187217813946368-X6Iq?utm_source=linkedin_share&utm_medium=member_desktop_web" class="template-component-button template-component-button-style-1">More<i></i></a>
+				</li>
+        <li class="template-layout-column-center-left">
+					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
+						<img src="../media/gallery/bio-lab-workshop-dreamspace-2.jpg" alt="DreamSpace Academy" />
+					</div>
+					<h5>Biopython workshop</h5>
+					<div>
+						<p>A workshop to get to know about fundamentals of Biopython and protein visualization.</p>
+						</br>
+						</br>
+					</div>
+					<a target="_blank" href="https://www.linkedin.com/posts/dreamspace-academy_biotechnology-education-innovation-activity-6938083014249697280-lEcH?utm_source=linkedin_share&utm_medium=member_desktop_web" class="template-component-button template-component-button-style-1">More<i></i></a>
 				</li>
 			</ul>
 			<div class="template-pagination template-pagination-style-1"></div>
