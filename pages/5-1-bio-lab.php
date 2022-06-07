@@ -25,7 +25,7 @@
 <div class="template-main template-padding-bottom-5" id="infrastructure">
 	<!-- Header and subheader -->
 	<div class="template-component-header-subheader">
-		<h2>Our Infrastructure</h2>
+		<h2>Infrastructure</h2>
 		<h6></h6>
 		<div></div>
 	</div>
@@ -116,7 +116,7 @@
 
   <!-- Header and subheader -->
   <div class="template-component-header-subheader">
-    <h2>Our Team</h2>
+    <h2>Team</h2>
     <h6></h6>
     <div></div>
   </div>
@@ -196,7 +196,7 @@
 
   <!-- Header and subheader -->
  <div class="template-component-header-subheader">
-    <h2>Our Mentors</h2>
+    <h2>Mentors</h2>
     <h6></h6>
     <div></div>
   </div>
