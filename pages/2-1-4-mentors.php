@@ -169,7 +169,6 @@
             <div>
               <h6>Stephen Byam</h6>
               </br>
-              </br>
               <span>Finance</span>
               <span>USA</span>
             </div>
@@ -332,7 +331,6 @@
             <div>
               <h6>Bhargav Ramachandra</h6>
               </br>
-              </br>
               <span>Mechanics | Manufacturing</span>
               <span>India</span>
             </div>
@@ -351,7 +349,6 @@
             <div>
               <h6>Karthik</h6>
             </br>
-              </br>
               <span>Policy Making</span>
               <span>India</span>
             </div>
@@ -370,7 +367,6 @@
             <div>
               <h6>Sakshi Sharma</h6>
               </br>
-              </br>
               <span>Content Writing</span>
               <span>India</span>
             </div>
@@ -388,7 +384,6 @@
             <img src="../media/people/raymond-miranda-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Raymond Miranda</h6>
-              </br>
               </br>
               <span>Storytelling</span>
               <span>Malasiya</span>
