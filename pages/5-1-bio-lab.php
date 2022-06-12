@@ -243,6 +243,134 @@
             </div>
           </div>
         </li>
+        <li class="template-layout-column-center-right">
+          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+            <img src="../media/people/nicholus-crudele-dreamspace.jpg" alt="DreamSpace Academy" />
+            <div>
+              <h6>Nicholas Crudele</h6>
+              </br>
+              </br>
+              <span>BioTech</span>
+              <span>Canada</span>
+            </div>
+            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+              <ul>
+                <li><a target="_blank" href="https://www.linkedin.com/in/nicholas-nico-crudele-07b3239a/">
+                    <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
+                  </a></li>
+              </ul>
+            </div>
+          </div>
+        </li>
+        <li class="template-layout-column-right">
+          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+            <img src="../media/people/ellen-jorgensen-dreamspace.jpg" alt="DreamSpace Academy" />
+            <div>
+              <h6>Ellen Jorgensen</h6>
+              </br>
+              </br>
+              <span>BioEthics | BioTech</span>
+              <span>USA</span>
+            </div>
+            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+              <ul>
+                <li><a target="_blank" href="https://www.linkedin.com/in/ellenjorgensen/">
+                    <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
+                  </a></li>
+              </ul>
+            </div>
+          </div>
+        </li>
+        <li class="template-layout-column-left">
+          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+            <img src="../media/people/rachel-aronoff-dreamspace.jpg" alt="DreamSpace Academy" />
+            <div>
+              <h6>Rachel Aronoff</h6>
+            </br>
+              <span>Genetics | BioTech</span>
+              <span>Switzerland | USA</span>
+            </div>
+            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+              <ul>
+                <li><a target="_blank" href="https://www.linkedin.com/in/rachelaronoff/">
+                    <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
+                  </a></li>
+              </ul>
+            </div>
+          </div>
+        </li>
+        <li class="template-layout-column-center-left">
+          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+            <img src="../media/people/scott-pownall-dreamspace.jpg" alt="DreamSpace Academy" />
+            <div>
+              <h6>Scott Pownall</h6>
+              </br>
+              <span>BioTech</span>
+              <span>Canada</span>
+            </div>
+            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+              <ul>
+                <li><a target="_blank" href="https://www.linkedin.com/in/spownall/">
+                    <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
+                  </a></li>
+              </ul>
+            </div>
+          </div>
+        </li>
+        <li class="template-layout-column-center-right">
+          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+            <img src="../media/people/kathrin-hadasch-dreamspace.jpg" alt="DreamSpace Academy" />
+            <div>
+              <h6>Kathrin Hadasch</h6>
+              </br>
+              <span>Bioinformatics</span>
+              <span>Germany</span>
+            </div>
+            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+              <ul>
+                <li><a target="_blank" href="https://www.linkedin.com/in/kathrin-hadasch/">
+                    <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
+                  </a></li>
+              </ul>
+            </div>
+          </div>
+        </li>
+        <li class="template-layout-column-right">
+          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+            <img src="../media/people/sarah-blossom-ware-dreamspace.jpg" alt="DreamSpace Academy" />
+            <div>
+              <h6>Sarah Blossom Ware</h6>
+              </br>
+              <span>BioEthics | BioTech</span>
+              <span>USA</span>
+            </div>
+            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+              <ul>
+                <li><a target="_blank" href="https://www.linkedin.com/in/sarahblossomware/">
+                    <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
+                  </a></li>
+              </ul>
+            </div>
+          </div>
+        </li>
+        <li class="template-layout-column-left">
+          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+            <img src="../media/people/guy-aidelberg-dreamspace.jpg" alt="DreamSpace Academy" />
+            <div>
+              <h6>Guy Aidelberg</h6>
+              </br>
+              <span>BioTech</span>
+              <span>France | Israel</span>
+            </div>
+            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+              <ul>
+                <li><a target="_blank" href="https://www.biosummit.org/guy-aidelberg-2018">
+                    <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
+                  </a></li>
+              </ul>
+            </div>
+          </div>
+        </li>
       </ul>
     </div>
   </div>

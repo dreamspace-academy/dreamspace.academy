@@ -62,8 +62,9 @@
 										<li><a href="3-1-0-maker-education.php#electronics-lab">Electromechanics Lab</a></li>
 										<li><a href="3-1-0-maker-education.php#software-lab">Software Lab</a></li>
 										<li><a href="3-1-0-maker-education.php#business-lab">Business Lab</a></li>
+										<li><a href="3-1-0-maker-education.php#design-lab">Design Lab</a></li>
 										<li><a href="3-1-0-maker-education.php#art-lab">Art Lab</a></li>
-										<li><a href="3-1-0-maker-education.php#bio-lab">Bio Lab</a></li>
+										<li><a href="5-1-bio-lab.php">Bio Lab</a></li>
 										<li><a href="3-1-0-maker-education.php#space-lab">Space Lab</a></li>
 									</ul>
 								</div>
