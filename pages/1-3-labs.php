@@ -11,7 +11,7 @@
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
 						<img src="../media/gallery/lab-electronics-dreamspace-1.jpg" alt="DreamSpace Academy" />
 					</div>
-					<h5>Electronics Lab</h5>
+					<h5>Electromechanics Lab</h5>
 					<div>
 						<p>For those who are fascinated by robots, to develop practical skills for building anything from circuits to humanoid robotics</p>
 						</br>
@@ -33,52 +33,6 @@
 				</li>
 				<li class="template-layout-column-center-right">
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
-						<img src="../media/gallery/lab-mechanics-dreamspace-7.jpg" alt="DreamSpace Academy" />
-					</div>
-					<h5>Mechanics Lab</h5>
-					<div>
-						<p>For those who shift their brain gears to gather practical skills for anything from mechanical design to digital fabrication</p>
-						</br>
-						</br>
-					</div>
-					<a href="3-1-0-maker-education.php#mechanics-lab" class="template-component-button template-component-button-style-1">More<i></i></a>
-				</li>
-				<li class="template-layout-column-right">
-					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
-						<img src="../media/gallery/lab-business-dreamspace-1.jpg" alt="DreamSpace Academy" />
-					</div>
-					<h5>Business Lab</h5>
-					<div>
-						<p>For those with an entrepreneurial mindset, to acquire practical knowledge for maximising the growth of business ventures</p>
-						</br>
-					</div>
-					<a href="3-1-0-maker-education.php#business-lab" class="template-component-button template-component-button-style-1">More<i></i></a>
-				</li>
-				<li class="template-layout-column-left">
-					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
-						<img src="../media/gallery/lab-art-dreamspace-1.jpg" alt="DreamSpace Academy" />
-					</div>
-					<h5>Art Lab</h5>
-					<div>
-						<p>For those with genuine creative imagination, to build practical skillsets for composing anything from photographs to rhythms</p>
-						</br>
-					</div>
-					<a href="3-1-0-maker-education.php#art-lab" class="template-component-button template-component-button-style-1">More<i></i></a>
-				</li>
-				<li class="template-layout-column-center-left">
-					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
-						<img src="../media/gallery/lab-bio-dreamspace-0.jpg" alt="DreamSpace Academy" />
-					</div>
-					<h5>Bio Lab</h5>
-					<div>
-						<p>For those who want to get their hands wet with BioHacking, to build practical dexterity on BioTechnology</p>
-						</br>
-						</br>
-					</div>
-					<a href="5-1-bio-lab.php" class="template-component-button template-component-button-style-1">More<i></i></a>
-				</li>
-				<li class="template-layout-column-center-right">
-					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
 						<img src="../media/gallery/lab-design-dreamspace-1.jpg" alt="DreamSpace Academy" />
 					</div>
 					<h5>Story Lab</h5>
@@ -90,6 +44,18 @@
 				</li>
 				<li class="template-layout-column-right">
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
+						<img src="../media/gallery/lab-bio-dreamspace-0.jpg" alt="DreamSpace Academy" />
+					</div>
+					<h5>Bio Lab</h5>
+					<div>
+						<p>For those who want to get their hands wet with BioHacking, to build practical dexterity on BioTechnology</p>
+						</br>
+						</br>
+					</div>
+					<a href="5-1-bio-lab.php" class="template-component-button template-component-button-style-1">More<i></i></a>
+				</li>
+				<li class="template-layout-column-left">
+					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
 						<img src="../media/gallery/lab-space-dreamspace-2.jpg" alt="DreamSpace Academy" />
 					</div>
 					<h5>Space Lab</h5>
@@ -99,7 +65,18 @@
 					</div>
 					<a href="3-1-0-maker-education.php#space-lab" class="template-component-button template-component-button-style-1">More<i></i></a>
 				</li>
-				<li class="template-layout-column-left">
+				<li class="template-layout-column-center-left">
+					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
+						<img src="../media/gallery/lab-music-dreamspace-1.jpg" alt="DreamSpace Academy" />
+					</div>
+					<h5>Music Lab</h5>
+					<div>
+						<p>For those with genuine creative imagination, to build practical skillsets for composing anything from photographs to rhythms</p>
+						</br>
+					</div>
+					<a href="3-1-0-maker-education.php#art-lab" class="template-component-button template-component-button-style-1">More<i></i></a>
+				</li>
+				<li class="template-layout-column-center-right">
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
 						<img src="../media/gallery/lab-peace-dreamspace-0.jpg" alt="DreamSpace Academy" />
 					</div>
@@ -110,7 +87,7 @@
 					</div>
 					<a href="3-1-0-maker-education.php#" class="template-component-button template-component-button-style-1">More<i></i></a>
 				</li>
-				<li class="template-layout-column-center-left">
+				<li class="template-layout-column-right">
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
 						<img src="../media/gallery/lab-nano-dreamspace-1.jpg" alt="DreamSpace Academy" />
 					</div>
@@ -121,7 +98,18 @@
 					</div>
 					<a href="3-1-0-maker-education.php#" class="template-component-button template-component-button-style-1">More<i></i></a>
 				</li>
-				<li class="template-layout-column-center-right">
+				<li class="template-layout-column-left">
+					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
+						<img src="../media/gallery/lab-business-dreamspace-1.jpg" alt="DreamSpace Academy" />
+					</div>
+					<h5>Business Lab</h5>
+					<div>
+						<p>For those with an entrepreneurial mindset, to acquire practical knowledge for maximising the growth of business ventures</p>
+						</br>
+					</div>
+					<a href="3-1-0-maker-education.php#business-lab" class="template-component-button template-component-button-style-1">More<i></i></a>
+				</li>	
+				<!-- <li class="template-layout-column-center-right">
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
 						<img src="../media/gallery/lab-fabrics-dreamspace-1.jpg" alt="DreamSpace Academy" />
 					</div>
@@ -164,7 +152,7 @@
 						</br>
 					</div>
 					<a href="3-1-0-maker-education.php#" class="template-component-button template-component-button-style-1">More<i></i></a>
-				</li>
+				</li> -->
 			</ul>
 			<div class="template-pagination template-pagination-style-1"></div>
 		</div>
