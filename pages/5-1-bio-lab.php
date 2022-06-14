@@ -106,6 +106,31 @@
 					</div>
 					<a href="3-2-6-dreamfungi.php" class="template-component-button template-component-button-style-1">More<i></i></a>
 				</li>
+        <li class="template-layout-column-center-left">
+					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
+						<img src="../media/gallery/innovation-biodigester-dreamspace-0.jpg" alt="DreamSpace Academy" />
+					</div>
+					<h5>Biodigester</h5>
+					<div>
+						<p>Eliminate the causes of waste in Batticaloa by implementing an alternative energy</p>
+						</br>
+						</br>
+					</div>
+					<a href="3-2-7-bio-digester.php" class="template-component-button template-component-button-style-1">More<i></i></a>
+				</li>
+        <li class="template-layout-column-center-right">
+					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
+						<img src="../media/gallery/innovation-corona-hunter-dreamspace-0.jpg" alt="DreamSpace Academy" />
+					</div>
+					<h5>Corona Hunter</h5>
+					<div>
+						<p>An open-source cheaper rapid test kit to detect COVID-19 using isothermal amplification</p>
+						</br>
+						</br>
+					</div>
+					<a href="3-2-4-corona-hunter.php" class="template-component-button template-component-button-style-1">More<i></i></a>
+				</li>
+        
 			</ul>
 			<div class="template-pagination template-pagination-style-1"></div>
 		</div>
