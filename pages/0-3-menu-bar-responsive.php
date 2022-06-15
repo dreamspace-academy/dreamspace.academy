@@ -64,7 +64,7 @@
 							<a href="#">Challenge Based Learning<span></span></a>
 							<ul>
 								<li><a href="3-1-0-maker-education.php#electronics-lab">Electromechanics Lab</a></li>
-								<li><a href="3-1-0-maker-education.php#software-lab">Software Lab</a></li>
+								<li><a href="5-2-software-lab.php">Software Lab</a></li>
 								<li><a href="3-1-0-maker-education.php">Story Lab</a></li>
 								<li><a href="5-4-bio-lab.php">Bio Lab</a></li>
 								<li><a href="5-5-space-lab.php">Space Lab</a></li>
