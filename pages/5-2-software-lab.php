@@ -23,15 +23,15 @@
 	</div>
 </div>
 
-<div class="template-main template-padding-bottom-5" id="infrastructure">
-	<!-- Header and subheader -->
-	<div class="template-component-header-subheader">
+<!-- <div class="template-main template-padding-bottom-5" id="infrastructure"> -->
+	<!-- Header and subheader --> 
+	<!-- <div class="template-component-header-subheader">
 		<h2>Infrastructure</h2>
 		<h6></h6>
 		<div></div>
-	</div>
+	</div> -->
 
-	<div class="template-layout-column-left">
+	<!-- <div class="template-layout-column-left">
 		<div class="template-component-nivo-slider template-component-nivo-slider-style-1 template-preloader">
 			<div>
 				<img src="../media/gallery/bio-lab-infrastructure-dreamspace-1.jpg" data-thumb="../media/gallery/bio-lab-infrastructure-dreamspace-1.jpg" alt="DreamSpace Academy" />
@@ -43,9 +43,9 @@
 				<img src="../media/gallery/bio-lab-infrastructure-dreamspace-7.jpg" data-thumb="../media/gallery/bio-lab-infrastructure-dreamspace-7.jpg" alt="DreamSpace Academy" />
 			</div>
 		</div>
-	</div>
+	</div> -->
 
-</div>
+<!-- </div> -->
 
 <div class="template-content-section template-padding-top-reset template-padding-bottom-reset">
 	<div class="template-main">
@@ -133,41 +133,112 @@
 			<ul class="template-layout-25x25x25x25 template-clear-fix">
 				<li class="template-layout-column-left">
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
-						<img src="../media/gallery/innovation-dream-fungi-dreamspace-0.jpg" alt="DreamSpace Academy" />
+						<img src="../media/gallery/project-softwarelab-dreamspace-1.jpg" alt="DreamSpace Academy" />
 					</div>
-					<h5>DreamFungi</h5>
+					<h5>SINGSING</h5>
 					<div>
-						<p>A biocomposite material using mycelium as an alternative sustainable material</p>
+						<p>An event management app that helps to organize event, manage the visitors and send invitations.</p>
 						</br>
 						</br>
 					</div>
-					<a href="3-2-6-dreamfungi.php" class="template-component-button template-component-button-style-1">More<i></i></a>
+					<a href="https://joinsingsing.com/" class="template-component-button template-component-button-style-1">More<i></i></a>
 				</li>
         <li class="template-layout-column-center-left">
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
-						<img src="../media/gallery/innovation-biodigester-dreamspace-0.jpg" alt="DreamSpace Academy" />
+						<img src="../media/gallery/project-softwarelab-dreamspace-2.jpg" alt="DreamSpace Academy" />
 					</div>
-					<h5>Biodigester</h5>
+					<h5>Gradsmartly</h5>
 					<div>
-						<p>Eliminate the causes of waste in Batticaloa by implementing an alternative energy</p>
+						<p>An online platform to help deserving students to access affordable education and become the brightest talents.</p>
 						</br>
 						</br>
 					</div>
-					<a href="3-2-7-bio-digester.php" class="template-component-button template-component-button-style-1">More<i></i></a>
+					<a href="http://gradsmartly.com/" class="template-component-button template-component-button-style-1">More<i></i></a>
 				</li>
         <li class="template-layout-column-center-right">
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
-						<img src="../media/gallery/innovation-corona-hunter-dreamspace-0.jpg" alt="DreamSpace Academy" />
+						<img src="../media/gallery/project-softwarelab-dreamspace-3.jpg" alt="DreamSpace Academy" />
 					</div>
-					<h5>Corona Hunter</h5>
+					<h5>Autoadmits</h5>
 					<div>
-						<p>An open-source cheaper rapid test kit to detect COVID-19 using isothermal amplification</p>
+						<p>An online platform that helps students choose the most suitable university according to their needs.</p>
 						</br>
 						</br>
 					</div>
-					<a href="3-2-4-corona-hunter.php" class="template-component-button template-component-button-style-1">More<i></i></a>
+					<a href="https://autoadmits.com/" class="template-component-button template-component-button-style-1">More<i></i></a>
 				</li>
-        
+        <li class="template-layout-column-right">
+					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
+						<img src="../media/gallery/project-softwarelab-dreamspace-4.jpg" alt="DreamSpace Academy" />
+					</div>
+					<h5>DreamFence</h5>
+					<div>
+						<p>A project to tackle human-elephant conflicts using AI, electronics, biotechnology, and nanotechnology.</p>
+						</br>
+						</br>
+					</div>
+					<a href="https://github.com/dreamspace-academy/dreamspace-human-elephant-conflict-mitigation-system" class="template-component-button template-component-button-style-1">More<i></i></a>
+				</li>
+        <li class="template-layout-column-left">
+					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
+						<img src="../media/gallery/project-softwarelab-dreamspace-5.jpg" alt="DreamSpace Academy" />
+					</div>
+					<h5>DreamMask</h5>
+					<div>
+						<p>A computer vision-based monitoring system to warn people to wear facemask during Covid-19.</p>
+						</br>
+						</br>
+					</div>
+					<a href="https://github.com/dreamspace-academy/dreamspace-facemask-detector" class="template-component-button template-component-button-style-1">More<i></i></a>
+				</li>
+        <li class="template-layout-column-center-left">
+					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
+						<img src="../media/gallery/project-softwarelab-dreamspace-6.jpg" alt="DreamSpace Academy" />
+					</div>
+					<h5>Agrivero</h5>
+					<div>
+						<p>Agrivero is a computer vision based coffee beans sorting system for an industrial company.</p>
+						</br>
+						</br>
+					</div>
+					<a href="https://agrivero.ai/" class="template-component-button template-component-button-style-1">More<i></i></a>
+				</li>
+        <li class="template-layout-column-center-right">
+					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
+						<img src="../media/gallery/project-softwarelab-dreamspace-7.jpg" alt="DreamSpace Academy" />
+					</div>
+					<h5>BadBunnies</h5>
+					<div>
+						<p>Badbunniez is an online platform aims to create the first anime and game-inspired NFT collection.</p>
+						</br>
+						</br>
+					</div>
+					<a href="https://www.badbunniez.com/" class="template-component-button template-component-button-style-1">More<i></i></a>
+				</li>
+        <li class="template-layout-column-right">
+					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
+						<img src="../media/gallery/project-softwarelab-dreamspace-8.jpg" alt="DreamSpace Academy" />
+					</div>
+					<h5>VisAct</h5>
+					<div>
+						<p>A web application for peace building via visual action where people can report social related issues.</p>
+						</br>
+						</br>
+					</div>
+					<a href="http://visact.lk/" class="template-component-button template-component-button-style-1">More<i></i></a>
+				</li>
+        <li class="template-layout-column-left">
+					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
+						<img src="../media/gallery/project-softwarelab-dreamspace-9.jpg" alt="DreamSpace Academy" />
+					</div>
+					<h5>The Project AISLE</h5>
+					<div>
+						<p>Project AISLE is a hate speech monitoring tool in Tamil and Sinhala developed using Artificial Intelligence.</p>
+						</br>
+						</br>
+					</div>
+					<a href="https://github.com/dreamspace-academy/dreamspace-the-project-aisle" class="template-component-button template-component-button-style-1">More<i></i></a>
+				</li>        
 			</ul>
 			<div class="template-pagination template-pagination-style-1"></div>
 		</div>
