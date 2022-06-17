@@ -4,7 +4,7 @@
 
 		<div class="template-component-header-subheader">
 			<h3>Who is talking about us?</h3>
-			<h6>Appearances on international & national press</h6>
+			<h6></h6>
 			<div></div>
 		</div>
 

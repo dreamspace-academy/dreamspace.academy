@@ -51,7 +51,7 @@
 				<span>
 					<div class="template-component-header-subheader">
 						<h3>What are our verticals and activities?</h3>
-						<h6>Our business ventures help us to sustain our social mission</h6>
+						<h6></h6>
 						<div></div>
 					</div>
 					<center>
@@ -63,7 +63,7 @@
 				<span>
 					<div class="template-component-header-subheader">
 						<h3>How do we empower with DreamSpace Lifecycle?</h3>
-						<h6>Personalised empowerment of candidates from the underserved communities to become impact heroes</h6>
+						<h6></h6>
 						<div></div>
 					</div>
 					<center>

@@ -61,7 +61,7 @@
 
 						<!-- Maker Education Menu -->
 						<li>
-							<a href="#">Challenge Based Learning<span></span></a>
+							<a href="#">Challenge-Based Learning<span></span></a>
 							<ul>
 								<li><a href="3-1-0-maker-education.php#electronics-lab">Electromechanics Lab</a></li>
 								<li><a href="5-2-software-lab.php">Software Lab</a></li>

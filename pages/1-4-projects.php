@@ -4,7 +4,7 @@
 
 		<div class="template-component-header-subheader">
 			<h3>What are our grassroots innovations?</h3>
-			<h6>Innovations tackling local socio-economic and environmental challenges</h6>
+			<h6></h6>
 			<div></div>
 		</div>
 

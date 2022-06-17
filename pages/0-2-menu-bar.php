@@ -57,7 +57,7 @@
 							<a href="#"><span class="template-icon-menu" style="font-size:xx-large;"><i class="fas fa-seedling"></i></span>Lifecycle</a>
 							<div class="sf-mega template-layout-25x25x25x25 template-clear-fix">
 								<div class="template-layout-column-left">
-									<span class="sf-mega-header">Challenge Based Learning</span>
+									<span class="sf-mega-header">Challenge-Based Learning</span>
 									<ul>
 										<li><a href="3-1-0-maker-education.php#electronics-lab">Electromechanics Lab</a></li>
 										<li><a href="5-2-software-lab.php">Software Lab</a></li>
