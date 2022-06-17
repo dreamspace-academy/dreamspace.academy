@@ -66,7 +66,7 @@
 						</br>
 						</br>
 					</div>
-					<a target="_blank" href="#" class="template-component-button template-component-button-style-1">More<i></i></a>
+					<a target="_blank" href="https://www.linkedin.com/posts/dreamspace-academy_startup-artificialintelligence-funded-activity-6849559855603228672-11F1?utm_source=linkedin_share&utm_medium=member_desktop_web" class="template-component-button template-component-button-style-1">More<i></i></a>
 				</li>
                 <li class="template-layout-column-center-left">
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
@@ -78,7 +78,7 @@
 						</br>
 						</br>
 					</div>
-					<a target="_blank" href="#" class="template-component-button template-component-button-style-1">More<i></i></a>
+					<a target="_blank" href="https://www.linkedin.com/posts/dreamspace-academy_womenempowement-education-entrepreneurship-activity-6935846501709406208-5tWN?utm_source=linkedin_share&utm_medium=member_desktop_web" class="template-component-button template-component-button-style-1">More<i></i></a>
 				</li>
                 <li class="template-layout-column-center-right">
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
@@ -90,7 +90,7 @@
 						</br>
 						</br>
 					</div>
-					<a target="_blank" href="#" class="template-component-button template-component-button-style-1">More<i></i></a>
+					<a target="_blank" href="https://www.linkedin.com/posts/dreamspace-academy_ai-artificialintelligence-softwareengineering-activity-6818155911950024704-uw0B?utm_source=linkedin_share&utm_medium=member_desktop_web" class="template-component-button template-component-button-style-1">More<i></i></a>
 				</li>
                 <li class="template-layout-column-right">
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
@@ -102,7 +102,7 @@
 						</br>
 						</br>
 					</div>
-					<a target="_blank" href="#" class="template-component-button template-component-button-style-1">More<i></i></a>
+					<a target="_blank" href="https://www.linkedin.com/posts/dreamspace-academy_trainees-artificialintelligence-womenintech-activity-6915973631164497920-s1ch?utm_source=linkedin_share&utm_medium=member_desktop_web" class="template-component-button template-component-button-style-1">More<i></i></a>
 				</li>
         <li class="template-layout-column-center-left">
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
@@ -114,7 +114,7 @@
 						</br>
 						</br>
 					</div>
-					<a target="_blank" href="#" class="template-component-button template-component-button-style-1">More<i></i></a>
+					<a href="#" class="template-component-button template-component-button-style-1">More<i></i></a>
 				</li>
 			</ul>
 			<div class="template-pagination template-pagination-style-1"></div>
@@ -282,18 +282,18 @@
         </li>
         <li class="template-layout-column-center-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/people/cris-silva-dreamspace.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/gunarakulan-gunaratnam-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
-              <h6>Cris</br>Silva</h6>
+              <h6>Gunarakulan</br>Gunaretnam</h6>
               </br>
-              <span>Guardian</br>Bio Lab</span>
+              <span>Guardian</br>Software Lab</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
-                <li><a target="_blank" href="https://www.linkedin.com/in/cris-silva1996/">
+                <li><a target="_blank" href="https://www.linkedin.com/in/gunarakulan-gunaretnam-161119156/">
                     <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
                   </a></li>
-                <li><a target="_blank" href="https://cris-silva.com/">
+                <li><a target="_blank" href="https://www.facebook.com/kuna.rakulan">
                     <i class="fas fa-link fa-lg" style="color: white; padding-top: 17px;"></i>
                   </a></li>
               </ul>
@@ -302,15 +302,95 @@
         </li>
         <li class="template-layout-column-center-right">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/people/pramodaya-dreamspace.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/abitharani-jeyachandran-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
-              <h6>Pramodya</br>Saumayamali</h6>
+              <h6>Abitharani</br>Jeyachandran</h6>
               </br>
-              <span>Assistant</br>Bio Lab</span>
+              <span>Assistant</br>Software Lab</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
-                <li><a target="_blank" href="https://www.linkedin.com/in/ak-pramodya-a620041b7">
+                <li><a target="_blank" href="https://www.linkedin.com/in/abitharani-jeyachandran-8372b6199">
+                    <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
+                  </a></li>
+                <li><a target="_blank" href="https://github.com/Abitharani-Jeyachandran">
+                    <i class="fas fa-link fa-lg" style="color: white; padding-top: 17px;"></i>
+                  </a></li>
+              </ul>
+            </div>
+          </div>
+        </li>
+        <li class="template-layout-column-right">
+          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+            <img src="../media/people/rathees-koneswaran-dreamspace.jpg" alt="DreamSpace Academy" />
+            <div>
+              <h6>Rathees</br>Koneswaran</h6>
+              </br>
+              <span>Assistant</br>Software Lab</span>
+            </div>
+            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+              <ul>
+                <li><a target="_blank" href="https://www.linkedin.com/in/rathees-koneswaran-eng">
+                    <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
+                  </a></li>
+                <li><a target="_blank" href="https://github.com/Rathees-Koneswarann">
+                    <i class="fas fa-link fa-lg" style="color: white; padding-top: 17px;"></i>
+                  </a></li>
+              </ul>
+            </div>
+          </div>
+        </li>
+        <li class="template-layout-column-left">
+          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+            <img src="../media/people/govarthenan-rajadurai-dreamspace.jpg" alt="DreamSpace Academy" />
+            <div>
+              <h6>Govarthenan</br>Rajadurai</h6>
+              </br>
+              <span>Assistant</br>Software Lab</span>
+            </div>
+            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+              <ul>
+                <li><a target="_blank" href="https://www.linkedin.com/in/govarthenan">
+                    <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
+                  </a></li>
+                <li><a target="_blank" href="https://www.facebook.com/govarthenan">
+                    <i class="fas fa-link fa-lg" style="color: white; padding-top: 17px;"></i>
+                  </a></li>
+              </ul>
+            </div>
+          </div>
+        </li>
+        <li class="template-layout-column-center-left">
+      <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+    <img src="../media/people/shanthani-sugunakumar-dreamspace.jpg" alt="DreamSpace Academy" />
+    <div>
+      <h6>Shanthani</br>Sugunakumar</h6>
+      </br>
+      <span>Assistant</br>Software Lab</span>
+    </div>
+    <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+      <ul>
+        <li><a target="_blank" href="https://www.linkedin.com/in/shanthanisk/">
+            <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
+          </a></li>
+        <li><a target="_blank" href="#">
+            <i class="fas fa-link fa-lg" style="color: white; padding-top: 17px;"></i>
+          </a></li>
+      </ul>
+    </div>
+  </div>
+</li>
+<li class="template-layout-column-center-right">
+        <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+            <img src="../media/people/thivaharan-selvanayagam-dreamspace.jpg" alt="DreamSpace Academy" />
+            <div>
+              <h6>Thivaharan</br>Selvanayagam</h6>
+              </br>
+              <span>Assistant</br>Software Lab</span>
+            </div>
+            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+              <ul>
+                <li><a target="_blank" href="https://www.linkedin.com/in/thivaharan-selvanayagam-65a38595/">
                     <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
                   </a></li>
                 <li><a target="_blank" href="#">
@@ -319,6 +399,7 @@
               </ul>
             </div>
           </div>
+
         </li>
       </ul>
     </div>
@@ -340,164 +421,18 @@
     <!-- Gallery -->
    <div class="template-component-gallery">
       <ul class="template-layout-25x25x25x25 template-clear-fix">
-       <li class="template-layout-column-left">
-          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/people/alessandro-volpato-dreamspace.jpg" alt="DreamSpace Academy" />
-            <div>
-            <h6>Alessandro</br>Volpato</h6>
-              </br>
-              <span>Mycofabrication</span>
-              <span>Germany</span>
-            </div>
-            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
-              <ul>
-                <li><a target="_blank" href="https://www.linkedin.com/in/alessandro-volpato-150725141/">
-                    <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
-                  </a></li>
-              </ul>
-            </div>
-          </div>
-        </li>
         <li class="template-layout-column-center-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/people/malte-larson-dreamspace.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/farshad-fahimi-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
-              <h6>Malte</br>Larsen</h6>
+              <h6>Farshad Fahimi</h6>
               </br>
-              <span>Mycology and Fermentation</span>
+              <span>Data Science</span>
               <span>Germany</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
-                <li><a target="_blank" href="https://www.linkedin.com/in/malte-larsen-9a898b172/">
-                    <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
-                  </a></li>
-              </ul>
-            </div>
-          </div>
-        </li>
-        <li class="template-layout-column-center-right">
-          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/people/nicholus-crudele-dreamspace.jpg" alt="DreamSpace Academy" />
-            <div>
-              <h6>Nicholas Crudele</h6>
-              </br>
-              </br>
-              <span>BioTech</span>
-              <span>Canada</span>
-            </div>
-            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
-              <ul>
-                <li><a target="_blank" href="https://www.linkedin.com/in/nicholas-nico-crudele-07b3239a/">
-                    <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
-                  </a></li>
-              </ul>
-            </div>
-          </div>
-        </li>
-        <li class="template-layout-column-right">
-          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/people/ellen-jorgensen-dreamspace.jpg" alt="DreamSpace Academy" />
-            <div>
-              <h6>Ellen Jorgensen</h6>
-              </br>
-              </br>
-              <span>BioEthics | BioTech</span>
-              <span>USA</span>
-            </div>
-            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
-              <ul>
-                <li><a target="_blank" href="https://www.linkedin.com/in/ellenjorgensen/">
-                    <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
-                  </a></li>
-              </ul>
-            </div>
-          </div>
-        </li>
-        <li class="template-layout-column-left">
-          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/people/rachel-aronoff-dreamspace.jpg" alt="DreamSpace Academy" />
-            <div>
-              <h6>Rachel Aronoff</h6>
-            </br>
-              <span>Genetics | BioTech</span>
-              <span>Switzerland | USA</span>
-            </div>
-            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
-              <ul>
-                <li><a target="_blank" href="https://www.linkedin.com/in/rachelaronoff/">
-                    <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
-                  </a></li>
-              </ul>
-            </div>
-          </div>
-        </li>
-        <li class="template-layout-column-center-left">
-          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/people/scott-pownall-dreamspace.jpg" alt="DreamSpace Academy" />
-            <div>
-              <h6>Scott Pownall</h6>
-              </br>
-              <span>BioTech</span>
-              <span>Canada</span>
-            </div>
-            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
-              <ul>
-                <li><a target="_blank" href="https://www.linkedin.com/in/spownall/">
-                    <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
-                  </a></li>
-              </ul>
-            </div>
-          </div>
-        </li>
-        <li class="template-layout-column-center-right">
-          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/people/kathrin-hadasch-dreamspace.jpg" alt="DreamSpace Academy" />
-            <div>
-              <h6>Kathrin Hadasch</h6>
-              </br>
-              <span>Bioinformatics</span>
-              <span>Germany</span>
-            </div>
-            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
-              <ul>
-                <li><a target="_blank" href="https://www.linkedin.com/in/kathrin-hadasch/">
-                    <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
-                  </a></li>
-              </ul>
-            </div>
-          </div>
-        </li>
-        <li class="template-layout-column-right">
-          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/people/sarah-blossom-ware-dreamspace.jpg" alt="DreamSpace Academy" />
-            <div>
-              <h6>Sarah Blossom Ware</h6>
-              </br>
-              <span>BioEthics | BioTech</span>
-              <span>USA</span>
-            </div>
-            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
-              <ul>
-                <li><a target="_blank" href="https://www.linkedin.com/in/sarahblossomware/">
-                    <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
-                  </a></li>
-              </ul>
-            </div>
-          </div>
-        </li>
-        <li class="template-layout-column-left">
-          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/people/guy-aidelberg-dreamspace.jpg" alt="DreamSpace Academy" />
-            <div>
-              <h6>Guy Aidelberg</h6>
-              </br>
-              <span>BioTech</span>
-              <span>France | Israel</span>
-            </div>
-            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
-              <ul>
-                <li><a target="_blank" href="https://www.biosummit.org/guy-aidelberg-2018">
+                <li><a target="_blank" href="https://www.linkedin.com/in/fafaimi/">
                     <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
                   </a></li>
               </ul>
@@ -517,11 +452,11 @@
 			<div class="template-component-call-to-action-content">
 				<div class="template-component-call-to-action-content-left">
 					<h6>
-            If you want to be part of Bio Lab at DreamSpace Academy as an impact investor, partner, donor, team member or trainee, please reach out to us !!!
+            If you want to be part of Software Lab at DreamSpace Academy as an impact investor, partner, donor, team member or trainee, please reach out to us !!!
           </h6>
 				</div>
 				<div class="template-component-call-to-action-content-right">
-					<a target="_blank" href="https://forms.gle/pZ7TZmFVN9Aq2w3K9" class="template-component-button template-component-button-style-2 template-section-white">Contact Us<i></i></a>
+					<a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSfq3d8YuzySE2OwSFxA3ruRIbN3eIwn046lwqxg_S1KDuzh4w/viewform?usp=sf_link" class="template-component-button template-component-button-style-2 template-section-white">Contact Us<i></i></a>
 				</div>
 			</div>
 		</div>
