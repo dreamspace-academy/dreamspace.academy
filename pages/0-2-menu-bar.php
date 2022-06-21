@@ -57,15 +57,17 @@
 							<a href="#"><span class="template-icon-menu" style="font-size:xx-large;"><i class="fas fa-seedling"></i></span>Lifecycle</a>
 							<div class="sf-mega template-layout-25x25x25x25 template-clear-fix">
 								<div class="template-layout-column-left">
-									<span class="sf-mega-header">Maker Education</span>
+									<span class="sf-mega-header">Challenge-Based Learning</span>
 									<ul>
 										<li><a href="3-1-0-maker-education.php#electronics-lab">Electromechanics Lab</a></li>
-										<li><a href="3-1-0-maker-education.php#software-lab">Software Lab</a></li>
+										<li><a href="5-2-software-lab.php">Software Lab</a></li>
+										<li><a href="3-1-0-maker-education.php">Story Lab</a></li>
+										<li><a href="5-4-bio-lab.php">Bio Lab</a></li>
+										<li><a href="5-5-space-lab.php">Space Lab</a></li>
+										<li><a href="3-1-0-maker-education.php#art-lab">Music Lab</a></li>
+										<li><a href="3-1-0-maker-education.php">Peace Lab</a></li>
+										<li><a href="3-1-0-maker-education.php">Nano Lab</a></li>				
 										<li><a href="3-1-0-maker-education.php#business-lab">Business Lab</a></li>
-										<li><a href="3-1-0-maker-education.php#design-lab">Design Lab</a></li>
-										<li><a href="3-1-0-maker-education.php#art-lab">Art Lab</a></li>
-										<li><a href="5-1-bio-lab.php">Bio Lab</a></li>
-										<li><a href="3-1-0-maker-education.php#space-lab">Space Lab</a></li>
 									</ul>
 								</div>
 
@@ -93,7 +95,7 @@
 								</div>
 
 								<div class="template-layout-column-right">
-									<span class="sf-mega-header">Venture Building</span>
+									<span class="sf-mega-header">Impact-Venture Building</span>
 									<ul>
 										<li><a href="3-4-0-social-enterprise.php#trash-for-trade">Trash For Trade</a></li>
 										<li><a href="3-4-0-social-enterprise.php#oceanbiome">OceanBiome</a></li>

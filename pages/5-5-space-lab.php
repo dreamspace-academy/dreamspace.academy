@@ -109,7 +109,7 @@
 	<div class="template-main">
 		<div class="template-component-header-subheader">
 			<h2>Projects</h2>
-			<h6>Sub Title</h6>
+			<h6></h6>
 			<div></div>
 		</div>
 		<div class="template-component-counter-box">

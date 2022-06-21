@@ -7,7 +7,6 @@
 <?php include('1-4-projects.php'); ?>
 <?php include('1-5-awards.php'); ?>
 <?php include('1-6-social-enterprise.php'); ?>
-<?php include('1-7-service-providing.php'); ?>
 <?php include('1-8-press.php'); ?>
 <?php include('1-9-timeline.php'); ?>
 </div>

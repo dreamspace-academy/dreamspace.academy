@@ -87,8 +87,8 @@
 
 <div class="template-content-section template-padding-top-reset template-padding-bottom-reset">
 	<div class="template-main">
-		<div class="template-component-header-subheader">
-			<h3>Projects</h3>
+    <div class="template-component-header-subheader">
+			<h2>Projects</h2>
 			<h6></h6>
 			<div></div>
 		</div>
@@ -106,6 +106,31 @@
 					</div>
 					<a href="3-2-6-dreamfungi.php" class="template-component-button template-component-button-style-1">More<i></i></a>
 				</li>
+        <li class="template-layout-column-center-left">
+					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
+						<img src="../media/gallery/innovation-biodigester-dreamspace-0.jpg" alt="DreamSpace Academy" />
+					</div>
+					<h5>Biodigester</h5>
+					<div>
+						<p>Eliminate the causes of waste in Batticaloa by implementing an alternative energy</p>
+						</br>
+						</br>
+					</div>
+					<a href="3-2-7-bio-digester.php" class="template-component-button template-component-button-style-1">More<i></i></a>
+				</li>
+        <li class="template-layout-column-center-right">
+					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
+						<img src="../media/gallery/innovation-corona-hunter-dreamspace-0.jpg" alt="DreamSpace Academy" />
+					</div>
+					<h5>Corona Hunter</h5>
+					<div>
+						<p>An open-source cheaper rapid test kit to detect COVID-19 using isothermal amplification</p>
+						</br>
+						</br>
+					</div>
+					<a href="3-2-4-corona-hunter.php" class="template-component-button template-component-button-style-1">More<i></i></a>
+				</li>
+        
 			</ul>
 			<div class="template-pagination template-pagination-style-1"></div>
 		</div>
@@ -388,7 +413,7 @@
           </h6>
 				</div>
 				<div class="template-component-call-to-action-content-right">
-					<a target="_blank" href="https://forms.gle/pZ7TZmFVN9Aq2w3K9" class="template-component-button template-component-button-style-2 template-section-white">Contact Us<i></i></a>
+					<a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSdrTjjAj2xwsBqJOWOkXLjm5yBy52HuWPKglT90yUUGb4pLzA/viewform?usp=sf_link" class="template-component-button template-component-button-style-2 template-section-white">Contact Us<i></i></a>
 				</div>
 			</div>
 		</div>

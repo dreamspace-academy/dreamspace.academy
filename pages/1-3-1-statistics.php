@@ -20,7 +20,8 @@
 					</li>
 					<li class="template-layout-column-left">
 						<span class="template-component-counter-box-counter counter-box-round">
-							<span class="template-component-counter-box-counter-value">14</span>
+							<span class="template-component-counter-box-counter-value">9</span>
+							<span class="template-component-counter-box-counter-character">+</span>
 						</span>
 						<h5>Labs</h5>
 						<p>being built for interdisciplinary education and co-creation</p>
