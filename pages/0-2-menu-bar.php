@@ -59,9 +59,9 @@
 								<div class="template-layout-column-left">
 									<span class="sf-mega-header">Challenge-Based Learning</span>
 									<ul>
-										<li><a href="3-1-0-maker-education.php#electronics-lab">Electromechanics Lab</a></li>
+									<li><a href="5-1-electromechanics-lab.php">Electromechanics Lab</a></li>
 										<li><a href="5-2-software-lab.php">Software Lab</a></li>
-										<li><a href="3-1-0-maker-education.php">Story Lab</a></li>
+										<li><a href="5-3-story-lab.php">Story Lab</a></li>
 										<li><a href="5-4-bio-lab.php">Bio Lab</a></li>
 										<li><a href="5-5-space-lab.php">Space Lab</a></li>
 										<li><a href="3-1-0-maker-education.php#art-lab">Music Lab</a></li>
