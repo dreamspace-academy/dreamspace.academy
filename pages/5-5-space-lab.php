@@ -1,5 +1,6 @@
 <?php include('0-0-header.php') ?>
-<div class="template-content-section template-padding-top-reset template-padding-bottom-reset">
+
+<div class="template-content-section template-padding-top-reset template-padding-bottom-reset"> 
 	<div class="template-main">
 		<div class="template-component-header-subheader">
 			<h3>
@@ -7,20 +8,13 @@
 				<span>
 					<div class="template-component-header-subheader">
 						<h2>Space Lab</h2>
-						<h6>An inclusive community based platform for education, research & development, innovation and entrepreneurship around space sciences, space technology & space exploration.</h6>
+						<h6></h6>
 						<div></div>
 					</div>
-					<p>
-						Three decades of <b style="color: #56509F">civil war</b> in Sri Lanka caused a massive impact on <b>socio-economy</b> and <b style="color: #56509F">environmental ecosystems</b>
-					</p>
-					<div class="template-margin-top-3"></div>
-					<p>
-						<b style="color: #56509F">International aid</b> provided significant support, but <b>imported solutions</b> couldn't solve fundamental <b style="color: #56509F">local problems sustainably</b>
-					</p>
-					<div class="template-margin-top-3"></div>
-					<p>
-						We set out to <b>empower locals</b> to solve </br>complex <b style="color: #56509F">local challenges !!!</b>
-					</p>
+					<!-- <p style="font-size:25px; color:#707070;">
+          Our mission is deep-rooted in establishing a sustainable Bioeconomy in Sri Lanka to create local life-science and biotech innovations to address biomedical and ecological challenges.<br><br>
+          Bio Lab at DreamSpace academy provides an environment with unconditional access to education and research infrastructure for the global community of biologists, citizen scientists, biohackers, and changemakers to realise their ideas into knowledge, innovations and enterprises.
+          </p> -->
 				</span>
 
 			</h3>
@@ -28,7 +22,30 @@
 	</div>
 </div>
 
-<div class="template-content-section template-padding-top-reset template-padding-bottom-reset">
+<!-- <div class="template-main template-padding-bottom-5" id="infrastructure">
+	<div class="template-component-header-subheader">
+		<h2>Infrastructure</h2>
+		<h6></h6>
+		<div></div>
+	</div>
+
+	<div class="template-layout-column-left">
+		<div class="template-component-nivo-slider template-component-nivo-slider-style-1 template-preloader">
+			<div>
+				<img src="../media/gallery/bio-lab-infrastructure-dreamspace-1.jpg" data-thumb="../media/gallery/bio-lab-infrastructure-dreamspace-1.jpg" alt="DreamSpace Academy" />
+				<img src="../media/gallery/bio-lab-infrastructure-dreamspace-2.jpg" data-thumb="../media/gallery/bio-lab-infrastructure-dreamspace-2.jpg" alt="DreamSpace Academy" />
+				<img src="../media/gallery/bio-lab-infrastructure-dreamspace-3.jpg" data-thumb="../media/gallery/bio-lab-infrastructure-dreamspace-3.jpg" alt="DreamSpace Academy" />
+				<img src="../media/gallery/bio-lab-infrastructure-dreamspace-4.jpg" data-thumb="../media/gallery/bio-lab-infrastructure-dreamspace-4.jpg" alt="DreamSpace Academy" />
+				<img src="../media/gallery/bio-lab-infrastructure-dreamspace-5.jpg" data-thumb="../media/gallery/bio-lab-infrastructure-dreamspace-5.jpg" alt="DreamSpace Academy" />
+				<img src="../media/gallery/bio-lab-infrastructure-dreamspace-6.jpg" data-thumb="../media/gallery/bio-lab-infrastructure-dreamspace-6.jpg" alt="DreamSpace Academy" />
+				<img src="../media/gallery/bio-lab-infrastructure-dreamspace-7.jpg" data-thumb="../media/gallery/bio-lab-infrastructure-dreamspace-7.jpg" alt="DreamSpace Academy" />
+			</div>
+		</div>
+	</div>
+
+</div> -->
+
+<!-- <div class="template-content-section template-padding-top-reset template-padding-bottom-reset">
 	<div class="template-main">
 		<div class="template-component-header-subheader">
 			<h2>Workshops</h2>
@@ -39,75 +56,37 @@
 			<ul class="template-layout-25x25x25x25 template-clear-fix">
 				<li class="template-layout-column-left">
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
-						<img src="../media/gallery/lab-electronics-dreamspace-1.jpg" alt="DreamSpace Academy" />
+						<img src="../media/gallery/bio-lab-workshop-dreamspace-1.jpg" alt="DreamSpace Academy" />
 					</div>
-					<h5>Electronics Lab</h5>
+					<h5>Microscopy workshop</h5>
 					<div>
+						<p>A workshop to get to know how to handle a microscope and how to prepare microscope slides.</p>
+						</br>
+						</br>
 					</div>
-					<a href="3-1-0-maker-education.php#electronics-lab" class="template-component-button template-component-button-style-1">More<i></i></a>
+					<a target="_blank" href="https://www.linkedin.com/posts/dreamspace-academy_biotech-education-entrepreneurship-activity-6931187217813946368-X6Iq?utm_source=linkedin_share&utm_medium=member_desktop_web" class="template-component-button template-component-button-style-1">More<i></i></a>
 				</li>
-				<li class="template-layout-column-center-left">
+        <li class="template-layout-column-center-left">
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
-						<img src="../media/gallery/lab-software-dreamspace-1.jpg" alt="DreamSpace Academy" />
+						<img src="../media/gallery/bio-lab-workshop-dreamspace-2.jpg" alt="DreamSpace Academy" />
 					</div>
-					<h5>Software Lab</h5>
+					<h5>Biopython workshop</h5>
 					<div>
+						<p>A workshop to get to know about fundamentals of Biopython and protein visualization.</p>
+						</br>
+						</br>
 					</div>
-					<a href="3-1-0-maker-education.php#software-lab" class="template-component-button template-component-button-style-1">More<i></i></a>
-				</li>
-				<li class="template-layout-column-center-right">
-					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
-						<img src="../media/gallery/lab-mechanics-dreamspace-7.jpg" alt="DreamSpace Academy" />
-					</div>
-					<h5>Mechanics Lab</h5>
-					<div>
-					</div>
-					<a href="3-1-0-maker-education.php#mechanics-lab" class="template-component-button template-component-button-style-1">More<i></i></a>
-				</li>
-				<li class="template-layout-column-right">
-					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
-						<img src="../media/gallery/lab-business-dreamspace-1.jpg" alt="DreamSpace Academy" />
-					</div>
-					<h5>Business Lab</h5>
-					<div>
-					</div>
-					<a href="3-1-0-maker-education.php#business-lab" class="template-component-button template-component-button-style-1">More<i></i></a>
+					<a target="_blank" href="https://www.linkedin.com/posts/dreamspace-academy_biotechnology-education-innovation-activity-6938083014249697280-lEcH?utm_source=linkedin_share&utm_medium=member_desktop_web" class="template-component-button template-component-button-style-1">More<i></i></a>
 				</li>
 			</ul>
 			<div class="template-pagination template-pagination-style-1"></div>
 		</div>
 	</div>
-</div>
+</div> -->
 
-<div class="template-main template-padding-bottom-5" id="infrastructure">
-	<!-- Header and subheader -->
-	<div class="template-component-header-subheader">
-		<h2>Infrastructure</h2>
-		<h6></h6>
-		<div></div>
-	</div>
-
-	<div class="template-layout-column-left">
-		<div class="template-component-nivo-slider template-component-nivo-slider-style-1 template-preloader">
-			<div>
-				<img src="../media/gallery/org-infrastructure-dreamspace-1.jpg" data-thumb="../media/gallery/org-infrastructure-dreamspace-1.jpg" alt="DreamSpace Academy" />
-				<img src="../media/gallery/org-infrastructure-dreamspace-2.jpg" data-thumb="../media/gallery/org-infrastructure-dreamspace-2.jpg" alt="DreamSpace Academy" />
-				<img src="../media/gallery/org-infrastructure-dreamspace-3.jpg" data-thumb="../media/gallery/org-infrastructure-dreamspace-3.jpg" alt="DreamSpace Academy" />
-				<img src="../media/gallery/org-infrastructure-dreamspace-4.jpg" data-thumb="../media/gallery/org-infrastructure-dreamspace-4.jpg" alt="DreamSpace Academy" />
-				<img src="../media/gallery/org-infrastructure-dreamspace-5.jpg" data-thumb="../media/gallery/org-infrastructure-dreamspace-5.jpg" alt="DreamSpace Academy" />
-				<img src="../media/gallery/org-infrastructure-dreamspace-6.jpg" data-thumb="../media/gallery/org-infrastructure-dreamspace-6.jpg" alt="DreamSpace Academy" />
-				<img src="../media/gallery/org-infrastructure-dreamspace-7.jpg" data-thumb="../media/gallery/org-infrastructure-dreamspace-7.jpg" alt="DreamSpace Academy" />
-				<img src="../media/gallery/org-infrastructure-dreamspace-8.jpg" data-thumb="../media/gallery/org-infrastructure-dreamspace-8.jpg" alt="DreamSpace Academy" />
-				<img src="../media/gallery/org-infrastructure-dreamspace-9.jpg" data-thumb="../media/gallery/org-infrastructure-dreamspace-9.jpg" alt="DreamSpace Academy" />
-			</div>
-		</div>
-	</div>
-
-</div>
-
-<div class="template-content-section template-padding-top-reset template-padding-bottom-reset">
+<!-- <div class="template-content-section template-padding-top-reset template-padding-bottom-reset">
 	<div class="template-main">
-		<div class="template-component-header-subheader">
+    <div class="template-component-header-subheader">
 			<h2>Projects</h2>
 			<h6></h6>
 			<div></div>
@@ -116,93 +95,60 @@
 			<ul class="template-layout-25x25x25x25 template-clear-fix">
 				<li class="template-layout-column-left">
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
-						<img src="../media/gallery/lab-electronics-dreamspace-1.jpg" alt="DreamSpace Academy" />
+						<img src="../media/gallery/innovation-dream-fungi-dreamspace-0.jpg" alt="DreamSpace Academy" />
 					</div>
-					<h5>Electronics Lab</h5>
+					<h5>DreamFungi</h5>
 					<div>
-						<p>For those who are fascinated by robots, to develop practical skills for building anything from circuits to humanoid robotics</p>
+						<p>A biocomposite material using mycelium as an alternative sustainable material</p>
 						</br>
 						</br>
 					</div>
-					<a href="3-1-0-maker-education.php#electronics-lab" class="template-component-button template-component-button-style-1">More<i></i></a>
+					<a href="3-2-6-dreamfungi.php" class="template-component-button template-component-button-style-1">More<i></i></a>
 				</li>
-				<li class="template-layout-column-center-left">
+        <li class="template-layout-column-center-left">
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
-						<img src="../media/gallery/lab-software-dreamspace-1.jpg" alt="DreamSpace Academy" />
+						<img src="../media/gallery/innovation-biodigester-dreamspace-0.jpg" alt="DreamSpace Academy" />
 					</div>
-					<h5>Software Lab</h5>
+					<h5>Biodigester</h5>
 					<div>
-						<p>For those who crave digital adrenaline, to gain practical experience in coding anything from apps to cloud computing</p>
+						<p>Eliminate the causes of waste in Batticaloa by implementing an alternative energy</p>
 						</br>
 						</br>
 					</div>
-					<a href="3-1-0-maker-education.php#software-lab" class="template-component-button template-component-button-style-1">More<i></i></a>
+					<a href="3-2-7-bio-digester.php" class="template-component-button template-component-button-style-1">More<i></i></a>
 				</li>
-				<li class="template-layout-column-center-right">
+        <li class="template-layout-column-center-right">
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
-						<img src="../media/gallery/lab-mechanics-dreamspace-7.jpg" alt="DreamSpace Academy" />
+						<img src="../media/gallery/innovation-corona-hunter-dreamspace-0.jpg" alt="DreamSpace Academy" />
 					</div>
-					<h5>Mechanics Lab</h5>
+					<h5>Corona Hunter</h5>
 					<div>
-						<p>For those who shift their brain gears to gather practical skills for anything from mechanical design to digital fabrication</p>
+						<p>An open-source cheaper rapid test kit to detect COVID-19 using isothermal amplification</p>
 						</br>
 						</br>
 					</div>
-					<a href="3-1-0-maker-education.php#mechanics-lab" class="template-component-button template-component-button-style-1">More<i></i></a>
+					<a href="3-2-4-corona-hunter.php" class="template-component-button template-component-button-style-1">More<i></i></a>
 				</li>
-				<li class="template-layout-column-right">
-					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
-						<img src="../media/gallery/lab-business-dreamspace-1.jpg" alt="DreamSpace Academy" />
-					</div>
-					<h5>Business Lab</h5>
-					<div>
-						<p>For those with an entrepreneurial mindset, to acquire practical knowledge for maximising the growth of business ventures</p>
-						</br>
-					</div>
-					<a href="3-1-0-maker-education.php#business-lab" class="template-component-button template-component-button-style-1">More<i></i></a>
-				</li>
+        
 			</ul>
 			<div class="template-pagination template-pagination-style-1"></div>
 		</div>
 	</div>
-</div>
+</div> -->
 
 <div class="template-content" id="team">
 
-  <!-- Header and subheader -->
   <div class="template-component-header-subheader">
     <h2>Team</h2>
-    <h6>Subtitle</h6>
+    <h6></h6>
     <div></div>
   </div>
 
-  <!-- Section -->
   <div class=" template-main">
 
-    <!-- Gallery -->
     <div class="template-component-gallery">
       <ul class="template-layout-25x25x25x25 template-clear-fix">
-        <li class="template-layout-column-left">
-          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/people/kishoth-navaretnarajah-dreamspace.jpg" alt="DreamSpace Academy" />
-            <div>
-              <h6>Kishoth</br>Navaretnarajah</h6>
-              </br>
-              <span>Co-founder</br>Co-director</span>
-            </div>
-            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
-              <ul>
-                <li><a target="_blank" href="https://www.linkedin.com/in/kishoth-navaretnarajah-342b4311a/">
-                    <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
-                  </a></li>
-                <li><a target="_blank" href="http://team.dreamspace.academy/kishoth/">
-                    <i class="fas fa-link fa-lg" style="color: white; padding-top: 17px;"></i>
-                  </a></li>
-              </ul>
-            </div>
-          </div>
-        </li>
-        <li class="template-layout-column-center-left">
+      <li class="template-layout-column-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
             <img src="../media/people/aravinth-panch-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
@@ -222,29 +168,8 @@
             </div>
           </div>
         </li>
-        <li class="template-layout-column-center-right">
-        <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/people/anna-jeyaraj-dreamspace.jpg" alt="DreamSpace Academy" />
-            <div>
-              <h6>Anna</br>Jeyaraj Moses</h6>
-              </br>
-              <span>Co-director</span>
-              </br>
-            </div>
-            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
-              <ul>
-                <li><a target="_blank" href="https://www.linkedin.com/in/anna-jeyaraj-moses-379258220">
-                    <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
-                  </a></li>
-                <li><a target="_blank" href="https://www.facebook.com/Annie.Moses.J">
-                    <i class="fas fa-link fa-lg" style="color: white; padding-top: 17px;"></i>
-                  </a></li>
-              </ul>
-            </div>
-          </div>
-        </li>
-        <li class="template-layout-column-right">
-          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+        <li class="template-layout-column-center-left">
+        	<div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
             <img src="../media/people/purusothman-murasolimaran-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Purusothman</br>Murasolimaran</h6>
@@ -253,30 +178,10 @@
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
-                <li><a target="_blank" href="https://www.linkedin.com/in/purusothman2712/">
+                <li><a target="_blank" href="https://www.linkedin.com/in/purusothman2712">
                     <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
                   </a></li>
-                <li><a target="_blank" href="https://www.goodwall.io/purusothman-murasolimaran-73a1">
-                    <i class="fas fa-link fa-lg" style="color: white; padding-top: 17px;"></i>
-                  </a></li>
-              </ul>
-            </div>
-          </div>
-        </li>
-        <li class="template-layout-column-left">
-          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/people/jayanthan-amalanathan-dreamspace.jpg" alt="DreamSpace Academy" />
-            <div>
-              <h6>Anjanan</br>Nandakumar</h6>
-              </br>
-              <span>Trainee</br>Space Lab</span>
-            </div>
-            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
-              <ul>
-                <li><a target="_blank" href="#">
-                    <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
-                  </a></li>
-                <li><a target="_blank" href="#">
+                <li><a target="_blank" href="https://www.facebook.com/profile.php?id=100074213463431">
                     <i class="fas fa-link fa-lg" style="color: white; padding-top: 17px;"></i>
                   </a></li>
               </ul>
@@ -288,33 +193,176 @@
   </div>
 </div>
 
-<div class="template-content" id="mentors">
+<!-- <div class="template-content" id="mentors">
 
-  <!-- Header and subheader -->
-  <div class="template-component-header-subheader">
+ <div class="template-component-header-subheader">
     <h2>Mentors</h2>
     <h6></h6>
     <div></div>
   </div>
 
-  <!-- Section -->
-  <div class="template-main">
+ <div class="template-main">
 
-    <!-- Gallery -->
-    <div class="template-component-gallery">
+   <div class="template-component-gallery">
       <ul class="template-layout-25x25x25x25 template-clear-fix">
-        <li class="template-layout-column-left">
+       <li class="template-layout-column-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/people/maite-hernandez-dreamspace.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/alessandro-volpato-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
-              <h6>Dr. Nushkia Chamba</h6>
+            <h6>Alessandro</br>Volpato</h6>
               </br>
-              <span>Post doctoral research fellow in Stockholm University in Astronomy & Imaging</span>
+              <span>Mycofabrication</span>
               <span>Germany</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
-                <li><a target="_blank" href="https://www.linkedin.com/in/maitezubeldia/">
+                <li><a target="_blank" href="https://www.linkedin.com/in/alessandro-volpato-150725141/">
+                    <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
+                  </a></li>
+              </ul>
+            </div>
+          </div>
+        </li>
+        <li class="template-layout-column-center-left">
+          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+            <img src="../media/people/malte-larson-dreamspace.jpg" alt="DreamSpace Academy" />
+            <div>
+              <h6>Malte</br>Larsen</h6>
+              </br>
+              <span>Mycology and Fermentation</span>
+              <span>Germany</span>
+            </div>
+            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+              <ul>
+                <li><a target="_blank" href="https://www.linkedin.com/in/malte-larsen-9a898b172/">
+                    <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
+                  </a></li>
+              </ul>
+            </div>
+          </div>
+        </li>
+        <li class="template-layout-column-center-right">
+          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+            <img src="../media/people/nicholus-crudele-dreamspace.jpg" alt="DreamSpace Academy" />
+            <div>
+              <h6>Nicholas Crudele</h6>
+              </br>
+              </br>
+              <span>BioTech</span>
+              <span>Canada</span>
+            </div>
+            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+              <ul>
+                <li><a target="_blank" href="https://www.linkedin.com/in/nicholas-nico-crudele-07b3239a/">
+                    <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
+                  </a></li>
+              </ul>
+            </div>
+          </div>
+        </li>
+        <li class="template-layout-column-right">
+          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+            <img src="../media/people/ellen-jorgensen-dreamspace.jpg" alt="DreamSpace Academy" />
+            <div>
+              <h6>Ellen Jorgensen</h6>
+              </br>
+              </br>
+              <span>BioEthics | BioTech</span>
+              <span>USA</span>
+            </div>
+            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+              <ul>
+                <li><a target="_blank" href="https://www.linkedin.com/in/ellenjorgensen/">
+                    <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
+                  </a></li>
+              </ul>
+            </div>
+          </div>
+        </li>
+        <li class="template-layout-column-left">
+          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+            <img src="../media/people/rachel-aronoff-dreamspace.jpg" alt="DreamSpace Academy" />
+            <div>
+              <h6>Rachel Aronoff</h6>
+            </br>
+              <span>Genetics | BioTech</span>
+              <span>Switzerland | USA</span>
+            </div>
+            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+              <ul>
+                <li><a target="_blank" href="https://www.linkedin.com/in/rachelaronoff/">
+                    <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
+                  </a></li>
+              </ul>
+            </div>
+          </div>
+        </li>
+        <li class="template-layout-column-center-left">
+          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+            <img src="../media/people/scott-pownall-dreamspace.jpg" alt="DreamSpace Academy" />
+            <div>
+              <h6>Scott Pownall</h6>
+              </br>
+              <span>BioTech</span>
+              <span>Canada</span>
+            </div>
+            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+              <ul>
+                <li><a target="_blank" href="https://www.linkedin.com/in/spownall/">
+                    <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
+                  </a></li>
+              </ul>
+            </div>
+          </div>
+        </li>
+        <li class="template-layout-column-center-right">
+          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+            <img src="../media/people/kathrin-hadasch-dreamspace.jpg" alt="DreamSpace Academy" />
+            <div>
+              <h6>Kathrin Hadasch</h6>
+              </br>
+              <span>Bioinformatics</span>
+              <span>Germany</span>
+            </div>
+            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+              <ul>
+                <li><a target="_blank" href="https://www.linkedin.com/in/kathrin-hadasch/">
+                    <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
+                  </a></li>
+              </ul>
+            </div>
+          </div>
+        </li>
+        <li class="template-layout-column-right">
+          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+            <img src="../media/people/sarah-blossom-ware-dreamspace.jpg" alt="DreamSpace Academy" />
+            <div>
+              <h6>Sarah Blossom Ware</h6>
+              </br>
+              <span>BioEthics | BioTech</span>
+              <span>USA</span>
+            </div>
+            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+              <ul>
+                <li><a target="_blank" href="https://www.linkedin.com/in/sarahblossomware/">
+                    <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
+                  </a></li>
+              </ul>
+            </div>
+          </div>
+        </li>
+        <li class="template-layout-column-left">
+          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+            <img src="../media/people/guy-aidelberg-dreamspace.jpg" alt="DreamSpace Academy" />
+            <div>
+              <h6>Guy Aidelberg</h6>
+              </br>
+              <span>BioTech</span>
+              <span>France | Israel</span>
+            </div>
+            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+              <ul>
+                <li><a target="_blank" href="https://www.biosummit.org/guy-aidelberg-2018">
                     <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
                   </a></li>
               </ul>
@@ -324,19 +372,19 @@
       </ul>
     </div>
   </div>
-</div>
+</div> -->
 
 <div class="template-content-section template-padding-reset template-background-image">
-	<!-- Main -->
 	<div class="template-main">
-		<!-- Call to action -->
 		<div class="template-component-call-to-action template-component-call-to-action-style-2 template-section-white">
 			<div class="template-component-call-to-action-content">
 				<div class="template-component-call-to-action-content-left">
-					<h3>If you want to join with us, please register here</h3>
+					<h6>
+            If you want to be part of Space Lab at DreamSpace Academy as an impact investor, partner, donor, team member or trainee, please reach out to us !!!
+          </h6>
 				</div>
 				<div class="template-component-call-to-action-content-right">
-					<a href="https://docs.google.com/forms/d/1zEsbtQc5USEx8xNGx_TetvaMw2ueXsjUfs_C_14prdQ/edit" class="template-component-button template-component-button-style-2 template-section-white">Contact Us<i></i></a>
+					<a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSdrTjjAj2xwsBqJOWOkXLjm5yBy52HuWPKglT90yUUGb4pLzA/viewform?usp=sf_link" class="template-component-button template-component-button-style-2 template-section-white">Contact Us<i></i></a>
 				</div>
 			</div>
 		</div>
