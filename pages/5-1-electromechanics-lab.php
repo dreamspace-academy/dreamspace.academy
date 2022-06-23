@@ -11,13 +11,10 @@
 						<h6></h6>
 						<div></div>
 					</div>
-					<!-- <p style="font-size:25px; color:#707070;">
-                    Our mission is deep-rooted in establishing a sustainable software service provider and hands-on software education institute in Sri Lanka to create better and technology-accelerated businesses in advanced societies.
-                    </br></br>
-                    Software Lab of DreamSpace Academy is a software solution startup in Sri Lanka that provides technology services for businesses and local-socio challenges; it delivers a platform for those who want to learn, innovate, research, and pursue careers in artificial intelligence, computer vision, machine learning, deep learning, data science, desktop application development, mobile application development, website/web application development, microcontroller programming, cloud computing, and scripting & automation industries.
-                    </p> -->
+					<p style="font-size:25px; color:#707070;">
+                    The electromechanics lab is a deep and high-tech container-based micro-factory model manufacturing space specialised in electronics, mechanical and electrical fields. It empowers the community for building a sustainable economy in Sri Lanka. It provides open access to an advanced infrastructure for manufacturing, training, research & development, and innovation to harness the potential electromechanical resources within ecological boundaries.
+					</p>
 				</span>
-
 			</h3>
 		</div>
 	</div>
@@ -47,7 +44,7 @@
 
 </div>
 
-<!-- <div class="template-content-section template-padding-top-reset template-padding-bottom-reset">
+<div class="template-content-section template-padding-top-reset template-padding-bottom-reset">
 	<div class="template-main">
 		<div class="template-component-header-subheader">
 			<h2>Workshops</h2>
@@ -58,11 +55,11 @@
 			<ul class="template-layout-25x25x25x25 template-clear-fix">
 				<li class="template-layout-column-left">
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
-						<img src="../media/gallery/software-lab-workshop-dreamspace-1.jpg" alt="DreamSpace Academy" />
+						<img src="../media/gallery/workshop-electromechanics-lab-dreamspace-1.jpg" alt="DreamSpace Academy" />
 					</div>
-					<h5>AI </br>Bootcamp</h5>
+					<h5>Basic Robotics</br>Workshop</h5>
 					<div>
-						<p>A bootcamp to get to know about deep learning, machine learning, and artificial intelligence.</p>
+						<p>A workshop to create understanding of robotics systems in depth.</p>
 						</br>
 						</br>
 					</div>
@@ -70,11 +67,11 @@
 				</li>
                 <li class="template-layout-column-center-left">
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
-						<img src="../media/gallery/software-lab-workshop-dreamspace-2.jpg" alt="DreamSpace Academy" />
+						<img src="../media/gallery/workshop-electromechanics-lab-dreamspace-2.jpg" alt="DreamSpace Academy" />
 					</div>
-					<h5>SheTechprenuer Bootcamp</h5>
+					<h5>3D Designing and Printing Workshop</h5>
 					<div>
-						<p>A bootcamp to empower women in technology and entrepreneurship to create a gender-balanced society.</p>
+						<p>A practical-based workshop to learn about 3D designing and printing.</p>
 						</br>
 						</br>
 					</div>
@@ -82,11 +79,11 @@
 				</li>
                 <li class="template-layout-column-center-right">
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
-						<img src="../media/gallery/software-lab-workshop-dreamspace-3.jpg" alt="DreamSpace Academy" />
+						<img src="../media/gallery/workshop-electromechanics-lab-dreamspace-3.jpg" alt="DreamSpace Academy" />
 					</div>
-					<h5>No Code AI </br> Bootcamp</h5>
+					<h5>Micro Drone Designing Workshop</h5>
 					<div>
-						<p>A bootcamp to learn the basics of artificial intelligence and computer vision without coding experience.</p>
+						<p>A workshop to learn micro drone designing using fusion 360.</p>
 						</br>
 						</br>
 					</div>
@@ -94,23 +91,23 @@
 				</li>
                 <li class="template-layout-column-right">
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
-						<img src="../media/gallery/software-lab-workshop-dreamspace-4.jpg" alt="DreamSpace Academy" />
+						<img src="../media/gallery/workshop-electromechanics-lab-dreamspace-4.jpg" alt="DreamSpace Academy" />
 					</div>
-					<h5>Web Development </br> Bootcamp</h5>
+					<h5>PCB Soldering Workshop</h5>
 					<div>
-						<p>A practical-based web development bootcamp for those who want to master web design/development.</p>
+						<p>A workshop to learn the primary method of joining electrical components together.</p>
 						</br>
 						</br>
 					</div>
 					<a target="_blank" href="https://www.linkedin.com/posts/dreamspace-academy_trainees-artificialintelligence-womenintech-activity-6915973631164497920-s1ch?utm_source=linkedin_share&utm_medium=member_desktop_web" class="template-component-button template-component-button-style-1">More<i></i></a>
 				</li>
-        <li class="template-layout-column-center-left">
+        <li class="template-layout-column-left">
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
-						<img src="../media/gallery/software-lab-workshop-dreamspace-5.jpg" alt="DreamSpace Academy" />
+						<img src="../media/gallery/workshop-electromechanics-lab-dreamspace-5.jpg" alt="DreamSpace Academy" />
 					</div>
-					<h5>Python Development </br> Bootcamp</h5>
+					<h5>Motorized Drawing Robot Workshop</h5>
 					<div>
-						<p>A bootcamp for those who want to learn more about Python scripting and computer vision.</p>
+						<p>A workshop to learn to build simple robot out of markers, vibrating motor, and battery.</p>
 						</br>
 						</br>
 					</div>
@@ -120,7 +117,7 @@
 			<div class="template-pagination template-pagination-style-1"></div>
 		</div>
 	</div>
-</div> -->
+</div>
 
 <!-- <div class="template-content-section template-padding-top-reset template-padding-bottom-reset">
 	<div class="template-main">
@@ -424,6 +421,42 @@
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
                 <li><a target="_blank" href="https://www.linkedin.com/in/bhargav-kalisar-ramachandra-ab625a1b/">
+                    <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
+                  </a></li>
+              </ul>
+            </div>
+          </div>
+        </li>
+		<li class="template-layout-column-center-right">
+          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+            <img src="../media/people/darina-onoprienko-dreamspace.jpg" alt="DreamSpace Academy" />
+            <div>
+              <h6>Darina Onoprienko</h6>
+              </br>
+              <span>Entrepreneurship</span>
+              <span>Germany | Russia</span>
+            </div>
+            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+              <ul>
+                <li><a target="_blank" href="https://www.linkedin.com/in/darina-onoprienko-6b5b8843/">
+                    <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
+                  </a></li>
+              </ul>
+            </div>
+          </div>
+        </li>
+        <li class="template-layout-column-right">
+          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+            <img src="../media/people/nico-meibner-dreamspace.jpg" alt="DreamSpace Academy" />
+            <div>
+              <h6>Dr. Nico Meißner</h6>
+              </br>
+              <span>Storytelling</span>
+              <span>Australia | Malaysia</span>
+            </div>
+            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+              <ul>
+                <li><a target="_blank" href="https://www.linkedin.com/in/nicomei%C3%9Fner/">
                     <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
                   </a></li>
               </ul>
