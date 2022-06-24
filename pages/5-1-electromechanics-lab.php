@@ -65,7 +65,7 @@
 					</div>
 					<a target="_blank" href="https://www.linkedin.com/posts/dreamspace-academy_startup-artificialintelligence-funded-activity-6849559855603228672-11F1?utm_source=linkedin_share&utm_medium=member_desktop_web" class="template-component-button template-component-button-style-1">More<i></i></a>
 				</li>
-                <li class="template-layout-column-center-left">
+        <li class="template-layout-column-center-left">
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
 						<img src="../media/gallery/workshop-electromechanics-lab-dreamspace-2.jpg" alt="DreamSpace Academy" />
 					</div>
@@ -108,6 +108,42 @@
 					<h5>Motorized Drawing Robot Workshop</h5>
 					<div>
 						<p>A workshop to learn to build simple robot out of markers, vibrating motor, and battery.</p>
+						</br>
+						</br>
+					</div>
+					<a href="#" class="template-component-button template-component-button-style-1">More<i></i></a>
+				</li>
+        <li class="template-layout-column-center-left">
+					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
+						<img src="../media/gallery/workshop-electromechanics-lab-dreamspace-6.jpg" alt="DreamSpace Academy" />
+					</div>
+					<h5>Microbit <br> Workshop</h5>
+					<div>
+						<p>A workshop to introduce how software and hardware work together.</p>
+						</br>
+						</br>
+					</div> 
+					<a href="#" class="template-component-button template-component-button-style-1">More<i></i></a>
+				</li>
+        <li class="template-layout-column-center-right">
+					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
+						<img src="../media/gallery/workshop-electromechanics-lab-dreamspace-7.jpg" alt="DreamSpace Academy" />
+					</div>
+					<h5>Arduino <br> Workshop</h5>
+					<div>
+						<p>A workshop to learn to prototype circuits and connect them to the Arduino.</p>
+						</br>
+						</br>
+					</div>
+					<a href="#" class="template-component-button template-component-button-style-1">More<i></i></a>
+				</li>
+        <li class="template-layout-column-right">
+					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
+						<img src="../media/gallery/workshop-electromechanics-lab-dreamspace-8.jpg" alt="DreamSpace Academy" />
+					</div>
+					<h5>Basic Electronics Workshop</h5>
+					<div>
+						<p>A workshop to introduce electronics systems & circuits, PCB, breadboards & capacitors.</p>
 						</br>
 						</br>
 					</div>
