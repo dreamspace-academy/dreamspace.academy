@@ -272,7 +272,7 @@
     </div>
 </div> -->
 
-<!-- <div class="template-content" id="mentors">
+<div class="template-content" id="mentors">
 
  <div class="template-component-header-subheader">
     <h2>Mentors</h2>
@@ -284,18 +284,18 @@
 
    <div class="template-component-gallery">
       <ul class="template-layout-25x25x25x25 template-clear-fix">
-       <li class="template-layout-column-left">
+      <li class="template-layout-column-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/people/alessandro-volpato-dreamspace.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/maite-hernandez-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
-            <h6>Alessandro</br>Volpato</h6>
+              <h6>Maite Hernandez Zubeldia</h6>
               </br>
-              <span>Mycofabrication</span>
-              <span>Germany</span>
+              <span>Design Thinking</span>
+              <span>Germany | Cuba</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
-                <li><a target="_blank" href="https://www.linkedin.com/in/alessandro-volpato-150725141/">
+                <li><a target="_blank" href="https://www.linkedin.com/in/maitezubeldia/">
                     <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
                   </a></li>
               </ul>
@@ -304,16 +304,17 @@
         </li>
         <li class="template-layout-column-center-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/people/malte-larson-dreamspace.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/darina-onoprienko-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
-              <h6>Malte</br>Larsen</h6>
+              <h6>Darina Onoprienko</h6>
               </br>
-              <span>Mycology and Fermentation</span>
-              <span>Germany</span>
+              </br>
+              <span>Entrepreneurship</span>
+              <span>Germany | Russia</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
-                <li><a target="_blank" href="https://www.linkedin.com/in/malte-larsen-9a898b172/">
+                <li><a target="_blank" href="https://www.linkedin.com/in/darina-onoprienko-6b5b8843/">
                     <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
                   </a></li>
               </ul>
@@ -322,17 +323,16 @@
         </li>
         <li class="template-layout-column-center-right">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/people/nicholus-crudele-dreamspace.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/gabriella-dezso-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
-              <h6>Nicholas Crudele</h6>
+              <h6>Dr. Gabriella Dezsö</h6>
               </br>
-              </br>
-              <span>BioTech</span>
-              <span>Canada</span>
+              <span>Startup Business</span>
+              <span>Switzerland</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
-                <li><a target="_blank" href="https://www.linkedin.com/in/nicholas-nico-crudele-07b3239a/">
+                <li><a target="_blank" href="https://www.linkedin.com/in/gabrielladezso/">
                     <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
                   </a></li>
               </ul>
@@ -341,17 +341,17 @@
         </li>
         <li class="template-layout-column-right">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/people/ellen-jorgensen-dreamspace.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/sujan-selvan-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
-              <h6>Ellen Jorgensen</h6>
+              <h6>Sujan Selvan</h6>
               </br>
               </br>
-              <span>BioEthics | BioTech</span>
-              <span>USA</span>
+              <span>Impact Ventures</span>
+              <span>Australia | Sri Lanka</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
-                <li><a target="_blank" href="https://www.linkedin.com/in/ellenjorgensen/">
+                <li><a target="_blank" href="https://www.linkedin.com/in/sujanselven/">
                     <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
                   </a></li>
               </ul>
@@ -360,16 +360,16 @@
         </li>
         <li class="template-layout-column-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/people/rachel-aronoff-dreamspace.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/kamalanathan-pakkiyaraja-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
-              <h6>Rachel Aronoff</h6>
-            </br>
-              <span>Genetics | BioTech</span>
-              <span>Switzerland | USA</span>
+              <h6>Kamalanathan Pakkiyaraja</h6>
+              </br>
+              <span>Finance</span>
+              <span>Canada</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
-                <li><a target="_blank" href="https://www.linkedin.com/in/rachelaronoff/">
+                <li><a target="_blank" href="https://www.linkedin.com/in/kamalanathan-pakkiyaraja-70997141/">
                     <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
                   </a></li>
               </ul>
@@ -378,16 +378,16 @@
         </li>
         <li class="template-layout-column-center-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/people/scott-pownall-dreamspace.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/stephen-byam-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
-              <h6>Scott Pownall</h6>
+              <h6>Stephen Byam</h6>
               </br>
-              <span>BioTech</span>
-              <span>Canada</span>
+              <span>Finance</span>
+              <span>USA</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
-                <li><a target="_blank" href="https://www.linkedin.com/in/spownall/">
+                <li><a target="_blank" href="https://www.linkedin.com/in/stephen-byam-38a1a91a/">
                     <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
                   </a></li>
               </ul>
@@ -396,17 +396,17 @@
         </li>
         <li class="template-layout-column-center-right">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/people/kathrin-hadasch-dreamspace.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/peter-glasser-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
-              <h6>Kathrin Hadasch</h6>
+              <h6>Peter Glasser</h6>
               </br>
-              <span>Bioinformatics</span>
-              <span>Germany</span>
+              <span>Finance</span>
+              <span>Switzerland</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
-                <li><a target="_blank" href="https://www.linkedin.com/in/kathrin-hadasch/">
-                    <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
+                <li><a target="_blank" href="https://www.facebook.com/peter.glaser.353">
+                    <i class="fab fa-facebook fa-lg" style="color: white; padding-top: 17px;"></i>
                   </a></li>
               </ul>
             </div>
@@ -414,16 +414,16 @@
         </li>
         <li class="template-layout-column-right">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/people/sarah-blossom-ware-dreamspace.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/noelene-palmer-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
-              <h6>Sarah Blossom Ware</h6>
+              <h6>Noelene Palmer</h6>
               </br>
-              <span>BioEthics | BioTech</span>
-              <span>USA</span>
+              <span>Business Development</span>
+              <span>Australia</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
-                <li><a target="_blank" href="https://www.linkedin.com/in/sarahblossomware/">
+                <li><a target="_blank" href="https://www.linkedin.com/in/noelenepalmer">
                     <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
                   </a></li>
               </ul>
@@ -432,16 +432,16 @@
         </li>
         <li class="template-layout-column-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/people/guy-aidelberg-dreamspace.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/shay-lynch-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
-              <h6>Guy Aidelberg</h6>
+              <h6>Shay Lynch</h6>
               </br>
-              <span>BioTech</span>
-              <span>France | Israel</span>
+              <span>Systems Thinking | Strategy</span>
+              <span>Ireland</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
-                <li><a target="_blank" href="https://www.biosummit.org/guy-aidelberg-2018">
+                <li><a target="_blank" href="https://www.linkedin.com/in/shaylynch/">
                     <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
                   </a></li>
               </ul>
@@ -451,7 +451,7 @@
       </ul>
     </div>
   </div>
-</div> -->
+</div>
 
 <div class="template-content-section template-padding-reset template-background-image">
     <div class="template-main">
