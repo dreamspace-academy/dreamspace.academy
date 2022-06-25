@@ -355,7 +355,7 @@
                                         <i class="fab fa-linkedin-in fa-lg"
                                             style="color: white; padding-top: 17px;"></i>
                                     </a></li>
-                                <li><a target="_blank" href="https://www.facebook.com/kuna.rakulan">
+                                <li><a target="_blank" href="https://github.com/gunarakulangunaretnam">
                                         <i class="fas fa-link fa-lg" style="color: white; padding-top: 17px;"></i>
                                     </a></li>
                             </ul>
@@ -425,7 +425,7 @@
                                         <i class="fab fa-linkedin-in fa-lg"
                                             style="color: white; padding-top: 17px;"></i>
                                     </a></li>
-                                <li><a target="_blank" href="https://www.facebook.com/govarthenan">
+                                <li><a target="_blank" href="https://github.com/govarthenan">
                                         <i class="fas fa-link fa-lg" style="color: white; padding-top: 17px;"></i>
                                     </a></li>
                             </ul>
@@ -448,7 +448,7 @@
                                         <i class="fab fa-linkedin-in fa-lg"
                                             style="color: white; padding-top: 17px;"></i>
                                     </a></li>
-                                <li><a target="_blank" href="#">
+                                <li><a target="_blank" href="https://github.com/shanthanisk/">
                                         <i class="fas fa-link fa-lg" style="color: white; padding-top: 17px;"></i>
                                     </a></li>
                             </ul>
@@ -472,7 +472,7 @@
                                         <i class="fab fa-linkedin-in fa-lg"
                                             style="color: white; padding-top: 17px;"></i>
                                     </a></li>
-                                <li><a target="_blank" href="#">
+                                <li><a target="_blank" href="https://github.com/thivaharan-selvanayagam">
                                         <i class="fas fa-link fa-lg" style="color: white; padding-top: 17px;"></i>
                                     </a></li>
                             </ul>
