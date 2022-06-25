@@ -1,7 +1,7 @@
 <div class="template-content-section template-padding-top-reset template-padding-bottom-reset">
 	<div class="template-main">
 		<div class="template-component-header-subheader">
-			<h3>What capacities do we build?</h3>
+			<h3>Challenge-based Learning</h3>
 			<h6></h6>
 			<div></div>
 		</div>

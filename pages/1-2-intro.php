@@ -46,14 +46,6 @@
 						and fostering <b style="color: #56509F">sustainable startups</b>
 					</p>
 					</br>
-				</span>
-
-				<span>
-					<div class="template-component-header-subheader">
-						<h3>What are our verticals and activities?</h3>
-						<h6></h6>
-						<div></div>
-					</div>
 					<center>
 						<img src="../media/others/svgs/social-mission-business-venture.svg" height="400" width="800" />
 					</center>

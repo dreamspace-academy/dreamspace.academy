@@ -3,7 +3,7 @@
 	<div class="template-main">
 
 		<div class="template-component-header-subheader">
-			<h3>What are our achievements?</h3>
+			<h3>Achievements</h3>
 			<h6></h6>
 			<div></div>
 		</div>
