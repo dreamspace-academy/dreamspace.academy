@@ -69,9 +69,9 @@
 								<li><a href="5-4-bio-lab.php">Bio Lab</a></li>
 								<li><a href="5-5-space-lab.php">Space Lab</a></li>
 								<li><a href="5-6-music-lab.php">Music Lab</a></li>
-								<li><a href="3-1-0-maker-education.php">Peace Lab</a></li>
-								<li><a href="3-1-0-maker-education.php">Nano Lab</a></li>				
-								<li><a href="3-1-0-maker-education.php#business-lab">Business Lab</a></li>
+								<li><a href="5-7-peace-lab.php">Peace Lab</a></li>
+								<li><a href="5-8-nano-lab.php">Nano Lab</a></li>				
+								<li><a href="5-9-business-lab.php">Business Lab</a></li>
 							</ul>
 						</li>
 

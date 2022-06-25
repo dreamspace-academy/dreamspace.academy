@@ -1,7 +1,7 @@
 <div class="template-content-section template-padding-top-reset template-padding-bottom-reset">
 	<div class="template-main">
 		<div class="template-component-header-subheader">
-			<h3>What capacities do we build?</h3>
+			<h3>Challenge-based Learning</h3>
 			<h6></h6>
 			<div></div>
 		</div>
@@ -17,7 +17,7 @@
 						</br>
 						</br>
 					</div>
-					<a href="3-1-0-maker-education.php#electronics-lab" class="template-component-button template-component-button-style-1">More<i></i></a>
+					<a href="5-1-electromechanics-lab.php" class="template-component-button template-component-button-style-1">More<i></i></a>
 				</li>
 				<li class="template-layout-column-center-left">
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
@@ -40,7 +40,7 @@
 						<p>For those who are fascinated by immersive narratives, to gain storytelling skillsets for communicating complex details to the common audience</p>
 						</br>
 					</div>
-					<a href="3-1-0-maker-education.php#story-lab" class="template-component-button template-component-button-style-1">More<i></i></a>
+					<a href="5-3-story-lab.php" class="template-component-button template-component-button-style-1">More<i></i></a>
 				</li>
 				<li class="template-layout-column-right">
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
@@ -63,7 +63,7 @@
 						<p>For those who look upwards into the endless universes, to gain hands-on knowledge astronomy, space exploration, aviation and drone technology</p>
 						</br>
 					</div>
-					<a href="3-1-0-maker-education.php#space-lab" class="template-component-button template-component-button-style-1">More<i></i></a>
+					<a href="5-5-space-lab.php" class="template-component-button template-component-button-style-1">More<i></i></a>
 				</li>
 				<li class="template-layout-column-center-left">
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
@@ -74,7 +74,7 @@
 						<p>For those with genuine creative imagination, to build practical skillsets for composing anything from photographs to rhythms</p>
 						</br>
 					</div>
-					<a href="3-1-0-maker-education.php#art-lab" class="template-component-button template-component-button-style-1">More<i></i></a>
+					<a href="5-6-music-lab.php" class="template-component-button template-component-button-style-1">More<i></i></a>
 				</li>
 				<li class="template-layout-column-center-right">
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
@@ -85,7 +85,7 @@
 						<p>For those who are driven by systems change, to gain hands-on knowledge on the co-creation of national and regional policies reforms</p>
 						</br>
 					</div>
-					<a href="3-1-0-maker-education.php#" class="template-component-button template-component-button-style-1">More<i></i></a>
+					<a href="5-7-peace-lab.php" class="template-component-button template-component-button-style-1">More<i></i></a>
 				</li>
 				<li class="template-layout-column-right">
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
@@ -96,7 +96,7 @@
 						<p>For those who have the finest mind to fiddle with molecule-scale structures, to build practical dexterity on NanoTechnology</p>
 						</br>
 					</div>
-					<a href="3-1-0-maker-education.php#" class="template-component-button template-component-button-style-1">More<i></i></a>
+					<a href="5-8-nano-lab.php" class="template-component-button template-component-button-style-1">More<i></i></a>
 				</li>
 				<li class="template-layout-column-left">
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
@@ -107,7 +107,7 @@
 						<p>For those with an entrepreneurial mindset, to acquire practical knowledge for maximising the growth of business ventures</p>
 						</br>
 					</div>
-					<a href="3-1-0-maker-education.php#business-lab" class="template-component-button template-component-button-style-1">More<i></i></a>
+					<a href="5-9-business-lab.php" class="template-component-button template-component-button-style-1">More<i></i></a>
 				</li>	
 				<!-- <li class="template-layout-column-center-right">
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">

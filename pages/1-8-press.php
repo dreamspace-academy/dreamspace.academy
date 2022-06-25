@@ -3,7 +3,7 @@
 	<div class="template-main">
 
 		<div class="template-component-header-subheader">
-			<h3>Who is talking about us?</h3>
+			<h3>Press</h3>
 			<h6></h6>
 			<div></div>
 		</div>
