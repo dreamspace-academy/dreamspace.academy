@@ -20,7 +20,7 @@
     </div>
 </div>
 
-<!-- <div class="template-main template-padding-bottom-5" id="infrastructure">
+<div class="template-main template-padding-bottom-5" id="infrastructure">
 	<div class="template-component-header-subheader">
 		<h2>Infrastructure</h2>
 		<h6></h6>
@@ -30,15 +30,15 @@
 	<div class="template-layout-column-left">
 		<div class="template-component-nivo-slider template-component-nivo-slider-style-1 template-preloader">
 			<div>
-				<img src="../media/gallery/infrastructure-space-lab-dreamspace-1.jpg" data-thumb="../media/gallery/infrastructure-space-lab-dreamspace-1.jpg" alt="DreamSpace Academy" />
-				<img src="../media/gallery/infrastructure-space-lab-dreamspace-2.jpg" data-thumb="../media/gallery/infrastructure-space-lab-dreamspace-2.jpg" alt="DreamSpace Academy" />
-				<img src="../media/gallery/infrastructure-space-lab-dreamspace-3.jpg" data-thumb="../media/gallery/infrastructure-space-lab-dreamspace-3.jpg" alt="DreamSpace Academy" />
-				<img src="../media/gallery/infrastructure-space-lab-dreamspace-4.jpg" data-thumb="../media/gallery/infrastructure-space-lab-dreamspace-4.jpg" alt="DreamSpace Academy" />
+				<img src="../media/gallery/infrastructure-peace-lab-dreamspace-1.jpg" data-thumb="../media/gallery/infrastructure-peace-lab-dreamspace-1.jpg" alt="DreamSpace Academy" />
+				<img src="../media/gallery/infrastructure-peace-lab-dreamspace-2.jpg" data-thumb="../media/gallery/infrastructure-peace-lab-dreamspace-2.jpg" alt="DreamSpace Academy" />
+				<img src="../media/gallery/infrastructure-peace-lab-dreamspace-3.jpg" data-thumb="../media/gallery/infrastructure-peace-lab-dreamspace-3.jpg" alt="DreamSpace Academy" />
+				<img src="../media/gallery/infrastructure-peace-lab-dreamspace-4.jpg" data-thumb="../media/gallery/infrastructure-peace-lab-dreamspace-4.jpg" alt="DreamSpace Academy" />
 			</div>
 		</div>
 	</div>
 
-</div> -->
+</div>
 
 <!-- <div class="template-content-section template-padding-top-reset template-padding-bottom-reset">
 	<div class="template-main">
