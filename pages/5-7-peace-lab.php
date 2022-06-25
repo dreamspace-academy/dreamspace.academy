@@ -1,24 +1,23 @@
 <?php include('0-0-header.php') ?>
 
-<div class="template-content-section template-padding-top-reset template-padding-bottom-reset"> 
-	<div class="template-main">
-		<div class="template-component-header-subheader">
-			<h3>
-
-				<span>
-					<div class="template-component-header-subheader">
-						<h2>Peace Lab</h2>
-						<h6></h6>
-						<div></div>
-					</div>
-					<p style="font-size:25px; color:#707070;">
-                    For those who are driven by systems change, to gain hands-on knowledge on the co-creation of national and regional policies reforms
+<div class="template-content-section template-padding-top-reset template-padding-bottom-reset">
+    <div class="template-main">
+        <div class="template-component-header-subheader">
+            <h3>
+                <span>
+                    <div class="template-component-header-subheader">
+                        <h2>Peace Lab</h2>
+                        <h6></h6>
+                        <div></div>
+                    </div>
+                    <p style="font-size:25px; color:#707070;">
+                        For those who are driven by systems change, to gain hands-on knowledge on the co-creation of
+                        national and regional policies reforms
                     </p>
-				</span>
-
-			</h3>
-		</div>
-	</div>
+                </span>
+            </h3>
+        </div>
+    </div>
 </div>
 
 <!-- <div class="template-main template-padding-bottom-5" id="infrastructure">
@@ -394,20 +393,23 @@
 </div> -->
 
 <div class="template-content-section template-padding-reset template-background-image">
-	<div class="template-main">
-		<div class="template-component-call-to-action template-component-call-to-action-style-2 template-section-white">
-			<div class="template-component-call-to-action-content">
-				<div class="template-component-call-to-action-content-left">
-					<h6>
-            If you want to be part of Peace Lab at DreamSpace Academy as an impact investor, partner, donor, team member or trainee, please reach out to us !!!
-          </h6>
-				</div>
-				<div class="template-component-call-to-action-content-right">
-					<a href="#" class="template-component-button template-component-button-style-2 template-section-white">Contact Us<i></i></a>
-				</div>
-			</div>
-		</div>
-	</div>
+    <div class="template-main">
+        <div class="template-component-call-to-action template-component-call-to-action-style-2 template-section-white">
+            <div class="template-component-call-to-action-content">
+                <div class="template-component-call-to-action-content-left">
+                    <h6>
+                        If you want to be part of Peace Lab at DreamSpace Academy as an impact investor, partner, donor,
+                        team member or trainee, please reach out to us !!!
+                    </h6>
+                </div>
+                <div class="template-component-call-to-action-content-right">
+                    <a href="#"
+                        class="template-component-button template-component-button-style-2 template-section-white">Contact
+                        Us<i></i></a>
+                </div>
+            </div>
+        </div>
+    </div>
 </div>
 
 <?php include('9-0-footer.php') ?>
