@@ -460,7 +460,7 @@
             <div class="template-component-call-to-action-content">
                 <div class="template-component-call-to-action-content-left">
                     <h6>
-                        If you want to be part of Peace Lab at DreamSpace Academy as an impact investor, partner, donor,
+                        If you want to be part of Nano Lab at DreamSpace Academy as an impact investor, partner, donor,
                         team member or trainee, please reach out to us !!!
                     </h6>
                 </div>
