@@ -253,6 +253,18 @@ textarea
 	display:none !important;
 }
 
+.brand_color_purple
+{
+	font-weight: bold;
+	color: #56509F;
+}
+
+.brand_color_orange
+{
+	font-weight: bold;
+	color: #FE6500;
+}
+
 /******************************************************************************/
 /* Font																	  */
 /******************************************************************************/
