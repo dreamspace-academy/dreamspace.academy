@@ -464,7 +464,7 @@
                     </h6>
                 </div>
                 <div class="template-component-call-to-action-content-right">
-                    <a href="#"
+                    <a href="8-1-contact.php"
                         class="template-component-button template-component-button-style-2 template-section-white">Contact
                         Us<i></i></a>
                 </div>

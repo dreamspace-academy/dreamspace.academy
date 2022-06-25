@@ -583,7 +583,7 @@
                 </div>
                 <div class="template-component-call-to-action-content-right">
                     <a target="_blank"
-                        href="https://docs.google.com/forms/d/e/1FAIpQLSfq3d8YuzySE2OwSFxA3ruRIbN3eIwn046lwqxg_S1KDuzh4w/viewform?usp=sf_link"
+                        href="8-1-contact.php"
                         class="template-component-button template-component-button-style-2 template-section-white">Contact
                         Us<i></i></a>
                 </div>

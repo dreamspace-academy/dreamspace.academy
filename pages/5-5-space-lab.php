@@ -419,7 +419,7 @@
                 </div>
                 <div class="template-component-call-to-action-content-right">
                     <a target="_blank"
-                        href="https://docs.google.com/forms/d/e/1FAIpQLSdrTjjAj2xwsBqJOWOkXLjm5yBy52HuWPKglT90yUUGb4pLzA/viewform?usp=sf_link"
+                        href="8-1-contact.php"
                         class="template-component-button template-component-button-style-2 template-section-white">Contact
                         Us<i></i></a>
                 </div>
