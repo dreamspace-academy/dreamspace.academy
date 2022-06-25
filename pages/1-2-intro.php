@@ -10,19 +10,24 @@
                         <div></div>
                     </div>
                     <p>
-                        Three decades of <b style="color: #56509F">civil war</b> in Sri Lanka caused a massive impact on
-                        <b>socio-economy</b> and <b style="color: #56509F">environmental ecosystems</b>
+                        Three decades of
+                        <span class="brand_color_purple">civil war</span> in Sri Lanka caused a massive impact on the
+                        <span class="brand_color_orange">socio-economy</span> and the
+                        <span class="brand_color_purple">environment</span>
                     </p>
                     <div class="template-margin-top-3"></div>
                     <p>
-                        <b style="color: #56509F">International aid</b> provided significant support, but <b>imported
-                            solutions</b> couldn't solve fundamental <b style="color: #56509F">local problems
-                            sustainably</b>
+                        <span class="brand_color_purple">International aid</span> provided significant support, but
+                        <span class="brand_color_orange">imported solutions</span> couldn't
+                        <span class="brand_color_purple">sustainably</span> solve fundamental </br>
+                        <span class="brand_color_orange">local problems</span>
                     </p>
                     <div class="template-margin-top-3"></div>
                     <p>
-                        We set out to <b>empower locals</b> to solve </br>complex <b style="color: #56509F">local
-                            challenges !!!</b>
+                        So we set out to
+                        <span class="brand_color_purple">empower locals</span> to solve </br>
+                        <span class="brand_color_orange">our own</span> complex
+                        <span class="brand_color_purple">challenges</span> !!!
                     </p>
                 </span>
 
@@ -33,11 +38,13 @@
                         <div></div>
                     </div>
                     <p>
-                        <b style="color: #56509F">DreamSpace Academy</b> is a <b style="color: #56509F">non-profit
-                            social enterprise</b> tackling local <b>socio-economic</b> and <b
-                            style="color: #56509F">environmental</b> challenges through <b>challenge-based
-                            learning</b>,
-                        <b style="color: #56509F">grassroots innovation</b> and <b>impact venture building</b>
+                        <span class="brand_color_purple">DreamSpace Academy</span> is a non-profit
+                        <span class="brand_color_orange">social enterprise</span> tackling local
+                        <span class="brand_color_purple">socio-economic</span> and
+                        <span class="brand_color_orange">environmental</span> challenges through
+                        <span class="brand_color_purple">challenge-based learning</span>,
+                        <span class="brand_color_orange">grassroots innovation</span> and
+                        <span class="brand_color_purple">impact venture building</span>
                     </p>
                 </span>
 
@@ -48,10 +55,13 @@
                         <div></div>
                     </div>
                     <p>
-                        Our mission is to achieve <b style="color: #56509F">sustainable development goals</b> in Sri
-                        Lanka by empowering <b>underserved communities</b>, protecting <b
-                            style="color: #56509F">environmental ecosystems</b>, facilitating <b>peacebuilding</b>
-                        and fostering <b style="color: #56509F">sustainable startups</b>
+                        Our mission is to achieve
+                        <span class="brand_color_purple">sustainable development goals</span> by empowering
+                        <span class="brand_color_orange">underserved communities</span> and protecting
+                        <span class="brand_color_purple">environmental ecosystems</span> with
+                        <span class="brand_color_orange">education</span>,
+                        <span class="brand_color_purple">innovation</span> and
+                        <span class="brand_color_orange">entrepreneurship</span>
                     </p>
                     </br>
                     <center>
