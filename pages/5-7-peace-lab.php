@@ -11,8 +11,9 @@
                         <div></div>
                     </div>
                     <p style="font-size:25px; color:#707070;">
-                        For those who are driven by systems change, to gain hands-on knowledge on the co-creation of
-                        national and regional policies reforms
+                    Peace lab aims to help society to acquire skills for nonviolent conflict resolution and to reinforce these skills for active and responsible action in the society for the promotion of the values of peace.
+                    <br><br>
+                    Peace education activities promote the knowledge, skills and attitudes that will help people either to prevent the occurrence of conflict, resolve conflicts peacefully, or create social conditions conducive to peace.
                     </p>
                 </span>
             </h3>

@@ -12,7 +12,7 @@
                         <div></div>
                     </div>
                     <p style="font-size:25px; color:#707070;">
-                    For those who have entrepreneurial mindset, to build practical knowledge for maximizing growth of the business venture.
+                    Business lab helps to strengthen the youth budding entrepreneurs in Sri Lanka to transform their ideas into a real startup. The lab provides practical exposure of the processes and procedures followed by organizations in conducting commercial practices.
                     </p>
                 </span>
 
