@@ -11,10 +11,11 @@
 						<h6></h6>
 						<div></div>
 					</div>
-					<!-- <p style="font-size:25px; color:#707070;">
-          Our mission is deep-rooted in establishing a sustainable Bioeconomy in Sri Lanka to create local life-science and biotech innovations to address biomedical and ecological challenges.<br><br>
-          Bio Lab at DreamSpace academy provides an environment with unconditional access to education and research infrastructure for the global community of biologists, citizen scientists, biohackers, and changemakers to realise their ideas into knowledge, innovations and enterprises.
-                    </p> -->
+					<p style="font-size:25px; color:#707070;">
+					Our mission is deep-rooted in establishing a sustainable peacebuilding through music to help communities address the many stages of conflict in a more constructive and creative way and making it in the music industry in Sri Lanka.
+					<br><br>
+					Music Lab of DreamSpace if focusing on make peace through music, social harmony through music, social awareness through music, innovations in music, music recording, sound recording and research, education and training, identify people who are interested in music and encourage them, music band, techno music and many other fields of interest. 
+					</p>
 				</span>
 
 			</h3>
@@ -44,7 +45,7 @@
 
 </div>
 
-<!-- <div class="template-content-section template-padding-top-reset template-padding-bottom-reset">
+<div class="template-content-section template-padding-top-reset template-padding-bottom-reset">
 	<div class="template-main">
 		<div class="template-component-header-subheader">
 			<h2>Workshops</h2>
@@ -55,33 +56,21 @@
 			<ul class="template-layout-25x25x25x25 template-clear-fix">
 				<li class="template-layout-column-left">
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
-						<img src="../media/gallery/bio-lab-workshop-dreamspace-1.jpg" alt="DreamSpace Academy" />
+						<img src="../media/gallery/workshop-music-lab-dreamspace-1.jpg" alt="DreamSpace Academy" />
 					</div>
-					<h5>Microscopy workshop</h5>
+					<h5>Guitar Bootcamp</h5>
 					<div>
-						<p>A workshop to get to know how to handle a microscope and how to prepare microscope slides.</p>
+						<p>A bootcamp for those who love to learn guitar and keyboard.</p>
 						</br>
 						</br>
 					</div>
-					<a target="_blank" href="https://www.linkedin.com/posts/dreamspace-academy_biotech-education-entrepreneurship-activity-6931187217813946368-X6Iq?utm_source=linkedin_share&utm_medium=member_desktop_web" class="template-component-button template-component-button-style-1">More<i></i></a>
-				</li>
-        <li class="template-layout-column-center-left">
-					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
-						<img src="../media/gallery/bio-lab-workshop-dreamspace-2.jpg" alt="DreamSpace Academy" />
-					</div>
-					<h5>Biopython workshop</h5>
-					<div>
-						<p>A workshop to get to know about fundamentals of Biopython and protein visualization.</p>
-						</br>
-						</br>
-					</div>
-					<a target="_blank" href="https://www.linkedin.com/posts/dreamspace-academy_biotechnology-education-innovation-activity-6938083014249697280-lEcH?utm_source=linkedin_share&utm_medium=member_desktop_web" class="template-component-button template-component-button-style-1">More<i></i></a>
+					<a target="_blank" href="https://www.facebook.com/dreamspace.academy/photos/a.2147257888884876/3168548540089134" class="template-component-button template-component-button-style-1">More<i></i></a>
 				</li>
 			</ul>
 			<div class="template-pagination template-pagination-style-1"></div>
 		</div>
 	</div>
-</div> -->
+</div>
 
 <!-- <div class="template-content-section template-padding-top-reset template-padding-bottom-reset">
 	<div class="template-main">

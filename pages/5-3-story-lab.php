@@ -46,7 +46,7 @@
 
 </div>
 
-<!-- <div class="template-content-section template-padding-top-reset template-padding-bottom-reset">
+<div class="template-content-section template-padding-top-reset template-padding-bottom-reset">
 	<div class="template-main">
 		<div class="template-component-header-subheader">
 			<h2>Workshops</h2>
@@ -57,11 +57,11 @@
 			<ul class="template-layout-25x25x25x25 template-clear-fix">
 				<li class="template-layout-column-left">
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
-						<img src="../media/gallery/bio-lab-workshop-dreamspace-1.jpg" alt="DreamSpace Academy" />
+						<img src="../media/gallery/workshop-story-lab-dreamspace-1.jpg" alt="DreamSpace Academy" />
 					</div>
-					<h5>Microscopy workshop</h5>
+					<h5>Photography workshop</h5>
 					<div>
-						<p>A workshop to get to know how to handle a microscope and how to prepare microscope slides.</p>
+						<p>A workshop to explain the working mechanism and production of the camera at the basic level.</p>
 						</br>
 						</br>
 					</div>
@@ -69,11 +69,23 @@
 				</li>
         <li class="template-layout-column-center-left">
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
-						<img src="../media/gallery/bio-lab-workshop-dreamspace-2.jpg" alt="DreamSpace Academy" />
+						<img src="../media/gallery/workshop-story-lab-dreamspace-2.jpg" alt="DreamSpace Academy" />
 					</div>
-					<h5>Biopython workshop</h5>
+					<h5>Hatton Photography workshop</h5>
 					<div>
 						<p>A workshop to get to know about fundamentals of Biopython and protein visualization.</p>
+						</br>
+						</br>
+					</div>
+					<a target="_blank" href="https://www.linkedin.com/posts/dreamspace-academy_biotechnology-education-innovation-activity-6938083014249697280-lEcH?utm_source=linkedin_share&utm_medium=member_desktop_web" class="template-component-button template-component-button-style-1">More<i></i></a>
+				</li>
+        <li class="template-layout-column-center-left">
+					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
+						<img src="../media/gallery/workshop-story-lab-dreamspace-3.jpg" alt="DreamSpace Academy" />
+					</div>
+					<h5>Videography workshop</h5>
+					<div>
+						<p>A workshop to learn to create and analyze moving images, to produce research, and to make art.</p>
 						</br>
 						</br>
 					</div>
@@ -83,7 +95,7 @@
 			<div class="template-pagination template-pagination-style-1"></div>
 		</div>
 	</div>
-</div> -->
+</div>
 
 <!-- <div class="template-content-section template-padding-top-reset template-padding-bottom-reset">
 	<div class="template-main">
