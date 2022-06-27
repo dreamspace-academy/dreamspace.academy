@@ -108,6 +108,17 @@
 						</br>
 					</div>
 					<a href="5-9-business-lab.php" class="template-component-button template-component-button-style-1">More<i></i></a>
+				</li>
+				<li class="template-layout-column-center-left">
+					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
+						<img src="../media/gallery/lab-ocean-dreamspace.jpg" alt="DreamSpace Academy" />
+					</div>
+					<h5>Ocean Lab</h5>
+					<div>
+						<p>For next-generation ocean advocates to tackle challenges of marine ecosystems by co-creating open innovations and ocean literacy.</p>
+						</br>
+					</div>
+					<a href="5-10-ocean-lab.php" class="template-component-button template-component-button-style-1">More<i></i></a>
 				</li>	
 				<!-- <li class="template-layout-column-center-right">
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
