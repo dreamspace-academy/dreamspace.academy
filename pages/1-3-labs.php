@@ -120,6 +120,19 @@
 					</div>
 					<a href="5-10-ocean-lab.php" class="template-component-button template-component-button-style-1">More<i></i></a>
 				</li>	
+				<li class="template-layout-column-center-right">
+					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
+						<img src="../media/gallery/lab-regeneration-dreamspace.jpg" alt="DreamSpace Academy" />
+					</div>
+					<h5>Regeneration Lab</h5>
+					<div>
+						<p>
+						For those who are interested to tackle plastic waste management problem in Sri Lanka through an upcycling process.
+						</p>
+						</br>
+					</div>
+					<a href="5-11-regeneration-lab.php" class="template-component-button template-component-button-style-1">More<i></i></a>
+				</li>
 				<!-- <li class="template-layout-column-center-right">
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
 						<img src="../media/gallery/lab-fabrics-dreamspace-1.jpg" alt="DreamSpace Academy" />

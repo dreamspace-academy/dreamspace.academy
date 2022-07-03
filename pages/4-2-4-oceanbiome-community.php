@@ -203,7 +203,7 @@
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
             <img src="../media/people/abisheth-varman-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
-              <h6>Abisheth Varman</h6>
+              <h6>Abishethvarman V</h6>
               </br>
               <span>Batticaloa</span>
             </div>
