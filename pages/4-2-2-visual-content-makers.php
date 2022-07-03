@@ -75,7 +75,7 @@
         </li>
         <li class="template-layout-column-right">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/people/azath-aabdeen-dreamspace.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/azath-mohamed-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Mohamed Azath Aabdeen</h6>
               </br>
