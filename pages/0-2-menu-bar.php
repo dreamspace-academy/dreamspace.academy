@@ -69,6 +69,7 @@
 										<li><a href="5-8-nano-lab.php">Nano Lab</a></li>				
 										<li><a href="5-9-business-lab.php">Business Lab</a></li>
 										<li><a href="5-10-ocean-lab.php">Ocean Lab</a></li>
+										<li><a href="5-11-regeneration-lab.php">Regeneration Lab</a></li>
 									</ul>
 								</div>
 
