@@ -139,6 +139,7 @@
 								<li><a href="4-2-0-communities.php#oceanbiome-community">OceanBiome Community</a></li>
 								<li><a href="4-2-0-communities.php#ai-community">AI Community</a></li>
 								<li><a href="4-2-0-communities.php#makers">Change Makers</a></li>
+								<li><a href="4-2-0-communities.php#shetechpreneur-community">SheTechpreneur Community</a></li>
 							</ul>
 						</li>
 
