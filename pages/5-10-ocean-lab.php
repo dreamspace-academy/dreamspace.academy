@@ -37,10 +37,6 @@
             <div>
                 <img src="../media/gallery/infrastructure-ocean-lab-dreamspace-1.jpg"
                     data-thumb="../media/gallery/infrastructure-ocean-lab-dreamspace-1.jpg" alt="DreamSpace Academy" />
-                <img src="../media/gallery/infrastructure-ocean-lab-dreamspace-2.jpg"
-                    data-thumb="../media/gallery/infrastructure-ocean-lab-dreamspace-2.jpg" alt="DreamSpace Academy" />
-                <img src="../media/gallery/infrastructure-ocean-lab-dreamspace-3.jpg"
-                    data-thumb="../media/gallery/infrastructure-ocean-lab-dreamspace-3.jpg" alt="DreamSpace Academy" />
                 <img src="../media/gallery/infrastructure-ocean-lab-dreamspace-4.jpg"
                     data-thumb="../media/gallery/infrastructure-ocean-lab-dreamspace-4.jpg" alt="DreamSpace Academy" />
                 <img src="../media/gallery/infrastructure-ocean-lab-dreamspace-5.jpg"
