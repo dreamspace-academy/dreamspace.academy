@@ -56,12 +56,14 @@
                     </div>
                     <p>
                         Our mission is to achieve
-                        <span class="brand_color_purple">sustainable development goals</span> by empowering
-                        <span class="brand_color_orange">underserved communities</span> and protecting
-                        <span class="brand_color_purple">environmental ecosystems</span> with
-                        <span class="brand_color_orange">education</span>,
-                        <span class="brand_color_purple">innovation</span> and
-                        <span class="brand_color_orange">entrepreneurship</span>
+                        <span class="brand_color_purple">sustainable development goals</span> through
+                        <span class="brand_color_purple">education</span>,
+                        <span class="brand_color_orange">innovation</span> and
+                        <span class="brand_color_purple">entrepreneurship</span> by empowering
+                        <span class="brand_color_orange">underserved communities</span>, protecting
+                        <span class="brand_color_purple">environmental ecosystems</span>, fostering
+                        <span class="brand_color_orange">economic initiatives</span> and facilitating
+                        <span class="brand_color_purple">peacebuilding</span>
                     </p>
                     </br>
                     <center>
