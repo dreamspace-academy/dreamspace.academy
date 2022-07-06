@@ -18,8 +18,7 @@
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
             <img src="../media/people/prarthana-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
-              <h6>Prarththana Sumandiran</h6>
-              </br>
+              <h6>Prarththana</br>Sumandiran</h6>
               </br>
               <span>Batticaloa</span>
             </div>
@@ -39,7 +38,7 @@
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
             <img src="../media/people/thigshicca-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
-              <h6>Thigshicca Vigneshwaramoorthy</h6>
+              <h6>Thigshicca</br>Vigneshwaramoorthy</h6>
               </br>
               <span>Batticaloa</span>
             </div>
@@ -59,8 +58,7 @@
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
             <img src="../media/people/harishana-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
-              <h6>Harishana Pathmarajah</h6>
-              </br>
+              <h6>Harishana</br>Pathmarajah</h6>
               </br>
               <span>Batticaloa</span>
             </div>
@@ -80,8 +78,7 @@
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
             <img src="../media/people/yathusha-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
-              <h6>Yathusa Manoharan</h6>
-              </br>
+              <h6>Yathusa</br>Manoharan</h6>
               </br>
               <span>Batticaloa</span>
             </div>
@@ -101,8 +98,7 @@
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
             <img src="../media/people/dinushika-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
-              <h6>Anne Dinushika Denis</h6>
-              </br>
+              <h6>Anne Dinushika</br>Denis</h6>
               </br>
               <span>Batticaloa</span>
             </div>
@@ -122,8 +118,7 @@
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
             <img src="../media/people/kopikkah-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
-              <h6>Kopikkah Mylvaganam</h6>
-              </br>
+              <h6>Kopikkah</br>Mylvaganam</h6>
               </br>
               <span>Batticaloa</span>
             </div>
@@ -143,8 +138,7 @@
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
             <img src="../media/people/raksha-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
-              <h6>Raksha Mariyanesam</h6>
-              </br>
+              <h6>Raksha</br>Mariyanesam</h6>
               </br>
               <span>Batticaloa</span>
             </div>
@@ -164,8 +158,7 @@
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
             <img src="../media/people/rachana-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
-              <h6>Rachana Mariyanesam</h6>
-              </br>
+              <h6>Rachana</br>Mariyanesam</h6>
               </br>
               <span>Batticaloa</span>
             </div>
