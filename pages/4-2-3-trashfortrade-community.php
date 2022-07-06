@@ -187,7 +187,7 @@
                         <div>
                             <h6>Ravini</br>Hettiarachchi</h6>
                             </br>
-                            <span>Kalutara</span>
+                            <span>Kurunagela</span>
                         </div>
                         <div
                             class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
