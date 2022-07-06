@@ -16,6 +16,47 @@
 				<li class="template-layout-column-left">
 					<!-- Counter -->
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
+						<img src="../media/logos/slasscom-dreamspace.jpg" alt="DreamSpace Academy" />
+					</div>
+
+					<!-- Header -->
+					<h6>SLASSCOM National Ingenuity Awards 2022</br>2022 - Sri Lanka</h6>
+					<a href="2-0-about.php#achievements" class="template-component-button template-component-button-style-1">More<i></i></a>
+				</li>
+				<li class="template-layout-column-left">
+					<!-- Counter -->
+					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
+						<img src="../media/logos/biz-dreamspace.jpg" alt="DreamSpace Academy" />
+					</div>
+
+					<!-- Header -->
+					<h6>BIZ 2022</br>2022 - Sri Lanka</h6></br>
+					<a href="2-0-about.php#achievements" class="template-component-button template-component-button-style-1">More<i></i></a>
+				</li>
+				<li class="template-layout-column-left">
+					<!-- Counter -->
+					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
+						<img src="../media/logos/ieee-dreamspace.jpg" alt="DreamSpace Academy" />
+					</div>
+
+					<!-- Header -->
+					<h6>IEEE Innovation Nation Sri Lanka</br>2021 - Sri Lanka</h6>
+					<a href="2-0-about.php#achievements" class="template-component-button template-component-button-style-1">More<i></i></a>
+				</li>
+				<li class="template-layout-column-left">
+					<!-- Counter -->
+					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
+						<img src="../media/logos/shelovestech-dreamspace.jpg" alt="DreamSpace Academy" />
+					</div>
+
+					<!-- Header -->
+					<h6>She Loves Tech</br>2021 - Sri Lanka</h6></br>
+					<a href="2-0-about.php#achievements" class="template-component-button template-component-button-style-1">More<i></i></a>
+				</li>
+
+				<li class="template-layout-column-left">
+					<!-- Counter -->
+					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
 						<img src="../media/logos/nestle-dreamspace.jpg" alt="DreamSpace Academy" />
 					</div>
 
