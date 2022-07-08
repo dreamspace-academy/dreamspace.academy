@@ -1,8 +1,12 @@
 <div class="template-main template-padding-bottom-5" id="infrastructure">
     <div class="template-component-header-subheader">
-        <h2>DreamSpace Hive Infrastructure</h2>
+        <h2>Infrastructure</h2>
         <h6></h6>
         <div></div>
+    </div>
+
+    <div class="template-component-header-subheader">
+        <h3>DreamSpace Hive Infrastructure</h3>
     </div>
 
     <div class="template-layout-column-left">
@@ -32,10 +36,9 @@
 
 <div class="template-main template-padding-bottom-5" id="infrastructure">
     <div class="template-component-header-subheader">
-        <h2>DreamSpace Collective Infrastructure</h2>
-        <h6></h6>
-        <div></div>
+        <h3>DreamSpace Collective Infrastructure</h3>
     </div>
+
 
     <div class="template-layout-column-left">
         <div class="template-component-nivo-slider template-component-nivo-slider-style-1 template-preloader">
