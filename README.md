@@ -124,6 +124,6 @@
 
     - revert: The commit reverts one or more commits that were previously included in the product, but were accidentally merged or serious issues were discovered that required their removal from the main branch.
 
-- <p align="center">
-  <img src="./media/others/web-screen.png">
-  </p>
+<p align="center">
+<img src="./media/others/web-screen.png">
+</p>
