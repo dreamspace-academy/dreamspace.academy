@@ -116,7 +116,7 @@
 
     - security: The commit improves the security of the product or resolves a security issue that has been reported.
 
-    - style: he commit updates or reformats the style of the source code, but does not otherwise change the product implementation.
+    - style: The commit updates or reformats the style of the source code, but does not otherwise change the product implementation.
 
     - deprecate: The commit deprecates existing functionality, but does not remove it from the product.
 
