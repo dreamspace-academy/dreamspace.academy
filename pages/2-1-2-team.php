@@ -236,7 +236,7 @@
                         <div>
                             <h6>Joel </br>Antony</h6>
                             </br>
-                            <span>Creative Editor</br>Music Lab</span>
+                            <span>Creative Editor</br>Media Lab</span>
                         </div>
                         <div
                             class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
@@ -332,7 +332,7 @@
                         <div>
                             <h6>Gabiksha</br>Mohanalingam</h6>
                             </br>
-                            <span>Assistant Guardian</br>Electromechanics Lab</span>
+                            <span>Assistant Guardian</br>Electronics Lab</span>
                         </div>
                         <div
                             class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
@@ -355,7 +355,7 @@
                         <div>
                             <h6>Sajeev</br>Punithakaran</h6>
                             </br>
-                            <span>Trainer|Electronics</br>Electromechanics Lab</span>
+                            <span>Trainer|Electronics</br>Electronics Lab</span>
                         </div>
                         <div
                             class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
@@ -378,7 +378,7 @@
                         <div>
                             <h6>Kiritharan</br>Mahendran</h6>
                             </br>
-                            <span>Trainer|Electronics</br>Electromechanics Lab</span>
+                            <span>Trainer|Electronics</br>Electronics Lab</span>
                         </div>
                         <div
                             class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
@@ -401,7 +401,7 @@
                         <div>
                             <h6>Kokulnath</br>Mahendran</h6>
                             </br>
-                            <span>Assistant Trainer|Electronics</br>Electromechanics Lab</span>
+                            <span>Assistant Trainer|Electronics</br>Electronics Lab</span>
                         </div>
                         <div
                             class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
