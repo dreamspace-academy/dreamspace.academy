@@ -160,7 +160,7 @@
                     </div>
 
                 </li>
-                <li class="template-layout-column-center-left">
+                <!-- <li class="template-layout-column-center-left">
                     <div
                         class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
                         <img src="../media/people/saraful-aadhil-dreamspace.jpg" alt="DreamSpace Academy" />
@@ -182,8 +182,8 @@
                             </ul>
                         </div>
                     </div>
-                </li>
-                <li class="template-layout-column-right">
+                </li> -->
+                <!-- <li class="template-layout-column-right">
                     <div
                         class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
                         <img src="../media/people/jerushan-sritharan-dreamspace.jpg" alt="DreamSpace Academy" />
@@ -205,7 +205,8 @@
                             </ul>
                         </div>
                     </div>
-                </li><li class="template-layout-column-left">
+                </li> -->
+                <!-- <li class="template-layout-column-left">
                     <div
                         class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
                         <img src="../media/people/natalia-aravinth-dreamspace.jpg" alt="DreamSpace Academy" />
@@ -228,8 +229,8 @@
                             </ul>
                         </div>
                     </div>
-                </li>
-                <li class="template-layout-column-center-left">
+                </li> -->
+                <!-- <li class="template-layout-column-center-left">
                     <div
                         class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
                         <img src="../media/people/prasanna-sivagnanam-dreamspace.jpg" alt="DreamSpace Academy" />
@@ -251,7 +252,7 @@
                             </ul>
                         </div>
                     </div>
-                </li>
+                </li> -->
                 <li class="template-layout-column-center-right">
                     <div
                         class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
@@ -535,7 +536,7 @@
 
                 <!-- Graduated changemakers -->
 
-                <li class="template-layout-column-center-right">
+                <!-- <li class="template-layout-column-center-right">
                     <div
                         class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
                         <img src="../media/people/jayanthan-amalanathan-dreamspace.jpg" alt="DreamSpace Academy" />
@@ -558,8 +559,8 @@
                             </ul>
                         </div>
                     </div>
-                </li>
-                <li class="template-layout-column-right">
+                </li> -->
+                <!-- <li class="template-layout-column-right">
                     <div
                         class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
                         <img src="../media/people/shanjeevan-amalanathan-dreamspace.jpg" alt="DreamSpace Academy" />
@@ -582,8 +583,8 @@
                             </ul>
                         </div>
                     </div>
-                </li>
-                <li class="template-layout-column-left">
+                </li> -->
+                <!-- <li class="template-layout-column-left">
                     <div
                         class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
                         <img src="../media/people/jathujan-mahendran-dreamspace.jpg" alt="DreamSpace Academy" />
@@ -605,7 +606,7 @@
                             </ul>
                         </div>
                     </div>
-                </li>
+                </li> -->
             </ul>
         </div>
     </div>
