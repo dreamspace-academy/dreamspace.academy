@@ -16,7 +16,7 @@
                 <li class="template-layout-column-left">
                     <div
                         class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-                        <img src="../media/people/kishoth-navaretnarajah-dreamspace.jpg" alt="DreamSpace Academy" />
+                        <img src="../media/people/kishoth.jpg" alt="DreamSpace Academy" />
                         <div>
                             <h6>Kishoth</br>Navaretnarajah</h6>
                             </br>
@@ -162,7 +162,7 @@
                 <li class="template-layout-column-center-right">
                     <div
                         class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-                        <img src="../media/people/rathees-koneswaran-dreamspace.jpg" alt="DreamSpace Academy" />
+                        <img src="../media/people/Rathees.jpg" alt="DreamSpace Academy" />
                         <div>
                             <h6>Rathees</br>Koneswaran</h6>
                             </br>
@@ -208,7 +208,7 @@
                 <li class="template-layout-column-left">
                     <div
                         class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-                        <img src="../media/people/azath.jpg" alt="DreamSpace Academy" />
+                        <img src="../media/people/azath2.jpg" alt="DreamSpace Academy" />
                         <div>
                             <h6>Azath</br>Aabdeen Mohamed</h6>
                             </br>
@@ -304,7 +304,7 @@
                 <li class="template-layout-column-left">
                     <div
                         class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-                        <img src="../media/people/Yalini.jpg" alt="DreamSpace Academy" />
+                        <img src="../media/people/yalini2.jpg" alt="DreamSpace Academy" />
                         <div>
                             <h6>Yalini</br>Pushpakanthan</h6>
                             </br>
@@ -328,7 +328,7 @@
                 <li class="template-layout-column-center-left">
                     <div
                         class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-                        <img src="../media/people/gabiksha-mohanalingam-dreamspace.jpg" alt="DreamSpace Academy" />
+                        <img src="../media/people/Gabi.jpg" alt="DreamSpace Academy" />
                         <div>
                             <h6>Gabiksha</br>Mohanalingam</h6>
                             </br>
@@ -374,7 +374,7 @@
                 <li class="template-layout-column-right">
                     <div
                         class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-                        <img src="../media/people/kiritharan-mahendran-dreamspace.jpg" alt="DreamSpace Academy" />
+                        <img src="../media/people/Kiritharan.jpg" alt="DreamSpace Academy" />
                         <div>
                             <h6>Kiritharan</br>Mahendran</h6>
                             </br>
@@ -559,7 +559,7 @@
                 <li class="template-layout-column-right">
                     <div
                         class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-                        <img src="../media/people/rishothman.jpg" alt="DreamSpace Academy" />
+                        <img src="../media/people/rishothman2.jpg" alt="DreamSpace Academy" />
                         <div>
                             <h6>Rishothman</br>Gnanasekaram</h6>
                             </br>
