@@ -18,9 +18,9 @@
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
             <img src="../media/logos/bookbridge-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
-              <h6>BookBridge</h6>
+              <h6>BOOKBRIDGE</h6>
               </br>
-              <span>Swiss</span>
+              <span>Switzerland</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
