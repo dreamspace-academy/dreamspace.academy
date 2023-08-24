@@ -655,7 +655,7 @@
                         <div>
                             <h6>Sutharuban</br>Manikarajah</h6>
                             </br>
-                            <span>Security Guard</br>Maintenance Workers</span>
+                            <span>Security </br> Guard</span>
                         </div>
                         <div
                             class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
@@ -678,7 +678,7 @@
                         <div>
                             <h6>Valansiya</br>Sahayathevan</h6>
                             </br>
-                            <span>Multi-duty Assistant</br>Maintenance Workers</span>
+                            <span>Multi-duty </br>Assistant</span>
                         </div>
                         <div
                             class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
@@ -699,9 +699,9 @@
                         class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
                         <img src="../media/people/shanthini.jpg" alt="DreamSpace Academy" />
                         <div>
-                            <h6>Valansiya</br>Sahayathevan</h6>
+                            <h6>Shanthini </br>Duraisingham</h6>
                             </br>
-                            <span>Multi-duty Assistant</br>Maintenance Workers</span>
+                            <span>Multi-duty </br>Assistant</span>
                         </div>
                         <div
                             class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
