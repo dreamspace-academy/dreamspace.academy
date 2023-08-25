@@ -54,7 +54,7 @@
 					</div>
 					<a href="5-4-bio-lab.php" class="template-component-button template-component-button-style-1">More<i></i></a>
 				</li>
-				<li class="template-layout-column-left">
+				<!-- <li class="template-layout-column-left">
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
 						<img src="../media/gallery/lab-space-dreamspace-2.jpg" alt="DreamSpace Academy" />
 					</div>
@@ -64,7 +64,7 @@
 						</br>
 					</div>
 					<a href="5-5-space-lab.php" class="template-component-button template-component-button-style-1">More<i></i></a>
-				</li>
+				</li> -->
 				<li class="template-layout-column-center-left">
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
 						<img src="../media/gallery/lab-music-dreamspace-1.jpg" alt="DreamSpace Academy" />
@@ -76,7 +76,7 @@
 					</div>
 					<a href="5-6-music-lab.php" class="template-component-button template-component-button-style-1">More<i></i></a>
 				</li>
-				<li class="template-layout-column-center-right">
+				<!-- <li class="template-layout-column-center-right">
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
 						<img src="../media/gallery/lab-peace-dreamspace-0.jpg" alt="DreamSpace Academy" />
 					</div>
@@ -86,8 +86,8 @@
 						</br>
 					</div>
 					<a href="5-7-peace-lab.php" class="template-component-button template-component-button-style-1">More<i></i></a>
-				</li>
-				<li class="template-layout-column-right">
+				</li> -->
+				<!-- <li class="template-layout-column-right">
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
 						<img src="../media/gallery/lab-nano-dreamspace-1.jpg" alt="DreamSpace Academy" />
 					</div>
@@ -97,7 +97,7 @@
 						</br>
 					</div>
 					<a href="5-8-nano-lab.php" class="template-component-button template-component-button-style-1">More<i></i></a>
-				</li>
+				</li> -->
 				<li class="template-layout-column-left">
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
 						<img src="../media/gallery/lab-business-dreamspace-1.jpg" alt="DreamSpace Academy" />
@@ -109,7 +109,7 @@
 					</div>
 					<a href="5-9-business-lab.php" class="template-component-button template-component-button-style-1">More<i></i></a>
 				</li>
-				<li class="template-layout-column-center-left">
+				<!-- <li class="template-layout-column-center-left">
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
 						<img src="../media/gallery/lab-ocean-dreamspace.jpg" alt="DreamSpace Academy" />
 					</div>
@@ -119,7 +119,7 @@
 						</br>
 					</div>
 					<a href="5-10-ocean-lab.php" class="template-component-button template-component-button-style-1">More<i></i></a>
-				</li>	
+				</li>	 -->
 				<li class="template-layout-column-center-right">
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
 						<img src="../media/gallery/lab-regeneration-dreamspace.jpg" alt="DreamSpace Academy" />
