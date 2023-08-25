@@ -126,7 +126,7 @@
                             <div class="sf-mega template-layout-20x20x20x20x20 template-clear-fix">
 
 
-                                <div class="template-layout-column-center">
+                                <div class="template-layout-column-left">
                                     <span class="sf-mega-header">International Aid Projects</span>
                                     <ul>
                                         <li><a href="4-3-0-international-aid-projects.php#dofe">The Duke of Edinburgh's
@@ -138,7 +138,7 @@
                                     </ul>
                                 </div>
 
-                                <div class="template-layout-column-center-right">
+                                <div class="template-layout-column-center-left">
                                     <span class="sf-mega-header">Service Providing</span>
                                     <ul>
                                         </br>
@@ -155,7 +155,7 @@
                                     </ul>
                                 </div>
 
-                                <div class="template-layout-column-right">
+                                <div class="template-layout-column-center">
                                     <span class="sf-mega-header">Ventures</span>
                                     <ul>
                                         </br>
