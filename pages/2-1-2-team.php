@@ -632,7 +632,7 @@
                         <div>
                             <h6>Sharmiga</br>Thevarasa</h6>
                             </br>
-                            <span>Guardian</br>DreamSpace Women</span>
+                            <span>Guardian</br>DreamSpace of Women</span>
                         </div>
                         <div
                             class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">

@@ -3,7 +3,7 @@
 		<div class="template-main template-clear-fix">
 			<div class="template-header-top-logo">
 				<a href="1-0-index.php">
-					<img src="../media/logos/dsa-logo.png" /> </br> 
+					<img class="template-logo-main" src="../media/logos/logo-dsa.png" /></br> 
 					
 				</a>
 			</div>
