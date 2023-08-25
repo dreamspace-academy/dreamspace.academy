@@ -3,7 +3,7 @@
   <!-- Funding Partners -->
   <!-- Header and subheader -->
   <div class="template-component-header-subheader">
-    <h2>Our Funding Partners</h2>
+    <h2>Our  Partners</h2>
     <h6></h6>
     <div></div>
   </div>
@@ -50,14 +50,15 @@
         </li>
         <li class="template-layout-column-center-right">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/logos/sylc-dreamspace.jpg" alt="DreamSpace Academy" />
+            <img src="../media/logos/globalcommunities.jpg" alt="DreamSpace Academy" />
             <div>
-              <h6>Strengthening Youth Leadership Collective</h6>
+              <h6>Global Communities</h6>
+              </br>
               <span>Sri Lanka</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
-                <li><a target="_blank" href="https://sylcsl.org/">
+                <li><a target="_blank" href="https://globalcommunities.org/country/sri-lanka/">
                     <i class="fas fa-link fa-lg" style="color: white; padding-top: 17px;"></i>
                   </a></li>
               </ul>
@@ -66,15 +67,15 @@
         </li>
         <li class="template-layout-column-right">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/logos/open-edge-dreamspace.jpg" alt="DreamSpace Academy" />
+            <img src="../media/logos/usaid.jpg" alt="DreamSpace Academy" />
             <div>
-              <h6>OpenEdge</h6>
+              <h6>USAID</h6>
               </br>
-              <span>UK</span>
+              <span>Sri Lanka</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
-                <li><a target="_blank" href="https://www.openedge.org.uk/">
+                <li><a target="_blank" href="https://www.usaid.gov/sri-lanka">
                     <i class="fas fa-link fa-lg" style="color: white; padding-top: 17px;"></i>
                   </a></li>
               </ul>
@@ -82,6 +83,91 @@
           </div>
         </li>
         <li class="template-layout-column-left">
+          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+            <img src="../media/logos/undp.jpg" alt="DreamSpace Academy" />
+            <div>
+              <h6>UNDP</h6>
+              </br>
+              <span>Sri Lanka</span>
+            </div>
+            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+              <ul>
+                <li><a target="_blank" href="https://www.undp.org/srilanka">
+                    <i class="fas fa-link fa-lg" style="color: white; padding-top: 17px;"></i>
+                  </a></li>
+              </ul>
+            </div>
+          </div>
+        </li>
+        <li class="template-layout-column-center-left">
+          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+            <img src="../media/logos/lenovo.jpg" alt="DreamSpace Academy" />
+            <div>
+              <h6>Lenovo Foundation</h6>
+              </br>
+              <span>Singapore</span>
+            </div>
+            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+              <ul>
+                <li><a target="_blank" href="https://www.lenovo.com/us/en/about/foundation/">
+                    <i class="fas fa-link fa-lg" style="color: white; padding-top: 17px;"></i>
+                  </a></li>
+              </ul>
+            </div>
+          </div>
+        </li>
+        <li class="template-layout-column-center-right">
+          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+            <img src="../media/logos/magicbit.jpg" alt="DreamSpace Academy" />
+            <div>
+              <h6>Magicbit.</h6>
+              </br>
+              <span>Sri Lanka</span>
+            </div>
+            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+              <ul>
+                <li><a target="_blank" href="https://magicbit.cc/">
+                    <i class="fas fa-link fa-lg" style="color: white; padding-top: 17px;"></i>
+                  </a></li>
+              </ul>
+            </div>
+          </div>
+        </li>
+        <li class="template-layout-column-right">
+          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+            <img src="../media/logos/ims.jpg" alt="DreamSpace Academy" />
+            <div>
+              <h6>IMS</h6>
+              </br>
+              <span>Denmark</span>
+            </div>
+            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+              <ul>
+                <li><a target="_blank" href="https://www.mediasupport.org/">
+                    <i class="fas fa-link fa-lg" style="color: white; padding-top: 17px;"></i>
+                  </a></li>
+              </ul>
+            </div>
+          </div>
+        </li>
+        <li class="template-layout-column-left">
+          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+            <img src="../media/logos/sltc.jpg" alt="DreamSpace Academy" />
+            <div>
+              <h6>SLTC</h6>
+              </br>
+              <span>sri Lanka</span>
+            </div>
+            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+              <ul>
+                <li><a target="_blank" href="https://sltc.ac.lk/">
+                    <i class="fas fa-link fa-lg" style="color: white; padding-top: 17px;"></i>
+                  </a></li>
+              </ul>
+            </div>
+          </div>
+        </li>
+        <li class="template-layout-column-center-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
             <img src="../media/logos/sqm-foundation-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
@@ -98,7 +184,7 @@
             </div>
           </div>
         </li>
-        <li class="template-layout-column-center-left">
+        <li class="template-layout-column-center-right">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
             <img src="../media/logos/mirchandani-foundation-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
@@ -115,25 +201,40 @@
             </div>
           </div>
         </li>
-      </ul>
-    </div>
-  </div>
-
-  <!-- Project Partners -->
-  <!-- Header and subheader -->
-  <div class="template-component-header-subheader">
-    <h2>Our Project Partners</h2>
-    <h6></h6>
-    <div></div>
-  </div>
-
-  <!-- Section -->
-  <div class="template-content-section template-padding-bottom-5 template-main">
-
-    <!-- Gallery -->
-    <div class="template-component-gallery">
-      <ul class="template-layout-25x25x25x25 template-clear-fix">
+        <li class="template-layout-column-right">
+          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+            <img src="../media/logos/sylc-dreamspace.jpg" alt="DreamSpace Academy" />
+            <div>
+              <h6>Strengthening Youth Leadership Collective</h6>
+              <span>Sri Lanka</span>
+            </div>
+            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+              <ul>
+                <li><a target="_blank" href="https://sylcsl.org/">
+                    <i class="fas fa-link fa-lg" style="color: white; padding-top: 17px;"></i>
+                  </a></li>
+              </ul>
+            </div>
+          </div>
+        </li>
         <li class="template-layout-column-left">
+          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+            <img src="../media/logos/open-edge-dreamspace.jpg" alt="DreamSpace Academy" />
+            <div>
+              <h6>OpenEdge</h6>
+              </br>
+              <span>UK</span>
+            </div>
+            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+              <ul>
+                <li><a target="_blank" href="https://www.openedge.org.uk/">
+                    <i class="fas fa-link fa-lg" style="color: white; padding-top: 17px;"></i>
+                  </a></li>
+              </ul>
+            </div>
+          </div>
+          </li>
+          <li class="template-layout-column-center-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
             <img src="../media/logos/siwi-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
@@ -150,7 +251,7 @@
             </div>
           </div>
         </li>
-        <li class="template-layout-column-center-left">
+        <li class="template-layout-column-center-right">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
             <img src="../media/logos/duke-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
@@ -167,7 +268,7 @@
             </div>
           </div>
         </li>
-        <li class="template-layout-column-center-right">
+        <li class="template-layout-column-right">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
             <img src="../media/logos/s4ig-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
@@ -184,7 +285,7 @@
             </div>
           </div>
         </li>
-        <li class="template-layout-column-right">
+        <li class="template-layout-column-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
             <img src="../media/logos/stsa-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
@@ -201,7 +302,7 @@
             </div>
           </div>
         </li>
-        <li class="template-layout-column-left">
+        <li class="template-layout-column-center-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
             <img src="../media/logos/gtm-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
@@ -218,7 +319,7 @@
             </div>
           </div>
         </li>
-        <li class="template-layout-column-center-left">
+        <li class="template-layout-column-center-right">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
             <img src="../media/logos/sarvodaya-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
@@ -235,7 +336,7 @@
             </div>
           </div>
         </li>
-        <li class="template-layout-column-center-right">
+        <li class="template-layout-column-right">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
             <img src="../media/logos/irex-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
@@ -253,7 +354,7 @@
             </div>
           </div>
         </li>
-        <li class="template-layout-column-right">
+        <li class="template-layout-column-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
             <img src="../media/logos/upcycled-tech-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
@@ -271,25 +372,7 @@
             </div>
           </div>
         </li>
-      </ul>
-    </div>
-  </div>
-
-  <!-- Network Partners -->
-  <!-- Header and subheader -->
-  <div class="template-component-header-subheader">
-    <h2>Our Network Partners</h2>
-    <h6></h6>
-    <div></div>
-  </div>
-
-  <!-- Section -->
-  <div class="template-content-section template-padding-bottom-5 template-main">
-
-    <!-- Gallery -->
-    <div class="template-component-gallery">
-      <ul class="template-layout-25x25x25x25 template-clear-fix">
-        <li class="template-layout-column-left">
+        <li class="template-layout-column-center-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
             <img src="../media/logos/motionlab-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
@@ -307,7 +390,7 @@
             </div>
           </div>
         </li>
-        <li class="template-layout-column-center-left">
+        <li class="template-layout-column-center-right">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
             <img src="../media/logos/gig-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
@@ -324,7 +407,7 @@
             </div>
           </div>
         </li>
-        <li class="template-layout-column-center-right">
+        <li class="template-layout-column-right">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
             <img src="../media/logos/cpbr-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
@@ -341,7 +424,7 @@
             </div>
           </div>
         </li>
-        <li class="template-layout-column-right">
+        <li class="template-layout-column-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
             <img src="../media/logos/un-volunteers-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
@@ -359,7 +442,7 @@
             </div>
           </div>
         </li>
-        <li class="template-layout-column-left">
+        <li class="template-layout-column-center-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
             <img src="../media/logos/greenbuzz-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
@@ -377,7 +460,7 @@
             </div>
           </div>
         </li>
-        <li class="template-layout-column-center-left">
+        <li class="template-layout-column-center-right">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
             <img src="../media/logos/troublemaker-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
@@ -395,7 +478,7 @@
             </div>
           </div>
         </li>
-        <li class="template-layout-column-center-right">
+        <li class="template-layout-column-right">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
             <img src="../media/logos/steam-head-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
@@ -413,7 +496,7 @@
             </div>
           </div>
         </li>
-        <li class="template-layout-column-right">
+        <li class="template-layout-column-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
             <img src="../media/logos/gosh-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
@@ -430,7 +513,7 @@
             </div>
           </div>
         </li>
-        <li class="template-layout-column-left">
+        <li class="template-layout-column-center-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
             <img src="../media/logos/shdb-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
@@ -448,7 +531,7 @@
             </div>
           </div>
         </li>
-        <li class="template-layout-column-center-left">
+        <li class="template-layout-column-center-right">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
             <img src="../media/logos/scout-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
@@ -466,7 +549,7 @@
             </div>
           </div>
         </li>
-        <li class="template-layout-column-center-right">
+        <li class="template-layout-column-right">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
             <img src="../media/logos/lwb-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
@@ -483,7 +566,7 @@
             </div>
           </div>
         </li>
-        <li class="template-layout-column-right">
+        <li class="template-layout-column-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
             <img src="../media/logos/jogl-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
@@ -501,7 +584,7 @@
             </div>
           </div>
         </li>
-        <li class="template-layout-column-left">
+        <li class="template-layout-column-center-left">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
             <img src="../media/logos/a2p-dreamspace.jpg" alt="DreamSpace Academy" />
             <div>
@@ -521,5 +604,44 @@
       </ul>
     </div>
   </div>
+
+
+  <!-- Project Partners -->
+  <!-- Header and subheader -->
+  <!-- <div class="template-component-header-subheader">
+    <h2>Our Project Partners</h2>
+    <h6></h6>
+    <div></div>
+  </div> -->
+
+  <!-- Section -->
+  <!-- <div class="template-content-section template-padding-bottom-5 template-main"> -->
+
+    <!-- Gallery -->
+    <!-- <div class="template-component-gallery">
+      <ul class="template-layout-25x25x25x25 template-clear-fix">
+       
+      </ul>
+    </div>
+  </div> -->
+
+  <!-- Network Partners -->
+  <!-- Header and subheader -->
+  <!-- <div class="template-component-header-subheader">
+    <h2>Our Network Partners</h2>
+    <h6></h6>
+    <div></div>
+  </div> -->
+
+  <!-- Section -->
+  <!-- <div class="template-content-section template-padding-bottom-5 template-main"> -->
+
+    <!-- Gallery -->
+    <!-- <div class="template-component-gallery">
+      <ul class="template-layout-25x25x25x25 template-clear-fix">
+       
+      </ul>
+    </div>
+  </div> -->
 
 </div>
