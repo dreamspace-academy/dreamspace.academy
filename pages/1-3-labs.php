@@ -25,7 +25,7 @@
 					</div>
 					<h5>Mechanics Lab</h5>
 					<div>
-						<p>For individuals intrigued by mechanics, to cultivate hands-on skills in constructing diverse projects, from basic mechanisms to intricate mechanical systems.</p>
+						<p>For enthusiasts captivated by mechanics, acquire hands-on skills crafting machines, from gears to automata.</p>
 						</br>
 						</br>
 					</div>
@@ -153,7 +153,7 @@
 					<h5>Blue Lab</h5>
 					<div>
 						<p>
-						For individuals intrigued by underwater research, to acquire hands-on skills for exploring marine environments, mastering submersible technologies, and studying aquatic life.
+						For those intrigued by underwater research, gain hands-on skills for exploring marine environments and technologies.
 						</p>
 						</br>
 					</div>
@@ -166,7 +166,7 @@
 					<h5>Leaders Lab</h5>
 					<div>
 						<p>
-						For aspiring leaders, to cultivate essential skills for guiding teams and organizations towards success, covering areas from strategic planning to effective communication.
+						For those aspiring for leadership, to cultivate skills for guiding teams, fostering growth, and achieving excellence.
 						</p>
 						</br>
 					</div>
