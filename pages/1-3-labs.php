@@ -25,7 +25,7 @@
 					</div>
 					<h5>Mechanics Lab</h5>
 					<div>
-						<p>For those who are fascinated by robots, to develop practical skills for building anything from circuits to humanoid robotics</p>
+						<p>For individuals intrigued by mechanics, to cultivate hands-on skills in constructing diverse projects, from basic mechanisms to intricate mechanical systems.</p>
 						</br>
 						</br>
 					</div>
@@ -49,7 +49,7 @@
 					</div>
 					<h5>Media Lab</h5>
 					<div>
-						<p>For those who are fascinated by immersive narratives, to gain storytelling skillsets for communicating complex details to the common audience</p>
+						<p>For individuals intrigued by media, acquire hands-on skills to craft everything from captivating visuals to compelling narratives.</p>
 						</br>
 					</div>
 					<a href="5-3-story-lab.php" class="template-component-button template-component-button-style-1">More<i></i></a>
@@ -153,7 +153,7 @@
 					<h5>Blue Lab</h5>
 					<div>
 						<p>
-						For those who are interested to tackle plastic waste management problem in Sri Lanka through an upcycling process.
+						For individuals intrigued by underwater research, to acquire hands-on skills for exploring marine environments, mastering submersible technologies, and studying aquatic life.
 						</p>
 						</br>
 					</div>
@@ -166,7 +166,7 @@
 					<h5>Leaders Lab</h5>
 					<div>
 						<p>
-						For those who are interested to tackle plastic waste management problem in Sri Lanka through an upcycling process.
+						For aspiring leaders, to cultivate essential skills for guiding teams and organizations towards success, covering areas from strategic planning to effective communication.
 						</p>
 						</br>
 					</div>
@@ -179,7 +179,7 @@
 					<h5>Linguistic Lab</h5>
 					<div>
 						<p>
-						For those who are interested to tackle plastic waste management problem in Sri Lanka through an upcycling process.
+						For those intrigued by languages, to acquire practical skills for comprehending linguistic concepts to multilingualism.
 						</p>
 						</br>
 					</div>
