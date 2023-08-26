@@ -65,9 +65,10 @@
                 <li class="template-layout-column-left">
                     <span class="template-component-counter-box-counter counter-box-round">
                         <span class="template-component-counter-box-counter-value">23</span>
+                        <span class="template-component-counter-box-counter-character">+</span>
                     </span>
                     <h5>Awards</h5>
-                    <p>received from The Duke of Edinburgh</p>
+                    <p>acknowledgments for Our meaningful impacts</p>
                     <span class="template-component-counter-box-timeline template-state-hidden">
                         <span></span>
                     </span>

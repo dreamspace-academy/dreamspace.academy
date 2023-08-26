@@ -49,7 +49,7 @@
 					</div>
 					<h5>Media Lab</h5>
 					<div>
-						<p>For individuals intrigued by media, acquire hands-on skills to craft everything from captivating visuals to compelling narratives.</p>
+						<p>For media enthusiasts, gain hands-on skills in creating visuals and narratives for captivating content.</p>
 						</br>
 					</div>
 					<a href="5-3-story-lab.php" class="template-component-button template-component-button-style-1">More<i></i></a>
