@@ -21,7 +21,7 @@
 				</li>
 				<li class="template-layout-column-center-left">
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
-						<img src="../media/gallery/lab-mechanics-dreamspace-1.jpg" alt="DreamSpace Academy" />
+						<img src="../media/gallery/lab-mechanics-dreamspace-0.jpg" alt="DreamSpace Academy" />
 					</div>
 					<h5>Mechanics Lab</h5>
 					<div>
