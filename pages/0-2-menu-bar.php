@@ -178,15 +178,10 @@
                             <!-- <a href="7-1-support.php"><span class="template-icon-menu" style="font-size:xx-large;"><i
                                         class="fas fa-hand-holding-heart"></i></span>Support</a> -->
                             <a href="7-1-support.php"
-                                class="template-component-button template-component-button-style-1" style="/* Margins */
-margin-top: 1.2rem;
-margin-left: 2rem;
-
-padding: 15px 20px 15px 20px;
-
-border-radius: 10px; font-weight:600;">Support US<span style="font-size: 1.2rem;
-    margin-left: 1rem;
-    margin-bottom: 0;"><i class="fas fa-hand-holding-heart"></i></span></a>
+                                class="template-component-button template-component-button-style-1"
+                                style="margin-left: 2rem; padding: 15px 20px 15px 20px; border-radius: 10px; font-weight:600;">Support
+                                US<span style="font-size: 1.2rem; margin-left: 1rem; margin-bottom: 0;"><i
+                                        class="fas fa-hand-holding-heart"></i></span></a>
 
                         </li>
 
