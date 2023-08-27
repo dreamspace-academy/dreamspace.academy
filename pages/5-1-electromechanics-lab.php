@@ -7,12 +7,12 @@
 
                 <span>
                     <div class="template-component-header-subheader">
-                        <h2>Electromechanics Lab</h2>
+                        <h2>Electronics Lab</h2>
                         <h6></h6>
                         <div></div>
                     </div>
                     <p style="font-size:25px; color:#707070;">
-                        The electromechanics lab is a deep and high-tech container-based micro-factory model
+                        The Electronics lab is a deep and high-tech container-based micro-factory model
                         manufacturing space specialised in electronics, mechanical and electrical fields. It empowers
                         the community for building a sustainable economy in Sri Lanka. It provides open access to an
                         advanced infrastructure for manufacturing, training, research & development, and innovation to

@@ -29,7 +29,7 @@
 						</br>
 						</br>
 					</div>
-					<a href="5-1-electromechanics-lab.php" class="template-component-button template-component-button-style-1">More<i></i></a>
+					<a href="10-0-under-construction.php" class="template-component-button template-component-button-style-1">More<i></i></a>
 				</li>
 				<li class="template-layout-column-center-right">
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
@@ -52,7 +52,7 @@
 						<p>For media enthusiasts, gain hands-on skills in creating visuals and narratives for captivating content.</p>
 						</br>
 					</div>
-					<a href="5-3-story-lab.php" class="template-component-button template-component-button-style-1">More<i></i></a>
+					<a href="5-3-media-lab.php" class="template-component-button template-component-button-style-1">More<i></i></a>
 				</li>
 				
 				<!-- <li class="template-layout-column-left">
@@ -157,7 +157,7 @@
 						</p>
 						</br>
 					</div>
-					<a href="5-11-regeneration-lab.php" class="template-component-button template-component-button-style-1">More<i></i></a>
+					<a href="10-0-under-construction.php" class="template-component-button template-component-button-style-1">More<i></i></a>
 				</li>
 				<li class="template-layout-column-center-left">
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
@@ -170,7 +170,7 @@
 						</p>
 						</br>
 					</div>
-					<a href="5-11-regeneration-lab.php" class="template-component-button template-component-button-style-1">More<i></i></a>
+					<a href="10-0-under-construction.php" class="template-component-button template-component-button-style-1">More<i></i></a>
 				</li>
 				<li class="template-layout-column-center-right">
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
@@ -183,7 +183,7 @@
 						</p>
 						</br>
 					</div>
-					<a href="5-11-regeneration-lab.php" class="template-component-button template-component-button-style-1">More<i></i></a>
+					<a href="10-0-under-construction.php" class="template-component-button template-component-button-style-1">More<i></i></a>
 				</li>
 				<!-- <li class="template-layout-column-center-right">
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">
