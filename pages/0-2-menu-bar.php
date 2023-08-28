@@ -63,25 +63,32 @@
                         <li class="sf-mega-enable-1">
                             <a href="#"><span class="template-icon-menu" style="font-size:xx-large;"><i
                                         class="fas fa-seedling"></i></span>Lifecycle</a>
-                            <div class="sf-mega template-layout-25x25x25x25 template-clear-fix">
+                            <div class="sf-mega template-layout-20x20x20x20x20 template-clear-fix">
                                 <div class="template-layout-column-left">
-                                    <span class="sf-mega-header">Challenge-Based Learning</span>
+                                    <span class="sf-mega-header">Changemaker Discovery</span>
                                     <ul>
-                                        <li><a href="5-1-electromechanics-lab.php">Electromechanics Lab</a></li>
-                                        <li><a href="5-2-software-lab.php">Software Lab</a></li>
-                                        <li><a href="5-3-story-lab.php">Story Lab</a></li>
-                                        <li><a href="5-4-bio-lab.php">Bio Lab</a></li>
-                                        <li><a href="5-5-space-lab.php">Space Lab</a></li>
-                                        <li><a href="5-6-music-lab.php">Music Lab</a></li>
-                                        <li><a href="5-7-peace-lab.php">Peace Lab</a></li>
-                                        <li><a href="5-8-nano-lab.php">Nano Lab</a></li>
-                                        <li><a href="5-9-business-lab.php">Business Lab</a></li>
-                                        <li><a href="5-10-ocean-lab.php">Ocean Lab</a></li>
-                                        <li><a href="5-11-regeneration-lab.php">Regeneration Lab</a></li>
-                                    </ul>
+                                        <li><a href="workshop.php">Workshop</a></li>
+                                        <li><a href="bootcamp.php">Bootcamp</a></li>
                                 </div>
 
                                 <div class="template-layout-column-center-left">
+                                    <span class="sf-mega-header">Challenge-Based Learning</span>
+                                    <ul>
+                                        <li><a href="5-1-electromechanics-lab.php">Electronics Lab</a></li>
+                                        <li><a href="10-0-under-construction.php">Mechanics Lab</a></li>
+                                        <li><a href="5-2-software-lab.php">Software Lab</a></li>
+                                        <li><a href="5-3-media-lab.php">Media Lab</a></li>
+                                        <li><a href="5-6-music-lab.php">Music Lab</a></li>
+                                        <li><a href="5-4-bio-lab.php">Bio Lab</a></li>
+                                        <li><a href="5-9-business-lab.php">Business Lab</a></li>
+                                        <li><a href="5-11-regeneration-lab.php">Regeneration Lab</a></li>
+                                        <li><a href="10-0-under-construction.php">Blue Lab</a></li>
+                                        <li><a href="10-0-under-construction.php">Leaders Lab</a></li>
+                                        <li><a href="10-0-under-construction.php">Linguistic Lab</a></li>
+                                    </ul>
+                                </div>
+
+                                <div class="template-layout-column-center">
                                     <span class="sf-mega-header">Grassroots Innovation</span>
                                     <ul>
                                         <li><a href="3-2-6-dreamfungi.php">DreamFungi</a></li>
