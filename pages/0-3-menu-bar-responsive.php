@@ -48,6 +48,14 @@
                 <li>
                     <a href="#">Lifecycle<span></span></a>
                     <ul>
+                        <!-- Changemaker Discovery -->
+                        <li>
+                            <a href="#">Changemaker Discovery<span></span></a>
+                            <ul>
+                                <li><a href="workshop.php">Workshop</a></li>
+                                <li><a href="bootcamp.php">Bootcamp</a></li>
+                            </ul>
+                        </li>
 
                         <!-- Maker Education Menu -->
                         <li>
@@ -59,11 +67,7 @@
                                 <li><a href="5-3-media-lab.php">Media Lab</a></li>
                                 <li><a href="5-6-music-lab.php">Music Lab</a></li>
                                 <li><a href="5-4-bio-lab.php">Bio Lab</a></li>
-                                <!-- <li><a href="5-5-space-lab.php">Space Lab</a></li> -->
-                                <!-- <li><a href="5-7-peace-lab.php">Peace Lab</a></li> -->
-                                <!-- <li><a href="5-8-nano-lab.php">Nano Lab</a></li> -->
                                 <li><a href="5-9-business-lab.php">Business Lab</a></li>
-                                <!-- <li><a href="5-10-ocean-lab.php">Ocean Lab</a></li> -->
                                 <li><a href="5-11-regeneration-lab.php">Regeneration Lab</a></li>
                                 <li><a href="10-0-under-construction.php">Blue Lab</a></li>
                                 <li><a href="10-0-under-construction.php">Leaders Lab</a></li>

@@ -5187,17 +5187,17 @@ ul.template-widget-list
 					position:relative;
 				}
 
-					.template-component-menu-default ul.sf-menu>li>a
+				.template-component-menu-default ul.sf-menu>li>a
 					{
 						display:block;
 						min-width:110px;
 						text-align:center;
-						padding:10px 10px 25px 10px;
+						padding:10px 10px 35px 10px;
 					}
 
 					.template-header .template-header-top.template-header-top-sticky .template-component-menu-default ul.sf-menu>li>a
 					{
-						padding:25px 20px 60px 20px;
+						padding:25px 20px 65px 20px;
 					}
 
 						.template-component-menu-default ul.sf-menu ul a
