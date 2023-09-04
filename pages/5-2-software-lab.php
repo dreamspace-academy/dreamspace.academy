@@ -345,7 +345,7 @@
                         <div>
                             <h6>Gunarakulan</br>Gunaretnam</h6>
                             </br>
-                            <span>Guardian</br>Software Lab</span>
+                            <span>Head</br>Technology</span>
                         </div>
                         <div
                             class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
@@ -365,35 +365,11 @@
                 <li class="template-layout-column-center-right">
                     <div
                         class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-                        <img src="../media/people/abitharani-jeyachandran-dreamspace.jpg" alt="DreamSpace Academy" />
-                        <div>
-                            <h6>Abitharani</br>Jeyachandran</h6>
-                            </br>
-                            <span>Assistant</br>Software Lab</span>
-                        </div>
-                        <div
-                            class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
-                            <ul>
-                                <li><a target="_blank"
-                                        href="https://www.linkedin.com/in/abitharani-jeyachandran-8372b6199">
-                                        <i class="fab fa-linkedin-in fa-lg"
-                                            style="color: white; padding-top: 17px;"></i>
-                                    </a></li>
-                                <li><a target="_blank" href="https://github.com/Abitharani-Jeyachandran">
-                                        <i class="fas fa-link fa-lg" style="color: white; padding-top: 17px;"></i>
-                                    </a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </li>
-                <li class="template-layout-column-right">
-                    <div
-                        class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-                        <img src="../media/people/rathees-koneswaran-dreamspace.jpg" alt="DreamSpace Academy" />
+                        <img src="../media/people/Rathees.jpg" alt="DreamSpace Academy" />
                         <div>
                             <h6>Rathees</br>Koneswaran</h6>
                             </br>
-                            <span>Assistant</br>Software Lab</span>
+                            <span>Head </br>Programme Design|Strategy</span>
                         </div>
                         <div
                             class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
@@ -409,7 +385,7 @@
                         </div>
                     </div>
                 </li>
-                <li class="template-layout-column-left">
+                <li class="template-layout-column-right">
                     <div
                         class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
                         <img src="../media/people/govarthenan-rajadurai-dreamspace.jpg" alt="DreamSpace Academy" />
@@ -432,30 +408,53 @@
                         </div>
                     </div>
                 </li>
-                <li class="template-layout-column-center-left">
+                <li class="template-layout-column-left">
                     <div
                         class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-                        <img src="../media/people/shanthani-sugunakumar-dreamspace.jpg" alt="DreamSpace Academy" />
+                        <img src="../media/people/prajeevan.jpg" alt="DreamSpace Academy" />
                         <div>
-                            <h6>Shanthani</br>Sugunakumar</h6>
+                            <h6>Prajeevan</br>Sivanandharaja</h6>
                             </br>
-                            <span>Assistant</br>Software Lab</span>
+                            <span>Associate Data Analyst</br>Software Lab</span>
                         </div>
                         <div
                             class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
                             <ul>
-                                <li><a target="_blank" href="https://www.linkedin.com/in/shanthanisk/">
+                                <li><a target="_blank" href="https://www.linkedin.com/in/prajeevan-sivanandha-rajah-82a40b1a3/">
                                         <i class="fab fa-linkedin-in fa-lg"
                                             style="color: white; padding-top: 17px;"></i>
                                     </a></li>
-                                <li><a target="_blank" href="https://github.com/shanthanisk/">
+                                <li><a target="_blank" href="https://github.com/Prajeevans">
                                         <i class="fas fa-link fa-lg" style="color: white; padding-top: 17px;"></i>
                                     </a></li>
                             </ul>
                         </div>
                     </div>
                 </li>
-                <li class="template-layout-column-center-right">
+                <li class="template-layout-column-center-left">
+                    <div
+                        class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+                        <img src="../media/people/Ragappriya.jpg" alt="DreamSpace Academy" />
+                        <div>
+                            <h6>Ragappriya</br>Gowrirasan</h6>
+                            </br>
+                            <span>Trainee Data Analyst</br>Software Lab</span>
+                        </div>
+                        <div
+                            class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+                            <ul>
+                                <li><a target="_blank" href="https://www.linkedin.com/in/gowrirasan-ragappriya-687ab221b/">
+                                        <i class="fab fa-linkedin-in fa-lg"
+                                            style="color: white; padding-top: 17px;"></i>
+                                    </a></li>
+                                <li><a target="_blank" href="https://github.com/Ragappriya-Gowrirasan">
+                                        <i class="fas fa-link fa-lg" style="color: white; padding-top: 17px;"></i>
+                                    </a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </li>
+                <!-- <li class="template-layout-column-center-right">
                     <div
                         class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
                         <img src="../media/people/thivaharan-selvanayagam-dreamspace.jpg" alt="DreamSpace Academy" />
@@ -502,8 +501,8 @@
                             </ul>
                         </div>
                     </div>
-                </li>
-                <li class="template-layout-column-left">
+                </li> -->
+                <!-- <li class="template-layout-column-left">
                     <div
                         class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
                         <img src="../media/people/yineshpriyan-sivalingam-dreamspace.jpg" alt="DreamSpace Academy" />
@@ -526,7 +525,7 @@
                             </ul>
                         </div>
                     </div>
-                </li>
+                </li> -->
             </ul>
         </div>
     </div>
@@ -586,8 +585,7 @@
                     </h6>
                 </div>
                 <div class="template-component-call-to-action-content-right">
-                    <a target="_blank"
-                        href="8-1-contact.php"
+                    <a target="_blank" href="8-1-contact.php"
                         class="template-component-button template-component-button-style-2 template-section-white">Contact
                         Us<i></i></a>
                 </div>
