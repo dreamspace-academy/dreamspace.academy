@@ -29,6 +29,38 @@
             frameborder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
             allowfullscreen></iframe>
+
+            <div class="template-main template-padding-bottom-5" id="infrastructure">
+    <div class="template-component-header-subheader">
+        <h2>Workshops</h2>
+        <h6></h6>
+        <div></div>
+    </div>
+
+    <div class="template-layout-column-left">
+        <div class="template-component-nivo-slider template-component-nivo-slider-style-1 template-preloader">
+            <div>
+                <img src="../media/gallery/AI-workshop.jpg"
+                    data-thumb="../media/gallery/AI-workshop.jpg" alt="DreamSpace Academy" />
+                <img src="../media/gallery/music-workshop.jpg"
+                    data-thumb="../media/gallery/music-workshop.jpg" alt="DreamSpace Academy" />
+                <img src="../media/gallery/cyber-security-workshop.jpg"
+                    data-thumb="../media/gallery/cyber-security-workshop.jpg" alt="DreamSpace Academy" />
+                <img src="../media/gallery/kids-robotics-workshop.jpg"
+                    data-thumb="../media/gallery/kids-robotics-workshop.jpg" alt="DreamSpace Academy" />
+                <img src="../media/gallery/living-architecture-workshop.jpg"
+                    data-thumb="../media/gallery/living-architecture-workshop.jpg" alt="DreamSpace Academy" />
+                <img src="../media/gallery/mobile-journalism-training.jpg"
+                    data-thumb="../media/gallery/mobile-journalism-training.jpg" alt="DreamSpace Academy" />
+                <img src="../media/gallery/CCT-mojo-workshop.jpg"
+                    data-thumb="../media/gallery/CCT-mojo-workshop.jpg" alt="DreamSpace Academy" />
+                <img src="../media/gallery/softwere-lab-workshop.jpg"
+                    data-thumb="../media/gallery/softwere-lab-workshop.jpg" alt="DreamSpace Academy" />
+            </div>
+        </div>
+    </div>
+
+</div>
     </div>
 
     <div class="template-component-header-subheader">
