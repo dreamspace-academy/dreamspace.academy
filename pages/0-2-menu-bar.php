@@ -38,7 +38,7 @@
                                 <div class="template-layout-column-center-left">
                                     <span class="sf-mega-header">More</span>
                                     <ul>
-                                        <li><a href="http://storydeck.dreamspace.academy/">Our Story Deck</a></li>
+                                        <!-- <li><a href="http://storydeck.dreamspace.academy/">Our Story Deck</a></li> -->
                                         <li><a href="http://supportdeck.dreamspace.academy/">Our Support Deck</a></li>
                                         <li><a href="https://opencollective.com/dreamspace-academy/">Our
                                                 Crowdfunding</a></li>
