@@ -176,34 +176,11 @@
                 <li class="template-layout-column-center-left">
                     <div
                         class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-                        <img src="../media/people/prasanna-sivagnanam-dreamspace.jpg" alt="DreamSpace Academy" />
-                        <div>
-                            <h6>Prasanna</br>Sivagnanam</h6>
-                            </br>
-                            <span>Guardian</br>Music Lab</span>
-                        </div>
-                        <div
-                            class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
-                            <ul>
-                                <li><a target="_blank" href="#">
-                                        <i class="fab fa-linkedin-in fa-lg"
-                                            style="color: white; padding-top: 17px;"></i>
-                                    </a></li>
-                                <li><a target="_blank" href="https://www.facebook.com/sivaganam.pirasanna">
-                                        <i class="fas fa-link fa-lg" style="color: white; padding-top: 17px;"></i>
-                                    </a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </li>
-                <li class="template-layout-column-center-right">
-                    <div
-                        class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
                         <img src="../media/people/dinoj-mahendranathan-dreamspace.jpg" alt="DreamSpace Academy" />
                         <div>
                             <h6>Dinoj</br>Mahendranathan</h6>
                             </br>
-                            <span>Assistant</br>Music Lab</span>
+                            <span>Guardian</br>Music Lab</span>
                         </div>
                         <div
                             class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
