@@ -6,7 +6,7 @@
     </div>
 
     <div class="template-component-header-subheader">
-        <h3>DreamSpace Hive Infrastructure</h3>
+        <h3>DreamSpace Hive</h3>
     </div>
 
     <div class="template-layout-column-left">
@@ -36,7 +36,7 @@
 
 <div class="template-main template-padding-bottom-5" id="infrastructure">
     <div class="template-component-header-subheader">
-        <h3>DreamSpace Collective Infrastructure</h3>
+        <h3>DreamSpace Collective</h3>
     </div>
 
 
