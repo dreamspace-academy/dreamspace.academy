@@ -84,10 +84,9 @@
                     </div>
                 </li>
                 <li class="template-layout-column-right">
-                <div
+                    <div
                         class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-                        <img src="../media/people/Rishanthini.jpg"
-                            alt="DreamSpace Academy" />
+                        <img src="../media/people/Rishanthini.jpg" alt="DreamSpace Academy" />
                         <div>
                             <h6>Rishanthini</br>Kajenthirappirapa</h6>
                             </br>
@@ -96,8 +95,7 @@
                         <div
                             class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
                             <ul>
-                                <li><a target="_blank"
-                                        href="https://www.linkedin.com/in/rishanthinik/">
+                                <li><a target="_blank" href="https://www.linkedin.com/in/rishanthinik/">
                                         <i class="fab fa-linkedin-in fa-lg"
                                             style="color: white; padding-top: 17px;"></i>
                                     </a></li>
@@ -107,9 +105,9 @@
                             </ul>
                         </div>
                     </div>
-                   
+
                 </li>
-               
+
                 <li class="template-layout-column-left">
 
                     <div
@@ -217,8 +215,7 @@
                         <div
                             class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
                             <ul>
-                                <li><a target="_blank"
-                                        href="https://www.linkedin.com/in/azathmohamed/">
+                                <li><a target="_blank" href="https://www.linkedin.com/in/azathmohamed/">
                                         <i class="fab fa-linkedin-in fa-lg"
                                             style="color: white; padding-top: 17px;"></i>
                                     </a></li>
@@ -241,8 +238,8 @@
                         <div
                             class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
                             <ul>
-                                <li><a target="_blank" 
-                                href="https://www.linkedin.com/search/results/all/?fetchDeterministicClustersOnly=true&heroEntityKey=urn%3Ali%3Afsd_profile%3AACoAAD-7qfMBMRS_vSp6OAvdDn37-zb-8doWK48&keywords=joel%20antony%20alphones&origin=RICH_QUERY_SUGGESTION&position=0&searchId=3f37a43e-e9a9-4637-8fd4-421b6038ffb3&sid=YS%3A">
+                                <li><a target="_blank"
+                                        href="https://www.linkedin.com/search/results/all/?fetchDeterministicClustersOnly=true&heroEntityKey=urn%3Ali%3Afsd_profile%3AACoAAD-7qfMBMRS_vSp6OAvdDn37-zb-8doWK48&keywords=joel%20antony%20alphones&origin=RICH_QUERY_SUGGESTION&position=0&searchId=3f37a43e-e9a9-4637-8fd4-421b6038ffb3&sid=YS%3A">
                                         <i class="fab fa-linkedin-in fa-lg"
                                             style="color: white; padding-top: 17px;"></i>
                                     </a></li>
@@ -254,7 +251,7 @@
                     </div>
                 </li>
                 <li class="template-layout-column-center-right">
-                <div
+                    <div
                         class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
                         <img src="../media/people/jathulan.jpg" alt="DreamSpace Academy" />
                         <div>
@@ -265,8 +262,8 @@
                         <div
                             class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
                             <ul>
-                                <li><a target="_blank" 
-                                href="https://www.linkedin.com/in/jathulan-thaventhirakumar-a9344125a/">
+                                <li><a target="_blank"
+                                        href="https://www.linkedin.com/in/jathulan-thaventhirakumar-a9344125a/">
                                         <i class="fab fa-linkedin-in fa-lg"
                                             style="color: white; padding-top: 17px;"></i>
                                     </a></li>
@@ -275,10 +272,10 @@
                                     </a></li>
                             </ul>
                         </div>
-                    </div>  
+                    </div>
                 </li>
                 <li class="template-layout-column-right">
-                <div
+                    <div
                         class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
                         <img src="../media/people/sahithyan-ambiharathinam-dreamspace.jpg" alt="DreamSpace Academy" />
                         <div>
@@ -299,7 +296,7 @@
                             </ul>
                         </div>
                     </div>
-               
+
                 </li>
                 <li class="template-layout-column-left">
                     <div
@@ -313,7 +310,8 @@
                         <div
                             class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
                             <ul>
-                                <li><a target="_blank" href="https://www.linkedin.com/search/results/all/?fetchDeterministicClustersOnly=true&heroEntityKey=urn%3Ali%3Afsd_profile%3AACoAADzxgKcBy8m0yaiLcI3MpXzDfBr9yMaJtUs&keywords=yalini%20pushpakanthan&origin=RICH_QUERY_SUGGESTION&position=0&searchId=9dade782-4d02-460b-9ae1-dc2373d78be7&sid=%3BCB">
+                                <li><a target="_blank"
+                                        href="https://www.linkedin.com/search/results/all/?fetchDeterministicClustersOnly=true&heroEntityKey=urn%3Ali%3Afsd_profile%3AACoAADzxgKcBy8m0yaiLcI3MpXzDfBr9yMaJtUs&keywords=yalini%20pushpakanthan&origin=RICH_QUERY_SUGGESTION&position=0&searchId=9dade782-4d02-460b-9ae1-dc2373d78be7&sid=%3BCB">
                                         <i class="fab fa-linkedin-in fa-lg"
                                             style="color: white; padding-top: 17px;"></i>
                                     </a></li>
@@ -323,8 +321,8 @@
                             </ul>
                         </div>
                     </div>
-                </li>   
-               
+                </li>
+
                 <li class="template-layout-column-center-left">
                     <div
                         class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
@@ -346,7 +344,7 @@
                                     </a></li>
                             </ul>
                         </div>
-                    </div>  
+                    </div>
                 </li>
                 <li class="template-layout-column-center-right">
                     <div
@@ -406,7 +404,8 @@
                         <div
                             class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
                             <ul>
-                                <li><a target="_blank" href="https://www.linkedin.com/in/kokulnath-mahendran-01798927a/">
+                                <li><a target="_blank"
+                                        href="https://www.linkedin.com/in/kokulnath-mahendran-01798927a/">
                                         <i class="fab fa-linkedin-in fa-lg"
                                             style="color: white; padding-top: 17px;"></i>
                                     </a></li>
@@ -430,7 +429,8 @@
                         <div
                             class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
                             <ul>
-                                <li><a target="_blank" href="https://www.linkedin.com/in/manickavasagam-brunthaban-67616b201/">
+                                <li><a target="_blank"
+                                        href="https://www.linkedin.com/in/manickavasagam-brunthaban-67616b201/">
                                         <i class="fab fa-linkedin-in fa-lg"
                                             style="color: white; padding-top: 17px;"></i>
                                     </a></li>
@@ -441,7 +441,7 @@
                         </div>
                     </div>
                 </li>
-                 <li class="template-layout-column-center-right">
+                <li class="template-layout-column-center-right">
                     <div
                         class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
                         <img src="../media/people/sathiyarajah.jpg" alt="DreamSpace Academy" />
@@ -499,7 +499,8 @@
                         <div
                             class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
                             <ul>
-                                <li><a target="_blank" href="https://www.linkedin.com/in/prajeevan-sivanandha-rajah-82a40b1a3/">
+                                <li><a target="_blank"
+                                        href="https://www.linkedin.com/in/prajeevan-sivanandha-rajah-82a40b1a3/">
                                         <i class="fab fa-linkedin-in fa-lg"
                                             style="color: white; padding-top: 17px;"></i>
                                     </a></li>
@@ -522,7 +523,8 @@
                         <div
                             class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
                             <ul>
-                                <li><a target="_blank" href="https://www.linkedin.com/in/gowrirasan-ragappriya-687ab221b/">
+                                <li><a target="_blank"
+                                        href="https://www.linkedin.com/in/gowrirasan-ragappriya-687ab221b/">
                                         <i class="fab fa-linkedin-in fa-lg"
                                             style="color: white; padding-top: 17px;"></i>
                                     </a></li>
@@ -568,7 +570,8 @@
                         <div
                             class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
                             <ul>
-                                <li><a target="_blank" href="https://www.linkedin.com/in/rishothman-gnanasekaram-170911251/">
+                                <li><a target="_blank"
+                                        href="https://www.linkedin.com/in/rishothman-gnanasekaram-170911251/">
                                         <i class="fab fa-linkedin-in fa-lg"
                                             style="color: white; padding-top: 17px;"></i>
                                     </a></li>
@@ -591,7 +594,8 @@
                         <div
                             class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
                             <ul>
-                                <li><a target="_blank" href="https://www.linkedin.com/in/kalishtan-selvarajah-kaayaambu-a172831a1/">
+                                <li><a target="_blank"
+                                        href="https://www.linkedin.com/in/kalishtan-selvarajah-kaayaambu-a172831a1/">
                                         <i class="fab fa-linkedin-in fa-lg"
                                             style="color: white; padding-top: 17px;"></i>
                                     </a></li>
@@ -602,7 +606,7 @@
                         </div>
                     </div>
                 </li>
-                 <li class="template-layout-column-center-left">
+                <li class="template-layout-column-center-left">
                     <div
                         class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
                         <img src="../media/people/jesmina.jpg" alt="DreamSpace Academy" />
@@ -625,19 +629,20 @@
                         </div>
                     </div>
                 </li>
-                 <li class="template-layout-column-center-right">
+                <li class="template-layout-column-center-right">
                     <div
                         class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
                         <img src="../media/people/sharmiga.jpg" alt="DreamSpace Academy" />
                         <div>
                             <h6>Sharmiga</br>Thevarasa</h6>
                             </br>
-                            <span>Guardian</br>DreamSpace of Women</span>
+                            <span>Guardian</br>Dreams of Women</span>
                         </div>
                         <div
                             class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
                             <ul>
-                                <li><a target="_blank" href="https://www.linkedin.com/search/results/all/?fetchDeterministicClustersOnly=true&heroEntityKey=urn%3Ali%3Afsd_profile%3AACoAACDnOzYBwg42V7aIS_glz22R7afCGUzvR7E&keywords=sharmiga%20thevarasa&origin=RICH_QUERY_SUGGESTION&position=1&searchId=7bec123a-c578-468a-a75c-1b30e30b855f&sid=-%3AG">
+                                <li><a target="_blank"
+                                        href="https://www.linkedin.com/search/results/all/?fetchDeterministicClustersOnly=true&heroEntityKey=urn%3Ali%3Afsd_profile%3AACoAACDnOzYBwg42V7aIS_glz22R7afCGUzvR7E&keywords=sharmiga%20thevarasa&origin=RICH_QUERY_SUGGESTION&position=1&searchId=7bec123a-c578-468a-a75c-1b30e30b855f&sid=-%3AG">
                                         <i class="fab fa-linkedin-in fa-lg"
                                             style="color: white; padding-top: 17px;"></i>
                                     </a></li>
@@ -649,75 +654,6 @@
                     </div>
                 </li>
                 <li class="template-layout-column-right">
-                    <div
-                        class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-                        <img src="../media/people/suthan.jpg" alt="DreamSpace Academy" />
-                        <div>
-                            <h6>Sutharuban</br>Manikarajah</h6>
-                            </br>
-                            <span>Security </br> Guard</span>
-                        </div>
-                        <div
-                            class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
-                            <ul>
-                                <li><a target="_blank" href="#">
-                                        <i class="fab fa-linkedin-in fa-lg"
-                                            style="color: white; padding-top: 17px;"></i>
-                                    </a></li>
-                                <li><a target="_blank" href="#">
-                                        <i class="fas fa-link fa-lg" style="color: white; padding-top: 17px;"></i>
-                                    </a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </li>
-                <li class="template-layout-column-left">
-                    <div
-                        class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-                        <img src="../media/people/valanshiya.jpg" alt="DreamSpace Academy" />
-                        <div>
-                            <h6>Valansiya</br>Sahayathevan</h6>
-                            </br>
-                            <span>Multi-duty </br>Assistant</span>
-                        </div>
-                        <div
-                            class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
-                            <ul>
-                                <li><a target="_blank" href="#">
-                                        <i class="fab fa-linkedin-in fa-lg"
-                                            style="color: white; padding-top: 17px;"></i>
-                                    </a></li>
-                                <li><a target="_blank" href="#">
-                                        <i class="fas fa-link fa-lg" style="color: white; padding-top: 17px;"></i>
-                                    </a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </li>
-                <li class="template-layout-column-center-left">
-                    <div
-                        class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-                        <img src="../media/people/shanthini.jpg" alt="DreamSpace Academy" />
-                        <div>
-                            <h6>Shanthini </br>Duraisingham</h6>
-                            </br>
-                            <span>Multi-duty </br>Assistant</span>
-                        </div>
-                        <div
-                            class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
-                            <ul>
-                                <li><a target="_blank" href="#">
-                                        <i class="fab fa-linkedin-in fa-lg"
-                                            style="color: white; padding-top: 17px;"></i>
-                                    </a></li>
-                                <li><a target="_blank" href="#">
-                                        <i class="fas fa-link fa-lg" style="color: white; padding-top: 17px;"></i>
-                                    </a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </li>
-                <li class="template-layout-column-center-right">
                     <div
                         class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
                         <img src="../media/people/rinujan-kananesan-dreamspace.jpg" alt="DreamSpace Academy" />
@@ -740,7 +676,7 @@
                         </div>
                     </div>
                 </li>
-                <li class="template-layout-column-right">
+                <li class="template-layout-column-left">
                     <div
                         class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
                         <img src="../media/people/judian-joseph-dreamspace.jpg" alt="DreamSpace Academy" />
@@ -763,7 +699,8 @@
                         </div>
                     </div>
                 </li>
-                <li class="template-layout-column-left">
+
+                <li class="template-layout-column-center-left">
                     <div
                         class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
                         <img src="../media/people/navaneethan-kandaraj-dreamspace.jpg" alt="DreamSpace Academy" />
@@ -776,6 +713,75 @@
                             class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
                             <ul>
                                 <li><a target="_blank" href="https://www.linkedin.com/in/naveenzerosec/">
+                                        <i class="fab fa-linkedin-in fa-lg"
+                                            style="color: white; padding-top: 17px;"></i>
+                                    </a></li>
+                                <li><a target="_blank" href="#">
+                                        <i class="fas fa-link fa-lg" style="color: white; padding-top: 17px;"></i>
+                                    </a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </li>
+                <li class="template-layout-column-center-right">
+                    <div
+                        class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+                        <img src="../media/people/suthan.jpg" alt="DreamSpace Academy" />
+                        <div>
+                            <h6>Sutharuban</br>Manikarajah</h6>
+                            </br>
+                            <span>Office </br> Assistant</span>
+                        </div>
+                        <div
+                            class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+                            <ul>
+                                <li><a target="_blank" href="#">
+                                        <i class="fab fa-linkedin-in fa-lg"
+                                            style="color: white; padding-top: 17px;"></i>
+                                    </a></li>
+                                <li><a target="_blank" href="#">
+                                        <i class="fas fa-link fa-lg" style="color: white; padding-top: 17px;"></i>
+                                    </a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </li>
+                <li class="template-layout-column-right">
+                    <div
+                        class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+                        <img src="../media/people/valanshiya.jpg" alt="DreamSpace Academy" />
+                        <div>
+                            <h6>Valansiya</br>Sahayathevan</h6>
+                            </br>
+                            <span>Multi-duty </br>Assistant</span>
+                        </div>
+                        <div
+                            class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+                            <ul>
+                                <li><a target="_blank" href="#">
+                                        <i class="fab fa-linkedin-in fa-lg"
+                                            style="color: white; padding-top: 17px;"></i>
+                                    </a></li>
+                                <li><a target="_blank" href="#">
+                                        <i class="fas fa-link fa-lg" style="color: white; padding-top: 17px;"></i>
+                                    </a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </li>
+                <li class="template-layout-column-left">
+                    <div
+                        class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+                        <img src="../media/people/shanthini.jpg" alt="DreamSpace Academy" />
+                        <div>
+                            <h6>Shanthini </br>Duraisingham</h6>
+                            </br>
+                            <span>Multi-duty </br>Assistant</span>
+                        </div>
+                        <div
+                            class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+                            <ul>
+                                <li><a target="_blank" href="#">
                                         <i class="fab fa-linkedin-in fa-lg"
                                             style="color: white; padding-top: 17px;"></i>
                                     </a></li>
