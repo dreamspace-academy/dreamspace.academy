@@ -7,7 +7,7 @@
 
                 <span>
                     <div class="template-component-header-subheader">
-                        <h2>Story Lab</h2>
+                        <h2>Media Lab</h2>
                         <h6></h6>
                         <div></div>
                     </div>
@@ -210,7 +210,7 @@
                         <div>
                             <h6>Abdul</br>Basith</h6>
                             </br>
-                            <span>Guardian</br>Story Lab</span>
+                            <span>Head of Media</br>Media Lab</span>
                         </div>
                         <div
                             class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
@@ -230,11 +230,11 @@
                 <li class="template-layout-column-center-right">
                     <div
                         class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-                        <img src="../media/people/azath-mohamed-dreamspace.jpg" alt="DreamSpace Academy" />
+                        <img src="../media/people/azath2.jpg" alt="DreamSpace Academy" />
                         <div>
                             <h6>Azath</br>Aabdeen Mohamed</h6>
                             </br>
-                            <span>Assistant</br>Story Lab</span>
+                            <span>Guardian</br>Media Lab</span>
                         </div>
                         <div
                             class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
@@ -254,20 +254,20 @@
                 <li class="template-layout-column-right">
                     <div
                         class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-                        <img src="../media/people/aashiq-mohamed-dreamspace.jpg" alt="DreamSpace Academy" />
+                        <img src="../media/people/joel.jpg" alt="DreamSpace Academy" />
                         <div>
-                            <h6>Aashiq</br>Mohamed</h6>
+                            <h6>Joel </br>Antony</h6>
                             </br>
-                            <span>Assistant</br>Story Lab</span>
+                            <span>Creative Editor</br>Media Lab</span>
                         </div>
                         <div
                             class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
                             <ul>
-                                <li><a target="_blank" href="https://www.linkedin.com/in/aashiqretro">
+                                <li><a target="_blank" href="https://www.linkedin.com/search/results/all/?fetchDeterministicClustersOnly=true&heroEntityKey=urn%3Ali%3Afsd_profile%3AACoAAD-7qfMBMRS_vSp6OAvdDn37-zb-8doWK48&keywords=joel%20antony%20alphones&origin=RICH_QUERY_SUGGESTION&position=0&searchId=3f37a43e-e9a9-4637-8fd4-421b6038ffb3&sid=YS%3A">
                                         <i class="fab fa-linkedin-in fa-lg"
                                             style="color: white; padding-top: 17px;"></i>
                                     </a></li>
-                                <li><a target="_blank" href="https://www.instagram.com/retro.illustration/">
+                                <li><a target="_blank" href="https://m.facebook.com/profile.php?id=100010392551401">
                                         <i class="fas fa-link fa-lg" style="color: white; padding-top: 17px;"></i>
                                     </a></li>
                             </ul>
@@ -277,11 +277,11 @@
                 <li class="template-layout-column-left">
                     <div
                         class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-                        <img src="../media/people/jathulan-thaventhirakumar-dreamspace.jpg" alt="DreamSpace Academy" />
+                        <img src="../media/people/jathulan.jpg" alt="DreamSpace Academy" />
                         <div>
                             <h6>Jathulan</br>Thaventhirakumar</h6>
                             </br>
-                            <span>Assistant</br>Story Lab</span>
+                            <span>Creative Designer</br>Media Lab</span>
                         </div>
                         <div
                             class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
@@ -304,7 +304,7 @@
                         <div>
                             <h6>Sahithyan</br>Ambiharathinam</h6>
                             </br>
-                            <span>Trainee</br>Story Lab</span>
+                            <span>Content Creator</br>Media Lab</span>
                         </div>
                         <div
                             class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
@@ -320,7 +320,7 @@
                         </div>
                     </div>
                 </li>
-                <li class="template-layout-column-center-right">
+                <!-- <li class="template-layout-column-center-right">
                     <div
                         class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
                         <img src="../media/people/saraful-aadhil-dreamspace.jpg" alt="DreamSpace Academy" />
@@ -342,7 +342,7 @@
                             </ul>
                         </div>
                     </div>
-                </li>
+                </li> -->
             </ul>
         </div>
     </div>

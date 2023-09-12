@@ -6,6 +6,7 @@
 + Base
 + Font
 + Default
++ Logo
 + Margin
 + Color
 	+ Color / Text
@@ -265,6 +266,7 @@ textarea
 	color: #FE6500;
 }
 
+
 /******************************************************************************/
 /* Font																	  */
 /******************************************************************************/
@@ -377,7 +379,13 @@ textarea,
 {
 	text-transform:uppercase;
 }
-
+/******************************************************************************/
+/* Logo																	  */
+/******************************************************************************/
+.template-logo-main
+{
+margin-top: 1pc;
+}
 /******************************************************************************/
 /* Margin																	  */
 /******************************************************************************/
@@ -2234,7 +2242,9 @@ h6,h6 a,
 					max-width:200px;
 					margin-left:auto;
 					margin-right:auto;
+					
 				}
+				
 
 		/**********************************************************************/
 		/* Template / Header / Bottom										  */
@@ -5177,17 +5187,17 @@ ul.template-widget-list
 					position:relative;
 				}
 
-					.template-component-menu-default ul.sf-menu>li>a
+				.template-component-menu-default ul.sf-menu>li>a
 					{
 						display:block;
 						min-width:110px;
 						text-align:center;
-						padding:10px 10px 25px 10px;
+						padding:10px 10px 35px 10px;
 					}
 
 					.template-header .template-header-top.template-header-top-sticky .template-component-menu-default ul.sf-menu>li>a
 					{
-						padding:25px 20px 25px 20px;
+						padding:25px 20px 65px 20px;
 					}
 
 						.template-component-menu-default ul.sf-menu ul a
@@ -6708,8 +6718,7 @@ ul.template-widget-list
 					  transform: translateY(1px) translateX(-1px) rotateZ(10deg);
 					}
 				  }
-				</style>
-				<style>
+				
 				  .mtssectionproblems {
 					height: 100vh;
 					display: flex;

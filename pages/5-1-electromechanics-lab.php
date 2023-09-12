@@ -7,12 +7,12 @@
 
                 <span>
                     <div class="template-component-header-subheader">
-                        <h2>Electromechanics Lab</h2>
+                        <h2>Electronics Lab</h2>
                         <h6></h6>
                         <div></div>
                     </div>
                     <p style="font-size:25px; color:#707070;">
-                        The electromechanics lab is a deep and high-tech container-based micro-factory model
+                        The Electronics lab is a deep and high-tech container-based micro-factory model
                         manufacturing space specialised in electronics, mechanical and electrical fields. It empowers
                         the community for building a sustainable economy in Sri Lanka. It provides open access to an
                         advanced infrastructure for manufacturing, training, research & development, and innovation to
@@ -34,22 +34,22 @@
     <div class="template-layout-column-left">
         <div class="template-component-nivo-slider template-component-nivo-slider-style-1 template-preloader">
             <div>
-                <img src="../media/gallery/infrastructure-collective-dreamspace-1.jpg"
-                    data-thumb="../media/gallery/infrastructure-collective-dreamspace-1.jpg" alt="DreamSpace Academy" />
-                <img src="../media/gallery/infrastructure-collective-dreamspace-2.jpg"
-                    data-thumb="../media/gallery/infrastructure-collective-dreamspace-2.jpg" alt="DreamSpace Academy" />
-                <img src="../media/gallery/infrastructure-collective-dreamspace-3.jpg"
-                    data-thumb="../media/gallery/infrastructure-collective-dreamspace-3.jpg" alt="DreamSpace Academy" />
-                <img src="../media/gallery/infrastructure-collective-dreamspace-4.jpg"
-                    data-thumb="../media/gallery/infrastructure-collective-dreamspace-4.jpg" alt="DreamSpace Academy" />
-                <img src="../media/gallery/infrastructure-collective-dreamspace-5.jpg"
-                    data-thumb="../media/gallery/infrastructure-collective-dreamspace-5.jpg" alt="DreamSpace Academy" />
-                <img src="../media/gallery/infrastructure-collective-dreamspace-6.jpg"
-                    data-thumb="../media/gallery/infrastructure-collective-dreamspace-6.jpg" alt="DreamSpace Academy" />
-                <img src="../media/gallery/infrastructure-collective-dreamspace-7.jpg"
-                    data-thumb="../media/gallery/infrastructure-collective-dreamspace-7.jpg" alt="DreamSpace Academy" />
-                <img src="../media/gallery/infrastructure-collective-dreamspace-8.jpg"
-                    data-thumb="../media/gallery/infrastructure-collective-dreamspace-8.jpg" alt="DreamSpace Academy" />
+                <img src="../media/gallery/infrastructure-electronics-dreamspace-1.jpg"
+                    data-thumb="../media/gallery/infrastructure-electronics-dreamspace-1.jpg" alt="DreamSpace Academy" />
+                <img src="../media/gallery/infrastructure-electronics-dreamspace-2.jpg"
+                    data-thumb="../media/gallery/infrastructure-electronics-dreamspace-2.jpg" alt="DreamSpace Academy" />
+                <img src="../media/gallery/infrastructure-electronics-dreamspace-3.jpg"
+                    data-thumb="../media/gallery/infrastructure-electronics-dreamspace-3.jpg" alt="DreamSpace Academy" />
+                <img src="../media/gallery/infrastructure-electronics-dreamspace-4.jpg"
+                    data-thumb="../media/gallery/infrastructure-electronics-dreamspace-4.jpg" alt="DreamSpace Academy" />
+                <img src="../media/gallery/infrastructure-electronics-dreamspace-5.jpg"
+                    data-thumb="../media/gallery/infrastructure-electronics-dreamspace-5.jpg" alt="DreamSpace Academy" />
+                <img src="../media/gallery/infrastructure-electronics-dreamspace-6.jpg"
+                    data-thumb="../media/gallery/infrastructure-electronics-dreamspace-6.jpg" alt="DreamSpace Academy" />
+                <img src="../media/gallery/infrastructure-electronics-dreamspace-7.jpg"
+                    data-thumb="../media/gallery/infrastructure-electronics-dreamspace-7.jpg" alt="DreamSpace Academy" />
+                <img src="../media/gallery/infrastructure-electronics-dreamspace-8.jpg"
+                    data-thumb="../media/gallery/infrastructure-electronics-dreamspace-8.jpg" alt="DreamSpace Academy" />
             </div>
         </div>
     </div>
@@ -352,16 +352,16 @@
                 <li class="template-layout-column-center-left">
                     <div
                         class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-                        <img src="../media/people/jerushan-sritharan-dreamspace.jpg" alt="DreamSpace Academy" />
+                        <img src="../media/people/Gabi.jpg" alt="DreamSpace Academy" />
                         <div>
-                            <h6>Jerushan</br>Sritharan</h6>
+                            <h6>Gabiksha</br>Mohanalingam</h6>
                             </br>
-                            <span>Guardian</br>Electromechanics Lab</span>
+                            <span>Assistant Guardian</br>Electronics Lab</span>
                         </div>
                         <div
                             class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
                             <ul>
-                                <li><a target="_blank" href="https://www.linkedin.com/in/jerushan-sritharan-9017011b4/">
+                                <li><a target="_blank" href="https://www.linkedin.com/in/gabiksha-mohanalingam/">
                                         <i class="fab fa-linkedin-in fa-lg"
                                             style="color: white; padding-top: 17px;"></i>
                                     </a></li>
@@ -379,7 +379,7 @@
                         <div>
                             <h6>Sajeev</br>Punithakaran</h6>
                             </br>
-                            <span>Assistant</br>Electromechanics Lab</span>
+                            <span>Trainer|Electronics</br>Electronics Lab</span>
                         </div>
                         <div
                             class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
@@ -398,16 +398,16 @@
                 <li class="template-layout-column-right">
                     <div
                         class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-                        <img src="../media/people/jathujan-mahendran-dreamspace.jpg" alt="DreamSpace Academy" />
+                        <img src="../media/people/Kiritharan.jpg" alt="DreamSpace Academy" />
                         <div>
-                            <h6>Jathujan</br>Mahendran</h6>
+                            <h6>Kiritharan</br>Mahendran</h6>
                             </br>
-                            <span>Assistant</br>Electromechanics Lab</span>
+                            <span>Trainer|Electronics</br>Electronics Lab</span>
                         </div>
                         <div
                             class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
                             <ul>
-                                <li><a target="_blank" href="https://www.linkedin.com/in/jathujanmahendran">
+                                <li><a target="_blank" href="https://www.linkedin.com/in/kiritharan-mahenthiran/">
                                         <i class="fab fa-linkedin-in fa-lg"
                                             style="color: white; padding-top: 17px;"></i>
                                     </a></li>
@@ -421,39 +421,16 @@
                 <li class="template-layout-column-left">
                     <div
                         class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-                        <img src="../media/people/gabiksha-mohanalingam-dreamspace.jpg" alt="DreamSpace Academy" />
+                        <img src="../media/people/Kokulnath.jpg" alt="DreamSpace Academy" />
                         <div>
-                            <h6>Gabiksha</br>Mohanalingam</h6>
+                            <h6>Kokulnath</br>Mahendran</h6>
                             </br>
-                            <span>Trainee</br>Electromechanics Lab</span>
+                            <span>Assistant Trainer|Electronics</br>Electronics Lab</span>
                         </div>
                         <div
                             class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
                             <ul>
-                                <li><a target="_blank" href="https://www.linkedin.com/in/gabiksha-mohanalingam/">
-                                        <i class="fab fa-linkedin-in fa-lg"
-                                            style="color: white; padding-top: 17px;"></i>
-                                    </a></li>
-                                <li><a target="_blank" href="#">
-                                        <i class="fas fa-link fa-lg" style="color: white; padding-top: 17px;"></i>
-                                    </a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </li>
-                <li class="template-layout-column-center-left">
-                    <div
-                        class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-                        <img src="../media/people/kiritharan-mahendran-dreamspace.jpg" alt="DreamSpace Academy" />
-                        <div>
-                            <h6>Kiritharan</br>Mahendran</h6>
-                            </br>
-                            <span>Trainee</br>Electromechanics Lab</span>
-                        </div>
-                        <div
-                            class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
-                            <ul>
-                                <li><a target="_blank" href="https://www.linkedin.com/in/kiritharan-mahenthiran/">
+                                <li><a target="_blank" href="https://www.linkedin.com/in/kokulnath-mahendran-01798927a/">
                                         <i class="fab fa-linkedin-in fa-lg"
                                             style="color: white; padding-top: 17px;"></i>
                                     </a></li>

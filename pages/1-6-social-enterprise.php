@@ -132,7 +132,7 @@
 					</br>
 					</div>
 
-					<a href="3-4-0-social-enterprise.php" class="template-component-button template-component-button-style-1">More<i></i></a>
+					<a href="10-0-under-construction.php" class="template-component-button template-component-button-style-1">More<i></i></a>
 
 				</li>
 				<li class="template-layout-column-left">
@@ -173,7 +173,7 @@
 						</br>
 					</div>
 
-					<a href="3-4-0-social-enterprise.php" class="template-component-button template-component-button-style-1">More<i></i></a>
+					<a href="10-0-under-construction.php" class="template-component-button template-component-button-style-1">More<i></i></a>
 
 				</li>
 			</ul>

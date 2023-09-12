@@ -50,6 +50,26 @@
 
                 <span>
                     <div class="template-component-header-subheader">
+                        <h3>What is our vision?</h3>
+                        <h6></h6>
+                        <div></div>
+                    </div>
+                    <p>
+                        Our vision is to build a
+                        <span class="brand_color_orange">a self-sustaining ecosystem</span> for local & international
+                        changemakers to
+                        <span class="brand_color_purple">co-learn</span>,
+                        <span class="brand_color_orange">co-innovate</span>,
+                        <span class="brand_color_purple">co-farm</span> and
+                        <span class="brand_color_orange">co-produce</span>, thereby co-creating next-generation
+                        enterprises
+                        to make Sri Lanka the biggest
+                        <span class="brand_color_orange">social & tech innovation hub</span> in South Asia
+                    </p>
+                </span>
+
+                <span>
+                    <div class="template-component-header-subheader">
                         <h3>What is our mission?</h3>
                         <h6></h6>
                         <div></div>
@@ -71,6 +91,11 @@
                     </center>
                     </br>
                 </span>
+                <!--
+co-innovate, co-live, co-farm and co-produce, thereby co-creating next-generation enterprises 
+to make Sri Lanka the biggest social & tech 
+innovation hub in South Asia
+ -->
 
                 <span>
                     <div class="template-component-header-subheader">
