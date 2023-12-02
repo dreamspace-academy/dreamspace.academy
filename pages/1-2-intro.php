@@ -56,7 +56,7 @@
                     </div>
                     <p>
                         Our vision is to build a
-                        <span class="brand_color_orange">a self-sustaining ecosystem</span> for local & international
+                        <span class="brand_color_orange">self-sustaining ecosystem</span> for local & international
                         changemakers to
                         <span class="brand_color_purple">co-learn</span>,
                         <span class="brand_color_orange">co-innovate</span>,
