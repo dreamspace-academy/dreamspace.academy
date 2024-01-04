@@ -23,8 +23,8 @@
 	<link rel="stylesheet" type="text/css" href="../style/font-awesome/css/all.css" />
 	<script type="text/javascript" src="../script/jquery.min.js"></script>
 	<script type="text/javascript" src="../script/google-form.js"></script>
-	<link rel="icon" type="image/png" href="../media/logos/logo-32x32-dreamspace.png" sizes="32x32" />
-	<link rel="icon" type="image/png" href="../media/logos/logo-16x16-dreamspace.png" sizes="16x16" />
+	<link rel="icon" type="image/png" href="../media/favicon-img/favicon-32x32.png" sizes="32x32" />
+	<link rel="icon" type="image/png" href="../media/favicon-img/favicon-16x16.png" sizes="16x16" />
 	<?php include('0-1-cookies-consent.php'); ?>
 </head>
 
