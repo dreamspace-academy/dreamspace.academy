@@ -29,7 +29,7 @@
 						</br>
 						</br>
 					</div>
-					<a href="10-0-under-construction.php" class="template-component-button template-component-button-style-1">More<i></i></a>
+					<a href="5-12-mechanics-lab.php" class="template-component-button template-component-button-style-1">More<i></i></a>
 				</li>
 				<li class="template-layout-column-center-right">
 					<div class="template-component-image template-component-counter-box-counter template-component-image-hover-slide-enable template-fancybox template-preloader">

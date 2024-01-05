@@ -11,10 +11,10 @@
                         <h6></h6>
                         <div></div>
                     </div>
-                    <!-- <p style="font-size:25px; color:#707070;">
-          Our mission is deep-rooted in establishing a sustainable Bioeconomy in Sri Lanka to create local life-science and biotech innovations to address biomedical and ecological challenges.<br><br>
+                    <p style="font-size:25px; color:#707070;">
+                    Our mission is deep-rooted and committed to fostering a sustainable and influential presence within the media sector in Sri Lanka.<br><br>
           Bio Lab at DreamSpace academy provides an environment with unconditional access to education and research infrastructure for the global community of biologists, citizen scientists, biohackers, and changemakers to realise their ideas into knowledge, innovations and enterprises.
-                    </p> -->
+                    </p>
                 </span>
 
             </h3>

@@ -62,7 +62,7 @@
                             <a href="#">Challenge-Based Learning<span></span></a>
                             <ul>
                                 <li><a href="5-1-electromechanics-lab.php">Electronics Lab</a></li>
-                                <li><a href="10-0-under-construction.php">Mechanics Lab</a></li>
+                                <li><a href="5-12-mechanics-lab.php">Mechanics Lab</a></li>
                                 <li><a href="5-2-software-lab.php">Software Lab</a></li>
                                 <li><a href="5-3-media-lab.php">Media Lab</a></li>
                                 <li><a href="5-6-music-lab.php">Music Lab</a></li>
