@@ -117,7 +117,7 @@
                         <div>
                             <h6>Rathees</br>Koneswaran</h6>
                             </br>
-                            <span>Director </br>Tech Design | Strategy</span>
+                            <span>Head </br>Tech Design | Strategy</span>
                         </div>
                         <div
                             class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
