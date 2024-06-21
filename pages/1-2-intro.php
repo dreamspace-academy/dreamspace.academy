@@ -38,7 +38,7 @@
                         <div></div>
                     </div>
                     <p>
-                        <span class="brand_color_purple">DreamSpace Academy</span> is a non-profit
+                        <span class="brand_color_purple">DreamSpace Academy</span> is a
                         <span class="brand_color_orange">social enterprise</span> tackling local
                         <span class="brand_color_purple">socio-economic</span> and
                         <span class="brand_color_orange">environmental</span> challenges through
