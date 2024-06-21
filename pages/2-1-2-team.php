@@ -117,7 +117,7 @@
                         <div>
                             <h6>Rathees</br>Koneswaran</h6>
                             </br>
-                            <span>Head </br>Tech Design | Strategy</span>
+                            <span>Director </br>Tech Design | Strategy</span>
                         </div>
                         <div
                             class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
@@ -297,7 +297,7 @@
                             </ul>
                         </div>
                     </div>
-                </li>               
+                </li>
                 <li class="template-layout-column-left">
                     <div
                         class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
@@ -324,7 +324,7 @@
                 <li class="template-layout-column-center-left">
                     <div
                         class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-                        
+
                         <img src="../media/people/jathulan.jpg" alt="DreamSpace Academy" />
                         <div>
                             <h6>Jathulan</br>Thaventhirakumar</h6>
@@ -419,7 +419,7 @@
                 <li class="template-layout-column-center-left">
                     <div
                         class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-                        
+
                         <img src="../media/people/jeyanathan-priyanka-dreamspace.jpg" alt="DreamSpace Academy" />
                         <div>
                             <h6>Priyanka</br>Jeyanathan </h6>
@@ -513,7 +513,7 @@
                 <li class="template-layout-column-center-left">
                     <div
                         class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-                        
+
                         <img src="../media/people/Angeline-Lakshanya-Muthulingam.jpg" alt="DreamSpace Academy" />
                         <div>
                             <h6>Angeline Lakshanya</br>Muthulingam</h6>
@@ -608,7 +608,7 @@
                 <li class="template-layout-column-center-left">
                     <div
                         class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-                        
+
                         <img src="../media/people/Kumaran-Rajendra-Erosha.jpg" alt="DreamSpace Academy" />
                         <div>
                             <h6>Erosha</br>Kumaran Rajendra</h6>
