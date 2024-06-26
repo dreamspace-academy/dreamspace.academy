@@ -297,7 +297,7 @@
                             </ul>
                         </div>
                     </div>
-                </li>               
+                </li>
                 <li class="template-layout-column-left">
                     <div
                         class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
@@ -325,7 +325,7 @@
                     <div
                         class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
                         
-                        <img src="../media/people/Jathulan-Thaventhirakumar.jpg" alt="DreamSpace Academy" />
+                        <img src="../media/people/jathulan.jpg" alt="DreamSpace Academy" />
                         <div>
                             <h6>Jathulan</br>Thaventhirakumar</h6>
                             </br>
@@ -420,7 +420,7 @@
                     <div
                         class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
                         
-                        <img src="../media/people/Sajani-Sivasithamparapillai.jpg" alt="DreamSpace Academy" />
+                        <img src="../media/people/jeyanathan-priyanka-dreamspace.jpg" alt="DreamSpace Academy" />
                         <div>
                             <h6>Sajani</br>Sivasithamparapillai </h6>
                             </br>
@@ -513,7 +513,7 @@
                 <li class="template-layout-column-center-left">
                     <div
                         class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-                        
+
                         <img src="../media/people/Angeline-Lakshanya-Muthulingam.jpg" alt="DreamSpace Academy" />
                         <div>
                             <h6>Angeline Lakshanya</br>Muthulingam</h6>
@@ -608,7 +608,7 @@
                 <li class="template-layout-column-center-left">
                     <div
                         class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-                        
+
                         <img src="../media/people/Kumaran-Rajendra-Erosha.jpg" alt="DreamSpace Academy" />
                         <div>
                             <h6>Erosha</br>Kumaran Rajendra</h6>
