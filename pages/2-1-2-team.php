@@ -325,7 +325,7 @@
                     <div
                         class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
                         
-                        <img src="../media/people/jathulan.jpg" alt="DreamSpace Academy" />
+                        <img src="../media/people/Jathulan-Thaventhirakumar.jpg" alt="DreamSpace Academy" />
                         <div>
                             <h6>Jathulan</br>Thaventhirakumar</h6>
                             </br>
