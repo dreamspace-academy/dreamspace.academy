@@ -207,21 +207,21 @@
                 <li class="template-layout-column-left">
                     <div
                         class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-                        <img src="../media/people/Rishothman-Gnanasekaram.jpg" alt="DreamSpace Academy" />
+                        <img src="../media/people/Lojana.jpg" alt="DreamSpace Academy" />
                         <div>
-                            <h6>Rishothman</br>Gnanasekaram</h6>
+                            <h6>Lojana</br>Jegatheeswaran</h6>
                             </br>
-                            <span>Guardian</br>Software Lab</span>
+                            <span>Technical Trainer</br>Software Lab</span>
                         </div>
                         <div
                             class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
                             <ul>
                                 <li><a target="_blank"
-                                        href="https://www.linkedin.com/in/rishothman-gnanasekaram-170911251/">
+                                        href="https://www.linkedin.com/in/lojana96/">
                                         <i class="fab fa-linkedin-in fa-lg"
                                             style="color: white; padding-top: 17px;"></i>
                                     </a></li>
-                                <li><a target="_blank" href="https://www.facebook.com/risan.strenge">
+                                <li><a target="_blank" href="https://www.facebook.com/lojana.jegatheeswaran">
                                         <i class="fas fa-link fa-lg" style="color: white; padding-top: 17px;"></i>
                                     </a></li>
                             </ul>
