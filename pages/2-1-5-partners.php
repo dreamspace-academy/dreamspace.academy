@@ -223,6 +223,7 @@
             <div>
               <h6>OpenEdge</h6>
               </br>
+              </br>
               <span>UK</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
@@ -572,7 +573,6 @@
             <div>
               <h6>Just One Giant Lab</h6>
               </br>
-              </br>
               <span>France</span>
             </div>
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
@@ -595,6 +595,23 @@
             <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
               <ul>
                 <li><a target="_blank" href="http://access2perspectives.com/">
+                    <i class="fas fa-link fa-lg" style="color: white; padding-top: 17px;"></i>
+                  </a></li>
+              </ul>
+            </div>
+          </div>
+        </li>
+        <li class="template-layout-column-center-right">
+          <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+            <img src="../media/logos/chancemakerfoundation.jpg" alt="DreamSpace Academy" />
+            <div>
+              <h6>ChangeMaker Foundation</h6>
+              </br>
+              <span>Sri Lanka</span>
+            </div>
+            <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+              <ul>
+                <li><a target="_blank" href="https://chancemaker.foundation/">
                     <i class="fas fa-link fa-lg" style="color: white; padding-top: 17px;"></i>
                   </a></li>
               </ul>

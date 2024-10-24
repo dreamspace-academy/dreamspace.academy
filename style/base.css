@@ -257,13 +257,13 @@ textarea
 .brand_color_purple
 {
 	font-weight: bold;
-	color: #56509F;
+	color: #770cc5;
 }
 
 .brand_color_orange
 {
 	font-weight: bold;
-	color: #FE6500;
+	color: #e45c00;
 }
 
 
@@ -463,7 +463,7 @@ margin-top: 1pc;
 	.template-component-twitter-user-timeline ul>li>p,
 	.template-component-vertical-grid>ul>li>div:first-child+div
 	{
-		color:#56509F;
+		color:#770cc5;
 	}
 
 	h1 b,
@@ -482,7 +482,7 @@ margin-top: 1pc;
 	.tp-caption.tp-font-handlee,
 	.template-widget-menu ul>li>a:hover
 	{
-		color:#FE6500;
+		color:#e45c00;
 	}
 
 	.template-footer .template-footer-top,
@@ -644,13 +644,13 @@ margin-top: 1pc;
 	.template-widget-category.template-widget-category-style-1>ul>li>a:hover,
 	.template-widget-tag>ul>li>a:hover
 	{
-		background-color:#FE6500;
+		background-color:#e45c00;
 	}
 
 	.tp-leftarrow:hover,
 	.tp-rightarrow:hover
 	{
-		background-color:#FE6500 !important;
+		background-color:#e45c00 !important;
 	}
 
 	.template-background-color-1,
@@ -669,7 +669,7 @@ margin-top: 1pc;
 	.template-component-social-icon.template-component-social-icon-style-2>ul>li>a,
 	.template-component-social-icon.template-component-social-icon-style-1>ul>li>a:hover
 	{
-		background-color:#56509F;
+		background-color:#770cc5;
 	}
 
 	.template-header,
@@ -856,22 +856,22 @@ margin-top: 1pc;
 	.template-component-tab>.ui-tabs-nav>li.ui-state-active>span,
 	.template-component-twitter-user-timeline ul>li>i
 	{
-		border-color:#FE6500;
+		border-color:#e45c00;
 	}
 
 	.tp-bullets .tp-bullet
 	{
-		border-color:#FE6500 !important;
+		border-color:#e45c00 !important;
 	}
 
 	.template-content-layout-sidebar-right .template-widget-menu ul>li>a:hover
 	{
-		border-left-color:#FE6500;
+		border-left-color:#e45c00;
 	}
 
 	.template-content-layout-sidebar-left .template-widget-menu ul>li>a:hover
 	{
-		border-right-color:#FE6500;
+		border-right-color:#e45c00;
 	}
 
 	.template-pagination.template-pagination-style-1 a:hover,
@@ -889,7 +889,7 @@ margin-top: 1pc;
 	.template-component-button.template-component-button-style-3,
 	.template-component-button.template-component-button-style-3:hover
 	{
-		border-color:#56509F;
+		border-color:#770cc5;
 	}
 
 	.template-pagination.template-pagination-style-2>ul>li>a,
@@ -1041,7 +1041,7 @@ margin-top: 1pc;
 	.template-section-white .template-component-button:hover,
 	.template-section-white .template-component-button:hover>i
 	{
-		color:#56509F !important;
+		color:#770cc5 !important;
 	}
 
 	.template-section-white .template-pagination a,
@@ -4412,7 +4412,7 @@ ul.template-widget-list
 					line-height:200px;
 					/* border-radius:100%; */
 					margin-bottom:20px;
-					background-color: #56509F;
+					background-color: #770cc5;
 				}
 
 				.template-component-counter-box-counter.counter-box-round
