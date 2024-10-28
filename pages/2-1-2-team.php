@@ -510,8 +510,7 @@
                 <li class="template-layout-column-center-left">
                     <div
                         class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-
-                        <img src="../media/people/Priyanthan.png" alt="DreamSpace Academy" />
+                        <img src="../media/people/Priyanthan.jpg" alt="DreamSpace Academy" />
                         <div>
                             <h6>Priyanthan</br>Kanthasamy</h6>
                             </br>
@@ -606,7 +605,7 @@
                     <div
                         class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
 
-                        <img src="../media/people/Kijiththira.png" alt="DreamSpace Academy" />
+                        <img src="../media/people/Perinpanathan kijiththirajudit.jpg" alt="DreamSpace Academy" />
                         <div>
                             <h6>Kijiththira</br>Judit Perinpanathan</h6>
                             </br>
