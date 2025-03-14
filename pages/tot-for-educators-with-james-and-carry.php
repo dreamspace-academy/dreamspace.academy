@@ -1,123 +1,77 @@
-<?php include('0-0-header.php') ?>
-<div class="template-content">
-    <div class="template-component-header-subheader">
-        <h2>Teaching Technology and Design</h2>
-        <p>Workshop on "Integrating Technology and Critical Thinking into Teaching Protocols"</p>
+<?php include('0-0-header.php'); ?>
 
-    </div>
-    <div class=" template-content-layout template-content-layout-sidebar-right template-main template-clear-fix ">
-        <div class="template-content-layout-column-center">
-            <!-- Header -->
-            <div class="template-post-section-header">
+<div class="template-main" id="story">
+     <div class="template-component-header-subheader">
+          <h2>Teaching Technology and Design</h2>
+          <p>Workshop on "Integrating Technology and Critical Thinking into Teaching Protocols"
+          </p>
+     </div>
 
-                20 Jan - 24 Jan 2020
-            </div>
-            <ul class="template-post-list">
-                <!-- Post -->
-                <li id="tot-for-teacher">
+     <div class="template-layout-column-left">
+          <p class="date">20 Jan - 24 Jan 2020</p>
+          <div class="template-component-nivo-slider template-component-nivo-slider-style-1 template-preloader">
+               <div>
+                    <img src="../media/gallery/Teacher-Training-workshop (1).png"
+                         data-thumb="../media/gallery/Teacher-Training-workshop (1).png" alt="DreamSpace Academy" />
+                    <img src="../media/gallery/Teacher-Training-workshop (2).png"
+                         data-thumb="../media/gallery/Teacher-Training-workshop (2).png" alt="DreamSpace Academy" />
+                    <img src="../media/gallery/Teacher-Training-workshop (3).png"
+                         data-thumb="../media/gallery/Teacher-Training-workshop (3).png" alt="DreamSpace Academy" />
+                    <img src="../media/gallery/Teacher-Training-workshop (4).png"
+                         data-thumb="../media/gallery/Teacher-Training-workshop (4).png" alt="DreamSpace Academy" />
+                    <img src="../media/gallery/Teacher-Training-workshop (5).png"
+                         data-thumb="../media/gallery/Teacher-Training-workshop (5).png" alt="DreamSpace Academy" />
+                    <img src="../media/gallery/Teacher-Training-workshop (6).png"
+                         data-thumb="../media/gallery/Teacher-Training-workshop (6).png" alt="DreamSpace Academy" />
+                    <img src="../media/gallery/Teacher-Training-workshop (7).png"
+                         data-thumb="../media/gallery/Teacher-Training-workshop (7).png" alt="DreamSpace Academy" />
+                    <img src="../media/gallery/Teacher-Training-workshop (8).png"
+                         data-thumb="../media/gallery/Teacher-Training-workshop (8).png" alt="DreamSpace Academy" />
+                    <img src="../media/gallery/Teacher-Training-workshop (9).png"
+                         data-thumb="../media/gallery/Teacher-Training-workshop (9).png" alt="DreamSpace Academy" />
+                    <img src="../media/gallery/Teacher-Training-workshop (10).png"
+                         data-thumb="../media/gallery/Teacher-Training-workshop (10).png" alt="DreamSpace Academy" />
+                    <img src="../media/gallery/Teacher-Training-workshop (11).png"
+                         data-thumb="../media/gallery/Teacher-Training-workshop (11).png" alt="DreamSpace Academy" />
+                    <img src="../media/gallery/Teacher-Training-workshop (12).png"
+                         data-thumb="../media/gallery/Teacher-Training-workshop (12).png" alt="DreamSpace Academy" />
+                    <img src="../media/gallery/Teacher-Training-workshop (13).png"
+                         data-thumb="../media/gallery/Teacher-Training-workshop (13).png" alt="DreamSpace Academy" />
+                    <img src="../media/gallery/Teacher-Training-workshop (14).png"
+                         data-thumb="../media/gallery/Teacher-Training-workshop (1).png" alt="DreamSpace Academy" />
+               </div>
+          </div>
+     </div>
+     <div class="template-post">
+     <!-- content Container -->
+     <div class="template-post-section-content">
+          <div class="template-post-content">
+               <b style="color: #56509F">Organizers and Trainers</b>
+               <p>DreamSpace Academy Batticaloa organized the Teaching Technology And Design workshop with Carrie Leung and Benjamin James Simpson, who are Trainers in STEAMHEAD</p>
 
-                    <!-- Post container -->
-                    <div class="template-post">
+               <b style="color: #56509F">Workshop Info</b>
+               <p>The workshop focused on the integration of Artificial Intelligence (Al) and Critical Thinking into Teaching Protocols, with the aim of fostering progressive education and student-centered classrooms. Participants were introduced to a variety of innovative teaching protocols, including the Reflection Prompts, Gallery Walk Feedback, Menti Meter Crowdsourcing, and several other essential protocols. These protocols were designed to enhance student motivation, empower students to take an active role in their learning, create memorable educational experiences, and enable intentional teaching and curriculum design During the workshop, the participant not only learned these teaching protocols but also showcased their practical application and proposed ways to incorporate these protocols into their existing curriculum and classroom settings.
+               </p>
 
-                        <div class="template-main template-padding-bottom-5" id="gallery">
+               <b style="color: #56509F">Impact</b>
+               <p>The workshop was held on April 10th, 2023. Our workshops have created a significant ripple effect in the local education community. During the training, teachers from Batticaloa schools and trainers from DreamSpace Academy received specialized instruction. Following the workshop, DreamSpace Academy trainers began leading interactive workshops for students and conducting Training of Trainers (TOT) sessions for school teachers.
+               <br><br>
+               This initiative has successfully reached more than 20 schools, fostering a collaborative learning environment and enhancing teaching practices. Due to the positive outcomes, teachers, schools, and the zonal education department have requested us to continue delivering TOT sessions across more institutions. Our trainers are actively providing ongoing workshops for teachers
 
-                            <div class="template-layout-column-left">
-                                <div
-                                    class="template-component-nivo-slider template-component-nivo-slider-style-1 template-preloader">
-                                    <div>
-                                        <img src="../media/gallery/infrastructure-electronics-dreamspace-1.jpg"
-                                            data-thumb="../media/gallery/infrastructure-electronics-dreamspace-1.jpg"
-                                            alt="DreamSpace Academy" />
-                                        <img src="../media/gallery/infrastructure-electronics-dreamspace-2.jpg"
-                                            data-thumb="../media/gallery/infrastructure-electronics-dreamspace-2.jpg"
-                                            alt="DreamSpace Academy" />
-                                        <img src="../media/gallery/infrastructure-electronics-dreamspace-3.jpg"
-                                            data-thumb="../media/gallery/infrastructure-electronics-dreamspace-3.jpg"
-                                            alt="DreamSpace Academy" />
-                                        <img src="../media/gallery/infrastructure-electronics-dreamspace-4.jpg"
-                                            data-thumb="../media/gallery/infrastructure-electronics-dreamspace-4.jpg"
-                                            alt="DreamSpace Academy" />
-                                        <img src="../media/gallery/infrastructure-electronics-dreamspace-5.jpg"
-                                            data-thumb="../media/gallery/infrastructure-electronics-dreamspace-5.jpg"
-                                            alt="DreamSpace Academy" />
-                                        <img src="../media/gallery/infrastructure-electronics-dreamspace-6.jpg"
-                                            data-thumb="../media/gallery/infrastructure-electronics-dreamspace-6.jpg"
-                                            alt="DreamSpace Academy" />
-                                        <img src="../media/gallery/infrastructure-electronics-dreamspace-7.jpg"
-                                            data-thumb="../media/gallery/infrastructure-electronics-dreamspace-7.jpg"
-                                            alt="DreamSpace Academy" />
-                                        <img src="../media/gallery/infrastructure-electronics-dreamspace-8.jpg"
-                                            data-thumb="../media/gallery/infrastructure-electronics-dreamspace-8.jpg"
-                                            alt="DreamSpace Academy" />
-                                    </div>
-                                </div>
-                            </div>
+               </p>
 
-                        </div>
+          </div>
+     </div>
 
-
-                        <!-- Excerpt -->
-                        <div class="template-post-section-content">
-                            <div class="template-post-content">
-                                <b style="color: #56509F">Organizers and Trainers</b>
-                                <p>Dr Nico Meißner is Senior Lecturer and Deputy Director (Learning & Teaching) at
-                                    Griffith Film School, Australia’s largest film school. He is researching and writing
-                                    on entrepreneurship in the creative industries and the intricate relations between
-                                    storytelling and innovation. He was the inaugural Dean of the Faculty of Cinematic
-                                    Arts in Malaysia and has taught documentary filmmaking, storytelling and
-                                    entrepreneurship in the UK, Finland, Portugal, Malaysia, Myanmar, Sri Lanka, Ghana,
-                                    Colombia and Australia.</p>
-
-                                <b style="color: #56509F">Workshop Info</b>
-                                <p>The workshop focused on the integration of Artificial Intelligence (AI) and Critical
-                                    Thinking into Teaching Protocols, with the aim of fostering progressive education
-                                    and student-centered classrooms. Participants were introduced to a variety of
-                                    innovative teaching protocols, including the Reflection Prompts, Gallery Walk
-                                    Feedback, Menti Meter Crowdsourcing, and several other essential protocols. These
-                                    protocols were designed to enhance student motivation, empower students to take an
-                                    active role in their learning, create memorable educational experiences, and enable
-                                    intentional teaching and curriculum design. During the workshop, the participant not
-                                    only learned these teaching protocols but also showcased their practical application
-                                    and proposed ways to incorporate these protocols into their existing curriculum and
-                                    classroom settings.</p>
-
-                                <b style="color: #56509F">Impact</b>
-                                <p>During the StoryLab workshop, we worked with 20 young people from Batticaloa,
-                                    building techniques and the confidence to tell authentic stories. The StoryMapping
-                                    workshop focused specifically on DreamSpace Academy and worked with seven core team
-                                    members. We tackled the problem of DreamSpace's visibility in the local community
-                                    and arrived at the Single Question: What if...we train youth ambassadors by solving
-                                    real-world problems in their communities and captured their journey through
-                                    authentic videos? We then spent the final day of our workshop to gather photographs
-                                    and turned them into an authentic Innovation Story.</p>
-
-                            </div>
-                        </div>
-
-                        <div class="template-component-blockquote">
-                            <p>DreamSpace Academy is doing important and inspiring work. I met many passionate,
-                                dedicated, forward-thinking and resourceful young people that deeply care about their
-                                community and innovating society in a human-centered, grassroots way.</p>
-                            <span>Dr. Nico Meissner</span>
-                        </div>
-
-                        <!-- "Continue reading" button -->
-                        <div class="template-post-section-button">
-                            <a href="3-1-0-maker-education.php#art-lab"
-                                class="template-component-button template-component-button-style-1">
-                                Register for Next Training<i></i>
-                            </a>
-                            <!-- Divider -->
-                            <div class="template-component-divider template-component-divider-style-1"></div>
-                        </div>
-
-                    </div>
-
-                </li>
-
-            </ul>
-        </div>
-    </div>
+     <br><br>
+     <!-- Application -->
+     <div class="template-post-section-button">
+          <a href="https://forms.gle/C8PYWwPP3KR1FfwS7" class="template-component-button template-component-button-style-1">
+               REGISTER FOR NEXT TRAINING<i></i>
+          </a>
+          <!-- Divider -->
+          <div class="template-component-divider template-component-divider-style-1"></div>
+     </div>
+     </div>
 </div>
-
-<?php include('9-0-footer.php') ?>
+<?php include('9-0-footer.php'); ?>
