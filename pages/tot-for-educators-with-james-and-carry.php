@@ -11,34 +11,27 @@
         <p class="date">10 Apr - 14 Apr 2023</p>
         <div class="template-component-nivo-slider template-component-nivo-slider-style-1 template-preloader">
             <div>
-                <img src="../media/gallery/tot-james-and-carry-1.png"
-                    data-thumb="../media/gallery/tot-james-and-carry-1.png" alt="DreamSpace Academy" />
+
                 <img src="../media/gallery/tot-james-and-carry-2.png"
                     data-thumb="../media/gallery/tot-james-and-carry-2.png" alt="DreamSpace Academy" />
                 <img src="../media/gallery/tot-james-and-carry-3.png"
                     data-thumb="../media/gallery/tot-james-and-carry-3.png" alt="DreamSpace Academy" />
-                <img src="../media/gallery/tot-james-and-carry-4.png"
-                    data-thumb="../media/gallery/tot-james-and-carry-4.png" alt="DreamSpace Academy" />
-                <img src="../media/gallery/tot-james-and-carry-5.png"
-                    data-thumb="../media/gallery/tot-james-and-carry-5.png" alt="DreamSpace Academy" />
-                <img src="../media/gallery/tot-james-and-carry-6.png"
-                    data-thumb="../media/gallery/tot-james-and-carry-6.png" alt="DreamSpace Academy" />
-                <img src="../media/gallery/tot-james-and-carry-7.png"
-                    data-thumb="../media/gallery/tot-james-and-carry-7.png" alt="DreamSpace Academy" />
-                <img src="../media/gallery/tot-james-and-carry-8.png"
-                    data-thumb="../media/gallery/tot-james-and-carry-8.png" alt="DreamSpace Academy" />
-                <img src="../media/gallery/tot-james-and-carry-9.png"
-                    data-thumb="../media/gallery/tot-james-and-carry-9.png" alt="DreamSpace Academy" />
-                <img src="../media/gallery/tot-james-and-carry-10.png"
-                    data-thumb="../media/gallery/tot-james-and-carry-10.png" alt="DreamSpace Academy" />
-                <img src="../media/gallery/tot-james-and-carry-11.png"
-                    data-thumb="../media/gallery/tot-james-and-carry-11.png" alt="DreamSpace Academy" />
                 <img src="../media/gallery/tot-james-and-carry-12.png"
                     data-thumb="../media/gallery/tot-james-and-carry-12.png" alt="DreamSpace Academy" />
                 <img src="../media/gallery/tot-james-and-carry-13.png"
                     data-thumb="../media/gallery/tot-james-and-carry-13.png" alt="DreamSpace Academy" />
-                <img src="../media/gallery/tot-james-and-carry-14.png"
-                    data-thumb="../media/gallery/tot-james-and-carry-1.png" alt="DreamSpace Academy" />
+                <img src="../media/gallery/tot-james-and-carry-6.png"
+                    data-thumb="../media/gallery/tot-james-and-carry-6.png" alt="DreamSpace Academy" />
+                <img src="../media/gallery/tot-james-and-carry-7.png"
+                    data-thumb="../media/gallery/tot-james-and-carry-7.png" alt="DreamSpace Academy" />
+                <img src="../media/gallery/tot-james-and-carry-11.png"
+                    data-thumb="../media/gallery/tot-james-and-carry-11.png" alt="DreamSpace Academy" />
+                <img src="../media/gallery/tot-james-and-carry-8.png"
+                    data-thumb="../media/gallery/tot-james-and-carry-8.png" alt="DreamSpace Academy" />
+                <img src="../media/gallery/tot-james-and-carry-10.png"
+                    data-thumb="../media/gallery/tot-james-and-carry-10.png" alt="DreamSpace Academy" />
+
+
             </div>
         </div>
     </div>
