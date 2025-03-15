@@ -41,10 +41,11 @@
             <div class="template-post-content">
                 <b style="color: #56509F">Organizers and Trainers</b>
                 <p>DreamSpace Academy organized the Teaching Technology and Design workshop with Carrie Leung and
-                    Benjamin James Simpson from STEAMHEAD from April 10th to 14th, 2023. </p>
+                    Benjamin James Simpson from <a href="https://steamhead.space/">SteamHead</a> from April 10th to
+                    14th, 2023. </p>
 
                 <b style="color: #56509F">Workshop Info</b>
-                <p>The workshop focused on the integration of Artificial Intelligence (Al) and Critical Thinking into
+                <p>The workshop focused on the integration of Technology and Critical Thinking into
                     Teaching Protocols, with the aim of fostering progressive education and student-centered classrooms.
                     Participants were introduced to a variety of innovative teaching protocols, including the Reflection
                     Prompts, Gallery Walk Feedback, Menti Meter Crowdsourcing, and several other essential protocols.
@@ -72,13 +73,20 @@
                 <p>James and Carry will be returning for their next visit in <span
                         class="brand_color_orange">November–December 2025!</span>
                     <br><br>
+                    If you're a trainer interested in joining our program and contributing your expertise,
+                    we’d love to hear from you!
+                    <br>
+                    Reach out to us at
+                    <a href="mailto:trainers@example.com"
+                        style="color: #56509F; text-decoration: none;"><b>james@steamhead.space</b></a>
+                    to explore collaboration opportunities.
+                    <br><br>
                     Secure your spot now by registering for the upcoming training below!
                 </p>
 
             </div>
         </div>
 
-        <br><br>
         <!-- Application -->
         <div class="template-post-section-button">
             <a href="https://forms.gle/C8PYWwPP3KR1FfwS7"
