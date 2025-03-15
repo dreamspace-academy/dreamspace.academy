@@ -75,6 +75,13 @@
 
                 </p>
 
+                <b style="color: #56509F">Next Training</b>
+                <p>James and Carry will be returning for their next visit in <span
+                        class="brand_color_orange">November–December 2025!</span>
+                    <br><br>
+                    Secure your spot now by registering for the upcoming training below!
+                </p>
+
             </div>
         </div>
 
@@ -85,8 +92,6 @@
                 class="template-component-button template-component-button-style-1">
                 REGISTER FOR NEXT TRAINING<i></i>
             </a>
-            <!-- Divider -->
-            <div class="template-component-divider template-component-divider-style-1"></div>
         </div>
     </div>
 </div>
