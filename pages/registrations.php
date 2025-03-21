@@ -40,7 +40,7 @@
                         <img src="../media/bootcamp/3D and 2D designing.jpg" alt="Web Development Course">
                     </div>
                     <div class="course-details">
-                        <h3>3D and 2D designing</h3>
+                        <h3>3D and 2D Designing</h3>
                         <p>
                             Students explore 2D and 3D designing, including drafting, vector graphics, modeling,
                             texturing, and rendering, culminating in a portfolio project.
@@ -326,7 +326,7 @@
                         <img src="../media/bootcamp/graphic_design.jpg" alt="Web Development Course">
                     </div>
                     <div class="course-details">
-                        <h3>Graphic design</h3>
+                        <h3>Graphic Design</h3>
                         <p>A graphic design bootcamp teaches design principles, branding, and software like Photoshop &
                             Illustrator through hands-on projects to build a pro portfolio.</p>
                     </div>
