@@ -1,0 +1,454 @@
+:root {
+  --primary-color: #770cc5;
+  --primary-dark: #6600a1;
+  --secondary-color: #e45c00;
+  --text-color: #333;
+  --text-light: #666;
+  --bg-color: #fff;
+  --bg-light: #f8f9fa;
+  --bg-dark: #343a40;
+  --border-color: #e1e4e8;
+  --font-main: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  line-height: 1.6;
+}
+
+.container {
+  width: 90%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+section {
+  padding: 80px 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin-bottom: 20px;
+  line-height: 1.3;
+}
+
+h2 {
+  font-size: 2.5rem;
+  text-align: center;
+  margin-bottom: 50px;
+  position: relative;
+}
+
+p {
+  margin-bottom: 15px;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+a {
+  text-decoration: none;
+  color: var(--primary-color);
+  transition: all 0.3s ease;
+}
+
+a:hover {
+  color: var(--primary-dark);
+}
+
+.btn {
+  display: inline-block;
+  padding: 12px 30px;
+  background-color: var(--primary-color);
+  color: white;
+  border-radius: 50px;
+  font-weight: 600;
+  transition: all 0.3s ease;
+  border: 2px solid var(--primary-color);
+  cursor: pointer;
+  text-align: center;
+}
+
+.btn:hover {
+  background-color: var(--primary-dark);
+  border-color: var(--primary-dark);
+  color: white;
+  transform: translateY(-3px);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+  text-decoration: none;
+}
+
+.btn-outline {
+  background-color: transparent;
+  color: var(--primary-color);
+}
+
+.btn-outline:hover {
+  background-color: var(--primary-color);
+  color: white;
+  text-decoration: none;
+}
+
+.btn-full {
+  width: 100%;
+}
+
+/* Hero Section */
+.hero {
+  background: linear-gradient(rgba(0, 0, 0, 0.414), rgba(0, 0, 0, 0.419)),
+    url("../media/others/org-slider-dreamspace-2.jpg");
+  background-size: cover;
+  background-position: center;
+  color: white;
+  text-align: center;
+  padding: 150px 0;
+}
+
+.hero-content {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.hero h1 {
+  font-size: 3rem;
+  margin-bottom: 20px;
+  font-weight: 500;
+  animation: fadeInDown 1s ease;
+}
+
+.hero p {
+  font-size: 1.2rem;
+  margin-bottom: 30px;
+  animation: fadeInUp 1s ease;
+}
+
+.hero .btn {
+  animation: fadeIn 1.5s ease;
+}
+
+/* About Section */
+
+.about {
+  background-color: white;
+}
+
+.about-content {
+  display: flex;
+  align-items: center;
+  gap: 50px;
+}
+
+.about-text {
+  flex: 1;
+}
+
+.about-image {
+  flex: 1;
+}
+
+.features {
+  list-style: none;
+  margin-top: 20px;
+}
+
+.features li {
+  margin-bottom: 10px;
+  display: flex;
+  align-items: center;
+}
+
+.features li i {
+  color: var(--success-color);
+  margin-right: 10px;
+}
+
+/* Courses Section */
+.courses {
+  background-color: var(--bg-light);
+}
+
+.course-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 30px;
+  grid-auto-rows: 1fr;
+}
+
+.course-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: stretch;
+  height: 100%;
+  background-color: white;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.course-card .btn{
+  padding: 8px 25px;
+  margin: 1rem;
+}
+
+.course-card:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 15px 30px rgba(0, 0, 0, 0.15);
+}
+
+.course-image {
+  height: 200px;
+  overflow: hidden;
+}
+
+.course-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.5s ease;
+}
+
+.course-card:hover .course-image img {
+  transform: scale(1.1);
+}
+
+.course-details {
+  padding: 10px 20px ;
+  position: relative;
+}
+
+.course-details h3 {
+  font-size: 1.3rem;
+}
+
+.course-details p{
+  margin: 0;
+}
+
+.course-meta {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  color: var(--text-light);
+  font-size: 0.9rem;
+}
+
+.course-meta span {
+  display: flex;
+  align-items: center;
+  margin: 0.5rem 2rem 0 0;
+}
+
+.course-meta i {
+  margin-right: 5px;
+}
+
+/* Testimonials Section */
+/* .testimonials {
+  background-color: white;
+}
+
+.testimonial {
+  max-width: 800px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.quote {
+  background-color: var(--bg-light);
+  padding: 30px;
+  border-radius: 10px;
+  position: relative;
+  margin-bottom: 30px;
+}
+
+.quote:after {
+  content: "";
+  position: absolute;
+  bottom: -15px;
+  left: 50%;
+  transform: translateX(-50%);
+  border-width: 15px 15px 0;
+  border-style: solid;
+  border-color: var(--bg-light) transparent;
+}
+
+.quote i {
+  color: var(--primary-color);
+  font-size: 1.5rem;
+  margin-bottom: 15px;
+}
+
+.student {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 15px;
+}
+
+.student img {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.student h4 {
+  margin-bottom: 5px;
+}
+
+.student p {
+  color: var(--text-light);
+  margin: 0;
+  font-size: 0.9rem;
+}
+
+.social-icons {
+  display: flex;
+  gap: 15px;
+}
+
+.social-icons a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  background-color: rgba(255, 255, 255, 0.1);
+  border-radius: 50%;
+  color: white;
+  transition: all 0.3s ease;
+}
+
+.social-icons a:hover {
+  background-color: var(--primary-color);
+  transform: translateY(-5px);
+} */
+
+/* about image collage */
+
+
+
+/* Animations */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes fadeInDown {
+  from {
+    opacity: 0;
+    transform: translateY(-30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Responsive Styles */
+@media (max-width: 992px) {
+  .about-content {
+    flex-direction: column;
+  }
+
+  .register-content {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 768px) {
+  header {
+    padding: 15px 20px;
+  }
+
+  .mobile-menu {
+    display: block;
+  }
+
+  nav ul {
+    position: absolute;
+    top: 70px;
+    left: 0;
+    width: 100%;
+    background-color: white;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px 0;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+    transform: translateY(-150%);
+    transition: transform 0.3s ease;
+    z-index: 999;
+  }
+
+  nav ul.show {
+    transform: translateY(0);
+  }
+
+  nav ul li {
+    margin: 15px 0;
+  }
+
+  .hero {
+    padding: 100px 0;
+  }
+
+  .hero h1 {
+    font-size: 2.2rem;
+  }
+
+  section {
+    padding: 60px 0;
+  }
+
+  h2 {
+    font-size: 2rem;
+  }
+}
+
+@media (max-width: 576px) {
+  .hero h1 {
+    font-size: 1.8rem;
+  }
+
+  .benefits {
+    grid-template-columns: 1fr;
+  }
+
+  .register-form {
+    padding: 20px;
+  }
+}
