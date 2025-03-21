@@ -11,34 +11,27 @@
         <p class="date">10 Apr - 14 Apr 2023</p>
         <div class="template-component-nivo-slider template-component-nivo-slider-style-1 template-preloader">
             <div>
-                <img src="../media/gallery/tot-james-and-carry-1.png"
-                    data-thumb="../media/gallery/tot-james-and-carry-1.png" alt="DreamSpace Academy" />
+
                 <img src="../media/gallery/tot-james-and-carry-2.png"
                     data-thumb="../media/gallery/tot-james-and-carry-2.png" alt="DreamSpace Academy" />
                 <img src="../media/gallery/tot-james-and-carry-3.png"
                     data-thumb="../media/gallery/tot-james-and-carry-3.png" alt="DreamSpace Academy" />
-                <img src="../media/gallery/tot-james-and-carry-4.png"
-                    data-thumb="../media/gallery/tot-james-and-carry-4.png" alt="DreamSpace Academy" />
-                <img src="../media/gallery/tot-james-and-carry-5.png"
-                    data-thumb="../media/gallery/tot-james-and-carry-5.png" alt="DreamSpace Academy" />
-                <img src="../media/gallery/tot-james-and-carry-6.png"
-                    data-thumb="../media/gallery/tot-james-and-carry-6.png" alt="DreamSpace Academy" />
-                <img src="../media/gallery/tot-james-and-carry-7.png"
-                    data-thumb="../media/gallery/tot-james-and-carry-7.png" alt="DreamSpace Academy" />
-                <img src="../media/gallery/tot-james-and-carry-8.png"
-                    data-thumb="../media/gallery/tot-james-and-carry-8.png" alt="DreamSpace Academy" />
-                <img src="../media/gallery/tot-james-and-carry-9.png"
-                    data-thumb="../media/gallery/tot-james-and-carry-9.png" alt="DreamSpace Academy" />
-                <img src="../media/gallery/tot-james-and-carry-10.png"
-                    data-thumb="../media/gallery/tot-james-and-carry-10.png" alt="DreamSpace Academy" />
-                <img src="../media/gallery/tot-james-and-carry-11.png"
-                    data-thumb="../media/gallery/tot-james-and-carry-11.png" alt="DreamSpace Academy" />
                 <img src="../media/gallery/tot-james-and-carry-12.png"
                     data-thumb="../media/gallery/tot-james-and-carry-12.png" alt="DreamSpace Academy" />
                 <img src="../media/gallery/tot-james-and-carry-13.png"
                     data-thumb="../media/gallery/tot-james-and-carry-13.png" alt="DreamSpace Academy" />
-                <img src="../media/gallery/tot-james-and-carry-14.png"
-                    data-thumb="../media/gallery/tot-james-and-carry-1.png" alt="DreamSpace Academy" />
+                <img src="../media/gallery/tot-james-and-carry-6.png"
+                    data-thumb="../media/gallery/tot-james-and-carry-6.png" alt="DreamSpace Academy" />
+                <img src="../media/gallery/tot-james-and-carry-7.png"
+                    data-thumb="../media/gallery/tot-james-and-carry-7.png" alt="DreamSpace Academy" />
+                <img src="../media/gallery/tot-james-and-carry-11.png"
+                    data-thumb="../media/gallery/tot-james-and-carry-11.png" alt="DreamSpace Academy" />
+                <img src="../media/gallery/tot-james-and-carry-8.png"
+                    data-thumb="../media/gallery/tot-james-and-carry-8.png" alt="DreamSpace Academy" />
+                <img src="../media/gallery/tot-james-and-carry-10.png"
+                    data-thumb="../media/gallery/tot-james-and-carry-10.png" alt="DreamSpace Academy" />
+
+
             </div>
         </div>
     </div>
@@ -48,10 +41,11 @@
             <div class="template-post-content">
                 <b style="color: #56509F">Organizers and Trainers</b>
                 <p>DreamSpace Academy organized the Teaching Technology and Design workshop with Carrie Leung and
-                    Benjamin James Simpson from STEAMHEAD from April 10th to 14th, 2023. </p>
+                    Benjamin James Simpson from <a href="https://steamhead.space/">SteamHead</a> from April 10th to
+                    14th, 2023. </p>
 
                 <b style="color: #56509F">Workshop Info</b>
-                <p>The workshop focused on the integration of Artificial Intelligence (Al) and Critical Thinking into
+                <p>The workshop focused on the integration of Technology and Critical Thinking into
                     Teaching Protocols, with the aim of fostering progressive education and student-centered classrooms.
                     Participants were introduced to a variety of innovative teaching protocols, including the Reflection
                     Prompts, Gallery Walk Feedback, Menti Meter Crowdsourcing, and several other essential protocols.
@@ -75,18 +69,30 @@
 
                 </p>
 
+                <b style="color: #56509F">Next Training</b>
+                <p>James and Carrie will be returning for their next visit in <span
+                        class="brand_color_orange">November–December 2025!</span>
+                    <br><br>
+                    If you're a trainer interested in joining our program and contributing your expertise,
+                    we’d love to hear from you!
+                    <br>
+                    Reach out to us at
+                    <a href="mailto:trainers@example.com"
+                        style="color: #56509F; text-decoration: none;"><b>james@steamhead.space</b></a>
+                    to explore collaboration opportunities.
+                    <br><br>
+                    Secure your spot now by registering for the upcoming training below!
+                </p>
+
             </div>
         </div>
 
-        <br><br>
         <!-- Application -->
         <div class="template-post-section-button">
             <a href="https://forms.gle/C8PYWwPP3KR1FfwS7"
                 class="template-component-button template-component-button-style-1">
                 REGISTER FOR NEXT TRAINING<i></i>
             </a>
-            <!-- Divider -->
-            <div class="template-component-divider template-component-divider-style-1"></div>
         </div>
     </div>
 </div>
