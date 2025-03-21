@@ -70,7 +70,7 @@
                 </p>
 
                 <b style="color: #56509F">Next Training</b>
-                <p>James and Carry will be returning for their next visit in <span
+                <p>James and Carrie will be returning for their next visit in <span
                         class="brand_color_orange">November–December 2025!</span>
                     <br><br>
                     If you're a trainer interested in joining our program and contributing your expertise,
