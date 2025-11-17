@@ -1,1 +1,17 @@
 Icon\r
+
+# Docker testing files (do not commit)
+docker-compose.yml
+.dockerignore
+
+# Design source files (do not commit)
+*.psd
+*.afphoto
+*.ai
+*.sketch
+*.xd
+*.fig
+
+# Temporary directories
+tmp/
+temp/
