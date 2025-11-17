@@ -19,7 +19,7 @@
 
 				<!-- Left column -->
 				<li class="template-layout-column-left">
-					<div class="template-icon-feature template-icon-feature-name-envelope-alt"></div>
+					<div class="template-icon-feature"><i class="fa fa-envelope fa-3x" style="color: #666;"></i></div>
 					<h5>Address</h5>
 					<p>
 						DreamSpace Academy </br>
@@ -54,7 +54,7 @@
 
 				<!-- Center column -->
 				<li class="template-layout-column-center">
-					<div class="template-icon-feature template-icon-feature-name-mobile-alt"></div>
+					<div class="template-icon-feature"><i class="fa fa-mobile fa-3x" style="color: #666;"></i></div>
 					<h5>Contact</h5>
 					<p>
 						Phone: +94 (0) 65 222 6525<br />
@@ -64,7 +64,7 @@
 
 				<!-- Right column -->
 				<li class="template-layout-column-right template-margin-bottom-5">
-					<div class="template-icon-feature template-icon-feature-name-clock-alt"></div>
+					<div class="template-icon-feature"><i class="fa fa-clock-o fa-3x" style="color: #666;"></i></div>
 					<h5>Opening Hours</h5>
 					<p>
 						Monday – Saturday<br />
