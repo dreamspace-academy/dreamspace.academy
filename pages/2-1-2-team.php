@@ -62,15 +62,62 @@
                     </div>
                 </li>
 
-                <!-- ACADEMY (13) -->
+                <!-- DIRECTORS (3) -->
                 <li class="template-layout-column-center-right">
+                    <div
+                        class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+                        <img src="../media/people/Abdul-Basith.png" alt="DreamSpace Academy" />
+                        <div>
+                            <h6>Rafeekin Mohamed</br>Basith</h6>
+                            </br>
+                            <span></br>Director</span>
+                        </div>
+                        <div
+                            class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+                            <ul>
+                                <li><a target="_blank"
+                                        href="https://www.linkedin.com/in/abdul-basith-rafeekin-9a7334192/">
+                                        <i class="fab fa-linkedin-in fa-lg"
+                                            style="color: white; padding-top: 17px;"></i>
+                                    </a></li>
+                                <li><a target="_blank" href="https://www.facebook.com/profile.php?id=100012693817746">
+                                        <i class="fas fa-link fa-lg" style="color: white; padding-top: 17px;"></i>
+                                    </a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </li>
+                <li class="template-layout-column-right">
+                    <div
+                        class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+                        <img src="../media/people/Rathees-Koneswaran.jpg" alt="DreamSpace Academy" />
+                        <div>
+                            <h6>Rathees</br>Koneswaran</h6>
+                            </br>
+                            <span></br>Director</span>
+                        </div>
+                        <div
+                            class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+                            <ul>
+                                <li><a target="_blank" href="https://www.linkedin.com/in/rathees-koneswaran-eng">
+                                        <i class="fab fa-linkedin-in fa-lg"
+                                            style="color: white; padding-top: 17px;"></i>
+                                    </a></li>
+                                <li><a target="_blank" href="https://github.com/Rathees-Koneswarann">
+                                        <i class="fas fa-link fa-lg" style="color: white; padding-top: 17px;"></i>
+                                    </a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </li>
+                <li class="template-layout-column-left">
                     <div
                         class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
                         <img src="../media/people/Abilajini-Seeralan.jpg" alt="DreamSpace Academy" />
                         <div>
                             <h6>Abilajini</br>Seeralan</h6>
                             </br>
-                            <span>Director</br>Operations</span>
+                            <span></br>Director</span>
                         </div>
                         <div
                             class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
@@ -86,7 +133,9 @@
                         </div>
                     </div>
                 </li>
-                <li class="template-layout-column-right">
+
+                <!-- ACADEMY (12) -->
+                <li class="template-layout-column-center-left">
                     <div
                         class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
                         <img src="../media/people/abilash-ganesamoorthy-dreamspace.jpg" alt="DreamSpace Academy" />
@@ -110,7 +159,7 @@
                         </div>
                     </div>
                 </li>
-                <li class="template-layout-column-left">
+                <li class="template-layout-column-center-right">
                     <div
                         class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
                         <img src="../media/people/Angeline-Lakshanya-Muthulingam.jpg" alt="DreamSpace Academy" />
@@ -538,30 +587,6 @@
                 <li class="template-layout-column-center-right">
                     <div
                         class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-                        <img src="../media/people/Abdul-Basith.png" alt="DreamSpace Academy" />
-                        <div>
-                            <h6>Rafeekin Mohamed</br>Basith</h6>
-                            </br>
-                            <span>Co-Founder</br>Director</span>
-                        </div>
-                        <div
-                            class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
-                            <ul>
-                                <li><a target="_blank"
-                                        href="https://www.linkedin.com/in/abdul-basith-rafeekin-9a7334192/">
-                                        <i class="fab fa-linkedin-in fa-lg"
-                                            style="color: white; padding-top: 17px;"></i>
-                                    </a></li>
-                                <li><a target="_blank" href="https://www.facebook.com/profile.php?id=100012693817746">
-                                        <i class="fas fa-link fa-lg" style="color: white; padding-top: 17px;"></i>
-                                    </a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </li>
-                <li class="template-layout-column-right">
-                    <div
-                        class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
                         <img src="../media/people/Sriskantharasa-Shiyan.jpg" alt="DreamSpace Academy" />
                         <div>
                             <h6>Sriskantharasa</br>Shiyan</h6>
@@ -657,29 +682,6 @@
                     </div>
                 </li>
                 <li class="template-layout-column-right">
-                    <div
-                        class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-                        <img src="../media/people/Rathees-Koneswaran.jpg" alt="DreamSpace Academy" />
-                        <div>
-                            <h6>Rathees</br>Koneswaran</h6>
-                            </br>
-                            <span>Director</br>Full Stack Developer</span>
-                        </div>
-                        <div
-                            class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
-                            <ul>
-                                <li><a target="_blank" href="https://www.linkedin.com/in/rathees-koneswaran-eng">
-                                        <i class="fab fa-linkedin-in fa-lg"
-                                            style="color: white; padding-top: 17px;"></i>
-                                    </a></li>
-                                <li><a target="_blank" href="https://github.com/Rathees-Koneswarann">
-                                        <i class="fas fa-link fa-lg" style="color: white; padding-top: 17px;"></i>
-                                    </a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </li>
-                <li class="template-layout-column-left">
                     <div
                         class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
                         <img src="../media/people/Sajeeth-Ahamed.jpg" alt="DreamSpace Academy" />
