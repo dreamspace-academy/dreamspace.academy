@@ -1,0 +1,3 @@
+- Commit often using conventional commit format.
+- Follow KISS principle
+- When modifying team pages or any page using the 4-column grid layout (`template-layout-25x25x25x25`), always verify the column classes follow the correct sequential pattern: `column-left` → `column-center-left` → `column-center-right` → `column-right` (repeating). Each row must start with `column-left` to avoid visual gaps in the grid.
