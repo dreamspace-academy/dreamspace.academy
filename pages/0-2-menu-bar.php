@@ -127,7 +127,7 @@
                         </li>
 
                         <!-- Activities Menu -->
-                        <li class="sf-mega-enable-1">
+                        <!-- <li class="sf-mega-enable-1">
                             <a href="#"><span class="template-icon-menu" style="font-size:xx-large;"><i
                                         class="fas fa-people-arrows"></i></span>Activities</a>
                             <div class="sf-mega template-layout-20x20x20x20x20 template-clear-fix">
@@ -173,7 +173,7 @@
 
 
                             </div>
-                        </li>
+                        </li> -->
 
                         <!-- Contact Menu -->
                         <li class="sf-mega-enable-1">
