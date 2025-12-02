@@ -115,7 +115,7 @@
                 </li>
 
                 <!-- Activities Menu -->
-                <li>
+                <!-- <li>
                     <a href="#">Activities<span></span></a>
                     <ul>
 
@@ -157,7 +157,7 @@
                         </li>
 
                     </ul>
-                </li>
+                </li> -->
 
 
                 <!-- Support Menu -->
