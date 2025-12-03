@@ -8,6 +8,6 @@
 <?php include('1-3-1-statistics.php'); ?>
 <?php include('1-5-awards.php'); ?>
 <?php include('1-8-press.php'); ?>
-<?php include('1-9-timeline.php'); ?>
+<!-- <?php include('1-9-timeline.php'); ?> -->
 </div>
 <?php include('9-0-footer.php'); ?>
