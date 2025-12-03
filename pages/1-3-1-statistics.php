@@ -9,7 +9,7 @@
             <ul class="template-layout-25x25x25x25 template-clear-fix">
                 <li class="template-layout-column-left">
                     <span class="template-component-counter-box-counter counter-box-round">
-                        <span class="template-component-counter-box-counter-value">2500</span>
+                        <span class="template-component-counter-box-counter-value">3500</span>
                         <span class="template-component-counter-box-counter-character">+</span>
                     </span>
                     <h5>Candidates</h5>
