@@ -114,52 +114,6 @@
                     </ul>
                 </li>
 
-                <!-- Activities Menu -->
-                <!-- <li>
-                    <a href="#">Activities<span></span></a>
-                    <ul>
-
-                        <!-- International Aid Projects Menu-->
-                        <li>
-                            <a href="#">International Aid Projects<span></span></a>
-                            <ul>
-                                <li><a href="4-3-0-international-aid-projects.php#dofe">The Duke of Edinburgh's Award
-                                        (UK)</a></li>
-                                <li><a href="4-3-0-international-aid-projects.php#sjwp">Stockholm Junior Water Prize
-                                        (Sweden)</a></li>
-                                <li><a href="4-3-0-international-aid-projects.php#s4ig">Skills For Inclusive Growth
-                                        (Australia)</a></li>
-                            </ul>
-                        </li>
-
-                        <!-- Service Providing Menu -->
-                        <li>
-                            <a href="#">Service Providing<span></span></a>
-                            <ul>
-                                <li><a href="4-4-0-service-providing.php#360-consulting">360° Consulting</a></li>
-                                <li><a href="4-4-0-service-providing.php#data-moderation">Data Moderation</a></li>
-                                <li><a href="4-4-0-service-providing.php#prototype">Prototype & Product Development</a>
-                                </li>
-                                <li><a href="4-4-0-service-providing.php#software-development">Software Development</a>
-                                </li>
-                                <li><a href="4-4-0-service-providing.php#photography">Photography & Documentary
-                                        Making</a></li>
-                            </ul>
-                        </li>
-
-                        <!-- Initiatives Menu-->
-                        <li>
-                            <a href="#">Initiatives<span></span></a>
-                            <ul>
-                                <li><a href="3-5-0-initiatives.php#terrace">DreamSpace Terrace</a></li>
-                                <li><a href="3-5-0-initiatives.php#curve-metrics">Curve Metrics</a></li>
-                            </ul>
-                        </li>
-
-                    </ul>
-                </li> -->
-
-
                 <!-- Support Menu -->
                 <li>
                     <a href="7-1-support.php">Support</a>
