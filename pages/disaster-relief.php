@@ -227,7 +227,7 @@
 <div class="template-content">
   <div class="template-content-section template-padding-top-reset template-main">
     <div class="template-component-header-subheader">
-      <h2>Rebuild Sri Lanka</h2>
+      <h3>Rebuild Sri Lanka</h3>
       <h6>A united humanitarian mission to support flood-affected families across the island</h6>
     </div>
     <div class="template-post-section-icon">
@@ -284,14 +284,14 @@
         <div class="template-post">
           <div class="template-post-section-content">
             <div class="template-post-content">
-              <h4 class="template-margin-top-3">Sri Lanka Flood Relief Appeal</h4>
+              <h1 class="template-margin-top-3"><b>Sri Lanka Disaster Relief Response</b></h1>
 
-              <h6 class="template-margin-top-3">Sri Lanka Faces an Unprecedented Humanitarian Crisis</h6>
+              <h3 class="template-margin-top-3">Sri Lanka Faces an Unprecedented Humanitarian Crisis</h3>
               <p align="justify">
                 Sri Lanka is facing one of the deadliest and most destructive disasters in recent history. Cyclone Ditwah and the island-wide floods have left communities devastated, homes destroyed, and thousands of families fighting for survival.
               </p>
 
-              <h6 class="template-margin-top-3">The Reality on the Ground</h6>
+              <h3 class="template-margin-top-3">The Reality on the Ground</h3>
               <p align="justify">
                 According to the latest national updates:
                 <br>• <strong>465 lives lost</strong>
@@ -309,7 +309,7 @@
                 Remote villages, including island communities, are accessible only by boat, leaving families trapped without food, medicine, or basic essentials.
               </p>
 
-              <h6 class="template-margin-top-3">Government Support — Not Enough for the Scale of the Crisis</h6>
+              <h3 class="template-margin-top-3">Government Support — Not Enough for the Scale of the Crisis</h3>
               <p align="justify">
                 The Government has allocated LKR 50 million (USD 150,000) per Divisional Secretariat for immediate emergency response. While this support is essential, the needs on the ground are far greater:
                 <br>• Thousands require daily meals and dry rations
@@ -323,7 +323,7 @@
                 No single system can handle a crisis of this magnitude alone. Public support is critical.
               </p>
 
-              <h6 class="template-margin-top-3">What DreamSpace Academy Is Doing</h6>
+              <h3 class="template-margin-top-3">What DreamSpace Academy is Doing</h3>
               <p align="justify">
                 DreamSpace Academy, together with KathiraGreens, United Catalyst Network, and dedicated grassroots teams, is actively delivering support in some of the hardest-hit and most inaccessible regions.
               </p>
@@ -359,7 +359,7 @@
                 <button class="next">▶</button>
               </div>
 
-              <h6 class="template-margin-top-3">You Can Help Save Lives</h6>
+              <h3 class="template-margin-top-3">You Can Help Save Lives</h3>
               <p align="justify">
                 This is a moment for compassion and collective responsibility. Your generosity can help a family eat, stay safe, regain dignity, and begin rebuilding their lives.
               </p>
@@ -371,13 +371,13 @@
             </div>
           </div>
         </div>
-        <h3>Donation - Income & Expense Report</h3>
+        <h1><b>Your Donations</b></h1>
         <iframe
           width="100%"
           height="600"
           src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQMiNowqfEJn35hOny3vADtNfKgBq2vFal2VwnJ3HvicdDifCubx7RfnS_WW8cRqw-83UNoPhHfnPyJ/pubhtml?gid=0&single=true&widget=true&headers=false"></iframe>
           
-        <h3>Timeline</h3>
+        <h1><b>Our Actions</b></h1>
         <div class="timeline">
     <div class="timeline-item">
         <h4>4 Dec 2025</h4>
