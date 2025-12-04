@@ -13,7 +13,7 @@
 
   /* Desktop right sidebar */
   .fl-content-right-desktop {
-    flex: 1;
+    flex: 2;
     position: sticky;
     top: 120px;
     height: fit-content;
@@ -32,7 +32,17 @@
     border: 1px solid #ddd;
     margin-bottom: 30px;
   }
-
+@media(min-width: 991px) {
+    /* Hide mobile version on desktop */
+    .fl-content-right-mobile {
+      display: none;
+    }
+    
+    /* Show desktop version on desktop */
+    .fl-content-right-desktop {
+      display: block;
+    }
+  }
   @media(max-width: 992px) {
     .fl-layout-container {
       flex-direction: column;
@@ -62,17 +72,7 @@
     }
   }
 
-  @media(min-width: 500px) {
-    /* Hide mobile version on desktop */
-    .fl-content-right-mobile {
-      display: none;
-    }
-    
-    /* Show desktop version on desktop */
-    .fl-content-right-desktop {
-      display: block;
-    }
-  }
+  
 
   .slider-container {
     overflow: hidden;
@@ -190,53 +190,38 @@
     background: #555;
   }
   
-  .social-wrapper {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    gap: 10px;
-    position: relative;
-    width: 100%;
-  }
+.timeline {
+    max-width: 600px;
+    margin: 40px auto;
+    padding-left: 20px;
+    border-left: 3px solid #ddd;
+}
 
-  .social-frame-container {
+.timeline-item {
+    margin-bottom: 40px;
     position: relative;
-    display: flex;
-    justify-content: center;
-    width: 100%;
-  }
+}
 
-  .nav-btn {
+.timeline-item::before {
+    content: "";
+    width: 14px;
+    height: 14px;
+    background: #4285f4;
+    border-radius: 50%;
     position: absolute;
-    top: 50%;
-    transform: translateY(-50%);
-    background: #e45c00;
-    color: #fff;
-    border: none;
-    padding: 10px 14px;
-    cursor: pointer;
-    font-size: 18px;
-    opacity: 0.7;
-  }
+    left: -12px;
+    top: 12px;
+}
 
-  .nav-btn:hover {
-    opacity: 1;
-    background: #770cc5;
-  }
-
-  .nav-left {
-    left: 20px;
-  }
-
-  .nav-right {
-    right: 20px;
-  }
-  
-  iframe.social-frame {
-    width: 504px;   /* fixed width */
-    height: 670px;  /* fixed height */
-    border: none;
-  }
+.timeline-item img {
+    width: 100%;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+.timeline-item h4 {
+    margin: 0 0 10px 10px;
+}
+ 
 </style>
 
 <div class="template-content">
@@ -245,127 +230,50 @@
       <h2>Rebuild Sri Lanka</h2>
       <h6>A united humanitarian mission to support flood-affected families across the island</h6>
     </div>
+    <div class="template-post-section-icon">
+      <div class="template-post-icon template-post-icon-sticky"></div>
+    </div>
+
+    <div class="template-post-section-preambule">
+      <div class="template-component-nivo-slider template-component-nivo-slider-style-2 template-preloader">
+        <div>
+          <img src="../media/gallery/sri-lanka-flood-1.jfif" alt="Sri Lanka Flood 2025">
+          <img src="../media/gallery/sri-lanka-flood-2.avif" alt="Sri Lanka Flood 2025">
+          <img src="../media/gallery/sri-lanka-flood-3.webp" alt="Sri Lanka Flood 2025">
+        </div>
+      </div>
+      <div class="template-component-divider template-component-divider-style-1"></div>
+    </div>
 
     <!-- MOBILE VERSION - TOP POSITION -->
     <div class="fl-content-right-mobile">
       <div class="payment-section scroll-box">
         <p>Your contribution helps deliver food, medicine, and essential aid to affected families.</p>
-        
-        <?php
-        // PHP data arrays
-        $bankData = [
-          'sl' => '
-            <h4>Sri Lanka</h4>
-            <b>Account Name:</b> DreamSpace Foundation<br>
-            <b>Bank Name:</b> Bank of Ceylon<br>
-            <b>Account Number:</b> 88669857<br>
-            <b>Branch / Routing:</b> 426 - Kallady<br>
-            <b>SWIFT Code:</b> BCEYLKLX<br><br>
-            <b>Organisation:</b> Guarantee Limited (Non-Profit)<br>
-            <b>Address:</b> 50 New Kalmunai Road, Batticaloa 30000, Sri Lanka
-          ',
-          'eu' => '
-            <h4>Europe</h4>
-            <b>Account Name:</b> DreamSpace Foundation gUG<br>
-            <b>Bank Name:</b> GLS Gemeinschaftsbank<br>
-            <b>IBAN:</b> DE26 4306 0967 1322 7554 00<br><br>
-            <b>Organisation:</b> Gemeinnützige Unternehmergesellschaft (Non-Profit)<br>
-            <b>Address:</b> Hubertusstr. 5, 12163 Berlin, Germany
-          ',
-          'usa' => '
-            <h4>USA</h4>
-            <b>Account Name:</b> DreamSpace Foundation gUG<br>
-            <b>Bank Name:</b> Community Federal Savings Bank<br>
-            <b>Account Number:</b> 8314357954<br>
-            <b>Account Type:</b> Checking<br>
-            <b>Routing Code:</b> 026073150<br>
-            <b>SWIFT Code:</b> CMFGUS33
-          ',
-          'uk' => '
-            <h4>UK</h4>
-            <b>Account Name:</b> DreamSpace Foundation gUG<br>
-            <b>Bank Name:</b> Wise Payments Limited<br>
-            <b>Account Number:</b> 61272545<br>
-            <b>Sort Code:</b> 23-14-70<br>
-            <b>IBAN:</b> GB45 TRWI 2314 7061 2725 45<br>
-            <b>SWIFT Code:</b> TRWIGB2LXXX
-          ',
-          'ca' => '
-            <h4>Canada</h4>
-            <b>Account Name:</b> DreamSpace Foundation gUG<br>
-            <b>Bank Name:</b> Wise Payments Canada Inc<br>
-            <b>Account Number:</b> 200116145584<br>
-            <b>Institution Number:</b> 621<br>
-            <b>Transit Number:</b> 16001<br>
-            <b>SWIFT Code:</b> TRWICAW1XXX
-          ',
-          'au' => '
-            <h4>Australia</h4>
-            <b>Account Name:</b> DreamSpace Foundation gUG<br>
-            <b>Bank Name:</b> Wise Australia Pty Ltd<br>
-            <b>Account Number:</b> 218103907<br>
-            <b>BSB Code:</b> 774-001<br>
-            <b>SWIFT Code:</b> TRWIAUS1XXX
-          '
-        ];
-
-        $paypal = '
-          <h4>PayPal</h4>
-          <b>Link:</b><br>
-          <a href="https://www.paypal.com/paypalme/dreamspacefoundation" target="_blank">
-            paypal.com/paypalme/dreamspacefoundation
-          </a><br><br>
-          <b>QR:</b><br>
-          <img src="../media/qr/paypal-qr-code.png" width="60%">
-        ';
-
-        $wise = '
-          <h4>TransferWise (Multi Currency)</h4>
-          <b>Quick Pay Link:</b><br>
-          <a href="https://wise.com/pay/business/dreamspacefoundationgug" target="_blank">
-            wise.com/pay/business/dreamspacefoundationgug
-          </a><br><br>
-          <b>QR:</b><br>
-          <img src="../media/qr/wise-quick-pay-qr-code.png" width="60%">
-        ';
-
-        // Get current values from POST/GET or use defaults
-        $paymentType = isset($_POST['payment_type']) ? $_POST['payment_type'] : 'bank';
-        $country = isset($_POST['country']) ? $_POST['country'] : 'sl';
-        ?>
 
         <!-- PAYMENT TYPE DROPDOWN -->
         <label class="fl-label">Select Payment Type</label>
         <select id="fl-payment-type-mobile" class="fl-select">
-          <option value="bank" <?php echo $paymentType === 'bank' ? 'selected' : ''; ?>>Bank Transfer</option>
-          <option value="paypal" <?php echo $paymentType === 'paypal' ? 'selected' : ''; ?>>PayPal</option>
-          <option value="wise" <?php echo $paymentType === 'wise' ? 'selected' : ''; ?>>TransferWise</option>
+          <option value="bank">Bank Transfer</option>
+          <option value="paypal">PayPal</option>
+          <option value="wise">TransferWise</option>
         </select>
 
         <!-- COUNTRY DROPDOWN -->
         <div id="fl-country-box-mobile">
           <label class="fl-label">Select Country</label>
           <select id="fl-country-mobile" class="fl-select">
-            <option value="sl" <?php echo $country === 'sl' ? 'selected' : ''; ?>>Sri Lanka</option>
-            <option value="eu" <?php echo $country === 'eu' ? 'selected' : ''; ?>>Europe</option>
-            <option value="usa" <?php echo $country === 'usa' ? 'selected' : ''; ?>>USA</option>
-            <option value="uk" <?php echo $country === 'uk' ? 'selected' : ''; ?>>UK</option>
-            <option value="ca" <?php echo $country === 'ca' ? 'selected' : ''; ?>>Canada</option>
-            <option value="au" <?php echo $country === 'au' ? 'selected' : ''; ?>>Australia</option>
+            <option value="sl">Sri Lanka</option>
+            <option value="eu">Europe</option>
+            <option value="usa">USA</option>
+            <option value="uk">UK</option>
+            <option value="ca">Canada</option>
+            <option value="au">Australia</option>
           </select>
         </div>
 
         <!-- RESULT BOX -->
         <div id="fl-result-mobile" class="fl-box">
-          <?php
-          if ($paymentType === 'bank') {
-            echo isset($bankData[$country]) ? $bankData[$country] : $bankData['sl'];
-          } elseif ($paymentType === 'paypal') {
-            echo $paypal;
-          } elseif ($paymentType === 'wise') {
-            echo $wise;
-          }
-          ?>
+          <!-- Content will be populated by JavaScript -->
         </div>
       </div>
     </div>
@@ -374,21 +282,6 @@
       <!-- LEFT SIDE CONTENT (3:1 Layout) -->
       <div class="fl-content-left">
         <div class="template-post">
-          <div class="template-post-section-icon">
-            <div class="template-post-icon template-post-icon-sticky"></div>
-          </div>
-
-          <div class="template-post-section-preambule">
-            <div class="template-component-nivo-slider template-component-nivo-slider-style-2 template-preloader">
-              <div>
-                <img src="../media/gallery/sri-lanka-flood-1.jfif" alt="Sri Lanka Flood 2025">
-                <img src="../media/gallery/sri-lanka-flood-2.avif" alt="Sri Lanka Flood 2025">
-                <img src="../media/gallery/sri-lanka-flood-3.webp" alt="Sri Lanka Flood 2025">
-              </div>
-            </div>
-            <div class="template-component-divider template-component-divider-style-1"></div>
-          </div>
-
           <div class="template-post-section-content">
             <div class="template-post-content">
               <h4 class="template-margin-top-3">Sri Lanka Flood Relief Appeal</h4>
@@ -453,17 +346,15 @@
               <div class="slider-container">
                 <button class="prev">◀</button>
 
-                
-                  <div class="slide-track">
-                    <img src="../media/gallery/sri-lanka-flood-help-1.jpg" alt="Sri lanka flood relief 1">
-                    <img src="../media/gallery/sri-lanka-flood-help-2.jpg" alt="Sri lanka flood relief 2">
-                    <img src="../media/gallery/sri-lanka-flood-help-3.jpg" alt="Sri lanka flood relief 3">
-                    <img src="../media/gallery/sri-lanka-flood-help-4.jpg" alt="Sri lanka flood relief 4">
-                    <img src="../media/gallery/sri-lanka-flood-help-5.jpg" alt="Sri lanka flood relief 5">
-                    <img src="../media/gallery/sri-lanka-flood-help-6.jpg" alt="Sri lanka flood relief 6">
-                    <img src="../media/gallery/sri-lanka-flood-help-7.jpg" alt="Sri lanka flood relief 7">
-                  </div>
-                
+                <div class="slide-track">
+                  <img src="../media/gallery/sri-lanka-flood-help-1.jpg" alt="Sri lanka flood relief 1">
+                  <img src="../media/gallery/sri-lanka-flood-help-2.jpg" alt="Sri lanka flood relief 2">
+                  <img src="../media/gallery/sri-lanka-flood-help-3.jpg" alt="Sri lanka flood relief 3">
+                  <img src="../media/gallery/sri-lanka-flood-help-4.jpg" alt="Sri lanka flood relief 4">
+                  <img src="../media/gallery/sri-lanka-flood-help-5.jpg" alt="Sri lanka flood relief 5">
+                  <img src="../media/gallery/sri-lanka-flood-help-6.jpg" alt="Sri lanka flood relief 6">
+                  <img src="../media/gallery/sri-lanka-flood-help-7.jpg" alt="Sri lanka flood relief 7">
+                </div>
 
                 <button class="next">▶</button>
               </div>
@@ -484,19 +375,30 @@
         <iframe
           width="100%"
           height="600"
-          src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQcY6y6TuDDSCU6J_-1WA_YvMT-VjWupVQA67pNlUMm3Eogro--1GLlBNRZvmWnna_LCQnEsw8caDNs/pubhtml?widget=true&headers=false"></iframe>
+          src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQMiNowqfEJn35hOny3vADtNfKgBq2vFal2VwnJ3HvicdDifCubx7RfnS_WW8cRqw-83UNoPhHfnPyJ/pubhtml?gid=0&single=true&widget=true&headers=false"></iframe>
           
-        <h3>Social Engagement</h3>
-        <div class="social-wrapper">
-          <div class="social-frame-container">
-            <button class="nav-btn nav-left" onclick="changePost(-1)">◀</button>
-            <iframe id="socialFrame" 
-              src="https://www.linkedin.com/embed/feed/update/urn:li:share:7401589840414490625?collapsed=1"
-              class="social-frame">
-            </iframe>
-            <button class="nav-btn nav-right" onclick="changePost(1)">▶</button>
-          </div>
-        </div>
+        <h3>Timeline</h3>
+        <div class="timeline">
+    <div class="timeline-item">
+        <h4>4 Dec 2025</h4>
+        <img src="../media/gallery/flood-timeline-1.jpeg" alt="Step 1 Image">
+    </div>
+
+    <div class="timeline-item">
+        <h4>3 Dec 2025</h4>
+        <img src="../media/gallery/flood-timeline-2.jpeg" alt="Step 2 Image">
+    </div>
+
+    <div class="timeline-item">
+        <h4>1 Dec 2025</h4>
+        <img src="../media/gallery/flood-timeline-3.jpeg" alt="Step 3 Image">
+    </div>
+    <div class="timeline-item">
+        <h4>30 Nov 2025</h4>
+        <img src="../media/gallery/flood-timeline-4.jpeg" alt="Step 4 Image">
+    </div>
+
+</div>
       </div>
 
       <!-- DESKTOP VERSION - RIGHT SIDE STICKY (1-part) -->
@@ -507,35 +409,27 @@
           <!-- PAYMENT TYPE DROPDOWN -->
           <label class="fl-label">Select Payment Type</label>
           <select id="fl-payment-type-desktop" class="fl-select">
-            <option value="bank" <?php echo $paymentType === 'bank' ? 'selected' : ''; ?>>Bank Transfer</option>
-            <option value="paypal" <?php echo $paymentType === 'paypal' ? 'selected' : ''; ?>>PayPal</option>
-            <option value="wise" <?php echo $paymentType === 'wise' ? 'selected' : ''; ?>>TransferWise</option>
+            <option value="bank">Bank Transfer</option>
+            <option value="paypal">PayPal</option>
+            <option value="wise">TransferWise</option>
           </select>
 
           <!-- COUNTRY DROPDOWN -->
           <div id="fl-country-box-desktop">
             <label class="fl-label">Select Country</label>
             <select id="fl-country-desktop" class="fl-select">
-              <option value="sl" <?php echo $country === 'sl' ? 'selected' : ''; ?>>Sri Lanka</option>
-              <option value="eu" <?php echo $country === 'eu' ? 'selected' : ''; ?>>Europe</option>
-              <option value="usa" <?php echo $country === 'usa' ? 'selected' : ''; ?>>USA</option>
-              <option value="uk" <?php echo $country === 'uk' ? 'selected' : ''; ?>>UK</option>
-              <option value="ca" <?php echo $country === 'ca' ? 'selected' : ''; ?>>Canada</option>
-              <option value="au" <?php echo $country === 'au' ? 'selected' : ''; ?>>Australia</option>
+              <option value="sl">Sri Lanka</option>
+              <option value="eu">Europe</option>
+              <option value="usa">USA</option>
+              <option value="uk">UK</option>
+              <option value="ca">Canada</option>
+              <option value="au">Australia</option>
             </select>
           </div>
 
           <!-- RESULT BOX -->
           <div id="fl-result-desktop" class="fl-box">
-            <?php
-            if ($paymentType === 'bank') {
-              echo isset($bankData[$country]) ? $bankData[$country] : $bankData['sl'];
-            } elseif ($paymentType === 'paypal') {
-              echo $paypal;
-            } elseif ($paymentType === 'wise') {
-              echo $wise;
-            }
-            ?>
+            <!-- Content will be populated by JavaScript -->
           </div>
         </div>
       </div>
@@ -550,7 +444,7 @@
   const next = document.querySelector(".next");
 
   const totalImages = document.querySelectorAll(".slide-track img").length;
-  let visibleImages = window.innerWidth <= 768 ? 1 : 3; // 1 image for mobile
+  let visibleImages = window.innerWidth <= 768 ? 1 : 3;
   let index = 0;
 
   function updateSlide() {
@@ -569,13 +463,12 @@
     updateSlide();
   });
 
-  // Update visibleImages on window resize
   window.addEventListener("resize", () => {
     visibleImages = window.innerWidth <= 768 ? 1 : 3;
     updateSlide();
-  }); 
+  });
 
-  // Initialize all payment type and country elements
+  // Payment dropdown functionality - NO FORM SUBMISSION
   const paymentTypes = {
     mobile: document.getElementById("fl-payment-type-mobile"),
     desktop: document.getElementById("fl-payment-type-desktop")
@@ -586,121 +479,162 @@
     desktop: document.getElementById("fl-country-desktop")
   };
 
-  const countryBoxes = {
-    mobile: document.getElementById("fl-country-box-mobile"),
-    desktop: document.getElementById("fl-country-box-desktop")
+  // Data arrays
+  const bankData = {
+    'sl': `
+      <h4>Sri Lanka</h4>
+      <b>Account Name:</b> DreamSpace Foundation<br>
+      <b>Bank Name:</b> Bank of Ceylon<br>
+      <b>Account Number:</b> 88669857<br>
+      <b>Branch / Routing:</b> 426 - Kallady<br>
+      <b>SWIFT Code:</b> BCEYLKLX<br><br>
+      <b>Organisation:</b> Guarantee Limited (Non-Profit)<br>
+      <b>Address:</b> 50 New Kalmunai Road, Batticaloa 30000, Sri Lanka
+    `,
+    'eu': `
+      <h4>Europe</h4>
+      <b>Account Name:</b> DreamSpace Foundation gUG<br>
+      <b>Bank Name:</b> GLS Gemeinschaftsbank<br>
+      <b>IBAN:</b> DE26 4306 0967 1322 7554 00<br><br>
+      <b>Organisation:</b> Gemeinnützige Unternehmergesellschaft (Non-Profit)<br>
+      <b>Address:</b> Hubertusstr. 5, 12163 Berlin, Germany
+    `,
+    'usa': `
+      <h4>USA</h4>
+      <b>Account Name:</b> DreamSpace Foundation gUG<br>
+      <b>Bank Name:</b> Community Federal Savings Bank<br>
+      <b>Account Number:</b> 8314357954<br>
+      <b>Account Type:</b> Checking<br>
+      <b>Routing Code:</b> 026073150<br>
+      <b>SWIFT Code:</b> CMFGUS33
+    `,
+    'uk': `
+      <h4>UK</h4>
+      <b>Account Name:</b> DreamSpace Foundation gUG<br>
+      <b>Bank Name:</b> Wise Payments Limited<br>
+      <b>Account Number:</b> 61272545<br>
+      <b>Sort Code:</b> 23-14-70<br>
+      <b>IBAN:</b> GB45 TRWI 2314 7061 2725 45<br>
+      <b>SWIFT Code:</b> TRWIGB2LXXX
+    `,
+    'ca': `
+      <h4>Canada</h4>
+      <b>Account Name:</b> DreamSpace Foundation gUG<br>
+      <b>Bank Name:</b> Wise Payments Canada Inc<br>
+      <b>Account Number:</b> 200116145584<br>
+      <b>Institution Number:</b> 621<br>
+      <b>Transit Number:</b> 16001<br>
+      <b>SWIFT Code:</b> TRWICAW1XXX
+    `,
+    'au': `
+      <h4>Australia</h4>
+      <b>Account Name:</b> DreamSpace Foundation gUG<br>
+      <b>Bank Name:</b> Wise Australia Pty Ltd<br>
+      <b>Account Number:</b> 218103907<br>
+      <b>BSB Code:</b> 774-001<br>
+      <b>SWIFT Code:</b> TRWIAUS1XXX
+    `
   };
 
-  const resultBoxes = {
-    mobile: document.getElementById("fl-result-mobile"),
-    desktop: document.getElementById("fl-result-desktop")
-  };
+  const paypalData = `
+    <h4>PayPal</h4>
+    <b>Link:</b>
+    <a href="https://www.paypal.com/paypalme/dreamspacefoundation" target="_blank" style="word-break: break-all;">
+      paypal.com/paypalme/dreamspacefoundation
+    </a><br><br>
+    <b>QR:</b><br>
+    <img src="../media/qr/paypal-qr-code.png" width="60%">
+    </br>
+    <b>Donate (Any Debit or Credit Card):</b></br></br>
+
+					<div style="padding-left: 110px;">
+						<form action="https://www.paypal.com/donate" method="post" target="_top">
+							<input type="hidden" name="hosted_button_id" value="KEFGWUB7BQ622" />
+							<input type="image" src="https://www.paypalobjects.com/en_US/DK/i/btn/btn_donateCC_LG.gif"
+								border="0" name="submit" title="PayPal - The safer, easier way to pay online!"
+								alt="Donate with PayPal button" />
+							<img alt="" border="0" src="https://www.paypal.com/en_DE/i/scr/pixel.gif" width="1"
+								height="1" />
+						</form>
+					</div>
+  `;
+
+  const wiseData = `
+    <h4>TransferWise (Multi Currency)</h4>
+    <b>Quick Pay Link:</b>
+    <a href="https://wise.com/pay/business/dreamspacefoundationgug" 
+   target="_blank" 
+   style="word-break: break-all;">
+  wise.com/pay/business/dreamspacefoundationgug
+</a><br><br>
+    <b>QR:</b><br>
+    <img src="../media/qr/wise-quick-pay-qr-code.png" width="60%">
+  `;
 
   // Show/hide country dropdown based on payment type
-  function updateCountryBoxVisibility(paymentType, countryBoxId) {
-    const countryBox = document.getElementById(countryBoxId);
+  function updateCountryBoxVisibility(paymentType) {
+    const countryBoxMobile = document.getElementById("fl-country-box-mobile");
+    const countryBoxDesktop = document.getElementById("fl-country-box-desktop");
+    
     if (paymentType === "bank") {
-      countryBox.style.display = "block";
+      countryBoxMobile.style.display = "block";
+      countryBoxDesktop.style.display = "block";
     } else {
-      countryBox.style.display = "none";
+      countryBoxMobile.style.display = "none";
+      countryBoxDesktop.style.display = "none";
     }
   }
 
   // Update result box content
-  function updateResultBox(paymentType, country, resultBoxId) {
-    const resultBox = document.getElementById(resultBoxId);
+  function updateResultBox(paymentType, country) {
+    const resultBoxMobile = document.getElementById("fl-result-mobile");
+    const resultBoxDesktop = document.getElementById("fl-result-desktop");
     
-    <?php
-    // We need to output the PHP data as JavaScript objects
-    echo "const bankData = " . json_encode($bankData) . ";\n";
-    echo "const paypalData = `" . addslashes($paypal) . "`;\n";
-    echo "const wiseData = `" . addslashes($wise) . "`;\n";
-    ?>
+    let content = '';
     
     if (paymentType === 'bank') {
-      resultBox.innerHTML = bankData[country] || bankData['sl'];
+      content = bankData[country] || bankData['sl'];
     } else if (paymentType === 'paypal') {
-      resultBox.innerHTML = paypalData;
+      content = paypalData;
     } else if (paymentType === 'wise') {
-      resultBox.innerHTML = wiseData;
-    }
-  }
-
-  // Initialize visibility and content
-  updateCountryBoxVisibility(paymentTypes.mobile.value, "fl-country-box-mobile");
-  updateCountryBoxVisibility(paymentTypes.desktop.value, "fl-country-box-desktop");
-  updateResultBox(paymentTypes.mobile.value, countries.mobile.value, "fl-result-mobile");
-  updateResultBox(paymentTypes.desktop.value, countries.desktop.value, "fl-result-desktop");
-
-  // Submit form function
-  function submitForm(paymentType, country) {
-    const form = document.createElement('form');
-    form.method = 'post';
-    form.style.display = 'none';
-    
-    const paymentTypeInput = document.createElement('input');
-    paymentTypeInput.type = 'hidden';
-    paymentTypeInput.name = 'payment_type';
-    paymentTypeInput.value = paymentType;
-    form.appendChild(paymentTypeInput);
-    
-    if (paymentType === 'bank') {
-      const countryInput = document.createElement('input');
-      countryInput.type = 'hidden';
-      countryInput.name = 'country';
-      countryInput.value = country;
-      form.appendChild(countryInput);
+      content = wiseData;
     }
     
-    document.body.appendChild(form);
-    form.submit();
+    resultBoxMobile.innerHTML = content;
+    resultBoxDesktop.innerHTML = content;
   }
+
+  // Initialize on page load
+  document.addEventListener('DOMContentLoaded', function() {
+    updateCountryBoxVisibility('bank');
+    updateResultBox('bank', 'sl');
+  });
 
   // Add event listeners for mobile
   paymentTypes.mobile.addEventListener("change", function() {
     paymentTypes.desktop.value = this.value;
-    updateCountryBoxVisibility(this.value, "fl-country-box-mobile");
-    updateCountryBoxVisibility(this.value, "fl-country-box-desktop");
-    updateResultBox(this.value, countries.mobile.value, "fl-result-mobile");
-    updateResultBox(this.value, countries.desktop.value, "fl-result-desktop");
-    
-    if (this.value === 'bank') {
-      submitForm(this.value, countries.mobile.value);
-    } else {
-      submitForm(this.value, '');
-    }
+    updateCountryBoxVisibility(this.value);
+    updateResultBox(this.value, countries.mobile.value);
   });
 
   countries.mobile.addEventListener("change", function() {
     countries.desktop.value = this.value;
     if (paymentTypes.mobile.value === "bank") {
-      updateResultBox('bank', this.value, "fl-result-mobile");
-      updateResultBox('bank', this.value, "fl-result-desktop");
-      submitForm("bank", this.value);
+      updateResultBox('bank', this.value);
     }
   });
 
   // Add event listeners for desktop
   paymentTypes.desktop.addEventListener("change", function() {
     paymentTypes.mobile.value = this.value;
-    updateCountryBoxVisibility(this.value, "fl-country-box-mobile");
-    updateCountryBoxVisibility(this.value, "fl-country-box-desktop");
-    updateResultBox(this.value, countries.mobile.value, "fl-result-mobile");
-    updateResultBox(this.value, countries.desktop.value, "fl-result-desktop");
-    
-    if (this.value === 'bank') {
-      submitForm(this.value, countries.desktop.value);
-    } else {
-      submitForm(this.value, '');
-    }
+    updateCountryBoxVisibility(this.value);
+    updateResultBox(this.value, countries.desktop.value);
   });
 
   countries.desktop.addEventListener("change", function() {
     countries.mobile.value = this.value;
     if (paymentTypes.desktop.value === "bank") {
-      updateResultBox('bank', this.value, "fl-result-mobile");
-      updateResultBox('bank', this.value, "fl-result-desktop");
-      submitForm("bank", this.value);
+      updateResultBox('bank', this.value);
     }
   });
 
