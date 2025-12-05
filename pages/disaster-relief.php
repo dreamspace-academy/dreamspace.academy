@@ -429,25 +429,33 @@
         
        <h1><b>Our Actions</b></h1>
        <div class="timeline">
+        <div class="timeline-item">
+       <h4>5 Dec 2025</h4>
+       <img src="../media/gallery/flood-timeline-6.jpeg" alt="Step 1 Image">
+   </div>
+   <div class="timeline-item">
+       <h4>5 Dec 2025</h4>
+       <img src="../media/gallery/flood-timeline-5.jpeg" alt="Step 2 Image">
+   </div>
    <div class="timeline-item">
        <h4>4 Dec 2025</h4>
-       <img src="../media/gallery/flood-timeline-1.jpeg" alt="Step 1 Image">
+       <img src="../media/gallery/flood-timeline-4.jpeg" alt="Step 3 Image">
    </div>
 
 
    <div class="timeline-item">
        <h4>3 Dec 2025</h4>
-       <img src="../media/gallery/flood-timeline-2.jpeg" alt="Step 2 Image">
+       <img src="../media/gallery/flood-timeline-3.jpeg" alt="Step 4 Image">
    </div>
 
 
    <div class="timeline-item">
        <h4>1 Dec 2025</h4>
-       <img src="../media/gallery/flood-timeline-3.jpeg" alt="Step 3 Image">
+       <img src="../media/gallery/flood-timeline-2.jpeg" alt="Step 5 Image">
    </div>
    <div class="timeline-item">
        <h4>30 Nov 2025</h4>
-       <img src="../media/gallery/flood-timeline-4.jpeg" alt="Step 4 Image">
+       <img src="../media/gallery/flood-timeline-1.jpeg" alt="Step 6 Image">
    </div>
 
 
