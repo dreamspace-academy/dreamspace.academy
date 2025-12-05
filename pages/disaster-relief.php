@@ -387,7 +387,30 @@
                We have already supported over 100 families, but thousands more are waiting for urgent help. Every contribution helps us reach another family in need.
              </p>
             
+<div class="slider-container">
+               <button class="prev">◀</button>
 
+
+               <div class="slide-track">
+                 <img src="../media/gallery/sri-lanka-flood-help-1.jpg" alt="Sri lanka flood relief 1">
+                 <img src="../media/gallery/sri-lanka-flood-help-2.jpg" alt="Sri lanka flood relief 2">
+                 <img src="../media/gallery/sri-lanka-flood-help-3.jpg" alt="Sri lanka flood relief 3">
+                 <img src="../media/gallery/sri-lanka-flood-help-4.jpg" alt="Sri lanka flood relief 4">
+                 <img src="../media/gallery/sri-lanka-flood-help-5.jpg" alt="Sri lanka flood relief 5">
+                 <img src="../media/gallery/sri-lanka-flood-help-6.jpg" alt="Sri lanka flood relief 6">
+                 <img src="../media/gallery/sri-lanka-flood-help-7.jpg" alt="Sri lanka flood relief 7">
+                 <img src="../media/gallery/sri-lanka-flood-help-8.jpeg" alt="Sri lanka flood relief 8">
+                 <img src="../media/gallery/sri-lanka-flood-help-9.jpeg" alt="Sri lanka flood relief 9">
+                 <img src="../media/gallery/sri-lanka-flood-help-10.jpeg" alt="Sri lanka flood relief 10">
+                 <img src="../media/gallery/sri-lanka-flood-help-11.jpeg" alt="Sri lanka flood relief 11">
+                 <img src="../media/gallery/sri-lanka-flood-help-12.jpeg" alt="Sri lanka flood relief 12">
+                 <img src="../media/gallery/sri-lanka-flood-help-13.jpeg" alt="Sri lanka flood relief 13">
+                 <img src="../media/gallery/sri-lanka-flood-help-14.jpeg" alt="Sri lanka flood relief 14">
+               </div>
+
+
+               <button class="next">▶</button>
+             </div>
 
              <h3 class="template-margin-top-3">You Can Help Save Lives</h3>
              <p align="justify">
