@@ -265,6 +265,10 @@
          <img src="../media/gallery/sri-lanka-flood-1.jfif" alt="Sri Lanka Flood 2025">
          <img src="../media/gallery/sri-lanka-flood-2.avif" alt="Sri Lanka Flood 2025">
          <img src="../media/gallery/sri-lanka-flood-3.webp" alt="Sri Lanka Flood 2025">
+         <img src="../media/gallery/sri-lanka-flood-4.webp" alt="Sri Lanka Flood 2025">
+         <img src="../media/gallery/sri-lanka-flood-5.png" alt="Sri Lanka Flood 2025">
+         <img src="../media/gallery/sri-lanka-flood-6.png" alt="Sri Lanka Flood 2025">
+         <img src="../media/gallery/sri-lanka-flood-7.webp" alt="Sri Lanka Flood 2025">
        </div>
      </div>
      <div class="template-component-divider template-component-divider-style-1"></div>
@@ -382,7 +386,30 @@
              <p align="justify">
                We have already supported over 100 families, but thousands more are waiting for urgent help. Every contribution helps us reach another family in need.
              </p>
-             <div class="slider-container">
+            
+
+
+             <h3 class="template-margin-top-3">You Can Help Save Lives</h3>
+             <p align="justify">
+               This is a moment for compassion and collective responsibility. Your generosity can help a family eat, stay safe, regain dignity, and begin rebuilding their lives.
+             </p>
+
+
+             <p align="justify">
+               <strong>Donate Now. Stand With Sri Lanka. Restore Hope.</strong><br>
+               Together, we can rebuild lives and strengthen communities through this crisis.
+             </p>
+           </div>
+         </div>
+       </div>
+       <h1><b>Your Donations</b></h1>
+       <iframe
+         width="100%"
+         height="600"
+         src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQMiNowqfEJn35hOny3vADtNfKgBq2vFal2VwnJ3HvicdDifCubx7RfnS_WW8cRqw-83UNoPhHfnPyJ/pubhtml?gid=0&single=true&widget=true&headers=false"></iframe>
+        
+       <h1><b>Our Actions</b></h1>
+       <div class="slider-container">
                <button class="prev">◀</button>
 
 
@@ -406,28 +433,6 @@
 
                <button class="next">▶</button>
              </div>
-
-
-             <h3 class="template-margin-top-3">You Can Help Save Lives</h3>
-             <p align="justify">
-               This is a moment for compassion and collective responsibility. Your generosity can help a family eat, stay safe, regain dignity, and begin rebuilding their lives.
-             </p>
-
-
-             <p align="justify">
-               <strong>Donate Now. Stand With Sri Lanka. Restore Hope.</strong><br>
-               Together, we can rebuild lives and strengthen communities through this crisis.
-             </p>
-           </div>
-         </div>
-       </div>
-       <h1><b>Your Donations</b></h1>
-       <iframe
-         width="100%"
-         height="600"
-         src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQMiNowqfEJn35hOny3vADtNfKgBq2vFal2VwnJ3HvicdDifCubx7RfnS_WW8cRqw-83UNoPhHfnPyJ/pubhtml?gid=0&single=true&widget=true&headers=false"></iframe>
-        
-       <h1><b>Our Actions</b></h1>
        <div class="timeline">
         <div class="timeline-item">
        <h4>5 Dec 2025</h4>
@@ -613,17 +618,8 @@
 
  const paypalData = `
    <h4>Paypal (Multi Currency)</h4>
-   <b>Link (Paypal Account Needed):</b></br>
-   <a href="https://www.paypal.com/paypalme/dreamspacefoundation" target="_blank" style="word-break: break-all;">
-     https://www.paypal.com/paypalme/dreamspacefoundation
-   </a><br><br>
-   <b>QR (Any Debit or Credit Card):</b></br></br>
-   <img src="../media/qr/paypal-qr-code.png" width="60%">
-   </br>
    <b>Donate (Any Debit or Credit Card):</b></br></br>
-
-
-         <div">
+    <div">
            <form action="https://www.paypal.com/donate" method="post" target="_top">
              <input type="hidden" name="hosted_button_id" value="KEFGWUB7BQ622" />
              <input type="image" src="https://www.paypalobjects.com/en_US/DK/i/btn/btn_donateCC_LG.gif"
@@ -633,6 +629,14 @@
                height="1" />
            </form>
          </div>
+   <b>Link (Paypal Account Needed):</b></br>
+   <a href="https://www.paypal.com/paypalme/dreamspacefoundation" target="_blank" style="word-break: break-all;">
+     https://www.paypal.com/paypalme/dreamspacefoundation
+   </a><br><br>
+   <b>QR (Any Debit or Credit Card):</b></br></br>
+   <img src="../media/qr/paypal-qr-code.png" width="60%">
+   </br>
+   
  `;
 
 
