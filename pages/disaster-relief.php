@@ -280,13 +280,13 @@
     <div class="template-post-section-preambule">
       <div class="template-component-nivo-slider template-component-nivo-slider-style-2 template-preloader">
         <div>
-          <img src="../media/gallery/sri-lanka-flood-1.jfif" alt="Sri Lanka Flood 2025">
-          <img src="../media/gallery/sri-lanka-flood-2.avif" alt="Sri Lanka Flood 2025">
-          <img src="../media/gallery/sri-lanka-flood-3.webp" alt="Sri Lanka Flood 2025">
-          <img src="../media/gallery/sri-lanka-flood-4.webp" alt="Sri Lanka Flood 2025">
-          <img src="../media/gallery/sri-lanka-flood-5.png" alt="Sri Lanka Flood 2025">
-          <img src="../media/gallery/sri-lanka-flood-6.png" alt="Sri Lanka Flood 2025">
-          <img src="../media/gallery/sri-lanka-flood-7.webp" alt="Sri Lanka Flood 2025">
+          <img src="../media/flood/sri-lanka-flood-1.jfif" alt="Sri Lanka Flood 2025">
+          <img src="../media/flood/sri-lanka-flood-2.avif" alt="Sri Lanka Flood 2025">
+          <img src="../media/flood/sri-lanka-flood-3.webp" alt="Sri Lanka Flood 2025">
+          <img src="../media/flood/sri-lanka-flood-4.webp" alt="Sri Lanka Flood 2025">
+          <img src="../media/flood/sri-lanka-flood-5.png" alt="Sri Lanka Flood 2025">
+          <img src="../media/flood/sri-lanka-flood-6.png" alt="Sri Lanka Flood 2025">
+          <img src="../media/flood/sri-lanka-flood-7.webp" alt="Sri Lanka Flood 2025">
         </div>
       </div>
       <div class="template-component-divider template-component-divider-style-1"></div>
@@ -348,11 +348,11 @@
               <h3 class="template-margin-top-3">The Reality on the Ground</h3>
               <p align="justify">
                 According to the latest national updates:
-                <br>• <strong>465 lives lost</strong>
-                <br>• <strong>366 people still missing</strong>
-                <br>• <strong>147,000+ people displaced</strong>
-                <br>• <strong>25,000+ homes destroyed or damaged</strong>
-                <br>• <strong>Over 1 million people affected island-wide</strong>
+                <br>• <strong>+638 lives lost</strong>
+                <br>• <strong>+209 people still missing</strong>
+                <br>• <strong>+2.M people affected</strong>
+                <br>• <strong>+52,000 homes destroyed or damaged</strong>
+                <br>• <strong>+172,000 people displaced</strong>
               </p>
 
 
@@ -373,7 +373,7 @@
               <h3 class="template-margin-top-3">Government Support — Not Enough for the Scale of the Crisis</h3>
               <p align="justify">
                 The Government has allocated LKR 50 million (USD 150,000) per Divisional Secretariat for immediate
-                emergency response. While this support is essential, the needs on the ground are far greater:
+                emergency response. While this support is essential, the needs on the ground are far greater: </br>
                 <br>• Thousands require daily meals and dry rations
                 <br>• Children urgently need milk powder, baby food, clothing
                 <br>• Families lack bedsheets, mats, sanitary items, medicine
@@ -427,6 +427,10 @@
           </div>
         </div>
         <h1><b>Your Donations</b></h1>
+        <p align="justify">
+          The estimated amount needed to rebuild Sri Lanka after Cyclone Ditwah is between <b> $6 to $7 billion USD </b> for reconstruction costs covering homes, industries, roads, and other infrastructure. This estimate represents roughly 3-5% of Sri Lanka's GDP and reflects the extensive damage caused by the cyclone across all 25 districts of the country.
+          <a href="https://www.undp.org/asia-pacific/press-releases/one-fifth-sri-lanka-inundated-cyclone-ditwah-undp-analysis">UNDP Analysis</a>
+        </p>
         <iframe width="100%" height="600"
           src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQMiNowqfEJn35hOny3vADtNfKgBq2vFal2VwnJ3HvicdDifCubx7RfnS_WW8cRqw-83UNoPhHfnPyJ/pubhtml?gid=0&single=true&widget=true&headers=false"></iframe>
 
@@ -434,20 +438,20 @@
         <div class="slider-container">
           <button class="prev">◀</button>
           <div class="slide-track">
-            <img src="../media/gallery/sri-lanka-flood-help-1.jpg" alt="Sri lanka flood relief 1">
-            <img src="../media/gallery/sri-lanka-flood-help-2.jpg" alt="Sri lanka flood relief 2">
-            <img src="../media/gallery/sri-lanka-flood-help-3.jpg" alt="Sri lanka flood relief 3">
-            <img src="../media/gallery/sri-lanka-flood-help-4.jpg" alt="Sri lanka flood relief 4">
-            <img src="../media/gallery/sri-lanka-flood-help-5.jpg" alt="Sri lanka flood relief 5">
-            <img src="../media/gallery/sri-lanka-flood-help-6.jpg" alt="Sri lanka flood relief 6">
-            <img src="../media/gallery/sri-lanka-flood-help-7.jpg" alt="Sri lanka flood relief 7">
-            <img src="../media/gallery/sri-lanka-flood-help-8.jpeg" alt="Sri lanka flood relief 8">
-            <img src="../media/gallery/sri-lanka-flood-help-9.jpeg" alt="Sri lanka flood relief 9">
-            <img src="../media/gallery/sri-lanka-flood-help-10.jpeg" alt="Sri lanka flood relief 10">
-            <img src="../media/gallery/sri-lanka-flood-help-11.jpeg" alt="Sri lanka flood relief 11">
-            <img src="../media/gallery/sri-lanka-flood-help-12.jpeg" alt="Sri lanka flood relief 12">
-            <img src="../media/gallery/sri-lanka-flood-help-13.jpeg" alt="Sri lanka flood relief 13">
-            <img src="../media/gallery/sri-lanka-flood-help-14.jpeg" alt="Sri lanka flood relief 14">
+            <img src="../media/flood/sri-lanka-flood-help-1.jpg" alt="Sri lanka flood relief 1">
+            <img src="../media/flood/sri-lanka-flood-help-2.jpg" alt="Sri lanka flood relief 2">
+            <img src="../media/flood/sri-lanka-flood-help-3.jpg" alt="Sri lanka flood relief 3">
+            <img src="../media/flood/sri-lanka-flood-help-4.jpg" alt="Sri lanka flood relief 4">
+            <img src="../media/flood/sri-lanka-flood-help-5.jpg" alt="Sri lanka flood relief 5">
+            <img src="../media/flood/sri-lanka-flood-help-6.jpg" alt="Sri lanka flood relief 6">
+            <img src="../media/flood/sri-lanka-flood-help-7.jpg" alt="Sri lanka flood relief 7">
+            <img src="../media/flood/sri-lanka-flood-help-8.jpeg" alt="Sri lanka flood relief 8">
+            <img src="../media/flood/sri-lanka-flood-help-9.jpeg" alt="Sri lanka flood relief 9">
+            <img src="../media/flood/sri-lanka-flood-help-10.jpeg" alt="Sri lanka flood relief 10">
+            <img src="../media/flood/sri-lanka-flood-help-11.jpeg" alt="Sri lanka flood relief 11">
+            <img src="../media/flood/sri-lanka-flood-help-12.jpeg" alt="Sri lanka flood relief 12">
+            <img src="../media/flood/sri-lanka-flood-help-13.jpeg" alt="Sri lanka flood relief 13">
+            <img src="../media/flood/sri-lanka-flood-help-14.jpeg" alt="Sri lanka flood relief 14">
           </div>
 
 
@@ -456,32 +460,44 @@
 
         <div class="timeline">
           <div class="timeline-item">
-            <h4>5 Dec 2025</h4>
-            <img src="../media/gallery/flood-timeline-6.jpeg" alt="Step 1 Image">
+            <h4>8 Dec 2025</h4>
+            <img src="../media/flood/flood-timeline-9.jpeg" alt="Step 1 Image">
+          </div>
+          <div class="timeline-item">
+            <h4>7 Dec 2025</h4>
+            <img src="../media/flood/flood-timeline-8.jpeg" alt="Step 1 Image">
+          </div>
+          <div class="timeline-item">
+            <h4>6 Dec 2025</h4>
+            <img src="../media/flood/flood-timeline-7.jpeg" alt="Step 1 Image">
           </div>
           <div class="timeline-item">
             <h4>5 Dec 2025</h4>
-            <img src="../media/gallery/flood-timeline-5.jpeg" alt="Step 2 Image">
+            <img src="../media/flood/flood-timeline-6.jpeg" alt="Step 1 Image">
+          </div>
+          <div class="timeline-item">
+            <h4>5 Dec 2025</h4>
+            <img src="../media/flood/flood-timeline-5.jpeg" alt="Step 2 Image">
           </div>
           <div class="timeline-item">
             <h4>4 Dec 2025</h4>
-            <img src="../media/gallery/flood-timeline-4.jpeg" alt="Step 3 Image">
+            <img src="../media/flood/flood-timeline-4.jpeg" alt="Step 3 Image">
           </div>
 
 
           <div class="timeline-item">
             <h4>3 Dec 2025</h4>
-            <img src="../media/gallery/flood-timeline-3.jpeg" alt="Step 4 Image">
+            <img src="../media/flood/flood-timeline-3.jpeg" alt="Step 4 Image">
           </div>
 
 
           <div class="timeline-item">
             <h4>1 Dec 2025</h4>
-            <img src="../media/gallery/flood-timeline-2.jpeg" alt="Step 5 Image">
+            <img src="../media/flood/flood-timeline-2.jpeg" alt="Step 5 Image">
           </div>
           <div class="timeline-item">
             <h4>30 Nov 2025</h4>
-            <img src="../media/gallery/flood-timeline-1.jpeg" alt="Step 6 Image">
+            <img src="../media/flood/flood-timeline-1.jpeg" alt="Step 6 Image">
           </div>
 
 
@@ -585,7 +601,7 @@
      <h4>Sri Lanka</h4>
      <b>Account Name:</b> DreamSpace Foundation<br>
      <b>Bank Name:</b> Bank of Ceylon<br>
-     <b>Account Number:</b> 88669857<br>
+     <b>Account Number:</b> 89317437<br>
      <b>Branch / Routing:</b> 426 - Kallady<br>
      <b>SWIFT Code:</b> BCEYLKLX<br><br>
      <b>Organisation:</b> Guarantee Limited (Non-Profit)<br>

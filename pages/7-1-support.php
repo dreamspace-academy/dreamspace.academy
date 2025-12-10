@@ -29,7 +29,7 @@
 					<p>
 						<b>Account Name:</b></br>DreamSpace Foundation</br>
 						<b>Bank Name:</b></br>Bank of Ceylon</br>
-						<b>Account Number:</b></br>88669857</br>
+						<b>Account Number:</b></br>89317437</br>
 						<b>Branch / Routing:</b></br>426 - Kallady</br>
 						<b>SWIFT Code:</b></br>BCEYLKLX</br></br>
 
