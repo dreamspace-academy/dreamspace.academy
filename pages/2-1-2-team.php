@@ -106,7 +106,7 @@
                         <div>
                             <h6>Govarthenan</br>Rajadurai</h6>
                             </br>
-                            <span></br>Lead Data Scientist</span>
+                            <span>Head</br>Data Science</span>
                         </div>
                         <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
                             <ul>
@@ -144,27 +144,6 @@
 
                 <li class="template-layout-column-center-right">
                     <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-                        <img src="../media/people/abilash-ganesamoorthy-dreamspace.jpg" alt="DreamSpace Academy" />
-                        <div>
-                            <h6>Abilash</br>Ganesamoorthy</h6>
-                            </br>
-                            <span></br>Finance Manager</span>
-                        </div>
-                        <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
-                            <ul>
-                                <li><a target="_blank" href="https://www.linkedin.com/in/-abilash-">
-                                    <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
-                                </a></li>
-                                <li><a target="_blank" href="https://www.facebook.com/ganesamoorthy.abilash?mibextid=LQQJ4d">
-                                    <i class="fas fa-link fa-lg" style="color: white; padding-top: 17px;"></i>
-                                </a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </li>
-
-                <li class="template-layout-column-right">
-                    <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
                         <img src="../media/people/Dinoj-Mahendranathan.jpg" alt="DreamSpace Academy" />
                         <div>
                             <h6>Dinoj</br>Mahendranathan</h6>
@@ -184,6 +163,27 @@
                     </div>
                 </li>
 
+                <li class="template-layout-column-right">
+                    <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+                        <img src="../media/people/abilash-ganesamoorthy-dreamspace.jpg" alt="DreamSpace Academy" />
+                        <div>
+                            <h6>Abilash</br>Ganesamoorthy</h6>
+                            </br>
+                            <span></br>Finance Manager</span>
+                        </div>
+                        <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+                            <ul>
+                                <li><a target="_blank" href="https://www.linkedin.com/in/-abilash-">
+                                    <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
+                                </a></li>
+                                <li><a target="_blank" href="https://www.facebook.com/ganesamoorthy.abilash?mibextid=LQQJ4d">
+                                    <i class="fas fa-link fa-lg" style="color: white; padding-top: 17px;"></i>
+                                </a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </li>
+
                 <!-- Row 3: 9-12 -->
                 <li class="template-layout-column-left">
                     <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
@@ -195,7 +195,7 @@
                         </div>
                         <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
                             <ul>
-                                <li><a target="_blank" href="www.linkedin.com/in/kiritharan-mahenthiran">
+                                <li><a target="_blank" href="https://www.linkedin.com/in/kiritharan-mahenthiran">
                                     <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
                                 </a></li>
                                 <li><a target="_blank" href="https://www.facebook.com/hero.kiri.3?mibextid=ZbWKwL">
@@ -207,6 +207,48 @@
                 </li>
 
                 <li class="template-layout-column-center-left">
+                    <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+                        <img src="../media/people/Poojitha-Thayaseelan.png" alt="DreamSpace Academy" />
+                        <div>
+                            <h6>Poojitha</br>Thayaseelan</h6>
+                            </br>
+                            <span>Trainer</br>MakerSpace</span>
+                        </div>
+                        <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+                            <ul>
+                                <li><a target="_blank" href="https://www.linkedin.com/in/poojitha-thayaseelan/">
+                                    <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
+                                </a></li>
+                                <li><a target="_blank" href="#">
+                                    <i class="fas fa-link fa-lg" style="color: white; padding-top: 17px;"></i>
+                                </a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </li>
+
+                <li class="template-layout-column-center-right">
+                    <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+                        <img src="../media/people/Linojith-Kunanithy.jpg" alt="DreamSpace Academy" />
+                        <div>
+                            <h6>Linojith</br>Kunanithy</h6>
+                            </br>
+                            <span>Assistant Trainer</br>MakerSpace</span>
+                        </div>
+                        <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+                            <ul>
+                                <li><a target="_blank" href="https://www.linkedin.com/in/linojith-kunanithy-654478348/">
+                                    <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
+                                </a></li>
+                                <li><a target="_blank" href="#">
+                                    <i class="fas fa-link fa-lg" style="color: white; padding-top: 17px;"></i>
+                                </a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </li>
+
+                <li class="template-layout-column-right">
                     <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
                         <img src="../media/people/Dineshkanth-Balasrikandharajah.jpg" alt="DreamSpace Academy" />
                         <div>
@@ -227,7 +269,8 @@
                     </div>
                 </li>
 
-                <li class="template-layout-column-center-right">
+                <!-- Row 4: 13-16 -->
+                <li class="template-layout-column-left">
                     <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
                         <img src="../media/people/Emaliyanus-Alan-Donald.jpg" alt="DreamSpace Academy" />
                         <div>
@@ -248,7 +291,7 @@
                     </div>
                 </li>
 
-                <li class="template-layout-column-right">
+                <li class="template-layout-column-center-left">
                     <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
                         <img src="../media/people/Dhulanjali.jpg" alt="DreamSpace Academy" />
                         <div>
@@ -269,8 +312,7 @@
                     </div>
                 </li>
 
-                <!-- Row 4: 13-16 -->
-                <li class="template-layout-column-left">
+                <li class="template-layout-column-center-right">
                     <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
                         <img src="../media/people/Sujiraj-Nadarasa.jpg" alt="DreamSpace Academy" />
                         <div>
@@ -291,7 +333,7 @@
                     </div>
                 </li>
 
-                <li class="template-layout-column-center-left">
+                <li class="template-layout-column-right">
                     <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
                         <img src="../media/people/Sangeetha.jpg" alt="DreamSpace Academy" />
                         <div>
@@ -312,7 +354,8 @@
                     </div>
                 </li>
 
-                <li class="template-layout-column-center-right">
+                <!-- Row 5: 17-20 -->
+                <li class="template-layout-column-left">
                     <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
                         <img src="../media/people/Thisenthira-Nadarajah.jpg" alt="DreamSpace Academy" />
                         <div>
@@ -333,7 +376,7 @@
                     </div>
                 </li>
 
-                <li class="template-layout-column-right">
+                <li class="template-layout-column-center-left">
                     <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
                         <img src="../media/people/Varshini-Naguleswaran.jpg" alt="DreamSpace Academy" />
                         <div>
@@ -354,8 +397,7 @@
                     </div>
                 </li>
 
-                <!-- Row 5: 17-18 -->
-                <li class="template-layout-column-left">
+                <li class="template-layout-column-center-right">
                     <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
                         <img src="../media/people/Mohan-Tharusikan.jpg" alt="DreamSpace Academy" />
                         <div>
@@ -376,7 +418,7 @@
                     </div>
                 </li>
 
-                <li class="template-layout-column-center-left">
+                <li class="template-layout-column-right">
                     <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
                         <img src="../media/people/Mohamed-Aflal.jpg" alt="DreamSpace Academy" />
                         <div>
