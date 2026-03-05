@@ -80,18 +80,18 @@
 
                 <li class="template-layout-column-right">
                     <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-                        <img src="../media/people/Mohamed-Saraful.png" alt="DreamSpace Academy" />
+                        <img src="../media/people/Abilajini-Seeralan.jpg" alt="DreamSpace Academy" />
                         <div>
-                            <h6>Mohamed</br>Saraful</h6>
+                            <h6>Abilajini</br>Seeralan</h6>
                             </br>
-                            <span>Head</br>Public Relations</span>
+                            <span></br>Head of Programmes</span>
                         </div>
                         <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
                             <ul>
-                                <li><a target="_blank" href="https://www.linkedin.com/in/mohamed-saraful-aadil-409243394/">
+                                <li><a target="_blank" href="https://www.linkedin.com/in/abilajini-seeralan-4827b41aa">
                                     <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
                                 </a></li>
-                                <li><a target="_blank" href="#">
+                                <li><a target="_blank" href="https://www.facebook.com/abi.arshiththa">
                                     <i class="fas fa-link fa-lg" style="color: white; padding-top: 17px;"></i>
                                 </a></li>
                             </ul>
@@ -123,18 +123,18 @@
 
                 <li class="template-layout-column-center-left">
                     <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-                        <img src="../media/people/Abilajini-Seeralan.jpg" alt="DreamSpace Academy" />
+                        <img src="../media/people/Mohamed-Saraful.png" alt="DreamSpace Academy" />
                         <div>
-                            <h6>Abilajini</br>Seeralan</h6>
+                            <h6>Mohamed</br>Saraful</h6>
                             </br>
-                            <span></br>Head of Programmes</span>
+                            <span>Head</br>Public Relations</span>
                         </div>
                         <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
                             <ul>
-                                <li><a target="_blank" href="https://www.linkedin.com/in/abilajini-seeralan-4827b41aa">
+                                <li><a target="_blank" href="https://www.linkedin.com/in/mohamed-saraful-aadil-409243394/">
                                     <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
                                 </a></li>
-                                <li><a target="_blank" href="https://www.facebook.com/abi.arshiththa">
+                                <li><a target="_blank" href="#">
                                     <i class="fas fa-link fa-lg" style="color: white; padding-top: 17px;"></i>
                                 </a></li>
                             </ul>
