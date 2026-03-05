@@ -127,7 +127,7 @@
                         <div>
                             <h6>Abilajini</br>Seeralan</h6>
                             </br>
-                            <span></br>Project Manager</span>
+                            <span></br>Head of Programmes</span>
                         </div>
                         <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
                             <ul>
