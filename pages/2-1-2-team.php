@@ -80,28 +80,6 @@
 
                 <li class="template-layout-column-right">
                     <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-                        <img src="../media/people/Govarthenan-Rajadurai.jpg" alt="DreamSpace Academy" />
-                        <div>
-                            <h6>Govarthenan</br>Rajadurai</h6>
-                            </br>
-                            <span>Head</br>Data Science</span>
-                        </div>
-                        <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
-                            <ul>
-                                <li><a target="_blank" href="https://www.linkedin.com/in/govarthenan">
-                                    <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
-                                </a></li>
-                                <li><a target="_blank" href="https://gova.work">
-                                    <i class="fas fa-link fa-lg" style="color: white; padding-top: 17px;"></i>
-                                </a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </li>
-
-                <!-- Row 2: 5-8 -->
-                <li class="template-layout-column-left">
-                    <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
                         <img src="../media/people/Abilajini-Seeralan.jpg" alt="DreamSpace Academy" />
                         <div>
                             <h6>Abilajini</br>Seeralan</h6>
@@ -114,6 +92,28 @@
                                     <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
                                 </a></li>
                                 <li><a target="_blank" href="https://www.facebook.com/abi.arshiththa">
+                                    <i class="fas fa-link fa-lg" style="color: white; padding-top: 17px;"></i>
+                                </a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </li>
+
+                <!-- Row 2: 5-8 -->
+                <li class="template-layout-column-left">
+                    <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
+                        <img src="../media/people/Govarthenan-Rajadurai.jpg" alt="DreamSpace Academy" />
+                        <div>
+                            <h6>Govarthenan</br>Rajadurai</h6>
+                            </br>
+                            <span>Head</br>Data Science</span>
+                        </div>
+                        <div class="template-component-social-icon template-component-social-icon-style-1 template-clear-fix">
+                            <ul>
+                                <li><a target="_blank" href="https://www.linkedin.com/in/govarthenan">
+                                    <i class="fab fa-linkedin-in fa-lg" style="color: white; padding-top: 17px;"></i>
+                                </a></li>
+                                <li><a target="_blank" href="https://gova.work">
                                     <i class="fas fa-link fa-lg" style="color: white; padding-top: 17px;"></i>
                                 </a></li>
                             </ul>
