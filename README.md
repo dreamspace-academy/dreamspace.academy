@@ -1,130 +1,73 @@
 # www.dreamspace.academy
 
-## CONTRIBUTORS
+The website of DreamSpace Academy.
 
-- Aravinth Panch
-- Gunarakulan Gunaretnam
-- Abhitharani Jeyachandran
-- Viththiyakaran Nadarajah
-- Jayanthan Amalanathan
-- Shanjeevan Amalanathan
+Pages are written as `.php` files so the header, menu bar and footer can be
+shared through `include()`. A build step resolves those includes into static
+HTML, and that is what gets deployed. PHP does not run in production.
 
-## DEVELOPMENT SETUP
+## STRUCTURE
 
-- Download and install Visual Studio Code
-- Install VS Code extensions for development process
+| Path | What it is |
+|---|---|
+| `pages/*.php` | Source. 40 pages, each including `0-0-header.php`, plus the fragments they pull in. |
+| `media/` `style/` `script/` | Images, CSS and JavaScript, served as-is. |
+| `files/` | PDFs and standalone apps. |
+| `scripts/` | Build and verification. |
+| `static/` | Copied verbatim to the deployment root. |
+| `dist/` | Generated output. Never edit it, never commit it. |
 
-  - Live Server
-  - Prettier
-  - Code Runner
-  - ESLint
-  - Live Share
+## DEVELOPMENT
 
-- Download and install Git
-- Set up GPG key
+Requires [Node.js](https://nodejs.org/) 22 or newer, Git, and a code editor.
 
-  - Step 01:
+```
+npm install
+npm run dev
+```
 
-    - Open gitbash
+`npm run dev` builds the site and serves it at http://localhost:8080, watching
+`pages/` and rebuilding on save. Hard refresh to see a change.
 
-  - Step 02:
+```
+npm run build    build into dist/
+npm run check    verify the build
+```
 
-    - gpg --full-generate-key
+`npm run check` renders every page through a local PHP server and confirms the
+static output matches it byte for byte, then checks every internal link and
+image reference. Run it before opening a pull request.
 
-  - Step 03:
+Live Server cannot preview this project. It serves files but does not execute
+PHP, so a `.php` file opened through it shows the raw include statements. Use
+`npm run dev`, or point Live Server at `dist/` after `npm run build`.
 
-    - gpg --armor --export "Your public key without quotes"
+### Adding a page
 
-  - Step 04:
+A page must include the header, or the build treats it as a fragment and will
+not emit it:
 
-    - Copy and paste the public key in the SSH and GPG keys section of GitHub settings
+```php
+<?php include('0-0-header.php'); ?>
+...
+<?php include('9-0-footer.php'); ?>
+```
 
-  - Step 05:
+The build asserts the page count, so adding a page also means updating
+`EXPECTED_PAGES` in `scripts/build.mjs`. That is deliberate: it stops a
+header-less page slipping through unnoticed.
 
-    - git config --global commit.gpgsign true
+Link between pages with the bare filename, `<a href="2-0-about.php">`. The
+build rewrites these to `.html`.
 
-  - Step 07:
-    - Run Windows PowerShell as Administrator:
-      Set-Content -Path ~\.gnupg\gpg-agent.conf -Value "default-cache-ttl 86400$([System.Environment]::NewLine)max-cache-ttl 157680000"
-  - Step 08:
-    - In gitbash run the following commands to ensure the new parameters have been loaded:
-      - gpgconf.exe --reload gpg-agent
-      - gpgconf.exe --list-options gpg-agent
+## BRANCHES
 
-- Branches
+| Branch | Purpose | Deploys to |
+|---|---|---|
+| `master` | Production | https://dreamspace.academy |
+| `dev` | New features and fixes | https://dev.dreamspace.academy |
 
-  - master: This is the main branch of the project. https://dreamspace.academy/pages/1-0-index.php
-  - dev: Implement new features and debug. The development processes are done inside this branch. https://dev.dreamspace.academy/pages/1-0-index.php
+Both build and deploy automatically on push, and a push to `dev` also gets its
+own preview URL for that commit.
 
-- Git commands
-
-  - Step 01: Clone the repository
-
-    - git clone https://github.com/dreamspace-academy/dreamspace.academy.git
-
-  - Step 02: Change the working branch to dev branch
-
-    - git checkout -b dev origin/dev
-
-  - Step 03: Check for untracked files, directories and modifications
-
-    - git status
-
-  - Step 04: Add files that are not tracked by git
-
-    - vim .gitignore
-
-  - Step 05: Track untracked files, directories and modifications
-
-    - git add .
-
-  - Step 06:
-
-    - git commit -m "feat: add commit message"
-
-  - Step 07:
-
-    - git push origin dev
-
-  - Step 08:
-
-    - git checkout master
-
-  - Step 09:
-
-    - git merge dev
-
-- Git commit guidelines
-
-  - Conventional commits. https://medium.com/neudesic-innovation/conventional-commits-a-better-way-78d6785c2e08
-
-    - feat: The commit implements a new feature for the application.
-
-    - fix: The commit fixes a defect in the application.
-
-    - chore: The commit includes a technical or preventative maintenance task that is necessary for managing the product or the repository, but it is not tied to any specific feature or user story.
-
-    - docs: The commit adds, updates, or revises documentation that is stored in the repository.
-
-    - perf: The commit improves the performance of algorithms or general execution time of the product, but does not fundamentally change an existing feature.
-
-    - change: The commit changes the implementation of an existing feature.
-
-    - ci: The commit makes changes to continuous integration or continuous delivery scripts or configuration files.
-
-    - test: The commit enhances, adds to, revised, or otherwise changes the suite of automated tests for the product.
-
-    - security: The commit improves the security of the product or resolves a security issue that has been reported.
-
-    - style: The commit updates or reformats the style of the source code, but does not otherwise change the product implementation.
-
-    - deprecate: The commit deprecates existing functionality, but does not remove it from the product.
-
-    - refactor: The commit refactors existing code in the product, but does not alter or change existing behavior in the product.
-
-    - revert: The commit reverts one or more commits that were previously included in the product, but were accidentally merged or serious issues were discovered that required their removal from the main branch.
-
-<p align="center">
-<img src="./media/others/web-screen.jpg">
-</p>
-test
+Work on `dev`, then open a pull request into `master`.

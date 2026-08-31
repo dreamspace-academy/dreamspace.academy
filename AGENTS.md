@@ -1,3 +1,7 @@
 - Commit often using conventional commit format.
 - Follow KISS principle
 - When modifying team pages or any page using the 4-column grid layout (`template-layout-25x25x25x25`), always verify the column classes follow the correct sequential pattern: `column-left` → `column-center-left` → `column-center-right` → `column-right` (repeating). Each row must start with `column-left` to avoid visual gaps in the grid.
+- `pages/*.php` is the source and `dist/` is generated. Never edit `dist/`.
+- A new page must include `0-0-header.php`, or the build treats it as a fragment and will not emit it. Adding one also means updating `EXPECTED_PAGES` in `scripts/build.mjs`.
+- Link between pages with the bare filename (`href="2-0-about.php"`). The build rewrites these to `.html`; do not hand-write `.html` links.
+- Run `npm run check` before opening a pull request. It must report 43/43 parity and no new breakage.
