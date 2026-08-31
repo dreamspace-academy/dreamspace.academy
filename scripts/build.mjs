@@ -37,6 +37,11 @@ const EXTRA_ENTRIES = [
   'files/support/index.php',
 ];
 
+// Rendered to the deployment root, not into pages/. Excluded from the page
+// count and from _redirects.
+const ROOT_ENTRIES = { 'pages/404.php': '404.html' };
+const ROOT_SOURCES = new Set(Object.keys(ROOT_ENTRIES).map((p) => basename(p)));
+
 // PHP executes an include even inside an HTML comment, so the content still
 // ships. Exactly one such include exists; it is expanded faithfully and any
 // new one fails the build.
@@ -116,6 +121,15 @@ export function rewriteLinks(html) {
   });
 }
 
+// Pages serves 404.html for any unmatched URL, at any depth, so a root entry
+// cannot use relative URLs - the chrome would break on anything deeper than one
+// segment. Every other page keeps its ../ paths untouched.
+function absolutise(html) {
+  return html
+    .replace(/\b(href|src)="\.\.\//g, '$1="/')
+    .replace(/\b(href|src)="([A-Za-z0-9._-]+\.html(?:#[^"]*)?)"/g, '$1="/pages/$2"');
+}
+
 export function render(abs) {
   const html = rewriteLinks(expand(abs)).replace(YEAR_RE, BUILD_YEAR);
   if (PHP_TAG_RE.test(html)) {
@@ -129,8 +143,10 @@ export function render(abs) {
 export function discover() {
   const dir = join(ROOT, 'pages');
   const php = readdirSync(dir).filter((f) => f.endsWith('.php')).sort();
-  const pages = php.filter((f) =>
-    readFileSync(join(dir, f), 'utf8').includes(HEADER_MARKER),
+  const pages = php.filter(
+    (f) =>
+      !ROOT_SOURCES.has(f) &&
+      readFileSync(join(dir, f), 'utf8').includes(HEADER_MARKER),
   );
   if (pages.length !== EXPECTED_PAGES) {
     throw new Error(
@@ -197,7 +213,12 @@ async function writeHtml(pages) {
     await mkdir(dirname(out), { recursive: true });
     await writeFile(out, render(abs));
   }
-  return pages.length + EXTRA_ENTRIES.length;
+  for (const [src, out] of Object.entries(ROOT_ENTRIES)) {
+    const abs = join(ROOT, src);
+    if (!existsSync(abs)) throw new Error(`missing root entry ${src}`);
+    await writeFile(join(DIST, out), absolutise(render(abs)));
+  }
+  return pages.length + EXTRA_ENTRIES.length + Object.keys(ROOT_ENTRIES).length;
 }
 
 function audit() {
@@ -245,7 +266,7 @@ export async function build({ htmlOnly = false } = {}) {
   const { files, html, biggest } = audit();
   const mb = (biggest.size / 1048576).toFixed(2);
   console.log(
-    `  ${pages.length} pages + ${EXTRA_ENTRIES.length} entry points -> ${written} html\n` +
+    `  ${pages.length} pages + ${EXTRA_ENTRIES.length} entry points + ${Object.keys(ROOT_ENTRIES).length} root -> ${written} html\n` +
       `  ${php.length - pages.length} fragments inlined, none emitted\n` +
       `  dist/: ${files} files, ${html} html, largest ${mb} MB (${biggest.path})\n` +
       `  done in ${Date.now() - started} ms`,

@@ -1,0 +1,11 @@
+# Applied by Cloudflare Pages to every response.
+#
+# These two match what the PHP origin already sends, so the cutover does not
+# silently drop them.
+#
+# Deliberately no cache rules: assets are unhashed (base.css, logo-dsa.png),
+# so a long max-age would strand visitors on stale CSS after an edit.
+
+/*
+  X-Frame-Options: SAMEORIGIN
+  X-Content-Type-Options: nosniff
