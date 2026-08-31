@@ -15,3 +15,10 @@ docker-compose.yml
 # Temporary directories
 tmp/
 temp/
+
+# Build output (generated, do not commit)
+dist/
+node_modules/
+
+# macOS
+.DS_Store

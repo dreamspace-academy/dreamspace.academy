@@ -1,0 +1,16 @@
+{
+  "name": "dreamspace-academy",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "license": "Apache-2.0",
+  "description": "Static site build for www.dreamspace.academy",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "dev": "node scripts/build.mjs --serve",
+    "check": "node scripts/verify.mjs"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
