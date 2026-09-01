@@ -23,7 +23,6 @@
                                 <li><a href="2-0-about.php#infrastructure">Our Infrastructure</a></li>
                                 <li><a href="3-4-0-social-enterprise.php">Our Ventures</a></li>
                                 <li><a href="2-0-about.php#achievements">Our Achievements</a></li>
-                                <li><a href="2-0-about.php#mentors">Our Mentors</a></li>
                                 <li><a href="2-0-about.php#partners">Our Partners</a></li>
                             </ul>
                         </li>
