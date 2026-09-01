@@ -11,6 +11,6 @@
     "check": "node scripts/verify.mjs"
   },
   "engines": {
-    "node": ">=22"
+    "node": ">=24"
   }
 }

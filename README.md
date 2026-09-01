@@ -19,7 +19,7 @@ HTML, and that is what gets deployed. PHP does not run in production.
 
 ## DEVELOPMENT
 
-Requires [Node.js](https://nodejs.org/) 22 or newer, Git, and a code editor.
+Requires [Node.js](https://nodejs.org/) 24 or newer, Git, and a code editor.
 
 ```
 npm install
