@@ -30,8 +30,6 @@ const EXTRA_ENTRIES = ['dreamfungi', 'story', 'support'];
 // but must not fail the build - otherwise every deploy is blocked on unrelated
 // editorial work. Remove an entry as its fix lands.
 const KNOWN_BROKEN = new Set([
-  // wrong case; the file is 4-1-0-peacebuilding
-  'pages/4-1-0-Peacebuilding.html',
   // page never existed
   'pages/3-1-0-maker-education.html',
   // numbered past the images that exist (-1, and -0/-1 respectively)

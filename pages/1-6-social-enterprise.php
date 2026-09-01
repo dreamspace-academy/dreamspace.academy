@@ -71,7 +71,7 @@
 					</br>
 					</div>
 
-					<a href="4-1-0-Peacebuilding.php#ireact" class="template-component-button template-component-button-style-1">More<i></i></a>
+					<a href="4-1-0-peacebuilding.php#ireact" class="template-component-button template-component-button-style-1">More<i></i></a>
 
 				</li>
 				<li class="template-layout-column-left">
@@ -91,7 +91,7 @@
 					</br>
 					</div>
 
-					<a href="4-1-0-Peacebuilding.php#digi-advocates" class="template-component-button template-component-button-style-1">More<i></i></a>
+					<a href="4-1-0-peacebuilding.php#digi-advocates" class="template-component-button template-component-button-style-1">More<i></i></a>
 
 				</li>
 				<li class="template-layout-column-left">
@@ -111,7 +111,7 @@
 					</br>
 					</div>
 
-					<a href="4-1-0-Peacebuilding.php#ai4life" class="template-component-button template-component-button-style-1">More<i></i></a>
+					<a href="4-1-0-peacebuilding.php#ai4life" class="template-component-button template-component-button-style-1">More<i></i></a>
 
 				</li>
 				<li class="template-layout-column-left">
@@ -153,7 +153,7 @@
 					</br>
 					</div>
 
-					<a href="4-1-0-Peacebuilding.php#her" class="template-component-button template-component-button-style-1">More<i></i></a>
+					<a href="4-1-0-peacebuilding.php#her" class="template-component-button template-component-button-style-1">More<i></i></a>
 
 				</li>
 				<li class="template-layout-column-left">
