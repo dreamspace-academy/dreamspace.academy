@@ -83,7 +83,7 @@
           <p class="template-padding-reset" align="justify">
             OpenCovid19 initiative is to collectively develop open-source low-cost tools & methodologies, which are safe and easy to use, to fight the COVID-19 pandemic. The Open-Source Respirator Mask and Face shields were designed in the “Hack The Pandemic” initiative by copper 3D and Just One Giant Lab (JOGL) along with many international collators.
           </p>
-                <a target="_blank" href="https://dreamspace.academy/media/images/innovation-open-covid/open-covid-dreamspace-5.jpg">[more]</a>
+                <a target="_blank" href="../media/gallery/innovation-open-covid-dreamspace-5.jpg">[more]</a>
 
 
 

@@ -20,7 +20,7 @@
     <!-- Image -->
     <div class="template-post-section-preambule">
       <div class="template-component-image template-preloader">
-        <img src="../media/gallery/lab-business-dreamspace-4.jpg" alt="DreamSpace Academy" />
+        <img src="../media/gallery/lab-business-dreamspace-1.jpg" alt="DreamSpace Academy" />
       </div>
     </div>
 
@@ -69,7 +69,7 @@ around the attitudes, values and principles associated with user-centered design
 
     <!-- "Continue reading" button -->
     <div class="template-post-section-button">
-      <a href="3-1-0-maker-education.php#business-lab" class="template-component-button template-component-button-style-1">
+      <a href="5-9-business-lab.php" class="template-component-button template-component-button-style-1">
         Design Thinking @ Business Lab<i></i>
       </a>
       <!-- Divider -->

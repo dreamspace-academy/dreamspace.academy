@@ -20,7 +20,7 @@
     <!-- Image -->
     <div class="template-post-section-preambule">
       <div class="template-component-image template-preloader">
-        <img src="../media/gallery/lab-art-dreamspace-7.jpg" alt="DreamSpace Academy" />
+        <img src="../media/gallery/lab-art-dreamspace-1.jpg" alt="DreamSpace Academy" />
       </div>
     </div>
 
@@ -53,8 +53,8 @@
 
     <!-- "Continue reading" button -->
     <div class="template-post-section-button">
-      <a href="3-1-0-maker-education.php#art-lab" class="template-component-button template-component-button-style-1">
-        Storytelling @ Art Lab<i></i>
+      <a href="5-3-media-lab.php" class="template-component-button template-component-button-style-1">
+        Storytelling @ Media Lab<i></i>
       </a>
       <!-- Divider -->
       <div class="template-component-divider template-component-divider-style-1"></div>

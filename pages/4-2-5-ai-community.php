@@ -57,7 +57,7 @@
         </li>
         <li class="template-layout-column-center-right">
           <div class="template-component-image template-component-image-hover-slide-enable template-fancybox template-preloader">
-            <img src="../media/people/govarthenan-rajadurai-dreamspace.jpg" alt="DreamSpace Academy" />
+            <img src="../media/people/Govarthenan-Rajadurai.jpg" alt="DreamSpace Academy" />
             <div>
               <h6>Govarthenan Rajadurai</h6>
               </br>

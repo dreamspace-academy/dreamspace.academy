@@ -77,7 +77,7 @@
                     we’d love to hear from you!
                     <br>
                     Reach out to us at
-                    <a href="mailto:trainers@example.com"
+                    <a href="mailto:james@steamhead.space"
                         style="color: #56509F; text-decoration: none;"><b>james@steamhead.space</b></a>
                     to explore collaboration opportunities.
                     <br><br>

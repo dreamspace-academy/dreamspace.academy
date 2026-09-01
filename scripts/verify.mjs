@@ -30,15 +30,6 @@ const EXTRA_ENTRIES = ['dreamfungi', 'story', 'support'];
 // but must not fail the build - otherwise every deploy is blocked on unrelated
 // editorial work. Remove an entry as its fix lands.
 const KNOWN_BROKEN = new Set([
-  // page never existed
-  'pages/3-1-0-maker-education.html',
-  // numbered past the images that exist (-1, and -0/-1 respectively)
-  'media/gallery/lab-art-dreamspace-7.jpg',
-  'media/gallery/lab-business-dreamspace-4.jpg',
-  // real file is Govarthenan-Rajadurai.jpg
-  'media/people/govarthenan-rajadurai-dreamspace.jpg',
-  // real files are Rathees-Koneswaran.jpg and rathees-koneswaran-dreamspace.jpg
-  'media/people/Rathees.jpg',
   // schemeless href in the unlinked map app; link text reads guna.com
   'files/map/kuna.com',
 ]);
