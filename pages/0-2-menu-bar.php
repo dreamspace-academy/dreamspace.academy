@@ -57,6 +57,7 @@
                                         <li><a href="bootcamp.php">Bootcamp</a></li>
                                     </ul>
                                 </div> -->
+                            </div>
                         </li>
 
                         <!-- The Four Verticals Menu -->
@@ -69,6 +70,7 @@
                                     <ul>
                                         <li><a href="workshop.php">Workshop</a></li>
                                         <li><a href="bootcamp.php">Bootcamp</a></li>
+                                    </ul>
                                 </div>
 
                                 <div class="template-layout-column-center-left">
