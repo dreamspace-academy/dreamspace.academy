@@ -64,10 +64,10 @@ build rewrites these to `.html`.
 
 | Branch | Purpose | Deploys to |
 |---|---|---|
-| `master` | Production | https://dreamspace.academy |
-| `dev` | New features and fixes | https://dev.dreamspace.academy |
+| `main` | Production | https://dreamspace.academy |
+| `dev` | New features and fixes | a generated preview URL per commit |
 
-Both build and deploy automatically on push, and a push to `dev` also gets its
-own preview URL for that commit.
+Both build automatically on push. Only `main` is served on the live domain;
+`dev` deployments are reachable only at their own preview URL.
 
-Work on `dev`, then open a pull request into `master`.
+Work on `dev`, then open a pull request into `main`.
