@@ -267,7 +267,7 @@ export async function build({ htmlOnly = false } = {}) {
   const mb = (biggest.size / 1048576).toFixed(2);
   console.log(
     `  ${pages.length} pages + ${EXTRA_ENTRIES.length} entry points + ${Object.keys(ROOT_ENTRIES).length} root -> ${written} html\n` +
-      `  ${php.length - pages.length} fragments inlined, none emitted\n` +
+      `  ${php.length - pages.length - Object.keys(ROOT_ENTRIES).length} fragments inlined, none emitted\n` +
       `  dist/: ${files} files, ${html} html, largest ${mb} MB (${biggest.path})\n` +
       `  done in ${Date.now() - started} ms`,
   );
