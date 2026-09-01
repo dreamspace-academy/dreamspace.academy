@@ -3,7 +3,7 @@
   <div class="template-content-section template-padding-top-reset template-main">
     <div class="template-component-header-subheader">
       <h2>DreamFungi</h2>
-      <h6>Make an impact investment at <a href="http://dreamfungi.dreamspace.academy">http://dreamfungi.dreamspace.academy</a></br>
+      <h6>Make an impact investment at <a target="_blank" href="https://opencollective.com/dreamfungi">opencollective.com/dreamfungi</a></br>
         Download pitch deck at <a href="../files/dreamfungi/dreamspace-academy-dreamfungi.pdf">DreamFungi</a></br>
 			</h6>
       <div></div>

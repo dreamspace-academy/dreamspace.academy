@@ -77,7 +77,6 @@
           <p class="template-padding-reset" align="justify">
             DreamSpace Academy has developed a local language ChatBot for Sri Lankan Tamils. It will provide information about COVID-19 statistics in Sri Lanka, local medical supplies, self diagnostics, etc. As the informations were shared in native language; people could acknowledge the live data and other basic information without any barriers.
           </p>
-          <a target="_blank" href="https://corona.dreamspace.academy/">[more]</a>
 
           <h6 class="template-margin-top-3">Respirator Mask and Face Shields</h6>
           <p class="template-padding-reset" align="justify">
