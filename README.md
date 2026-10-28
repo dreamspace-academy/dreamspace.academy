@@ -1,10 +1,14 @@
-# model.dreamspace.academy
+# dreamspace.academy
 
-The published output of **the DreamSpace Academy model** — the public reference for who DreamSpace
+The published output of **the DreamSpace Academy website**, the public reference for who DreamSpace
 Academy is, why the work exists, how the whole model fits together, and the education system and
 MakerSpace inside it.
 
-**Live at <https://model.dreamspace.academy>**
+**Live at <https://dreamspace.academy>**
+
+This repository was called `model.dreamspace.academy` until 28 October 2026, when the site had
+already moved to the main domain. The previous website's repository, which held this name, is now
+`archive.dreamspace.academy`.
 
 ## ⛔ Do not edit this repository
 
@@ -15,7 +19,7 @@ Everything here is **generated**. This repository holds the built static site an
   here would be silently overwritten on the next deploy and would lose the trail back to what it
   was written from.
 - The `gh-pages` branch is **force-replaced on every build**. Anything committed to it disappears
-  when the build next runs — which is also why the `CNAME` file is written by the build each time
+  when the build next runs, which is also why the `CNAME` file is written by the build each time
   rather than committed by hand. A hand-committed one would be wiped and the custom domain would
   quietly revert.
 
@@ -33,8 +37,8 @@ this repository alone, so it can reach nothing else and is not tied to any indiv
 | Section | What it holds |
 |---|---|
 | **The organisation** | Identity, why the work exists, the theory of change, the DreamSpace Lifecycle, labs and research, ventures and incubation, impact and the global goals, and how the work is funded |
-| **The education system** | How learning is structured, taught and evidenced — the journey, facilitation, assessment, and the programmes |
-| **The MakerSpace** | The model the education runs in — the domains, the enterprise strand, the venture pathway, replication and measurement |
+| **The education system** | How learning is structured, taught and evidenced: the journey, facilitation, assessment, and the programmes |
+| **The MakerSpace** | The model the education runs in: the domains, the enterprise strand, the venture pathway, replication and measurement |
 | **Library** | Questions, articles and essays, a controlled vocabulary, and the published works the site draws on |
 
 It is written for educators, partners, funders and the communities DreamSpace Academy works with.
