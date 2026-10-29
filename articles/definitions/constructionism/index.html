@@ -1,0 +1,336 @@
+<!DOCTYPE html><html lang="en"> <head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="description" content="A definitional review of Papert's constructionism, what it adds to Piaget's constructivism, why its author refused to define it, and whether maker education actually implements it."><meta name="generator" content="Astro v5.18.2"><meta property="og:site_name" content="DreamSpace Academy"><meta property="og:title" content="Constructionism | DreamSpace Academy"><meta property="og:description" content="A definitional review of Papert's constructionism, what it adds to Piaget's constructivism, why its author refused to define it, and whether maker education actually implements it."><meta property="og:type" content="website"><meta property="og:url" content="https://dreamspace.academy/articles/definitions/constructionism"><meta property="og:image" content="https://dreamspace.academy/og-image.png"><meta property="og:image:type" content="image/png"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><meta property="og:image:alt" content="DreamSpace Academy"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:image" content="https://dreamspace.academy/og-image.png"><meta name="twitter:image:alt" content="DreamSpace Academy"><meta name="color-scheme" content="light dark"><link rel="icon" type="image/svg+xml" href="/mark.svg"><link rel="canonical" href="https://dreamspace.academy/articles/definitions/constructionism"><title>Constructionism | DreamSpace Academy</title><script>
+      // Runs before paint: a stored choice wins, otherwise the OS preference
+      // applies through CSS and no attribute is set.
+      try {
+        var t = localStorage.getItem('theme');
+        if (t === 'dark' || t === 'light') document.documentElement.dataset.theme = t;
+      } catch (e) {}
+    </script><link rel="stylesheet" href="/_astro/_slug_.DKKC_13Q.css"></head> <body> <a class="skip" href="#main">Skip to content</a> <header class="site-head"> <div class="container head-inner"> <a class="brand" href="/" aria-label="DreamSpace Academy home">  <img class="brand-logo on-light" src="/logo.svg" alt="" width="130" height="46"> <img class="brand-logo on-dark" src="/logo-white.svg" alt="" width="130" height="46"> </a> <nav class="mega" aria-label="Site sections"> <ul class="mega-bar"> <li class="mega-item"> <button class="mega-trigger" type="button" aria-expanded="false" aria-controls="mega-the-organisation"> Organisation <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-chevron-down chev" aria-hidden="true" focusable="false"> <path d="m6 9 6 6 6-6"></path>  </svg> </button> <div class="mega-panel" id="mega-the-organisation" hidden> <div class="container mega-inner"> <div class="mega-sections"> <div class="mega-section"> <span class="mega-label">Who it is</span> <ul class="mega-links"> <li> <a class="mega-link" href="/organisation"> <span class="mega-icon"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-building nav-icon" aria-hidden="true" focusable="false"> <path d="M12 10h.01"></path><path d="M12 14h.01"></path><path d="M12 6h.01"></path><path d="M16 10h.01"></path><path d="M16 14h.01"></path><path d="M16 6h.01"></path><path d="M8 10h.01"></path><path d="M8 14h.01"></path><path d="M8 6h.01"></path><path d="M9 22v-3a1 1 0 0 1 1-1h4a1 1 0 0 1 1 1v3"></path><rect x="4" y="2" width="16" height="20" rx="2"></rect>  </svg></span> <span class="mega-text"> <span class="mega-title">About the organisation</span> <span class="mega-blurb">The academy’s origin, beliefs and purpose.</span> </span> </a>  </li><li> <a class="mega-link" href="/organisation/why"> <span class="mega-icon"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-circle-question-mark lucide-help-circle lucide-circle-help nav-icon" aria-hidden="true" focusable="false"> <circle cx="12" cy="12" r="10"></circle><path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"></path><path d="M12 17h.01"></path>  </svg></span> <span class="mega-text"> <span class="mega-title">Why this work exists</span> <span class="mega-blurb">The conditions the work is built to change.</span> </span> </a>  </li><li> <a class="mega-link" href="/organisation/sustainability"> <span class="mega-icon"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-coins nav-icon" aria-hidden="true" focusable="false"> <path d="M13.744 17.736a6 6 0 1 1-7.48-7.48"></path><path d="M15 6h1v4"></path><path d="m6.134 14.768.866-.5 2 3.464"></path><circle cx="16" cy="8" r="6"></circle>  </svg></span> <span class="mega-text"> <span class="mega-title">How the work is funded</span> <span class="mega-blurb">Where the money for the work comes from, and how the academy plans to pay for more of its own work.</span> </span> </a>  </li> </ul> </div><div class="mega-section"> <span class="mega-label">What it runs</span> <ul class="mega-links"> <li> <a class="mega-link" href="/organisation/lifecycle"> <span class="mega-icon"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-refresh-cw nav-icon" aria-hidden="true" focusable="false"> <path d="M3 12a9 9 0 0 1 9-9 9.75 9.75 0 0 1 6.74 2.74L21 8"></path><path d="M21 3v5h-5"></path><path d="M21 12a9 9 0 0 1-9 9 9.75 9.75 0 0 1-6.74-2.74L3 16"></path><path d="M8 16H3v5"></path>  </svg></span> <span class="mega-text"> <span class="mega-title">The DreamSpace Lifecycle</span> <span class="mega-blurb">How a changemaker goes from a local problem to an impact venture, and the support along the way.</span> </span> </a>  </li><li> <a class="mega-link" href="/organisation/venture-pathway"> <span class="mega-icon"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-signpost nav-icon" aria-hidden="true" focusable="false"> <path d="M12 13v8"></path><path d="M12 3v3"></path><path d="M2.354 10.354a1.207 1.207 0 0 1 0-1.708l2.06-2.06A2 2 0 0 1 5.828 6h12.344a2 2 0 0 1 1.414.586l2.06 2.06a1.207 1.207 0 0 1 0 1.708l-2.06 2.06a2 2 0 0 1-1.414.586H5.828a2 2 0 0 1-1.414-.586z"></path>  </svg></span> <span class="mega-text"> <span class="mega-title">Venture pathway</span> <span class="mega-blurb">The Lifecycle for changemakers who take the venture route.</span> </span> </a>  </li><li> <a class="mega-link" href="/organisation/labs"> <span class="mega-icon"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-flask-conical nav-icon" aria-hidden="true" focusable="false"> <path d="M14 2v6a2 2 0 0 0 .245.96l5.51 10.08A2 2 0 0 1 18 22H6a2 2 0 0 1-1.755-2.96l5.51-10.08A2 2 0 0 0 10 8V2"></path><path d="M6.453 15h11.094"></path><path d="M8.5 2h7"></path>  </svg></span> <span class="mega-text"> <span class="mega-title">Labs &amp; research</span> <span class="mega-blurb">Specialist skills, and the groups of people who keep them going, in many places.</span> </span> </a>  </li><li> <a class="mega-link" href="/organisation/ventures"> <span class="mega-icon"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-rocket nav-icon" aria-hidden="true" focusable="false"> <path d="M12 15v5s3.03-.55 4-2c1.08-1.62 0-5 0-5"></path><path d="M4.5 16.5c-1.5 1.26-2 5-2 5s3.74-.5 5-2c.71-.84.7-2.13-.09-2.91a2.18 2.18 0 0 0-2.91-.09"></path><path d="M9 12a22 22 0 0 1 2-3.95A12.88 12.88 0 0 1 22 2c0 2.72-.78 7.5-6 11a22.4 22.4 0 0 1-4 2z"></path><path d="M9 12H4s.55-3.03 2-4c1.62-1.08 5 .05 5 .05"></path>  </svg></span> <span class="mega-text"> <span class="mega-title">Ventures &amp; incubation</span> <span class="mega-blurb">How a tested solution becomes a venture.</span> </span> </a>  </li> </ul> </div><div class="mega-section"> <span class="mega-label">How it checks</span> <ul class="mega-links"> <li> <a class="mega-link" href="/organisation/theory-of-change"> <span class="mega-icon"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-git-branch nav-icon" aria-hidden="true" focusable="false"> <path d="M15 6a9 9 0 0 0-9 9V3"></path><circle cx="18" cy="6" r="3"></circle><circle cx="6" cy="18" r="3"></circle>  </svg></span> <span class="mega-text"> <span class="mega-title">Theory of change</span> <span class="mega-blurb">The steps by which the work is expected to lead to change.</span> </span> </a>  </li><li> <a class="mega-link" href="/organisation/impact"> <span class="mega-icon"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-globe nav-icon" aria-hidden="true" focusable="false"> <circle cx="12" cy="12" r="10"></circle><path d="M12 2a14.5 14.5 0 0 0 0 20 14.5 14.5 0 0 0 0-20"></path><path d="M2 12h20"></path>  </svg></span> <span class="mega-text"> <span class="mega-title">Impact &amp; the global goals</span> <span class="mega-blurb">The United Nations Sustainable Development Goals the work is linked to.</span> </span> </a>  </li><li> <a class="mega-link" href="/organisation/measurement"> <span class="mega-icon"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-chart-column lucide-bar-chart-3 nav-icon" aria-hidden="true" focusable="false"> <path d="M3 3v16a2 2 0 0 0 2 2h16"></path><path d="M18 17V9"></path><path d="M13 17V5"></path><path d="M8 17v-3"></path>  </svg></span> <span class="mega-text"> <span class="mega-title">Measurement</span> <span class="mega-blurb">How the academy checks whether its work does what it is meant to.</span> </span> </a>  </li> </ul> </div> </div> <a class="mega-feature" href="/organisation/theory-of-change"> <span class="mega-label">Start here</span> <strong>Theory of change</strong> <span class="mega-feature-text">How the work is expected to lead to change, and how strong the evidence is for each step.</span> <span class="mega-more">Read more <span aria-hidden="true">&rarr;</span></span> </a> <div class="mega-foot"> <p>Who DreamSpace Academy is, why the work exists and how it is meant to change things.</p> <a href="/overview">Site overview <span aria-hidden="true">&rarr;</span></a> </div> </div> </div> </li><li class="mega-item"> <button class="mega-trigger" type="button" aria-expanded="false" aria-controls="mega-the-education-system"> Education <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-chevron-down chev" aria-hidden="true" focusable="false"> <path d="m6 9 6 6 6-6"></path>  </svg> </button> <div class="mega-panel" id="mega-the-education-system" hidden> <div class="container mega-inner"> <div class="mega-sections"> <div class="mega-section"> <span class="mega-label">What it teaches</span> <ul class="mega-links"> <li> <a class="mega-link" href="/programmes"> <span class="mega-icon"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-layers lucide-layers-3 nav-icon" aria-hidden="true" focusable="false"> <path d="M12.83 2.18a2 2 0 0 0-1.66 0L2.6 6.08a1 1 0 0 0 0 1.83l8.58 3.91a2 2 0 0 0 1.66 0l8.58-3.9a1 1 0 0 0 0-1.83z"></path><path d="M2 12a1 1 0 0 0 .58.91l8.6 3.91a2 2 0 0 0 1.65 0l8.58-3.9A1 1 0 0 0 22 12"></path><path d="M2 17a1 1 0 0 0 .58.91l8.6 3.91a2 2 0 0 0 1.65 0l8.58-3.9A1 1 0 0 0 22 17"></path>  </svg></span> <span class="mega-text"> <span class="mega-title">Programmes and domains</span> <span class="mega-blurb">What the academy teaches, the subject areas (domains) of the STEAM programmes, and how a course is split into levels.</span> </span> </a>  </li><li> <a class="mega-link" href="/enterprise"> <span class="mega-icon"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-lightbulb nav-icon" aria-hidden="true" focusable="false"> <path d="M15 14c.2-1 .7-1.7 1.5-2.5 1-.9 1.5-2.2 1.5-3.5A6 6 0 0 0 6 8c0 1 .2 2.2 1.5 3.5.7.7 1.3 1.5 1.5 2.5"></path><path d="M9 18h6"></path><path d="M10 22h4"></path>  </svg></span> <span class="mega-text"> <span class="mega-title">Innovation &amp; enterprise</span> <span class="mega-blurb">How learners in the STEAM programmes learn research, enterprise and money skills, from the first stage.</span> </span> </a>  </li><li> <a class="mega-link" href="/empowerment-inside-school"> <span class="mega-icon"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-building nav-icon" aria-hidden="true" focusable="false"> <path d="M12 10h.01"></path><path d="M12 14h.01"></path><path d="M12 6h.01"></path><path d="M16 10h.01"></path><path d="M16 14h.01"></path><path d="M16 6h.01"></path><path d="M8 10h.01"></path><path d="M8 14h.01"></path><path d="M8 6h.01"></path><path d="M9 22v-3a1 1 0 0 1 1-1h4a1 1 0 0 1 1 1v3"></path><rect x="4" y="2" width="16" height="20" rx="2"></rect>  </svg></span> <span class="mega-text"> <span class="mega-title">Empowerment Inside School</span> <span class="mega-blurb">The in-school programme running now: hands-on ICT, robotics and STEAM learning in government schools.</span> </span> </a>  </li> </ul> </div><div class="mega-section"> <span class="mega-label">How the STEAM programmes work</span> <ul class="mega-links"> <li> <a class="mega-link" href="/approach"> <span class="mega-icon"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-compass nav-icon" aria-hidden="true" focusable="false"> <circle cx="12" cy="12" r="10"></circle><path d="m16.24 7.76-1.804 5.411a2 2 0 0 1-1.265 1.265L7.76 16.24l1.804-5.411a2 2 0 0 1 1.265-1.265z"></path>  </svg></span> <span class="mega-text"> <span class="mega-title">Learning by making</span> <span class="mega-blurb">How the STEAM programmes connect knowledge, making, reflection and action.</span> </span> </a>  </li><li> <a class="mega-link" href="/facilitation"> <span class="mega-icon"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-users nav-icon" aria-hidden="true" focusable="false"> <path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"></path><path d="M16 3.128a4 4 0 0 1 0 7.744"></path><path d="M22 21v-2a4 4 0 0 0-3-3.87"></path><circle cx="9" cy="7" r="4"></circle>  </svg></span> <span class="mega-text"> <span class="mega-title">Facilitation</span> <span class="mega-blurb">How teaching changes from stage to stage, and what trainers and facilitators do.</span> </span> </a>  </li><li> <a class="mega-link" href="/learning-journey"> <span class="mega-icon"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-map nav-icon" aria-hidden="true" focusable="false"> <path d="M14.106 5.553a2 2 0 0 0 1.788 0l3.659-1.83A1 1 0 0 1 21 4.619v12.764a1 1 0 0 1-.553.894l-4.553 2.277a2 2 0 0 1-1.788 0l-4.212-2.106a2 2 0 0 0-1.788 0l-3.659 1.83A1 1 0 0 1 3 19.381V6.618a1 1 0 0 1 .553-.894l4.553-2.277a2 2 0 0 1 1.788 0z"></path><path d="M15 5.764v15"></path><path d="M9 3.236v15"></path>  </svg></span> <span class="mega-text"> <span class="mega-title">The Changemaker Journey</span> <span class="mega-blurb">How a learner in the STEAM programmes moves from exploring to changing their community.</span> </span> </a>  </li><li> <a class="mega-link" href="/assessment"> <span class="mega-icon"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-circle-check lucide-check-circle-2 nav-icon" aria-hidden="true" focusable="false"> <circle cx="12" cy="12" r="10"></circle><path d="m16 9-5.5 5.5L8 12"></path>  </svg></span> <span class="mega-text"> <span class="mega-title">Assessment</span> <span class="mega-blurb">How work is judged: the finished piece, the learner’s explanation and their reflection, against one standard.</span> </span> </a>  </li> </ul> </div> </div> <a class="mega-feature" href="/programmes#scope"> <span class="mega-label">Start here</span> <strong>More than the STEAM programmes</strong> <span class="mega-feature-text">The STEAM programmes are one part of what the academy teaches. It also runs business and entrepreneurship, digital security and teacher training.</span> <span class="mega-more">Read more <span aria-hidden="true">&rarr;</span></span> </a> <div class="mega-foot"> <p>The STEAM programmes are one part of what DreamSpace Academy teaches. Most pages here describe the STEAM programmes.</p> <a href="/overview">Site overview <span aria-hidden="true">&rarr;</span></a> </div> </div> </div> </li><li class="mega-item"> <button class="mega-trigger" type="button" aria-expanded="false" aria-controls="mega-the-makerspace"> MakerSpace <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-chevron-down chev" aria-hidden="true" focusable="false"> <path d="m6 9 6 6 6-6"></path>  </svg> </button> <div class="mega-panel" id="mega-the-makerspace" hidden> <div class="container mega-inner"> <div class="mega-sections"> <div class="mega-section"> <span class="mega-label">The product</span> <ul class="mega-links"> <li> <a class="mega-link" href="/makerspace"> <span class="mega-icon"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-hammer nav-icon" aria-hidden="true" focusable="false"> <path d="m15 12-9.373 9.373a1 1 0 0 1-3.001-3L12 9"></path><path d="m18 15 4-4"></path><path d="m21.5 11.5-1.914-1.914A2 2 0 0 1 19 8.172v-.344a2 2 0 0 0-.586-1.414l-1.657-1.657A6 6 0 0 0 12.516 3H9l1.243 1.243A6 6 0 0 1 12 8.485V10l2 2h1.172a2 2 0 0 1 1.414.586L18.5 14.5"></path>  </svg></span> <span class="mega-text"> <span class="mega-title">The MakerSpace model</span> <span class="mega-blurb">A community makerspace designed so that other places can set up their own.</span> </span> </a>  </li><li> <a class="mega-link" href="/makerspace/replication"> <span class="mega-icon"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-copy nav-icon" aria-hidden="true" focusable="false"> <rect width="14" height="14" x="8" y="8" rx="2" ry="2"></rect><path d="M4 16c-1.1 0-2-.9-2-2V4c0-1.1.9-2 2-2h10c1.1 0 2 .9 2 2"></path>  </svg></span> <span class="mega-text"> <span class="mega-title">Replication</span> <span class="mega-blurb">How one working makerspace becomes many.</span> </span> </a>  </li> </ul> </div> </div> <a class="mega-feature" href="/makerspace#franchise"> <span class="mega-label">In short</span> <strong>Who provides what</strong> <span class="mega-feature-text">The local partner provides the space and pays for the makerspace. DreamSpace Academy provides the design, the quality standard and a licence to run its programmes.</span> <span class="mega-more">Read more <span aria-hidden="true">&rarr;</span></span> </a> <div class="mega-foot"> <p>A makerspace that local partners can set up and run as a social franchise, with a licence to run the academy’s programmes.</p> <a href="/overview">Site overview <span aria-hidden="true">&rarr;</span></a> </div> </div> </div> </li><li class="mega-item"> <button class="mega-trigger current" type="button" aria-expanded="false" aria-controls="mega-library"> Library <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-chevron-down chev" aria-hidden="true" focusable="false"> <path d="m6 9 6 6 6-6"></path>  </svg> </button> <div class="mega-panel" id="mega-library" hidden> <div class="container mega-inner"> <div class="mega-sections"> <div class="mega-section"> <span class="mega-label">Read</span> <ul class="mega-links"> <li> <a class="mega-link active" href="/articles" aria-current="page"> <span class="mega-icon"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-book-open nav-icon" aria-hidden="true" focusable="false"> <path d="M12 5v16"></path><path d="M20.001 19A2 2 0 0022 17V5a2 2 0 00-1.999-2L16 3.002A5 5 0 0012 5a5 5 0 00-4-2H4a2 2 0 00-2 2v12a2 2 0 001.999 2H8a5 5 0 014 2 5 5 0 014-2z"></path>  </svg></span> <span class="mega-text"> <span class="mega-title">Articles</span> <span class="mega-blurb">Short explanations, essays, and research reviews of the key terms the work uses.</span> </span> </a>  </li><li> <a class="mega-link" href="/faq"> <span class="mega-icon"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-message-circle nav-icon" aria-hidden="true" focusable="false"> <path d="M2.992 16.342a2 2 0 0 1 .094 1.167l-1.065 3.29a1 1 0 0 0 1.236 1.168l3.413-.998a2 2 0 0 1 1.099.092 10 10 0 1 0-4.777-4.719"></path>  </svg></span> <span class="mega-text"> <span class="mega-title">Questions</span> <span class="mega-blurb">Answers for parents, learners, schools, donors and partners.</span> </span> </a>  </li> </ul> </div><div class="mega-section"> <span class="mega-label">Look up</span> <ul class="mega-links"> <li> <a class="mega-link" href="/overview"> <span class="mega-icon"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-signpost nav-icon" aria-hidden="true" focusable="false"> <path d="M12 13v8"></path><path d="M12 3v3"></path><path d="M2.354 10.354a1.207 1.207 0 0 1 0-1.708l2.06-2.06A2 2 0 0 1 5.828 6h12.344a2 2 0 0 1 1.414.586l2.06 2.06a1.207 1.207 0 0 1 0 1.708l-2.06 2.06a2 2 0 0 1-1.414.586H5.828a2 2 0 0 1-1.414-.586z"></path>  </svg></span> <span class="mega-text"> <span class="mega-title">Site overview</span> <span class="mega-blurb">Every page on this site, with a line on what each one covers.</span> </span> </a>  </li><li> <a class="mega-link" href="/glossary"> <span class="mega-icon"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-book nav-icon" aria-hidden="true" focusable="false"> <path d="M4 19.5v-15A2.5 2.5 0 0 1 6.5 2H19a1 1 0 0 1 1 1v18a1 1 0 0 1-1 1H6.5a1 1 0 0 1 0-5H20"></path>  </svg></span> <span class="mega-text"> <span class="mega-title">Glossary</span> <span class="mega-blurb">Words this site uses in a particular sense, and what each one does not mean.</span> </span> </a>  </li><li> <a class="mega-link" href="/references"> <span class="mega-icon"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-quote nav-icon" aria-hidden="true" focusable="false"> <path d="M16 3a2 2 0 0 0-2 2v6a2 2 0 0 0 2 2 1 1 0 0 1 1 1v1a2 2 0 0 1-2 2 1 1 0 0 0-1 1v2a1 1 0 0 0 1 1 6 6 0 0 0 6-6V5a2 2 0 0 0-2-2z"></path><path d="M5 3a2 2 0 0 0-2 2v6a2 2 0 0 0 2 2 1 1 0 0 1 1 1v1a2 2 0 0 1-2 2 1 1 0 0 0-1 1v2a1 1 0 0 0 1 1 6 6 0 0 0 6-6V5a2 2 0 0 0-2-2z"></path>  </svg></span> <span class="mega-text"> <span class="mega-title">References</span> <span class="mega-blurb">The books, papers and statistics this site draws on.</span> </span> </a>  </li> </ul> </div><div class="mega-section"> <span class="mega-label">Records</span> <ul class="mega-links"> <li> <a class="mega-link" href="/activities"> <span class="mega-icon"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-calendar nav-icon" aria-hidden="true" focusable="false"> <path d="M8 2v3"></path><path d="M16 2v3"></path><rect x="3" y="3" width="18" height="18" rx="2"></rect><path d="M3 9h18"></path>  </svg></span> <span class="mega-text"> <span class="mega-title">Activities</span> <span class="mega-blurb">Every recorded activity, dated, one page each.</span> </span> </a>  </li> </ul> </div> </div> <a class="mega-feature" href="/activities"> <span class="mega-label">The record</span> <strong>Activities since 2018</strong> <span class="mega-feature-text">Every activity DreamSpace Academy has recorded, dated, with one page each.</span> <span class="mega-more">Read more <span aria-hidden="true">&rarr;</span></span> </a> <div class="mega-foot"> <p>Questions, activity records, articles, terms and the sources behind them.</p> <a href="/overview">Site overview <span aria-hidden="true">&rarr;</span></a> </div> </div> </div> </li> <li class="mega-item"> <a class="mega-plain" href="/contact">Contact</a> </li> </ul> </nav> <div class="head-tools"> <div class="search"> <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-search search-icon" aria-hidden="true" focusable="false"> <path d="m21 21-4.34-4.34"></path><circle cx="11" cy="11" r="8"></circle>  </svg> <input type="search" id="q" placeholder="Search" aria-label="Search this site" autocomplete="off" role="combobox" aria-expanded="false" aria-controls="results"> <div class="search-out" id="results" role="listbox" aria-label="Search results" hidden></div> </div> <button class="theme-btn" id="theme" type="button" aria-label="Switch between light and dark" title="Switch theme"> <svg xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-sun sun" aria-hidden="true" focusable="false"> <circle cx="12" cy="12" r="4"></circle><path d="M12 2v2"></path><path d="M12 20v2"></path><path d="m4.93 4.93 1.41 1.41"></path><path d="m17.66 17.66 1.41 1.41"></path><path d="M2 12h2"></path><path d="M20 12h2"></path><path d="m6.34 17.66-1.41 1.41"></path><path d="m19.07 4.93-1.41 1.41"></path>  </svg> <svg xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-moon moon" aria-hidden="true" focusable="false"> <path d="M20.985 12.486a9 9 0 1 1-9.473-9.472c.405-.022.617.46.402.803a6 6 0 0 0 8.268 8.268c.344-.215.825-.004.803.401"></path>  </svg> </button> </div> <details class="menu"> <summary>Menu</summary> <nav aria-label="Site sections, compact"> <a href="/">Home</a>  <span class="menu-label">The organisation</span> <a href="/organisation">About the organisation</a><a href="/organisation/why">Why this work exists</a><a href="/organisation/sustainability">How the work is funded</a><a href="/organisation/lifecycle">The DreamSpace Lifecycle</a><a href="/organisation/venture-pathway">Venture pathway</a><a href="/organisation/labs">Labs &amp; research</a><a href="/organisation/ventures">Ventures &amp; incubation</a><a href="/organisation/theory-of-change">Theory of change</a><a href="/organisation/impact">Impact &amp; the global goals</a><a href="/organisation/measurement">Measurement</a> <span class="menu-label">The education system</span> <a href="/programmes">Programmes and domains</a><a href="/enterprise">Innovation &amp; enterprise</a><a href="/empowerment-inside-school">Empowerment Inside School</a><a href="/approach">Learning by making</a><a href="/facilitation">Facilitation</a><a href="/learning-journey">The Changemaker Journey</a><a href="/assessment">Assessment</a> <span class="menu-label">The MakerSpace</span> <a href="/makerspace">The MakerSpace model</a><a href="/makerspace/replication">Replication</a> <span class="menu-label">Library</span> <a class="active" href="/articles">Articles</a><a href="/faq">Questions</a><a href="/overview">Site overview</a><a href="/glossary">Glossary</a><a href="/references">References</a><a href="/activities">Activities</a> <span class="menu-label">Get in touch</span> <a href="/contact">Contact</a> </nav> </details> </div> </header> <main id="main"> <header class="page-hero"> <div class="container"> <p class="eyebrow">Definitional review</p> <h1>Constructionism</h1> <p class="lead">A definitional review of Papert&#39;s constructionism, what it adds to Piaget&#39;s constructivism, why its author refused to define it, and whether maker education actually implements it.</p> <div class="meta">  <span>Updated 8 October 2026</span> </div> </div> </header> <div class="section"> <div class="container doc-layout"> <aside class="toc" aria-label="On this page"> <strong>On this page</strong> <a href="#abstract">Abstract</a><a href="#i-definition">Definition</a><a href="#ii-origins">Origins</a><a href="#iii-constructionism-and-constructivism">Constructionism and constructivism</a><a href="#iv-the-apparatus">The apparatus</a><a href="#v-adoption-in-maker-education">Adoption in maker education</a><a href="#vi-limitations">Limitations</a><a href="#references">References</a> </aside> <article class="prose"> <div class="notice"> <span class="notice-label">This is a research review, not a programme description</span> <p>
+It looks at how published research defines this term: where the sources agree, where they
+      differ and what is still argued over. It has its own numbered list of sources.
+<strong>It does not describe what DreamSpace Academy runs.</strong> The academy&rsquo;s own
+      programmes are described on the main pages of this site.
+</p> <p style="margin-bottom:0">
+On this site the word often has a <strong>narrower meaning than in everyday use</strong>.
+      The short definition, and what it leaves out, are in the glossary under
+<a href="/glossary#constructionism">Constructionism</a>. Check the review date, because
+      research on the term keeps changing.
+</p> </div> <div class="definition-body"> <p><em>A definitional review. Citations follow IEEE style; see References.</em></p>
+<h2 id="abstract">Abstract</h2>
+<p>Constructionism is Seymour Papert’s learning theory: it shares constructivism’s claim that knowledge
+is built rather than transmitted, and adds that this happens most felicitously when the learner is
+consciously engaged in constructing a <strong>public entity</strong>. It is the theory maker education most often
+names as its foundation. This article sets out Papert’s own formulation, its descent from and
+departure from Piaget, the apparatus that goes with it, the extent to which the maker literature
+adopts it, and, the question the literature keeps returning to, whether what maker education
+practises is constructionism or only its vocabulary.</p>
+<h2 id="i-definition">I. Definition</h2>
+<p>The canonical formulation is Papert’s own:</p>
+<blockquote>
+<p>Constructionism — the N word as opposed to the V word — shares constructivism’s connotation of
+learning as “building knowledge structures” irrespective of the circumstances of the learning. It
+then adds the idea that this happens especially felicitously in a context where the learner is
+consciously engaged in constructing a <strong>public entity, whether it’s a sand castle on the beach or a
+theory of the universe</strong> [1].</p>
+</blockquote>
+<p>The “simple catchy version” is <em>learning-by-making</em>, which Papert offers and immediately disowns as
+too thin to convey a sense of the idea “much richer and more multifaceted, and very much deeper in
+its implications” [1].</p>
+<p>He then refuses to define it further, on principle: <strong>“it would be particularly oxymoronic to convey
+the idea of constructionism through a definition since, after all, constructionism boils down to
+demanding that everything be understood by being constructed”</strong> [1]. The consequence is a
+peculiarity of the citation record, a large literature cites, as its definitional anchor, a chapter
+that declines to define its term.</p>
+<p>A textual note bears on that record: the passage above circulates in two wordings, the version
+reproduced here and in [3], and a variant rendering the shared claim as learning as “building
+knowledge structures” <strong>through progressive internalization of actions</strong>, attributed to the same page
+[2]. The discrepancy is small, but this is the sentence the field quotes.</p>
+<h2 id="ii-origins">II. Origins</h2>
+<p>Papert worked with Jean Piaget in Geneva in the late 1950s and early 1960s before joining MIT
+[2], [5]. In 1966 to 1968 he was part of the group that produced <strong>Logo</strong>, the first programming language
+designed for children, with the floor turtle designed by Wally Feurzeig [6], [7]. The polemical
+position was in place well before the name: writing with Cynthia Solomon in 1971, Papert asked why
+computers in schools should be confined to arithmetic drill, calling it strange that “computers in
+education” so often reduce to <strong>“using bright new objects to teach the same old stuff in thinly
+disguised versions of the same old way”</strong> [7].</p>
+<p>The term <em>constructionism</em> was coined in the mid-1980s in two contexts: as an alternative to
+computer use then dominated by tutorials and drill-and-practice, what Papert named
+<strong>instructionism</strong>, and in a 1986 proposal to the National Science Foundation titled
+<em>Constructionism: A New Opportunity for Elementary Science Education</em> [3]. It was set out at length
+in the 1991 Ablex volume <em>Constructionism</em>, whose first chapter is the source cited above [1].</p>
+<p>The chapter’s method is itself a claim about the theory’s maturity. Papert states the weak and strong
+scientific claims that could be made for constructionism, declines to adjudicate between them
+because they “presuppose that the concept of constructionism has reached a certain level of maturity
+and stability,” describes the work as being at an early <strong>“pre-paradigmatic” stage</strong>, and proceeds by
+telling stories [1]. Those stories are the field’s founding anecdotes: a seventh grade at Muzzey
+Junior High School doing Logo instead of mathematics for a year; the soap sculpture class down the
+corridor that produced the image of “soap-sculpture math”; children building a snake from LEGO/Logo
+at Project Headlight in Boston; and a fifth-grader in San Jose explaining his screen graphics and
+adding, with pride, <em>“I want to be a person who puts math and art together”</em> [1].</p>
+<h2 id="iii-constructionism-and-constructivism">III. Constructionism and constructivism</h2>
+<p>Both theories hold that knowledge is actively constructed by the learner in interaction with the
+world rather than transmitted, and both are developmental [2]. The difference is what
+constructionism adds, and what constructivism leaves out.</p>
+<p>The most-used account states three axes of difference: <strong>the role external aids play at higher levels
+of a person’s development; the types of external aids or media studied</strong> (Papert focuses on digital
+media and computer-based technologies); and, most importantly, <strong>the type of initiative the learner
+takes in the design of her own “objects to think with”</strong> [2].</p>
+<p>The complementary framing is temperamental. Piaget’s interest lay in the construction of <em>internal
+stability</em>: the assimilation pole, cognitive invariants, progressive detachment from concrete
+objects; Papert’s lay in the <em>dynamics of change</em> and the fragility of thought during transitional
+periods [2]. Where Piaget treats distancing and abstraction as the direction of cognitive growth,
+Papert draws attention to the fact that <strong>“diving into” situations rather than looking at them from a
+distance, that connectedness rather than separation, are powerful means of gaining understanding</strong>
+[2]. Piaget’s theory, on this reading, “tends to overlook the role of context, uses, and media, as
+well as the importance of individual preferences or styles”, and that is the gap constructionism
+fills [2].</p>
+<p>There is a third position the maker literature tends to omit. Vygotsky’s objection is that the
+construction of <em>scientific</em> concepts does not follow from interaction with objects alone: the
+learner reaches a point beyond which content cannot be assimilated without help from a more
+experienced person [3]. “Piagetian learning”, learning without being taught, can yield spontaneous
+concepts, but logical-mathematical and scientific concepts <strong>require mediation</strong>, which is to say
+they require an educator [3].</p>
+<h2 id="iv-the-apparatus">IV. The apparatus</h2>
+<p>Four commitments travel with the theory.</p>
+<p><strong>Instructionism is the foil, and the split is epistemological.</strong> Papert is explicit that
+constructionism versus instructionism looks like a disagreement about educational strategy but is in
+fact one that “goes beyond the acquisition of knowledge to touch on <strong>the nature of knowledge and the
+nature of knowing</strong>” [1]. He is equally explicit that this is not an argument that instruction is
+bad [1].</p>
+<p><strong>Objects to think with, and the microworld.</strong> Logo was designed so that the turtle could act as a
+transitional object mediating between abstract knowledge domains and the concrete activities of
+children, putting the child in contact with formal domains largely unmediated by teachers or
+curricula [4].</p>
+<p><strong>Epistemological pluralism.</strong> Observing children program, Papert and Sherry Turkle distinguished the
+planner from the <em>bricoleur</em>, the “painter-programmer” guided by the work as it proceeds rather than
+by a pre-established plan, and a second axis of “closeness to objects” [1]. The consequence is a
+revaluation of concrete knowledge against the traditional epistemology that “gives a privileged
+position to knowledge that is abstract, impersonal, and detached from the knower” [1].</p>
+<p><strong>The computer is not the point.</strong> Papert states that “computers figure so prominently only because
+they provide an especially wide range of excellent contexts for constructionist learning,” and cites
+a knot lab built from garden string as an equally valid case [1]. A contemporary reading inverts this
+without contradicting it: digital fabrication matters because a machine must be told what to do, so
+the learner’s actions are externalised as concepts and strategies that can be inspected, debugged
+and discussed, a <strong>“window into the mind” of the learner</strong> [3].</p>
+<h2 id="v-adoption-in-maker-education">V. Adoption in maker education</h2>
+<p>Constructionism is the theory maker education names most often. A systematic review of preK-12
+school-based makerspaces found that <strong>most interventions were grounded in constructionism</strong>,
+evidenced by their focus on designing, building and sharing physical artifacts, and that a majority
+of researchers frame makerspace activities as constructionist in nature [8]. A 2024 review of the
+field opens its theoretical section by identifying constructionism as one distinct orientation
+towards making [11]. Papert is routinely positioned as a founding figure of maker education, to the
+point that a widely used practitioner text titles a section <em>“Seymour Papert: Father of the Maker
+Movement”</em> [6]. The tool lineage is continuous: Logo, then Scratch under Mitchel Resnick, then the
+physical-computing and fabrication toolkits of the present [7]. Whether the practice follows the
+citation is a separate question, taken up below and in the review of maker education.</p>
+<h2 id="vi-limitations">VI. Limitations</h2>
+<p><strong>The theory was never given a testable definition, and its author said so.</strong> Papert set out a weak
+claim (constructionism suits some learners better than prevailing modes) and a strong claim (it is
+better for everyone than instructionism), declared both premature, and described the field as
+pre-paradigmatic [1]. That adjudication has not since been supplied. What is cited as a foundation
+was offered as an opening position.</p>
+<p><strong>The empirical warrant Papert offered was narrow.</strong> The single place he claims “statistically hard
+evidence” is Idit Harel’s dissertation, in which children who <em>made</em> educational software about
+fractions showed enhanced effectiveness of instruction in that same topic [1]: one study, one
+content area, one age group.</p>
+<p><strong>Transfer was contested from the beginning.</strong> Evaluation work in the 1980s found little sustained
+evidence for transferable learning from Logo use, even in schools philosophically and pedagogically
+matched to constructionist principles (“finding no transfer of problem-solving skills such as
+debugging, planning and procedural reasoning to non-programming problems”) and the field was warned
+at the time that expectations could not rest on “value claims and untestable claims of varied and
+unpredictable good effects supported by anecdotes.” Both findings are reported here <strong>as quoted in
+[4]</strong>; the 1984 and 1987 originals were not read for this review. Thirty years on, the same account
+holds that the broader learning benefits of making beyond the artifact itself “remain largely
+unsubstantiated” [4].</p>
+<p><strong>Domain specificity does not survive the transplant.</strong> Logo’s hardware and software were designed so
+that a visual microworld was intimately associated with particular formal conceptual domains. These
+forms of learning “are not necessarily transferable to technologies such as 3D printing,
+microcomputing or e-textiles,” and, more pointedly, <strong>“recent maker technologies have not been
+designed with constructionist learning outcomes in mind”</strong> [4]. What maker education inherits is
+closer to the design-oriented iterations of the 1990s and 2000s, which lose “much of the
+Piagetian-inspired domain-specific learning gains that Papert was striving to support” [4].</p>
+<p><strong>Constructing an object is not constructing a concept, and mediation is under-specified.</strong> Piaget’s
+distinction between success and understanding applies directly: a learner can build a working
+artifact by trial and error without grasping the concepts involved, and “the learner’s having
+produced something is not enough to ensure that she has constructed knowledge” [3]. The problem is
+worsening, since with modern kits and online repositories <strong>“it is arguably easy to produce objects
+that are relatively sophisticated without any deep understanding of how they work”</strong> [9].
+Constructionism’s own texts say little about the educator’s role beyond removing obstruction; the
+corrective the maker literature has had to import is Vygotskian, teachers acting as mediators,
+challenging learners and helping them conceptualise what they did [3].</p>
+<p><strong>The name is drifting from the practice.</strong> The blunt statement of this is that in contemporary
+education “theories (such as constructionism) are renamed, essential ideas are systematically
+trivialized” [10]. That is the risk a definitional review of this term exists to make visible: the
+citation is near-universal in maker education, and the mechanism it names, knowledge construction
+through the building of a public artifact, is, in the same literature, the thing least often
+demonstrated.</p>
+<h2 id="references">References</h2>
+<p>[1] S. Papert, “Situating Constructionism,” in <em>Constructionism</em>, I. Harel and S. Papert, Eds. Norwood, NJ,
+USA: Ablex Publishing, 1991, pp. 1-11.</p>
+<p>[2] E. Ackermann, “Piaget’s Constructivism, Papert’s Constructionism: What’s the difference?” <em>Future of
+Learning Group Publication</em>, vol. 5, no. 3, p. 438, 2001.</p>
+<p>[3] J. A. Valente and P. Blikstein, “Maker Education: Where Is the Knowledge Construction?” <em>Constructivist
+Foundations</em>, vol. 14, no. 3, pp. 252-262, 2019.</p>
+<p>[4] A.-L. Godhe, P. Lilja, and N. Selwyn, “Making sense of making: critical issues in the integration of
+maker education into schools,” <em>Technology, Pedagogy and Education</em>, 2019, doi:
+10.1080/1475939X.2019.1610040.</p>
+<p>[5] P. Blikstein, “Maker Movement in Education: History and Prospects,” in <em>Handbook of Technology
+Education</em>, M. J. de Vries, Ed. Cham, Switzerland: Springer, 2018, pp. 419-437, doi:
+10.1007/978-3-319-44687-5_33.</p>
+<p>[6] S. Weiner, M. Lande, and S. S. Jordan, “What Have We ‘Learned’ from Maker Education Research? A Learning
+Sciences-Based Review of ASEE Literature on the Maker Movement,” in <em>Proc. ASEE Annual Conference &#x26;
+Exposition</em>, Paper ID #23963, 2018.</p>
+<p>[7] G. Bull, J. Rutter, J. Garofalo, and M. Littman, “Maker Education: A Historical Perspective,” <em>Routledge
+Encyclopedia of Education</em>, 2022, doi: 10.4324/9781138609877-REE82-1.</p>
+<p>[8] R. Rouse and A. Gillespie Rouse, “Taking the maker movement to school: A systematic review of preK-12
+school-based makerspace research,” <em>Educational Research Review</em>, vol. 35, art. 100413, 2022, doi:
+10.1016/j.edurev.2021.100413.</p>
+<p>[9] P. Blikstein and J. A. Valente, “Professional Development and Policymaking in Maker Education: Old
+Dilemmas and Familiar Risks,” <em>Constructivist Foundations</em>, vol. 14, no. 3, pp. 268-271, 2019.</p>
+<p>[10] P. Blikstein, J. A. Valente, and É. Meireles de Moura, “Maker Education: Where is the Curriculum?”
+<em>Revista e-Curriculum</em>, vol. 18, no. 2, pp. 523-544, 2020, doi: 10.23925/1809-3876.2020v18i2p523-544.</p>
+<p>[11] A. Ioannou and B. E. Gravel, “Trends, tensions, and futures of maker education research: a 2025 vision
+for STEM+ disciplinary and transdisciplinary spaces for learning through making,” <em>Educational Technology
+Research and Development</em>, vol. 72, pp. 1-14, 2024, doi: 10.1007/s11423-023-10334-w.</p> </div> <p class="term-foot" style="margin-top:40px"> <a href="/articles#definitional-reviews">All definitional reviews</a> <span class="term-sep">,</span> <a href="/glossary#constructionism">The glossary entry</a> </p> </article> </div> </div> </main> <footer class="site-foot"> <div class="container"> <div class="foot-grid"> <div> <a class="foot-logo" href="/" aria-label="DreamSpace Academy, home"> <img src="/logo-white.svg" alt="DreamSpace Academy" width="170" height="60"> </a> <p class="foot-tagline">Co-Creating The Dreams</p> <p>
+A non-profit social enterprise that co-creates an ecosystem to tackle local
+              challenges through education, innovation and entrepreneurship.
+</p> </div> <div> <h2>The organisation</h2> <ul class="foot-links"> <li><a href="/organisation">About the organisation</a></li> <li><a href="/organisation/why">Why this work exists</a></li> <li><a href="/organisation/theory-of-change">Theory of change</a></li> <li><a href="/organisation/lifecycle">The DreamSpace Lifecycle</a></li> <li><a href="/organisation/impact">Impact &amp; the global goals</a></li> </ul> </div> <div> <h2>Education system &amp; MakerSpace</h2> <ul class="foot-links"> <li><a href="/programmes">Programmes and domains</a></li> <li><a href="/approach">Learning by making</a></li> <li><a href="/learning-journey">The Changemaker Journey</a></li> <li><a href="/assessment">Assessment</a></li> <li><a href="/makerspace">The MakerSpace model</a></li> <li><a href="/makerspace/replication">Replication</a></li> </ul> </div> </div> <div class="update">
+Last updated <time datetime="2026-10-29">29 October 2026</time>.
+<a href="/contact">Contact</a> </div> </div> </footer> <script>
+      (function () {
+        var root = document.documentElement;
+
+        // Megamenu: click toggles a panel, hover opens it on a pointer that
+        // can hover, Escape and an outside click close it.
+        var triggers = Array.prototype.slice.call(document.querySelectorAll('.mega-trigger'));
+        var hoverable = window.matchMedia('(hover: hover) and (pointer: fine)');
+        var closeTimer = null;
+        function setOpen(btn, open) {
+          var panel = document.getElementById(btn.getAttribute('aria-controls'));
+          btn.setAttribute('aria-expanded', open ? 'true' : 'false');
+          panel.hidden = !open;
+        }
+        function closeAll(except) {
+          triggers.forEach(function (b) { if (b !== except) setOpen(b, false); });
+        }
+        triggers.forEach(function (btn) {
+          var item = btn.parentNode;
+          btn.addEventListener('click', function () {
+            var open = btn.getAttribute('aria-expanded') !== 'true';
+            closeAll(btn);
+            setOpen(btn, open);
+          });
+          item.addEventListener('mouseenter', function () {
+            if (!hoverable.matches) return;
+            clearTimeout(closeTimer);
+            closeAll(btn);
+            setOpen(btn, true);
+          });
+          item.addEventListener('mouseleave', function () {
+            if (!hoverable.matches) return;
+            closeTimer = setTimeout(function () { setOpen(btn, false); }, 180);
+          });
+          item.addEventListener('keydown', function (e) {
+            if (e.key === 'Escape' && btn.getAttribute('aria-expanded') === 'true') {
+              setOpen(btn, false);
+              btn.focus();
+            }
+          });
+          item.addEventListener('focusout', function (e) {
+            if (!item.contains(e.relatedTarget)) setOpen(btn, false);
+          });
+        });
+        document.addEventListener('click', function (e) {
+          if (!e.target.closest('.mega-item')) closeAll();
+        });
+        var btn = document.getElementById('theme');
+        var prefersDark = window.matchMedia('(prefers-color-scheme: dark)');
+        btn.addEventListener('click', function () {
+          var current = root.dataset.theme || (prefersDark.matches ? 'dark' : 'light');
+          var next = current === 'dark' ? 'light' : 'dark';
+          root.dataset.theme = next;
+          try { localStorage.setItem('theme', next); } catch (e) {}
+        });
+
+        var input = document.getElementById('q');
+        var out = document.getElementById('results');
+        var index = null;
+        var loading = false;
+
+        function load() {
+          if (index || loading) return;
+          loading = true;
+          fetch('/search.json')
+            .then(function (r) { return r.json(); })
+            .then(function (d) { index = d; render(); })
+            .catch(function () { loading = false; });
+        }
+
+        function score(entry, terms) {
+          var title = entry.t.toLowerCase();
+          var body = (entry.d || '').toLowerCase();
+          var total = 0;
+          for (var i = 0; i < terms.length; i++) {
+            var at = title.indexOf(terms[i]);
+            var ab = body.indexOf(terms[i]);
+            if (at === -1 && ab === -1) return 0;
+            if (at === 0) total += 12;
+            else if (at > -1) total += 6;
+            if (ab > -1) total += 1;
+          }
+          return total;
+        }
+
+        function render() {
+          var raw = input.value.trim().toLowerCase();
+          if (raw.length < 2) { close(); return; }
+          if (!index) { load(); return; }
+          var terms = raw.split(/\s+/);
+          var hits = [];
+          for (var i = 0; i < index.length; i++) {
+            var s = score(index[i], terms);
+            if (s > 0) hits.push([s, index[i]]);
+          }
+          hits.sort(function (a, b) { return b[0] - a[0]; });
+          hits = hits.slice(0, 10);
+
+          if (!hits.length) {
+            out.innerHTML = '<p class="search-none">Nothing matches &ldquo;' + raw.replace(/[<>&]/g, '') + '&rdquo;.</p>';
+          } else {
+            var html = '';
+            for (var j = 0; j < hits.length; j++) {
+              var e = hits[j][1];
+              html += '<a href="' + e.h + '"><em>' + e.k + '</em><b>' + e.t + '</b>' +
+                      (e.d ? '<span>' + e.d.slice(0, 96) + (e.d.length > 96 ? '…' : '') + '</span>' : '') + '</a>';
+            }
+            out.innerHTML = html;
+          }
+          out.hidden = false;
+          input.setAttribute('aria-expanded', 'true');
+        }
+
+        function close() {
+          out.hidden = true;
+          input.setAttribute('aria-expanded', 'false');
+        }
+
+        input.addEventListener('focus', load);
+        input.addEventListener('input', render);
+        input.addEventListener('keydown', function (e) {
+          if (e.key === 'Escape') { input.value = ''; close(); input.blur(); }
+          if (e.key === 'ArrowDown' && !out.hidden) {
+            var first = out.querySelector('a');
+            if (first) { e.preventDefault(); first.focus(); }
+          }
+        });
+        document.addEventListener('click', function (e) {
+          if (!e.target.closest('.search')) close();
+        });
+        document.addEventListener('keydown', function (e) {
+          if (e.key === '/' && document.activeElement !== input && !/^(INPUT|TEXTAREA)$/.test(document.activeElement.tagName)) {
+            e.preventDefault();
+            input.focus();
+          }
+        });
+      })();
+    </script> <script src="https://feedback.dreamspace.academy/v1.js" data-key="pk_live_e5970e12" data-api="https://feedback.dreamspace.academy" defer></script> </body> </html>
